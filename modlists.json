@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Cyberpunk THING",
+    "description": "Cyberpunk 2077 is not a hard game. We decided to change that. 
+    
+    The aim is to make Cyberpunk the game it was always intended to be. More immersive, more realistic. A bullet's a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.",
+    "author": "z9r",
+    "maintainers": [
+      "z9r",
+      "https://github.com/z9er/CyberpunkTHING"
+    ],
+    "game": "Cyberpunk2077",
+    "official": false,
+    "tags": [
+      "Immersive"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/Cyberpunk_Thing.webp",
+      "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/README.md",
+      "download": "https://authored-files.wabbajack.org/MO2077.wabbajack_0fd888fa-7b84-4e74-9faa-540391025c17",
+      "machineURL": "Cyberpunk THING",
+      "discordURL": "https://discord.gg/eJdMQKnQVt"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "pW0jcvKTTRk=",
+      "Size": 5007351,
+      "NumberOfArchives": 111,
+      "SizeOfArchives": 417894092,
+      "NumberOfInstalledFiles": 2429,
+      "SizeOfInstalledFiles": 637429357
+    },
+    "version": "2.3"
+  }
+]
