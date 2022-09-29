@@ -158,9 +158,6 @@ Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
 ### Starting the Game
 
-**If** you want to use Appearance Menu Mod, I have included it to prove it functions with this setup. Simply open the "Game Folder Files" folder in your modlist install location, and copy the archive files into /Cyberpunk 2077/archive/pc/mod. 
-If you do not wish to use this mod or test it, you can ignore these files. 
-
 Head over to the installation folder and locate an executable named
 ModOrganizer.exe and launch it. Once its launched there will be a dropdown box
 on the top right and a big run button next to it.
