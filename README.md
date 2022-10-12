@@ -156,6 +156,8 @@ Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
 ## Post-Installation
 
+If you want to use Simple Flashlight, I have included it to prove it functions with this setup. Simply open the "Game Folder Files" folder in your modlist install location, and copy the archive files into /Cyberpunk 2077/archive/pc/mod. If you do not wish to use this mod or test it, you can ignore these files.
+
 ### Starting the Game
 
 Head over to the installation folder and locate an executable named
