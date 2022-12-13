@@ -2,7 +2,7 @@
 
 
 
-# What's in the modlist and why
+### What's in the modlist and why
 
 
 - [Core Utilities](#core-utilities)
@@ -17,7 +17,7 @@
 - [Thank You's](#thank-yous)
 
 
-# Core Utilities
+## Core Utilities
 
 [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) - Scripting framework, required by many mods
 
