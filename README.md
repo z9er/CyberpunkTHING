@@ -19,11 +19,11 @@
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
 
-[![Features List](https://i.imgur.com/3ffXZ8g.png)](https://www.nexusmods.com/cyberpunk2077/articles/362 "Expanded Feature List")
+[![Features List](https://i.imgur.com/3ffXZ8g.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
 
 [Featureimage]: https://i.imgur.com/3ffXZ8g.png
 
-[A complete list of ALL of the features in the collection can be found in this article here](https://www.nexusmods.com/cyberpunk2077/articles/362)
+[A complete list of ALL of the features in the collection can be found in this article here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 # MO2 for Cyberpunk? 
 It works. Really*.
