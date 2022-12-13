@@ -11,9 +11,11 @@
 - [Enemy NPC Changes](#enemy-npc-changes)
 - [NPC Interactions](#npc-interactions)
 - [Vehicles and Driving](#vehicles-and-driving)
-- [Bug Fixes & Quality of Life](#bug-fixes-&-quality-of-life)
+- [Bug Fixes and Quality of Life](#bug-fixes-and-quality-of-life)
 - [Aesthetics](#aesthetics)
 
+&#10240;
+&#10240;
 
 ## Core Utilities
 
@@ -33,6 +35,9 @@
 
 [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) - Allows an ingame mods redscript mods
 
+&#10240;
+&#10240;
+
 ## UI Changes
 
 [(enemyhealthbars) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4389) - Removes the general enemy healthbar, does not remove the dynamic healthbar that appears when you ADS a silenced weapon at an enemy from stealth
@@ -41,7 +46,8 @@
 
 [(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395) - Removes the pop ups that show when you move from area to area
 
-
+&#10240;
+&#10240;
 
 ## Gameplay Changes
 In terms of accounts you will need:
@@ -56,7 +62,7 @@ test
 ## Vehicles and Driving
 Skyrim modlists need a large amount of memory purely because of the amount of *stuff* in them - especially modlists on the larger side or with a lot going on, like Tahrovin. For the best experience, you should setup a pagefile of at least **20GB** - yes, even if you have a million GB of RAM. To setup your pagfile;
 
-## Bug Fixes & Quality of Life
+## Bug Fixes and Quality of Life
 Driver defaults from NVidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified Skyrim installs. Increasing the shader cache size is done via the NVidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with). 
 
 ## Aesthetics
