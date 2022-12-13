@@ -56,6 +56,20 @@
 
 [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400) - Adds in some options to filter saves by different Lifepath instead of seeing all saves
 
+[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776) - Lets you zoom onto your character on the inventory screen
+
+[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592) - Configurable hud visibility, customized to only show minimap and job tracker when holding right click without a weapon out, shows minimap when in vehicles. **Has Mod Menus: "LHUD" and "LHUD ADDONS"** 
+
+[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727) - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
+
+[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521) - Allows for you to add names to save games
+
+[Only Smartweapon Crosshairs](https://www.nexusmods.com/cyberpunk2077/mods/5434) - Enables crosshair for certain weapons and not others, configurable ingame. **Has Mod Menu: "SMALL MODS"**
+
+[Purify The UI](https://www.nexusmods.com/cyberpunk2077/mods/2648) - Disables the 2D repeated UI effect and 3D effect that adds blurriness
+
+[Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941) - Displays the actual names for vendors’ world map icons rather than generic labels
+
 &#10240;
 &#10240;
 
@@ -79,6 +93,30 @@
 
 [Iconic Sasquatch's Hammer](https://www.nexusmods.com/cyberpunk2077/mods/4216) - Makes Sasquatch’s Hammer into an iconic weapon with a unique effect
 
+[Improved Slide](https://www.nexusmods.com/cyberpunk2077/mods/5533) - Enables side sliding and has much more flexibility on the slide's trajectory
+
+[Item Level Scaled Upgrade Cost](https://www.nexusmods.com/cyberpunk2077/mods/2873) - Changes the upgrade cost of items so upgrading items costs are scaled by item level instead of the number of times upgraded
+
+[Leg Cyberware Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4336) - Adds additional Leg Cyberware options to balance, all modular and configurable. **Has Mod Menu: "LEGS"**
+
+[Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712) - Levels NPCs under your level to your level and limits how high above your level higher leveled NPCs can be. Adds NPC scaling and damage values scaling for NPCs and player. **Has Mod Menu: "RMK MODS"**
+
+[Lynx Paws Reimagined](https://www.nexusmods.com/cyberpunk2077/mods/4479) - Adds additional Lynx Paws variants
+
+[More Fluid Parkour](https://www.nexusmods.com/cyberpunk2077/mods/4039) - Animations for parkour flow better
+
+[Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) - Adds a purchasable Nano Drone for reconnaissance and hacking. **Has CET Inputs. Has CET Hotkey**
+
+[No Deflect Slomo](https://www.nexusmods.com/cyberpunk2077/mods/4899) - Removes the time slowdown during parry and riposte
+
+[Non-lethal Blunt Weapons](https://www.nexusmods.com/cyberpunk2077/mods/3195) - Makes blunt weapons and fists non-lethal
+
+[Overwatch wall penetration fix](https://www.nexusmods.com/cyberpunk2077/mods/4289) - Restores the ability for the Overwatch rifle to be able to shoot through walls
+
+[Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997) - Fixes ranged damage decreasing when attacks per second increases
+
+[Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250) - Adds missing crafting specs back into the game
+
 &#10240;
 &#10240;
 
@@ -101,6 +139,16 @@
 
 [Apartment Cats - Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379) - Adds a cat to the Northside motel apartment
 
+[Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508) - Adds a few different states for Judy to be in when you visit her apartment once romanced
+
+[Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990) - Adds a few different states for Kerry to be in when you visit him. Adds options to listen to him play guitar
+
+[Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) - Adds a number of bar drinking spots to the game where V can drink alone or with friends
+
+[Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626) - Panam now eats, drinks, showers, sleeps and uses her phone around the Aldecaldos' camp
+
+[Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198) - Gives you the ability to pet Nibbles in V's apartment 
+
 &#10240;
 &#10240;
 
@@ -115,6 +163,8 @@
 [Extended and Improved Headlights](https://www.nexusmods.com/cyberpunk2077/mods/5013) - Lets you tweak the range, brightness, and durability of vehicle headlights. **Has Mod Menu: "IMPROVED HEADLIGHTS"**
 
 [Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225) - Adds controls for turning headlights on/off, adjusting headlight brightness and opening or closing windows. Has CET Hotkeys. **Has Mod Menu: "EXTRA VEHICLE CONTROLS"**
+
+[No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169) - Disables the auto centering camera while driving in third person or first person
 
 &#10240;
 &#10240;
@@ -151,6 +201,24 @@
 
 [Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115) - Allows using vanilla timeskip widget in real time instead of with a black screen by pressing the **"o"** key
 
+[Improved Minimap Zoom](https://www.nexusmods.com/cyberpunk2077/mods/2959) - Dynamic zoom for the minimap while in a vehicle, as well as options for different zoom while on foot. **Has Mod Menu: "IZOOM"**
+
+[Instant Wardrobe](https://www.nexusmods.com/cyberpunk2077/mods/6550) - The wardrobe now opens instantly without a loading bar
+
+[Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725) - Allows marking any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors **"Sell Junk"** option
+
+[No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533) - Disables the game intro videos
+
+[No Walk Auto Disable](https://www.nexusmods.com/cyberpunk2077/mods/3966) - Removes the game’s attempts to disable the walk toggle
+
+[No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470) - Doesn’t automatically uncrouch when melee attacking in stealth for 3 seconds after entering combat
+
+[Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722) - Fixes bugs with optical camo
+
+[Proximity Mine Audio Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/6743) - Fixes the bug where some proximity mines don't emit a sound when you approach them and instead explode without warning
+
+[Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113) - Increases time spans between sickness effects applied to V by The Relic
+
 &#10240;
 &#10240;
 
@@ -161,3 +229,7 @@
 [Blade runner 2077 Better Finer Rain](https://www.nexusmods.com/cyberpunk2077/mods/2001) - Changes the rain to look more realistic
 
 [Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508) - Reuses melee weapon finishers as stealth takedowns without having to grapple first
+
+[Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213) - Makes several of the arcade machines ingame usable
+
+[Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858) - Better enemy ragdolls
