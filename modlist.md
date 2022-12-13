@@ -1,14 +1,14 @@
-![Cyberpunk THING logo](https://i.imgur.com/OehZMjj.png)
+[![Discord Link](https://i.imgur.com/OehZMjj.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
 &#10240;
 
 ### What's in the modlist and why
 
 
-- [Core Utilities](#core-utilities)
-- [UI Changes](#ui-changes)
-- [Gameplay Changes](#gameplay-changes)
-- [Enemy NPC Changes](#enemy-npc-changes)
+- [Utilities](#utilities)
+- [UI](#ui)
+- [Gameplay](#gameplay)
+- [Enemies and Difficulty](#enemies-and-difficulty)
 - [NPC Interactions](#npc-interactions)
 - [Vehicles and Driving](#vehicles-and-driving)
 - [Quality of Life](#quality-of-life)
@@ -18,7 +18,7 @@
 &#10240;
 &#10240;
 
-## Core Utilities
+## Utilities
 
 [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) - Scripting framework, required by many mods
 
@@ -39,7 +39,7 @@
 &#10240;
 &#10240;
 
-## UI Changes
+## UI
 
 [(enemyhealthbars) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4389) - Removes the general enemy healthbar, does not remove the dynamic healthbar that appears when you ADS a silenced weapon at an enemy from stealth
 
@@ -82,7 +82,7 @@
 &#10240;
 &#10240;
 
-## Gameplay Changes
+## Gameplay
 
 [Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) - Adds walljumping/wallbouncing and allows the player to control the character's movement direction midair while jumping and double jumping (in Cyberpunk THING, these changes are exclusive to the Maneuvering System cyberware available at the Arroyo ripperdoc)
 
@@ -153,7 +153,7 @@
 &#10240;
 &#10240;
 
-## Enemy NPC Changes
+## Enemies and Difficulty
 
 [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468) - Tired of overheat? Enemy Netrunners will now use hacks against you from contagion to reboot optics to cripple movement, all the way to Imminent System Failure. **Has Mod Menu: "RMK MODS"**
 
