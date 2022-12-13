@@ -11,7 +11,8 @@
 - [Enemy NPC Changes](#enemy-npc-changes)
 - [NPC Interactions](#npc-interactions)
 - [Vehicles and Driving](#vehicles-and-driving)
-- [Bug Fixes and Quality of Life](#bug-fixes-and-quality-of-life)
+- [Quality of Life](#quality-of-life)
+- [Bug Fixes](#bug-fixes)
 - [Aesthetics](#aesthetics)
 
 &#10240;
@@ -213,15 +214,11 @@
 &#10240;
 &#10240;
 
-## Bug Fixes and Quality of Life
+## Quality of Life
 
 [Adaptive Sliders](https://www.nexusmods.com/cyberpunk2077/mods/5075) - Sets items sliders to max by default for Drop, Stash and Sell actions
 
 [Annoy Me No More](https://www.nexusmods.com/cyberpunk2077/mods/1512) - Disables the Mantis blades finisher animation, able to skip forward through call dialogue
-
-[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834) - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
-
-[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310) - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
 
 [Better Kyubi Sights](https://www.nexusmods.com/cyberpunk2077/mods/5968) - Cleans up the unnecessary dots from the Kyubi sight
 
@@ -257,27 +254,36 @@
 
 [No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470) - Doesn’t automatically uncrouch when melee attacking in stealth for 3 seconds after entering combat
 
-[Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722) - Fixes bugs with optical camo
-
-[Proximity Mine Audio Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/6743) - Fixes the bug where some proximity mines don't emit a sound when you approach them and instead explode without warning
-
 [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113) - Increases time spans between sickness effects applied to V by The Relic
 
 [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) - Adds a flashlight to the game, toggled by tapping **“T”**. **Has CET hotkey. Has Mod Menu: "FLASHLIGHT"**
 
-[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519) - Collection of general fixes for Cyberpunk
-
 [Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) - Extends Scrapper perk logic to auto disassemble clothes, weapons, mods, grenades and healers depending on item quality, configurable. **Has Mod Menu: "SMARTER SCRAPPER"**
 
 [Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194) - The Target Analysis eye mod only applies to smart weapons
-
-[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316) - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
 
 [Stop spammers](https://www.nexusmods.com/cyberpunk2077/mods/3801) - Prevents the car deal and apartment deal message bombardment
 
 [Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282) - Allows you to unequip cyberware
 
 [Wardrobe Extras](https://www.nexusmods.com/cyberpunk2077/mods/5253) - Increases the amount of available wardrobe slots from 6 to 14 and adds an option to hide items from available clothes list
+
+&#10240;
+&#10240;
+
+## Bug Fixes
+
+[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834) - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
+
+[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310) - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
+
+[Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722) - Fixes bugs with optical camo
+
+[Proximity Mine Audio Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/6743) - Fixes the bug where some proximity mines don't emit a sound when you approach them and instead explode without warning
+
+[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519) - Collection of general fixes for Cyberpunk
+
+[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316) - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
 
 &#10240;
 &#10240;
