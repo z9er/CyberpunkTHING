@@ -53,7 +53,7 @@
 
 [Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535) - Removes the crouch vignette effect (CET option is not consistent, this mod is)
 
-[Extra Clean Hacking Screen](https://www.nexusmods.com/cyberpunk2077/mods/4381) - Removes additional extraneous features from the hacking screen, as an addendum to “Spicy Clean Hack Screen”
+[Extra Clean Hacking Screen](https://www.nexusmods.com/cyberpunk2077/mods/4381) - Removes additional extraneous features from the hacking screen, as an addendum to **“Spicy Clean Hack Screen”**
 
 [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400) - Adds in some options to filter saves by different Lifepath instead of seeing all saves
 
@@ -90,7 +90,7 @@
 
 [Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661) - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
 
-[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928) - Allows the player to craft during combat, added for the tie in with Drone Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default "K"
+[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928) - Allows the player to craft during combat, added for the tie in with Drone Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
 
 [Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886) - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
 
@@ -138,7 +138,7 @@
 
 [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) - Adds a fully useable stock market system and news system that dynamically reacts to quests and player action
 
-[System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158) - Allows the ability to equip two operating systems, techdeck/cyberdeck and sandevistan/berserk
+[System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158) - Allows the ability to equip two operating systems, techdeck/cyberdeck and sandevistan/berserk. **Has mod menu: "SYSTEM-EX"**
 
 [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) - Differentiates the existing sandevistan brands to be unique, adds additional sandevistan brands, allows enemies with sandevistan/kerenzikov to engage you while you’re in time dilation, adds time dilation to cars via a sandevistan attachment, changes scanner for quickhacking. **Has CET Hotkeys. Has Mod Menu: "TDO"**
 
@@ -199,7 +199,7 @@
 
 [Extended and Improved Headlights](https://www.nexusmods.com/cyberpunk2077/mods/5013) - Lets you tweak the range, brightness, and durability of vehicle headlights. **Has Mod Menu: "IMPROVED HEADLIGHTS"**
 
-[Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225) - Adds controls for turning headlights on/off, adjusting headlight brightness and opening or closing windows. Has CET Hotkeys. **Has Mod Menu: "EXTRA VEHICLE CONTROLS"**
+[Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225) - Adds controls for turning headlights on/off, adjusting headlight brightness and opening or closing windows. **Has CET Hotkeys. Has Mod Menu: "EXTRA VEHICLE CONTROLS"**
 
 [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169) - Disables the auto centering camera while driving in third person or first person
 
@@ -224,17 +224,17 @@
 
 [Crafting Quality of Life](https://www.nexusmods.com/cyberpunk2077/mods/4453) - Allows recrafting iconics, allows crafting mods at lower quality levels, fixes some bugs regarding crafting discounts
 
-[Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) - Adds customizable hotkeys that you can bind most abilities or items to as needed. Has CET Inputs. Mod Menu Key and CET Input must match. **Has Mod Menu: "QSLOTS"**
+[Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) - Adds customizable hotkeys that you can bind most abilities or items to as needed. **Has CET Inputs. Mod Menu Key and CET Input must match. Has Mod Menu: "QSLOTS"**
 
 [DLC and Iconic Modifiers](https://www.nexusmods.com/cyberpunk2077/mods/5171) - Adds iconic rarity to more unique items and allows some quest specific clothing to be upgraded
 
 [Disable Auto Switching for Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/5620) - Disables auto switching for thrown knives, only switches between knives when they are not on cooldown
 
-[Disassemble As Looting Choice](https://www.nexusmods.com/cyberpunk2077/mods/4648) - Adds a disassemble option when looting, bound to "F3" by default. **Has Mod Menu: "D.A.L.C"**
+[Disassemble As Looting Choice](https://www.nexusmods.com/cyberpunk2077/mods/4648) - Adds a disassemble option when looting, bound to **"F3"** by default. **Has Mod Menu: "D.A.L.C"**
 
 [Engineer Weapon Exp](https://www.nexusmods.com/cyberpunk2077/mods/5104) - Gives engineer experience for every shot made with smart gun or fully loaded tech gun without piercing through walls and doubles it if the shot pierces a surface before hitting an enemy
 
-[Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378) - Allows you to choose the damage type when crafting weapons, choose the appearance of the crafted weapon, and even give it a name if it suits your fancy, if you have the right perks
+[Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378) - Allows you to choose the damage type when crafting weapons, choose the appearance of the crafted weapon, and even give it a name if it suits your fancy, if you have the right perks. **Has mod menu: "ECRAFT"**
 
 [Hide Read Shards](https://www.nexusmods.com/cyberpunk2077/mods/2820) - Removes world placed shards that you have already read
 
@@ -294,7 +294,7 @@
 
 [Blade runner 2077 Better Finer Rain](https://www.nexusmods.com/cyberpunk2077/mods/2001) - Changes the rain to look more realistic
 
-[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508) - Reuses melee weapon finishers as stealth takedowns without having to grapple first
+[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508) - Reuses melee weapon finishers as stealth takedowns without having to grapple first. **Has mod menu: "Kvalyr Mods"**
 
 [Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213) - Makes several of the arcade machines ingame usable
 
