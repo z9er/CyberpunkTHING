@@ -1,6 +1,6 @@
 ![Cyberpunk THING logo](https://i.imgur.com/OehZMjj.png)
 
-
+&#10240;
 
 ### What's in the modlist and why
 
@@ -52,18 +52,33 @@
 ## Gameplay Changes
 In terms of accounts you will need:
 
+&#10240;
+&#10240;
+
 ## Enemy NPC Changes
 Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-tahrovin).
+
+&#10240;
+&#10240;
 
 ## NPC Interactions
 
 test
 
+&#10240;
+&#10240;
+
 ## Vehicles and Driving
 Skyrim modlists need a large amount of memory purely because of the amount of *stuff* in them - especially modlists on the larger side or with a lot going on, like Tahrovin. For the best experience, you should setup a pagefile of at least **20GB** - yes, even if you have a million GB of RAM. To setup your pagfile;
 
+&#10240;
+&#10240;
+
 ## Bug Fixes and Quality of Life
 Driver defaults from NVidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified Skyrim installs. Increasing the shader cache size is done via the NVidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with). 
+
+&#10240;
+&#10240;
 
 ## Aesthetics
 In both global and game settings within Steam and Oculus settings you must ensure the following is set:
