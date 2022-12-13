@@ -70,6 +70,14 @@
 
 [Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941) - Displays the actual names for vendors’ world map icons rather than generic labels
 
+[Spicy Clean Hack Screen](https://www.nexusmods.com/cyberpunk2077/mods/906) - Removes the green tint from the hack screen
+
+[Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298) - Adds filters for your stash
+
+[Untrack Quest Ultimate](https://www.nexusmods.com/cyberpunk2077/mods/6328) - Easy quest untracking
+
+[flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729) - Quality of life UI improvements that help sort quests, messages and shards, and preview images of vehicles on texts from fixers
+
 &#10240;
 &#10240;
 
@@ -117,6 +125,30 @@
 
 [Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250) - Adds missing crafting specs back into the game
 
+[SWSC - Simple Weapon Stat Customization](https://www.nexusmods.com/cyberpunk2077/mods/4409) - Adds mod settings to be able to configure various stats about each weapon in the game. **Has Mod Menu: "SWSC"**
+
+[Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861) - Increases the stamina cost for all actions and allows you to do different movement abilities in and out of combat to “combo” for more experience
+
+[Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070) - Stops combat from auto-triggering when you use a silenced gun or throwing knife. **Has Mod Menu: "RMK MODS"**
+
+[Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136) - Configurable in-game sliders for all kinds of xp. **Has Mod Menu: "RMK MODS"**
+
+[Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921) - Turns sticky grenades into proximity mines
+
+[Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) - Adds a fully useable stock market system and news system that dynamically reacts to quests and player action
+
+[System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158) - Allows the ability to equip two operating systems, techdeck/cyberdeck and sandevistan/berserk
+
+[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) - Differentiates the existing sandevistan brands to be unique, adds additional sandevistan brands, allows enemies with sandevistan/kerenzikov to engage you while you’re in time dilation, adds time dilation to cars via a sandevistan attachment, changes scanner for quickhacking. **Has CET Hotkeys. Has Mod Menu: "TDO"**
+
+[Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317) -  Using healing items adds toxicity until you overdose, which has to elapse before you can use more. Set to two charges of toxicity. **Has Mod Menu: "RMK MODS"**
+
+[Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815) - Allows the player to use weapons while driving, and for enemies to call for reinforcements and crowd NPCs to call for the police. **Has Mod Menu: "VEHICLE COMBAT"**
+
+[WE3D - Drugs of Night City](https://www.nexusmods.com/cyberpunk2077/mods/4407) - Adds 23 new drugs of various effects to the game as well as crafting specs for them. **Has Mod Menu: "WE3D"**
+
+[Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543) - Adds configurable zoom levels to scoped weapons that can be cycled through. **Has CET Hotkey. Has Mod Menu: "BETTER SCOPES"**
+
 &#10240;
 &#10240;
 
@@ -125,6 +157,8 @@
 [AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468) - Tired of overheat? Enemy Netrunners will now use hacks against you from contagion to reboot optics to cripple movement, all the way to Imminent System Failure. **Has Mod Menu: "RMK MODS"**
 
 [Amateur Hackers](https://www.nexusmods.com/cyberpunk2077/mods/4880) - Allows more enemies to quickhack the player with minor quickhacks
+
+[SDO - Scissors Difficulty Options](https://www.nexusmods.com/cyberpunk2077/mods/4408) - Adds more cyber enemies, removes enemy shooting delay, adds more powerful minibosses, adds break hold, disables recoil recovery, etc. **Has Mod Menu: "SDO"**
 
 &#10240;
 &#10240;
@@ -149,6 +183,8 @@
 
 [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198) - Gives you the ability to pet Nibbles in V's apartment 
 
+[River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870) - River now eats, drinks, sleeps and works out around Joss' family trailer 
+
 &#10240;
 &#10240;
 
@@ -165,6 +201,14 @@
 [Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225) - Adds controls for turning headlights on/off, adjusting headlight brightness and opening or closing windows. Has CET Hotkeys. **Has Mod Menu: "EXTRA VEHICLE CONTROLS"**
 
 [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169) - Disables the auto centering camera while driving in third person or first person
+
+[Vehicle Pack - Basic](https://www.nexusmods.com/cyberpunk2077/mods/4625) - Adds car varieties for Virtual Car Dealer
+
+[Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658) - Able to dismiss a summoned car by being near it and pressing “R”. Costs for destroying your vehicle on resummon
+
+[Vertical Camera Snap Fix](https://www.nexusmods.com/cyberpunk2077/mods/5593) - Disables vertical snap up when wanting to position the camera down in first person driving view
+
+[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454) - Allows you to buy vehicles on a computer rather than through fixer deals
 
 &#10240;
 &#10240;
@@ -219,6 +263,22 @@
 
 [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113) - Increases time spans between sickness effects applied to V by The Relic
 
+[Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) - Adds a flashlight to the game, toggled by tapping **“T”**. **Has CET hotkey. Has Mod Menu: "FLASHLIGHT"**
+
+[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519) - Collection of general fixes for Cyberpunk
+
+[Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) - Extends Scrapper perk logic to auto disassemble clothes, weapons, mods, grenades and healers depending on item quality, configurable. **Has Mod Menu: "SMARTER SCRAPPER"**
+
+[Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194) - The Target Analysis eye mod only applies to smart weapons
+
+[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316) - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
+
+[Stop spammers](https://www.nexusmods.com/cyberpunk2077/mods/3801) - Prevents the car deal and apartment deal message bombardment
+
+[Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282) - Allows you to unequip cyberware
+
+[Wardrobe Extras](https://www.nexusmods.com/cyberpunk2077/mods/5253) - Increases the amount of available wardrobe slots from 6 to 14 and adds an option to hide items from available clothes list
+
 &#10240;
 &#10240;
 
@@ -233,3 +293,7 @@
 [Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213) - Makes several of the arcade machines ingame usable
 
 [Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858) - Better enemy ragdolls
+
+[Vanilla Billboard LODs Improved](https://www.nexusmods.com/cyberpunk2077/mods/3184) - Improves the LOD textures of all billboards in the game
+
+[Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196) - Changes weather patterns so that rain and more interesting weathers happen more often
