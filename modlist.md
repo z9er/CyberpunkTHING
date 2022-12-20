@@ -24,15 +24,15 @@
 
 [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) - Compiler for Cyberpunk scripts
 
-[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380) - Script extender for REDengine 4
+**[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)** - Script extender for REDengine 4
 
 [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198) - RED4ext plugin, loads archive extensions
 
-[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197) - RED4ext plugin, modifications loader and script extensions 
+**[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)** - RED4ext plugin, modifications loader and script extensions 
 
 [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518) - Allows other mods to easily add settings menus using only native UI, looking like the game settings menu
 
-[Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575) - Allows for merged .xml files
+**[Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575)** - Allows for merged .xml files
 
 [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) - Allows an ingame mods redscript mods
 
