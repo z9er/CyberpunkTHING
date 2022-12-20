@@ -20,7 +20,7 @@
 
 ## Utilities
 
-[Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) - Scripting framework, required by many mods
+**[Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)** - Scripting framework, required by many mods
 
 [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) - Compiler for Cyberpunk scripts
 
