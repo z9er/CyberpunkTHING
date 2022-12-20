@@ -41,175 +41,175 @@
 
 ## UI
 
-[(enemyhealthbars) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4389) - Removes the general enemy healthbar, does not remove the dynamic healthbar that appears when you ADS a silenced weapon at an enemy from stealth
+**[(enemyhealthbars) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4389)** - Removes the general enemy healthbar, does not remove the dynamic healthbar that appears when you ADS a silenced weapon at an enemy from stealth
 
-[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395) - Removes the incredibly redundant safe area notification which clutters your screen in your apartment, Lizzie’s, etc
+**[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395)** - Removes the incredibly redundant safe area notification which clutters your screen in your apartment, Lizzie’s, etc
 
-[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395) - Removes the pop ups that show when you move from area to area
+**[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395)** - Removes the pop ups that show when you move from area to area
 
-[Better Main Menu](https://www.nexusmods.com/cyberpunk2077/mods/6365) - Resizes the text of the options on the main menu
+**[Better Main Menu](https://www.nexusmods.com/cyberpunk2077/mods/6365)** - Resizes the text of the options on the main menu
 
-[Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805) - Shows you the attribute needed for a conversation skill check rather than your current attribute only
+**[Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)** - Shows you the attribute needed for a conversation skill check rather than your current attribute only
 
-[Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535) - Removes the crouch vignette effect (CET option is not consistent, this mod is)
+**[Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535)** - Removes the crouch vignette effect (CET option is not consistent, this mod is)
 
-[Extra Clean Hacking Screen](https://www.nexusmods.com/cyberpunk2077/mods/4381) - Removes additional extraneous features from the hacking screen, as an addendum to **“Spicy Clean Hack Screen”**
+**[Extra Clean Hacking Screen](https://www.nexusmods.com/cyberpunk2077/mods/4381)** - Removes additional extraneous features from the hacking screen, as an addendum to **“Spicy Clean Hack Screen”**
 
-[Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400) - Adds in some options to filter saves by different Lifepath instead of seeing all saves
+**[Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)** - Adds in some options to filter saves by different Lifepath instead of seeing all saves
 
-[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776) - Lets you zoom onto your character on the inventory screen
+**[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776)** - Lets you zoom onto your character on the inventory screen
 
-[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592) - Configurable hud visibility, customized to only show minimap and job tracker when holding right click without a weapon out, shows minimap when in vehicles. **Has Mod Menus: "LHUD" and "LHUD ADDONS"** 
+**[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)** - Configurable hud visibility, customized to only show minimap and job tracker when holding right click without a weapon out, shows minimap when in vehicles. **Has Mod Menus: "LHUD" and "LHUD ADDONS"** 
 
-[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727) - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
+**[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)** - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
 
-[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521) - Allows for you to add names to save games
+**[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521)** - Allows for you to add names to save games
 
-[Only Smartweapon Crosshairs](https://www.nexusmods.com/cyberpunk2077/mods/5434) - Enables crosshair for certain weapons and not others, configurable ingame. **Has Mod Menu: "SMALL MODS"**
+**[Only Smartweapon Crosshairs](https://www.nexusmods.com/cyberpunk2077/mods/5434)** - Enables crosshair for certain weapons and not others, configurable ingame. **Has Mod Menu: "SMALL MODS"**
 
-[Purify The UI](https://www.nexusmods.com/cyberpunk2077/mods/2648) - Disables the 2D repeated UI effect and 3D effect that adds blurriness
+**[Purify The UI](https://www.nexusmods.com/cyberpunk2077/mods/2648)** - Disables the 2D repeated UI effect and 3D effect that adds blurriness
 
-[Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941) - Displays the actual names for vendors’ world map icons rather than generic labels
+**[Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941)** - Displays the actual names for vendors’ world map icons rather than generic labels
 
-[Spicy Clean Hack Screen](https://www.nexusmods.com/cyberpunk2077/mods/906) - Removes the green tint from the hack screen
+**[Spicy Clean Hack Screen](https://www.nexusmods.com/cyberpunk2077/mods/906)** - Removes the green tint from the hack screen
 
-[Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298) - Adds filters for your stash
+**[Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298)** - Adds filters for your stash
 
-[Untrack Quest Ultimate](https://www.nexusmods.com/cyberpunk2077/mods/6328) - Easy quest untracking
+**[Untrack Quest Ultimate](https://www.nexusmods.com/cyberpunk2077/mods/6328)** - Easy quest untracking
 
-[flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729) - Quality of life UI improvements that help sort quests, messages and shards, and preview images of vehicles on texts from fixers
+**[flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729)** - Quality of life UI improvements that help sort quests, messages and shards, and preview images of vehicles on texts from fixers
 
 &#10240;
 &#10240;
 
 ## Gameplay
 
-[Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) - Adds walljumping/wallbouncing and allows the player to control the character's movement direction midair while jumping and double jumping (in Cyberpunk THING, these changes are exclusive to the Maneuvering System cyberware available at the Arroyo ripperdoc)
+**[Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160)** - Adds walljumping/wallbouncing and allows the player to control the character's movement direction midair while jumping and double jumping (in Cyberpunk THING, these changes are exclusive to the Maneuvering System cyberware available at the Arroyo ripperdoc)
 
-[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) - Prevents most quickhacks until the local subnet is breached, if there is an access point. **Has Mod Menu: "BETTER NETRUNNING"**
+**[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)** - Prevents most quickhacks until the local subnet is breached, if there is an access point. **Has Mod Menu: "BETTER NETRUNNING"**
 
-[Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661) - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
+**[Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)** - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
 
-[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928) - Allows the player to craft during combat, added for the tie in with Drone Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
+**[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)** - Allows the player to craft during combat, added for the tie in with Drone Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
 
-[Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886) - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
+**[Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)** - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
 
-[Cyberdeck Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/5055) - Adds intelligence requirements for installing cyberdecks, limits the quality of quickhacks that can be equipped on a cyberdeck to the quality of the cyberdeck. **Has Mod Menu: "DECKS"**
+**[Cyberdeck Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/5055)** - Adds intelligence requirements for installing cyberdecks, limits the quality of quickhacks that can be equipped on a cyberdeck to the quality of the cyberdeck. **Has Mod Menu: "DECKS"**
 
-[Disable Highlighting Through Walls](https://www.nexusmods.com/cyberpunk2077/mods/3314) - Disables the red highlight effect on enemies from showing up through walls
+**[Disable Highlighting Through Walls](https://www.nexusmods.com/cyberpunk2077/mods/3314)** - Disables the red highlight effect on enemies from showing up through walls
 
-[Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520) - Adds a new type of Operating System for Technical Ability that allows crafting and controlling different types of drones, androids, and mechs. Able to have the drones prioritize your target by manually marking them, via scanning + middle mouse button. **Has Mod Menu: "DRONES"**
+**[Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520)** - Adds a new type of Operating System for Technical Ability that allows crafting and controlling different types of drones, androids, and mechs. Able to have the drones prioritize your target by manually marking them, via scanning + middle mouse button. **Has Mod Menu: "DRONES"**
 
-[Iconic Sasquatch's Hammer](https://www.nexusmods.com/cyberpunk2077/mods/4216) - Makes Sasquatch’s Hammer into an iconic weapon with a unique effect
+**[Iconic Sasquatch's Hammer](https://www.nexusmods.com/cyberpunk2077/mods/4216)** - Makes Sasquatch’s Hammer into an iconic weapon with a unique effect
 
-[Improved Slide](https://www.nexusmods.com/cyberpunk2077/mods/5533) - Enables side sliding and has much more flexibility on the slide's trajectory
+**[Improved Slide](https://www.nexusmods.com/cyberpunk2077/mods/5533)** - Enables side sliding and has much more flexibility on the slide's trajectory
 
-[Item Level Scaled Upgrade Cost](https://www.nexusmods.com/cyberpunk2077/mods/2873) - Changes the upgrade cost of items so upgrading items costs are scaled by item level instead of the number of times upgraded
+**[Item Level Scaled Upgrade Cost](https://www.nexusmods.com/cyberpunk2077/mods/2873)** - Changes the upgrade cost of items so upgrading items costs are scaled by item level instead of the number of times upgraded
 
-[Leg Cyberware Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4336) - Adds additional Leg Cyberware options to balance, all modular and configurable. **Has Mod Menu: "LEGS"**
+**[Leg Cyberware Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4336)** - Adds additional Leg Cyberware options to balance, all modular and configurable. **Has Mod Menu: "LEGS"**
 
-[Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712) - Levels NPCs under your level to your level and limits how high above your level higher leveled NPCs can be. Adds NPC scaling and damage values scaling for NPCs and player. **Has Mod Menu: "RMK MODS"**
+**[Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712)** - Levels NPCs under your level to your level and limits how high above your level higher leveled NPCs can be. Adds NPC scaling and damage values scaling for NPCs and player. **Has Mod Menu: "RMK MODS"**
 
-[Lynx Paws Reimagined](https://www.nexusmods.com/cyberpunk2077/mods/4479) - Adds additional Lynx Paws variants
+**[Lynx Paws Reimagined](https://www.nexusmods.com/cyberpunk2077/mods/4479)** - Adds additional Lynx Paws variants
 
-[More Fluid Parkour](https://www.nexusmods.com/cyberpunk2077/mods/4039) - Animations for parkour flow better
+**[More Fluid Parkour](https://www.nexusmods.com/cyberpunk2077/mods/4039)** - Animations for parkour flow better
 
-[Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) - Adds a purchasable Nano Drone for reconnaissance and hacking. **Has CET Inputs. Has CET Hotkey**
+**[Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419)** - Adds a purchasable Nano Drone for reconnaissance and hacking. **Has CET Inputs. Has CET Hotkey**
 
-[No Deflect Slomo](https://www.nexusmods.com/cyberpunk2077/mods/4899) - Removes the time slowdown during parry and riposte
+**[No Deflect Slomo](https://www.nexusmods.com/cyberpunk2077/mods/4899)** - Removes the time slowdown during parry and riposte
 
-[Non-lethal Blunt Weapons](https://www.nexusmods.com/cyberpunk2077/mods/3195) - Makes blunt weapons and fists non-lethal
+**[Non-lethal Blunt Weapons](https://www.nexusmods.com/cyberpunk2077/mods/3195)** - Makes blunt weapons and fists non-lethal
 
-[Overwatch wall penetration fix](https://www.nexusmods.com/cyberpunk2077/mods/4289) - Restores the ability for the Overwatch rifle to be able to shoot through walls
+**[Overwatch wall penetration fix](https://www.nexusmods.com/cyberpunk2077/mods/4289)** - Restores the ability for the Overwatch rifle to be able to shoot through walls
 
-[Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997) - Fixes ranged damage decreasing when attacks per second increases
+**[Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997)** - Fixes ranged damage decreasing when attacks per second increases
 
-[Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250) - Adds missing crafting specs back into the game
+**[Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250)** - Adds missing crafting specs back into the game
 
-[SWSC - Simple Weapon Stat Customization](https://www.nexusmods.com/cyberpunk2077/mods/4409) - Adds mod settings to be able to configure various stats about each weapon in the game. **Has Mod Menu: "SWSC"**
+**[SWSC - Simple Weapon Stat Customization](https://www.nexusmods.com/cyberpunk2077/mods/4409)** - Adds mod settings to be able to configure various stats about each weapon in the game. **Has Mod Menu: "SWSC"**
 
-[Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861) - Increases the stamina cost for all actions and allows you to do different movement abilities in and out of combat to “combo” for more experience
+**[Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861)** - Increases the stamina cost for all actions and allows you to do different movement abilities in and out of combat to “combo” for more experience
 
-[Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070) - Stops combat from auto-triggering when you use a silenced gun or throwing knife. **Has Mod Menu: "RMK MODS"**
+**[Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070)** - Stops combat from auto-triggering when you use a silenced gun or throwing knife. **Has Mod Menu: "RMK MODS"**
 
-[Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136) - Configurable in-game sliders for all kinds of xp. **Has Mod Menu: "RMK MODS"**
+**[Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136)** - Configurable in-game sliders for all kinds of xp. **Has Mod Menu: "RMK MODS"**
 
-[Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921) - Turns sticky grenades into proximity mines
+**[Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921)** - Turns sticky grenades into proximity mines
 
-[Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) - Adds a fully useable stock market system and news system that dynamically reacts to quests and player action
+**[Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319)** - Adds a fully useable stock market system and news system that dynamically reacts to quests and player action
 
-[System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158) - Allows the ability to equip two operating systems, techdeck/cyberdeck and sandevistan/berserk. **Has mod menu: "SYSTEM-EX"**
+**[System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158)** - Allows the ability to equip two operating systems, techdeck/cyberdeck and sandevistan/berserk. **Has mod menu: "SYSTEM-EX"**
 
-[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) - Differentiates the existing sandevistan brands to be unique, adds additional sandevistan brands, allows enemies with sandevistan/kerenzikov to engage you while you’re in time dilation, adds time dilation to cars via a sandevistan attachment, changes scanner for quickhacking. **Has CET Hotkeys. Has Mod Menu: "TDO"**
+**[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)** - Differentiates the existing sandevistan brands to be unique, adds additional sandevistan brands, allows enemies with sandevistan/kerenzikov to engage you while you’re in time dilation, adds time dilation to cars via a sandevistan attachment, changes scanner for quickhacking. **Has CET Hotkeys. Has Mod Menu: "TDO"**
 
-[Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317) -  Using healing items adds toxicity until you overdose, which has to elapse before you can use more. Set to two charges of toxicity. **Has Mod Menu: "RMK MODS"**
+**[Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317)** -  Using healing items adds toxicity until you overdose, which has to elapse before you can use more. Set to two charges of toxicity. **Has Mod Menu: "RMK MODS"**
 
-[Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815) - Allows the player to use weapons while driving, and for enemies to call for reinforcements and crowd NPCs to call for the police. **Has Mod Menu: "VEHICLE COMBAT"**
+**[Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815)** - Allows the player to use weapons while driving, and for enemies to call for reinforcements and crowd NPCs to call for the police. **Has Mod Menu: "VEHICLE COMBAT"**
 
-[WE3D - Drugs of Night City](https://www.nexusmods.com/cyberpunk2077/mods/4407) - Adds 23 new drugs of various effects to the game as well as crafting specs for them. **Has Mod Menu: "WE3D"**
+**[WE3D - Drugs of Night City](https://www.nexusmods.com/cyberpunk2077/mods/4407)** - Adds 23 new drugs of various effects to the game as well as crafting specs for them. **Has Mod Menu: "WE3D"**
 
-[Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543) - Adds configurable zoom levels to scoped weapons that can be cycled through. **Has CET Hotkey. Has Mod Menu: "BETTER SCOPES"**
+**[Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543)** - Adds configurable zoom levels to scoped weapons that can be cycled through. **Has CET Hotkey. Has Mod Menu: "BETTER SCOPES"**
 
 &#10240;
 &#10240;
 
 ## Enemies and Difficulty
 
-[AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468) - Tired of overheat? Enemy Netrunners will now use hacks against you from contagion to reboot optics to cripple movement, all the way to Imminent System Failure. **Has Mod Menu: "RMK MODS"**
+**[AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468)** - Tired of overheat? Enemy Netrunners will now use hacks against you from contagion to reboot optics to cripple movement, all the way to Imminent System Failure. **Has Mod Menu: "RMK MODS"**
 
-[Amateur Hackers](https://www.nexusmods.com/cyberpunk2077/mods/4880) - Allows more enemies to quickhack the player with minor quickhacks
+**[Amateur Hackers](https://www.nexusmods.com/cyberpunk2077/mods/4880)** - Allows more enemies to quickhack the player with minor quickhacks
 
-[SDO - Scissors Difficulty Options](https://www.nexusmods.com/cyberpunk2077/mods/4408) - Adds more cyber enemies, removes enemy shooting delay, adds more powerful minibosses, adds break hold, disables recoil recovery, etc. **Has Mod Menu: "SDO"**
+**[SDO - Scissors Difficulty Options](https://www.nexusmods.com/cyberpunk2077/mods/4408)** - Adds more cyber enemies, removes enemy shooting delay, adds more powerful minibosses, adds break hold, disables recoil recovery, etc. **Has Mod Menu: "SDO"**
 
 &#10240;
 &#10240;
 
 ## NPC Interactions
 
-[Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329) - Adds a holographic cat to the Corpo Plaza apartment
+**[Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329)** - Adds a holographic cat to the Corpo Plaza apartment
 
-[Apartment Cats - The Glen](https://www.nexusmods.com/cyberpunk2077/mods/6276) - Adds a cat to The Glen apartment
+**[Apartment Cats - The Glen](https://www.nexusmods.com/cyberpunk2077/mods/6276)** - Adds a cat to The Glen apartment
 
-[Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493) - Adds a cat to the Japantown apartment
+**[Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)** - Adds a cat to the Japantown apartment
 
-[Apartment Cats - Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379) - Adds a cat to the Northside motel apartment
+**[Apartment Cats - Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379)** - Adds a cat to the Northside motel apartment
 
-[Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508) - Adds a few different states for Judy to be in when you visit her apartment once romanced
+**[Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)** - Adds a few different states for Judy to be in when you visit her apartment once romanced
 
-[Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990) - Adds a few different states for Kerry to be in when you visit him. Adds options to listen to him play guitar
+**[Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990)** - Adds a few different states for Kerry to be in when you visit him. Adds options to listen to him play guitar
 
-[Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) - Adds a number of bar drinking spots to the game where V can drink alone or with friends
+**[Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519)** - Adds a number of bar drinking spots to the game where V can drink alone or with friends
 
-[Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626) - Panam now eats, drinks, showers, sleeps and uses her phone around the Aldecaldos' camp
+**[Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626)** - Panam now eats, drinks, showers, sleeps and uses her phone around the Aldecaldos' camp
 
-[Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198) - Gives you the ability to pet Nibbles in V's apartment 
+**[Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198)** - Gives you the ability to pet Nibbles in V's apartment 
 
-[River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870) - River now eats, drinks, sleeps and works out around Joss' family trailer 
+**[River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)** - River now eats, drinks, sleeps and works out around Joss' family trailer 
 
 &#10240;
 &#10240;
 
 ## Vehicles and Driving
 
-[Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) - Adds a vendor that allows you to pay to upgrade your vehicles’ capabilities
+**[Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034)** - Adds a vendor that allows you to pay to upgrade your vehicles’ capabilities
 
-[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016) – Overhauls every vehicle’s top speed, gearing, power, handling and brakes
+**[Cyber Vehicle Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3016)** – Overhauls every vehicle’s top speed, gearing, power, handling and brakes
 
-[Erok's Driving Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/2948) - Driving ini file by the author of Cyber Vehicle Overhaul to go alongside it
+**[Erok's Driving Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/2948)** - Driving ini file by the author of Cyber Vehicle Overhaul to go alongside it
 
-[Extended and Improved Headlights](https://www.nexusmods.com/cyberpunk2077/mods/5013) - Lets you tweak the range, brightness, and durability of vehicle headlights. **Has Mod Menu: "IMPROVED HEADLIGHTS"**
+**[Extended and Improved Headlights](https://www.nexusmods.com/cyberpunk2077/mods/5013)** - Lets you tweak the range, brightness, and durability of vehicle headlights. **Has Mod Menu: "IMPROVED HEADLIGHTS"**
 
-[Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225) - Adds controls for turning headlights on/off, adjusting headlight brightness and opening or closing windows. **Has CET Hotkeys. Has Mod Menu: "EXTRA VEHICLE CONTROLS"**
+**[Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225)** - Adds controls for turning headlights on/off, adjusting headlight brightness and opening or closing windows. **Has CET Hotkeys. Has Mod Menu: "EXTRA VEHICLE CONTROLS"**
 
-[No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169) - Disables the auto centering camera while driving in third person or first person
+**[No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169)** - Disables the auto centering camera while driving in third person or first person
 
-[Vehicle Pack - Basic](https://www.nexusmods.com/cyberpunk2077/mods/4625) - Adds car varieties for Virtual Car Dealer
+**[Vehicle Pack - Basic](https://www.nexusmods.com/cyberpunk2077/mods/4625)** - Adds car varieties for Virtual Car Dealer
 
-[Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658) - Able to dismiss a summoned car by being near it and pressing “R”. Costs for destroying your vehicle on resummon
+**[Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)** - Able to dismiss a summoned car by being near it and pressing “R”. Costs for destroying your vehicle on resummon
 
-[Vertical Camera Snap Fix](https://www.nexusmods.com/cyberpunk2077/mods/5593) - Disables vertical snap up when wanting to position the camera down in first person driving view
+**[Vertical Camera Snap Fix](https://www.nexusmods.com/cyberpunk2077/mods/5593)** - Disables vertical snap up when wanting to position the camera down in first person driving view
 
-[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454) - Allows you to buy vehicles on a computer rather than through fixer deals
+**[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)** - Allows you to buy vehicles on a computer rather than through fixer deals
 
 &#10240;
 &#10240;
