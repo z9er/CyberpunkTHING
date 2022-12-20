@@ -216,90 +216,90 @@
 
 ## Quality of Life
 
-[Adaptive Sliders](https://www.nexusmods.com/cyberpunk2077/mods/5075) - Sets items sliders to max by default for Drop, Stash and Sell actions
+**[Adaptive Sliders](https://www.nexusmods.com/cyberpunk2077/mods/5075)** - Sets items sliders to max by default for Drop, Stash and Sell actions
 
-[Annoy Me No More](https://www.nexusmods.com/cyberpunk2077/mods/1512) - Disables the Mantis blades finisher animation, able to skip forward through call dialogue
+**[Annoy Me No More](https://www.nexusmods.com/cyberpunk2077/mods/1512)** - Disables the Mantis blades finisher animation, able to skip forward through call dialogue
 
-[Better Kyubi Sights](https://www.nexusmods.com/cyberpunk2077/mods/5968) - Cleans up the unnecessary dots from the Kyubi sight
+**[Better Kyubi Sights](https://www.nexusmods.com/cyberpunk2077/mods/5968)** - Cleans up the unnecessary dots from the Kyubi sight
 
-[Crafting Quality of Life](https://www.nexusmods.com/cyberpunk2077/mods/4453) - Allows recrafting iconics, allows crafting mods at lower quality levels, fixes some bugs regarding crafting discounts
+**[Crafting Quality of Life](https://www.nexusmods.com/cyberpunk2077/mods/4453)** - Allows recrafting iconics, allows crafting mods at lower quality levels, fixes some bugs regarding crafting discounts
 
-[Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) - Adds customizable hotkeys that you can bind most abilities or items to as needed. **Has CET Inputs. Mod Menu Key and CET Input must match. Has Mod Menu: "QSLOTS"**
+**[Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096)** - Adds customizable hotkeys that you can bind most abilities or items to as needed. **Has CET Inputs. Mod Menu Key and CET Input must match. Has Mod Menu: "QSLOTS"**
 
-[DLC and Iconic Modifiers](https://www.nexusmods.com/cyberpunk2077/mods/5171) - Adds iconic rarity to more unique items and allows some quest specific clothing to be upgraded
+**[DLC and Iconic Modifiers](https://www.nexusmods.com/cyberpunk2077/mods/5171)** - Adds iconic rarity to more unique items and allows some quest specific clothing to be upgraded
 
-[Disable Auto Switching for Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/5620) - Disables auto switching for thrown knives, only switches between knives when they are not on cooldown
+**[Disable Auto Switching for Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/5620)** - Disables auto switching for thrown knives, only switches between knives when they are not on cooldown
 
-[Disassemble As Looting Choice](https://www.nexusmods.com/cyberpunk2077/mods/4648) - Adds a disassemble option when looting, bound to **"F3"** by default. **Has Mod Menu: "D.A.L.C"**
+**[Disassemble As Looting Choice](https://www.nexusmods.com/cyberpunk2077/mods/4648)** - Adds a disassemble option when looting, bound to **"F3"** by default. **Has Mod Menu: "D.A.L.C"**
 
-[Engineer Weapon Exp](https://www.nexusmods.com/cyberpunk2077/mods/5104) - Gives engineer experience for every shot made with smart gun or fully loaded tech gun without piercing through walls and doubles it if the shot pierces a surface before hitting an enemy
+**[Engineer Weapon Exp](https://www.nexusmods.com/cyberpunk2077/mods/5104)** - Gives engineer experience for every shot made with smart gun or fully loaded tech gun without piercing through walls and doubles it if the shot pierces a surface before hitting an enemy
 
-[Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378) - Allows you to choose the damage type when crafting weapons, choose the appearance of the crafted weapon, and even give it a name if it suits your fancy, if you have the right perks. **Has mod menu: "ECRAFT"**
+**[Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378)** - Allows you to choose the damage type when crafting weapons, choose the appearance of the crafted weapon, and even give it a name if it suits your fancy, if you have the right perks. **Has mod menu: "ECRAFT"**
 
-[Hide Read Shards](https://www.nexusmods.com/cyberpunk2077/mods/2820) - Removes world placed shards that you have already read
+**[Hide Read Shards](https://www.nexusmods.com/cyberpunk2077/mods/2820)** - Removes world placed shards that you have already read
 
-[Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675) - Improved body presence and free look
+**[Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675)** - Improved body presence and free look
 
-[Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115) - Allows using vanilla timeskip widget in real time instead of with a black screen by pressing the **"o"** key
+**[Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115)** - Allows using vanilla timeskip widget in real time instead of with a black screen by pressing the **"o"** key
 
-[Improved Minimap Zoom](https://www.nexusmods.com/cyberpunk2077/mods/2959) - Dynamic zoom for the minimap while in a vehicle, as well as options for different zoom while on foot. **Has Mod Menu: "IZOOM"**
+**[Improved Minimap Zoom](https://www.nexusmods.com/cyberpunk2077/mods/2959)** - Dynamic zoom for the minimap while in a vehicle, as well as options for different zoom while on foot. **Has Mod Menu: "IZOOM"**
 
-[Instant Wardrobe](https://www.nexusmods.com/cyberpunk2077/mods/6550) - The wardrobe now opens instantly without a loading bar
+**[Instant Wardrobe](https://www.nexusmods.com/cyberpunk2077/mods/6550)** - The wardrobe now opens instantly without a loading bar
 
-[Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725) - Allows marking any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors **"Sell Junk"** option
+**[Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725)** - Allows marking any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors **"Sell Junk"** option
 
-[No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533) - Disables the game intro videos
+**[No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533)** - Disables the game intro videos
 
-[No Walk Auto Disable](https://www.nexusmods.com/cyberpunk2077/mods/3966) - Removes the game’s attempts to disable the walk toggle
+**[No Walk Auto Disable](https://www.nexusmods.com/cyberpunk2077/mods/3966)** - Removes the game’s attempts to disable the walk toggle
 
-[No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470) - Doesn’t automatically uncrouch when melee attacking in stealth for 3 seconds after entering combat
+**[No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470)** - Doesn’t automatically uncrouch when melee attacking in stealth for 3 seconds after entering combat
 
-[Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113) - Increases time spans between sickness effects applied to V by The Relic
+**[Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113)** - Increases time spans between sickness effects applied to V by The Relic
 
-[Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) - Adds a flashlight to the game, toggled by tapping **“T”**. **Has CET hotkey. Has Mod Menu: "FLASHLIGHT"**
+**[Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)** - Adds a flashlight to the game, toggled by tapping **“T”**. **Has CET hotkey. Has Mod Menu: "FLASHLIGHT"**
 
-[Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) - Extends Scrapper perk logic to auto disassemble clothes, weapons, mods, grenades and healers depending on item quality, configurable. **Has Mod Menu: "SMARTER SCRAPPER"**
+**[Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687)** - Extends Scrapper perk logic to auto disassemble clothes, weapons, mods, grenades and healers depending on item quality, configurable. **Has Mod Menu: "SMARTER SCRAPPER"**
 
-[Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194) - The Target Analysis eye mod only applies to smart weapons
+**[Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194)** - The Target Analysis eye mod only applies to smart weapons
 
-[Stop spammers](https://www.nexusmods.com/cyberpunk2077/mods/3801) - Prevents the car deal and apartment deal message bombardment
+**[Stop spammers](https://www.nexusmods.com/cyberpunk2077/mods/3801)** - Prevents the car deal and apartment deal message bombardment
 
-[Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282) - Allows you to unequip cyberware
+**[Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282)** - Allows you to unequip cyberware
 
-[Wardrobe Extras](https://www.nexusmods.com/cyberpunk2077/mods/5253) - Increases the amount of available wardrobe slots from 6 to 14 and adds an option to hide items from available clothes list
+**[Wardrobe Extras](https://www.nexusmods.com/cyberpunk2077/mods/5253)** - Increases the amount of available wardrobe slots from 6 to 14 and adds an option to hide items from available clothes list
 
 &#10240;
 &#10240;
 
 ## Bug Fixes
 
-[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834) - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
+**[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834)** - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
 
-[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310) - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
+**[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310)** - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
 
-[Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722) - Fixes bugs with optical camo
+**[Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722)** - Fixes bugs with optical camo
 
-[Proximity Mine Audio Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/6743) - Fixes the bug where some proximity mines don't emit a sound when you approach them and instead explode without warning
+**[Proximity Mine Audio Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/6743)** - Fixes the bug where some proximity mines don't emit a sound when you approach them and instead explode without warning
 
-[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519) - Collection of general fixes for Cyberpunk
+**[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519)** - Collection of general fixes for Cyberpunk
 
-[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316) - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
+**[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)** - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
 
 &#10240;
 &#10240;
 
 ## Aesthetics
 
-[Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557) - Repeats the first equip animation when switching to a weapon after a certain amount of time, configurable as to how long that Is in different situations. **Has Mod Menu: "FIRST EQUIP"**
+**[Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557)** - Repeats the first equip animation when switching to a weapon after a certain amount of time, configurable as to how long that Is in different situations. **Has Mod Menu: "FIRST EQUIP"**
 
-[Blade runner 2077 Better Finer Rain](https://www.nexusmods.com/cyberpunk2077/mods/2001) - Changes the rain to look more realistic
+**[Blade runner 2077 Better Finer Rain](https://www.nexusmods.com/cyberpunk2077/mods/2001)** - Changes the rain to look more realistic
 
-[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508) - Reuses melee weapon finishers as stealth takedowns without having to grapple first. **Has mod menu: "Kvalyr Mods"**
+**[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508)** - Reuses melee weapon finishers as stealth takedowns without having to grapple first. **Has mod menu: "Kvalyr Mods"**
 
-[Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213) - Makes several of the arcade machines ingame usable
+**[Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213)** - Makes several of the arcade machines ingame usable
 
-[Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858) - Better enemy ragdolls
+**[Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858)** - Better enemy ragdolls
 
-[Vanilla Billboard LODs Improved](https://www.nexusmods.com/cyberpunk2077/mods/3184) - Improves the LOD textures of all billboards in the game
+**[Vanilla Billboard LODs Improved](https://www.nexusmods.com/cyberpunk2077/mods/3184)** - Improves the LOD textures of all billboards in the game
 
-[Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196) - Changes weather patterns so that rain and more interesting weathers happen more often
+**[Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196)** - Changes weather patterns so that rain and more interesting weathers happen more often
