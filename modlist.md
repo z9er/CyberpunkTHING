@@ -112,6 +112,8 @@
 
 **[Lynx Paws Reimagined](https://www.nexusmods.com/cyberpunk2077/mods/4479)** - Adds additional Lynx Paws variants
 
+**[More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043)** - More climable objects
+
 **[More Fluid Parkour](https://www.nexusmods.com/cyberpunk2077/mods/4039)** - Animations for parkour flow better
 
 **[Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419)** - Adds a purchasable Nano Drone for reconnaissance and hacking. **Has CET Inputs. Has CET Hotkey**
@@ -121,6 +123,8 @@
 **[Non-lethal Blunt Weapons](https://www.nexusmods.com/cyberpunk2077/mods/3195)** - Makes blunt weapons and fists non-lethal
 
 **[Overwatch wall penetration fix](https://www.nexusmods.com/cyberpunk2077/mods/4289)** - Restores the ability for the Overwatch rifle to be able to shoot through walls
+
+**[Projectile Launcher Rework](https://www.nexusmods.com/cyberpunk2077/mods/6925)** - Mod to rework projectile launcher AOE and balance, customizable. **Has Mod Menu: "PROJECTILE LAUNCHER REWORK"**
 
 **[Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997)** - Fixes ranged damage decreasing when attacks per second increases
 
@@ -166,6 +170,8 @@
 
 ## NPC Interactions
 
+**[Apartment Cats - Custom Cats](https://www.nexusmods.com/cyberpunk2077/mods/6837)** - Adds variants for each of the Apartment Cats mods, fully individualised so each apartment cat can have a different look
+
 **[Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329)** - Adds a holographic cat to the Corpo Plaza apartment
 
 **[Apartment Cats - The Glen](https://www.nexusmods.com/cyberpunk2077/mods/6276)** - Adds a cat to The Glen apartment
@@ -173,6 +179,10 @@
 **[Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)** - Adds a cat to the Japantown apartment
 
 **[Apartment Cats - Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379)** - Adds a cat to the Northside motel apartment
+
+**[Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)** - Can use the chair in ripperdoc clinics animated where ripperdocs do work more immersively
+
+**[Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)** - V now actually uses the ripper's chair when getting chrome/appearance work done and Vik is animated for it
 
 **[Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)** - Adds a few different states for Judy to be in when you visit her apartment once romanced
 
@@ -248,6 +258,8 @@
 
 **[Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725)** - Allows marking any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors **"Sell Junk"** option
 
+**[More Inventory Filters](https://www.nexusmods.com/cyberpunk2077/mods/6879)** - Adds more filters to your inventory, your stash's inventory, and to most vendors inventory
+
 **[No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533)** - Disables the game intro videos
 
 **[No Walk Auto Disable](https://www.nexusmods.com/cyberpunk2077/mods/3966)** - Removes the game’s attempts to disable the walk toggle
@@ -266,8 +278,6 @@
 
 **[Unequip Cyberware](https://www.nexusmods.com/cyberpunk2077/mods/2282)** - Allows you to unequip cyberware
 
-**[Wardrobe Extras](https://www.nexusmods.com/cyberpunk2077/mods/5253)** - Increases the amount of available wardrobe slots from 6 to 14 and adds an option to hide items from available clothes list
-
 &#10240;
 &#10240;
 
@@ -278,6 +288,8 @@
 **[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834)** - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
 
 **[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310)** - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
+
+**[Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000)** - Fixes a few small bugs in the Breach/Quickhacking system
 
 **[Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722)** - Fixes bugs with optical camo
 
@@ -292,9 +304,15 @@
 
 ## Aesthetics
 
+**[E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026)** - Adds the smart window similar to the one in the 2018 E3 Demo, with interactive features and stock market integration
+
 **[Always First Equip](https://www.nexusmods.com/cyberpunk2077/mods/2557)** - Repeats the first equip animation when switching to a weapon after a certain amount of time, configurable as to how long that Is in different situations. **Has Mod Menu: "FIRST EQUIP"**
 
+**[Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)** - Allows you to save and create character presets
+
 **[Blade runner 2077 Better Finer Rain](https://www.nexusmods.com/cyberpunk2077/mods/2001)** - Changes the rain to look more realistic
+
+**[Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)** - Transmog system and outfit manager
 
 **[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508)** - Reuses melee weapon finishers as stealth takedowns without having to grapple first. **Has mod menu: "Kvalyr Mods"**
 
