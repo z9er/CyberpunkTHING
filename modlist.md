@@ -273,6 +273,8 @@
 
 ## Bug Fixes
 
+**[AccessPoint Quickhack drop chance fix](https://www.nexusmods.com/cyberpunk2077/mods/6841)** - Fixes an access point bug where if you fail to get a quickhack from an access point 10 times in a row you will never get another quickhack from an access point with that character
+
 **[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834)** - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
 
 **[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310)** - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
