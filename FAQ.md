@@ -1,81 +1,36 @@
-# Cyberpunk 2077 Modlist - Frequently Asked Questions
-
-Welcome to the Frequently Asked Questions (FAQ) section for the Cyberpunk 2077 modlist! Below you will find answers to some common questions that users may have about the modlist.
-
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="CyberpunkTHING/style.css">
+</head>
+<body>
+    
 ## Table of Contents
 
-- [General Questions](#general-questions)
-- [Installation](#installation)
-- [Compatibility](#compatibility)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+- [FAQ](#faq)
 
-## General Questions
+## FAQ
 
 <details>
-  <summary>What is the Cyberpunk 2077 modlist?</summary>
+  <summary>What is the recommended mod list for Cyberpunk 2077?</summary>
   
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-</details>
-
-<details>
-  <summary>Why should I use this modlist?</summary>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
   
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
 </details>
 
 <details>
-  <summary>How do I install the Cyberpunk 2077 modlist?</summary>
+  <summary>How do I install the recommended mod list?</summary>
   
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-</details>
-
-## Installation
-
-<details>
-  <summary>Do I need any special software to install the modlist?</summary>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
   
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
 </details>
 
 <details>
-  <summary>How do I uninstall the modlist?</summary>
+  <summary>Why is my game crashing after installing the recommended mods?</summary>
   
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-</details>
-
-## Compatibility
-
-<details>
-  <summary>Is the modlist compatible with other mods?</summary>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
   
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-
-</details>
-<details>
-  <summary>What if I encounter compatibility issues?</summary>
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-</details>
-Troubleshooting
-<details>
-  <summary>I'm experiencing issues with the modlist. What should I do?</summary>
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-</details>
-<details>
-  <summary>How do I report a bug?</summary>
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-</details>
-Contributing
-<details>
-  <summary>Can I contribute to the modlist?</summary>
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
-</details>
-License
-<details>
-  <summary>What is the license for the modlist?</summary>
-  <p style="color: #444444; margin-top: 1em;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut quam vel purus sagittis blandit. Fusce consectetur sapien ut magna suscipit, vel faucibus leo feugiat. Nulla efficitur bibendum justo, sit amet faucibus leo iaculis vel. Nullam semper ligula in lorem vulputate luctus.</p>
 </details>
 
- 
-
+</body>
+</html>
