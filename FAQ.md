@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" href="z9er/CyberpunkTHING/style.css">
+    <link rel="stylesheet" href="https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/style.css">
 </head>
 <body>
     
