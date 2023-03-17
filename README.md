@@ -251,25 +251,7 @@ will be deleted. Your downloads folder will not be touched! That means if you ha
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button.
 
-# FAQ
-
-How do I update to a later version?
-
-- All you have to do is rerun wabbajack with the new version of the installer.
-  If you have the downloads wabbajack will hash everything, download any new mods,
-  and make the necessary changes in your install folder. This will remove mods you have added yourself.
-
-Is [insert mod name here] part of the list?
-
-- Check the modlist manifest. If there is a utilitiy that you think should be in the list, ask nicely in the discord. Do not ping me or DM me with requests. 
-
-Will you add x mod to the list?
-
-- Maybe?
-
-I think I found a bug! Here are some things that are not bugs:
-
-- Thanks! Please let us know via the discord.
+# [FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 # Removing the Modlist
 
@@ -291,24 +273,15 @@ Additional thanks and credits to:
 - Busy Oscar for playtesting and feedback
 - General namedrops for specific help and utilities: [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138), [KeanuWheeze/Nexusguy999](https://www.nexusmods.com/cyberpunk2077/users/77476393), [scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633), [rfuzzo](https://www.nexusmods.com/users/16300749), [KiroCobra](https://www.nexusmods.com/cyberpunk2077/users/40108180), and the Cyberpunk 2077 modding Discord!
 - Can't forget the [WolvenKit](https://www.nexusmods.com/cyberpunk2077/mods/2201) Team, the [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) team, and the [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) team for making the tools all modders use, and the modding Discords in general for being a font of information!
+- JTK from the Wabbajack team, as well as Xanza, Delta, and Crit for making MO2 for Cyberpunk a reality
 
-MO2077 - made by:
-- JTK
 
-Special Thanks
-
-- Xanza
-- Delta 
-- Crit
-
-**_PLEASE DO NOT FORGET TO ENDORSE THE MOD AUTHORS!_**
+**_Remember to endorse the mod authors_**
 
 For support or to give feedback you can reach us at the [collection discord link below:](https://discord.gg/eJdMQKnQVt)
 
 [![Discord Link](https://i.imgur.com/QmblGWu.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
 [logo image]: https://i.imgur.com/QmblGWu.png
-
-# Changelog
 
 See [Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
