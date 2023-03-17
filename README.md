@@ -72,9 +72,9 @@ Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
 
 ![Clean Install 2](https://i.imgur.com/YW0s73X.png)
 
-Now make sure you go and verify your game files through **Steam**, **GOG**
+Now make sure you go and verify your game files through **Steam** or **GOG**
 
-Please delete manually added files & verify game integrety before installing. If you have used Vortex before, please purge the installed mods, you will be able to redeploy them later if you choose to. 
+If you have used Vortex before, please purge the installed mods, you will be able to redeploy them later if you choose to. 
 
 ```
 This Wabbajack list does not work with the Epic version of Cyberpunk 2077
@@ -116,7 +116,7 @@ _Auto Update Games_.
 ### Preparations
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe`
-file in `X:\Wabbajack`
+file in `C:\Wabbajack`
 
 ### Downloading and Installing
 
@@ -124,12 +124,11 @@ The download and installation process depends on
 your system specs. Wabbajack will calculate the amount of threads it will use at
 the start of the installation.
 
-To have the highest amount of threads and thus the fastest speed, it is advised
-to have the working folder on an SSD, this doesn't matter a huge deal for the modlist itself however it will matter significantly more for playing the game. 
+To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD, this doesn't matter a huge deal for the modlist itself however it will matter when playing the game
 
 1. Open Wabbajack
 2. Load the Modlist by clicking **"Browse Modlists"** (selecting the Cyberpunk 2077) 
-3. Set Cyberpunk THING to install to `X:\Cyberpunk THING` and downloads to `X:\Cyberpunk THING\Downloads`
+3. Set Cyberpunk THING to install to `C:\Cyberpunk THING` and downloads to `C:\Cyberpunk THING\Downloads`
    You can set a different path if you wish, but avoid system protected folders. 
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
@@ -144,15 +143,14 @@ it will pick up from exactly where you left off.
 Please rerun wabbajack at least twice and try to manually download the file
 from first before posting about a failed download.
 
-**Could not download x**:
+**Could not download x**
 
 If a mod updated and the old files got deleted, it may be impossible to download
 them. In this case just wait until there is a list update
 
-**Wabbajack could not find my game folder**:
+**Wabbajack could not find my game folder**
 
-You need to have launched the game once before WJ will locate it. Additionally
-Wabbajack will not work with pirated versions of the game. The list works with the game from GOG or Steam
+You need to have launched the game once before WJ will locate it. The list works with the **GOG** or **Steam** version of the game
 
 Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
@@ -205,6 +203,7 @@ Any of this can be changed by hitting your bound **CET Overlay Key** and going t
 ```
 Navigating the Mods menu uses the arrows at the top to switch between the different pages of mods
 ```
+In Cyberpunk, there is no way to bind multiple hotkeys for actions, items, or abilities, as each must be assigned through the menu to the one assignable hotkey at a time, leading to gameplay interruptions if you want to play well. [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) solves this issue by allowing bindable hotkeys which show up on the Native UI and allow you up to 19 additional hotkeyed actions, abilities, or items. Some small setup is required
 
 After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
 
