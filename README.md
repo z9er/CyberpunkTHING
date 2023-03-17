@@ -35,7 +35,7 @@ This means under all practical purposes, these mods are installed manually, but 
 While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2
 
 
----
+
 
 &#10240;
 
@@ -52,7 +52,7 @@ For premium Nexus users installing this Wabbajack is a one click process
 
 For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Wabbajack brings up buttons for every mod
 
----
+
 
 &#10240;
 
@@ -80,7 +80,7 @@ If you have used Vortex before, please purge the installed mods, you will be abl
 This Wabbajack list does not work with the Epic version of Cyberpunk 2077
 ```
 
----
+
 
 &#10240;
 
@@ -115,7 +115,7 @@ To ensure that GOG does not automatically update the game unless you want it to,
 to the Settings window, navigate to the _Game Features_ tab and turn off the checkbox for
 _Auto Update Games_
 
----
+
 
 &#10240;
 
@@ -165,7 +165,7 @@ You need to have launched the game once before WJ will locate it. The list works
 
 Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
----
+
 
 &#10240;
 
@@ -184,7 +184,7 @@ on the top right and a big run button next to it
 Ensure it is set to `Cyberpunk 2077` by selecting it in the dropdown
 box and then hitting the run button. Due to how it is deploying the files, you may have to click "Run" twice. This is normal
 
----
+
 
 &#10240;
 
@@ -211,7 +211,7 @@ Any of this can be changed by hitting your bound **CET Overlay Key** and going t
 
 ![CET Binding](https://i.imgur.com/HiLTXZA.png)
 
----
+
 
 &#10240;
 
@@ -229,7 +229,7 @@ After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section
 
 ![Qslots Recommended Settings Combined](https://i.imgur.com/8Rfy44l.png)
 
----
+
 
 &#10240;
 
@@ -256,7 +256,7 @@ Further down in the **"HUD Visibility"** section, recommend keeping all on excep
 ```
 New players may want to keep "Hints" on until they feel they no longer need them
 ```
----
+
 
 &#10240;
 
@@ -266,7 +266,7 @@ New players may want to keep "Hints" on until they feel they no longer need them
 
 Several mods in the collection have been adjusted with permission from their mod authors. You are limited to using the **Techdeck** from [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520) as an alternative to a cyberdeck rather than something that can be run in tandem. The movement changes from [Alternate Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) are now part of the **Maneuvering System** cyberware.
 
----
+
 
 &#10240;
 
@@ -287,7 +287,7 @@ path and tick the _overwrite existing Modlist_ button
 
 You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
 
----
+
 
 &#10240;
 
@@ -295,7 +295,6 @@ You can just remove the MO2 folder, along with any Game Folder file mod you've i
 
 [Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
----
 
 &#10240;
 
