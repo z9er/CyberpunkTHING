@@ -203,7 +203,7 @@ Any of this can be changed by hitting your bound **CET Overlay Key** and going t
 ```
 Navigating the Mods menu uses the arrows at the top to switch between the different pages of mods
 ```
-In Cyberpunk, there is no way to bind multiple hotkeys for actions, items, or abilities, as each must be assigned through the menu to the one assignable hotkey at a time, leading to gameplay interruptions if you want to play well. [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) solves this issue by allowing bindable hotkeys which show up on the Native UI and allow you up to 19 additional hotkeyed actions, abilities, or items. Some small setup is required
+In Cyberpunk, there is no way to bind multiple hotkeys for actions, items, or abilities, as each must be assigned through the menu to the one assignable hotkey at a time, leading to gameplay interruptions if you want to play well. [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) solves this issue by allowing bindable hotkeys which show up on the Native game UI and allow you up to 20 hotkeyed actions, abilities, or items. Some small setup is required
 
 After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
 
@@ -250,7 +250,9 @@ will be deleted. Your downloads folder will not be touched! That means if you ha
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button.
 
-# [FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
+# Frequently Asked Questions
+
+[Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 # Removing the Modlist
 
