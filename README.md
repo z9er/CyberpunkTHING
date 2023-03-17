@@ -128,7 +128,7 @@ To have the highest amount of threads and thus the fastest speed, it is advised 
 
 1. Open Wabbajack
 2. Load the Modlist by clicking **"Browse Modlists"** (selecting the Cyberpunk 2077) 
-[demonstration of finding list](https://media.giphy.com/media/d5g7myYxhXqsLzKHHL/giphy.gif)
+![demonstration of finding list](https://media.giphy.com/media/d5g7myYxhXqsLzKHHL/giphy.gif)
 3. Set Cyberpunk THING to install to `C:\Cyberpunk THING` and downloads to `C:\Cyberpunk THING\Downloads`
    You can set a different path if you wish, but avoid system protected folders. 
 4. Click the Go/Begin button
