@@ -1,3 +1,5 @@
+[![Discord Link](https://i.imgur.com/OehZMjj.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+
 ## Frequently Asked Questions
 
 ### Troubleshooting
