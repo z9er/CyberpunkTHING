@@ -227,7 +227,7 @@ Navigating the Mods menu uses the arrows at the top to switch between the differ
 
 After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
 
-![Qslots Recommended Settings Combined](https://i.imgur.com/5beF1SW.png)
+![Qslots Recommended Settings Combined](https://i.imgur.com/8Rfy44l.png)
 
 ---
 
