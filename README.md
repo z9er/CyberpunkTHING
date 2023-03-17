@@ -19,9 +19,9 @@
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
 
-[![Features List](https://i.imgur.com/3ffXZ8g.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
+[![Features List](https://i.imgur.com/BeaaNvQ.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
 
-[Featureimage]: https://i.imgur.com/3ffXZ8g.png
+[Featureimage]: https://i.imgur.com/BeaaNvQ.png
 
 [A complete list of ALL of the features in the collection can be found here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
