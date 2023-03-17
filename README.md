@@ -278,7 +278,11 @@ path and tick the _overwrite existing Modlist_ button
 
 You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
 
-### Frequently Asked Questions
+---
+
+&#10240;
+
+# Frequently Asked Questions
 
 [Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
