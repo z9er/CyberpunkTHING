@@ -128,8 +128,8 @@ To have the highest amount of threads and thus the fastest speed, it is advised
 to have the working folder on an SSD, this doesn't matter a huge deal for the modlist itself however it will matter significantly more for playing the game. 
 
 1. Open Wabbajack
-2. Load the Modlist from either Browse Modlists (selecting the Cyberpunk 2077 dropdown and unoffical checkbox) or Install from Disk (if you have downloaded the list from elsewhere).
-3. Set MO2077 to install to `X:\MO2077` and downloads to `X:\MO2077\Downloads`.
+2. Load the Modlist by clicking **"Browse Modlists"** (selecting the Cyberpunk 2077) 
+3. Set Cyberpunk THING to install to `X:\Cyberpunk THING` and downloads to `X:\Cyberpunk THING\Downloads`
    You can set a different path if you wish, but avoid system protected folders. 
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
@@ -147,7 +147,7 @@ from first before posting about a failed download.
 **Could not download x**:
 
 If a mod updated and the old files got deleted, it may be impossible to download
-them. In this case just wait till I update the Modlist.
+them. In this case just wait until there is a list update
 
 **Wabbajack could not find my game folder**:
 
@@ -182,13 +182,15 @@ When you start the game for the first time you will be met with an overlay promp
 
 ![First CET Popup](https://i.imgur.com/GotiBl6.png)
 
-The main **"Cyber Engine Tweaks"** window will now pop up, and on it you should click the **"Bindings"** button near the top left of the window, which will now show the **"Inputs"** and **"Hotkeys"** buttons
+Keybinds for **"BetterScopes",** **"NanoDrone",** **"QuestTrackingToggle"** are as follows:
 
-![CET Binding](https://i.imgur.com/y5VOQID.png)
+Additional weapon zoom is **"Left Shift"**
 
-Recommend binding keys for **"BetterScopes",** **"NanoDrone",** **"QuestTrackingToggle"** in the **"Hotkeys"** section, and binding keys for any necessary **"CustomQuickslots",** and **"NanoDrone"** in the **"Inputs"** section.
+Quest Tracking Toggle is **"F11"**
 
-Above the section there is a **"Save"** button which you should click to save any changes
+NanoDrone forwards, left, backwards, and right is **"W, A, S, and D"**, and up and down are **"Space and Left Control"**
+
+Any of this can be changed by hitting your bound **CET Overlay Key** and going to **"Bindings"**
 
 ![Save](https://i.imgur.com/sBEhi0D.png)
 
