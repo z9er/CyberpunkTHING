@@ -286,4 +286,4 @@ For support or to give feedback you can reach us at the [modlist discord link be
 
 [logo image]: https://i.imgur.com/QmblGWu.png
 
-See [Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
+[Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
