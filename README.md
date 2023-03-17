@@ -48,6 +48,8 @@ While most mods will work, there are a few that do some archive checking and thu
 
 For premium Nexus users installing this Wabbajack is a one click process
 
+![Premium GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk3YTc2MTI0MzJmMmUyY2I0NmUyYTdhMTk0NzY5ZTY3ZmIxYjAxZCZjdD1n/mlMB0EnTfhTsAo6L7C/giphy.gif)
+
 For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Wabbajack brings up buttons for every mod.
 
 ---
