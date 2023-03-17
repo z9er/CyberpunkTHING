@@ -26,14 +26,13 @@
 [A complete list of ALL of the features in the collection can be found in this article here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 # MO2 for Cyberpunk? 
-It works. Really*.
 
-Mod Organizer 2 and Cyberpunk 2077 aren't normally compatible - using MO2 on the game leads to CET and Redscript errors. We've managed to address this through a plugin called Root Builder that allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes.
-Root builder requires a specific folder structure. The archive folder of mods is MO2 deploys via its VFS,  this works in 99% of cases for mods of this type.
+Mod Organizer 2 and Cyberpunk 2077 aren't normally compatible - using MO2 on the game leads to CET and Redscript errors. This has been addressed through a plugin called Root Builder that allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes.
+Root builder requires a specific folder structure. The archive folder of mods is MO2 deploys via its Virtual File System (**VFS**),  this works in 99% of cases for mods of this type.
 The other folders are copied before runtime, namely: bin, engine, r6, red4ext and Redmods. This way your game folder remains intact when not run via MO2.
 This means under all practical purposes, these mods are installed manually, but with the convenience of a mod manager. 
 
-While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2.
+While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2
 
 
 ---
@@ -49,7 +48,7 @@ While most mods will work, there are a few that do some archive checking and thu
 
 For premium Nexus users installing this Wabbajack is a one click process
 
-For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Vortex brings up buttons for every mod.
+For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Wabbajack brings up buttons for every mod.
 
 ---
 
@@ -71,11 +70,13 @@ Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
 
 ![Clean Install 2](https://i.imgur.com/YW0s73X.png)
 
-Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
+Now make sure you go and verify your game files through **Steam**, **GOG**
 
+Please delete manually added files & verify game integrety before installing. If you have used Vortex before, please purge the installed mods, you will be able to redeploy them later if you choose to. 
 
-
-Please delete manually added files & verify game integrety before installing. For Vortex, please purge the installed mods, you will be able to redeploy them later if you choose to. 
+```
+This Wabbajack list does not work with the Epic version of Cyberpunk 2077
+```
 
 ## Steam/Gog Config
 
@@ -92,7 +93,6 @@ checkbox.
 GOG:
 Open the settings window (Cog in the top left of GOG Galaxy),
 navigate to the Game Features tab and un-tick the Overlay checkbox. 
-
 
 ## Change Steam/GOG's Update Behavior
 
@@ -150,13 +150,13 @@ them. In this case just wait till I update the Modlist.
 **Wabbajack could not find my game folder**:
 
 You need to have launched the game once before WJ will locate it. Additionally
-Wabbajack will not work with pirated versions of the game. The list works with games from Steam, GOG and Epic Game Store.
+Wabbajack will not work with pirated versions of the game. The list works with the game from GOG or Steam
 
 Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
 ## Post-Installation
 
-If you want to use Simple Flashlight, I have included it to prove it functions with this setup. Simply open the "Game Folder Files" folder in your modlist install location, and copy the archive files into /Cyberpunk 2077/archive/pc/mod. If you do not wish to use this mod or test it, you can ignore these files.
+In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) open the "Game Folder Files" folder in your modlist install location, and copy the archive files into /Cyberpunk 2077/archive/pc/mod
 
 ### Starting the Game
 
