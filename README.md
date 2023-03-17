@@ -200,10 +200,11 @@ Any of this can be changed by hitting your bound **CET Overlay Key** and going t
 
 &#10240;
 
+In Cyberpunk, there is no way to bind multiple hotkeys for actions, items, or abilities, as each must be assigned through the menu to the one assignable hotkey at a time, leading to gameplay interruptions if you want to play well. [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) solves this issue by allowing bindable hotkeys which show up on the Native game UI and allow you up to 20 hotkeyed actions, abilities, or items. Some small setup is required
+
 ```
 Navigating the Mods menu uses the arrows at the top to switch between the different pages of mods
 ```
-In Cyberpunk, there is no way to bind multiple hotkeys for actions, items, or abilities, as each must be assigned through the menu to the one assignable hotkey at a time, leading to gameplay interruptions if you want to play well. [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) solves this issue by allowing bindable hotkeys which show up on the Native game UI and allow you up to 20 hotkeyed actions, abilities, or items. Some small setup is required
 
 After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
 
