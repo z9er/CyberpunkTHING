@@ -34,11 +34,7 @@ This means under all practical purposes, these mods are installed manually, but 
 
 While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2
 
-
-
-
 &#10240;
-
 
 ![To Install](https://i.imgur.com/z6KynkI.png)
 
