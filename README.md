@@ -192,7 +192,7 @@ NanoDrone forwards, left, backwards, and right is **"W, A, S, and D"**, and up a
 
 Any of this can be changed by hitting your bound **CET Overlay Key** and going to **"Bindings"**
 
-![Save](https://i.imgur.com/sBEhi0D.png)
+![CET Binding](https://i.imgur.com/HiLTXZA.png)
 
 ---
 
@@ -206,7 +206,7 @@ Any of this can be changed by hitting your bound **CET Overlay Key** and going t
 Navigating the Mods menu uses the arrows at the top to switch between the different pages of mods
 ```
 
-After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, recommend changing **"WE3D - Drugs of Night City Compatibility Mode,"** **"Hide empty consumable and grenade slots,"** **"Hide empty cyberware ability slots"** and **"Small item slots"** to **"On"**. Recommend changing **"Number of Custom Quickslots"** to **"0"** and then adding slots as needed during the course of gameplay.
+After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
 
 ![Qslots Recommended Settings Combined](https://i.imgur.com/5beF1SW.png)
 
