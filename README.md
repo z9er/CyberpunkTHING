@@ -308,7 +308,7 @@ Additional thanks and credits to:
 - JTK from the Wabbajack team, as well as Xanza, Delta, and Crit for making MO2 for Cyberpunk a reality
 
 
-**_Remember to endorse the mod authors_**
+**_Remember to endorse the mods in this that you enjoy: the people who made these mods are the only reason this exists._**
 
 For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
 
