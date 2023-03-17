@@ -312,8 +312,8 @@ Additional thanks and credits to:
 
 For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
 
-[![Discord Link](https://i.imgur.com/QmblGWu.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-[logo image]: https://i.imgur.com/QmblGWu.png
+[logo image]: https://i.imgur.com/2zyLjNQ.png
 
 [Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
