@@ -84,7 +84,7 @@
   
 </details>
 
-### Gameplay Adjustments
+### Gameplay Questions
 
 <details>
   <summary>How do I increase the draw distance in the game?</summary>
