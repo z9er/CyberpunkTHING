@@ -50,7 +50,7 @@ For premium Nexus users installing this Wabbajack is a one click process
 
 ![Premium GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk3YTc2MTI0MzJmMmUyY2I0NmUyYTdhMTk0NzY5ZTY3ZmIxYjAxZCZjdD1n/mlMB0EnTfhTsAo6L7C/giphy.gif)
 
-For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Wabbajack brings up buttons for every mod.
+For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Wabbajack brings up buttons for every mod
 
 ---
 
@@ -74,7 +74,7 @@ Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
 
 Now make sure you go and verify your game files through **Steam** or **GOG**
 
-If you have used Vortex before, please purge the installed mods, you will be able to redeploy them later if you choose to. 
+If you have used Vortex before, please purge the installed mods, you will be able to redeploy them later if you choose to
 
 ```
 This Wabbajack list does not work with the Epic version of Cyberpunk 2077
@@ -85,31 +85,31 @@ This Wabbajack list does not work with the Epic version of Cyberpunk 2077
 ### Disable any game Overlays
 
 The Steam/GOG Overlay can cause issues with certain mods and is
-recommended to be turned off.
+recommended to be turned off
 
 Steam:
 Open the Properties window (right click the game in your Library->Properties),
 navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_
-checkbox.
+checkbox
 
 GOG:
 Open the settings window (Cog in the top left of GOG Galaxy),
-navigate to the Game Features tab and un-tick the Overlay checkbox. 
+navigate to the Game Features tab and un-tick the Overlay checkbox
 
 ## Change Steam/GOG Update Behavior
 
 Cyberpunk 2077 is still being updated by CDPR. Whenever the game updates, it's quite possible
-that everything can break due to these changes.
+that everything can break due to these changes
 
 Steam:
 To ensure that Steam does not automatically update the game unless you want it to, head over
 to the Properties window, navigate to the _Updates_ tab and change
-_Automatic updates_ to _Only update this game when I launch it_.
+_Automatic updates_ to _Only update this game when I launch it_
 
 GOG:
 To ensure that GOG does not automatically update the game unless you want it to, head over
 to the Settings window, navigate to the _Game Features_ tab and turn off the checkbox for
-_Auto Update Games_.
+_Auto Update Games_
 
 ## Using Wabbajack
 
@@ -122,7 +122,7 @@ file in `C:\Wabbajack`
 
 The download and installation process depends on
 your system specs. Wabbajack will calculate the amount of threads it will use at
-the start of the installation.
+the start of the installation
 
 To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD, this doesn't matter a huge deal for the modlist itself however it will matter when playing the game
 
@@ -141,10 +141,10 @@ To have the highest amount of threads and thus the fastest speed, it is advised 
 There are a lot of different scenarios where Wabbajack will produce an error.
 If you do not see an installation failed warning do not worry about it. If you
 feel like wabbajack is stuck or a download is hanging just restart wabbajack,
-it will pick up from exactly where you left off.
+it will pick up from exactly where you left off
 
 Please rerun wabbajack at least twice and try to manually download the file
-from first before posting about a failed download.
+from first before posting about a failed download
 
 **Could not download x**
 
@@ -167,10 +167,10 @@ In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/c
 
 Head over to the installation folder and locate an executable named
 ModOrganizer.exe and launch it. Once its launched there will be a dropdown box
-on the top right and a big run button next to it.
+on the top right and a big run button next to it
 
 Ensure it is set to `Cyberpunk 2077` by selecting it in the dropdown
-box and then hitting the run button. Due to how it is deploying the files, you may have to click "Run" twice. This is normal. 
+box and then hitting the run button. Due to how it is deploying the files, you may have to click "Run" twice. This is normal
 
 &#10240;
 
@@ -246,7 +246,7 @@ New players may want to keep "Hints" on until they feel they no longer need them
 # Updating
 
 If this Modlist receives an update please check the Changelog before doing
-anything. Always backup your saves or start a new game after updating.
+anything. Always backup your saves or start a new game after updating
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
@@ -254,7 +254,7 @@ This means that any additional mods you have installed on top of the Modlist
 will be deleted. Your downloads folder will not be touched! That means if you have made your own modded setup on top of the list, you should update mods *manually*.
 
 Updating is like installing. You only have to make sure that you select the same
-path and tick the _overwrite existing Modlist_ button.
+path and tick the _overwrite existing Modlist_ button
 
 # Frequently Asked Questions
 
@@ -262,7 +262,7 @@ path and tick the _overwrite existing Modlist_ button.
 
 # Removing the Modlist
 
-You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it.
+You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
 
 # Credits and Thanks
 
