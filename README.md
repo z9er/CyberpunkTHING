@@ -157,7 +157,7 @@ Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
 ## Post-Installation
 
-In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) open the "Game Folder Files" folder in your modlist install location, and copy the archive files into /Cyberpunk 2077/archive/pc/mod
+In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) open the "Game Folder Files" folder in your modlist install location, and copy the archive folder into your main Cyberpunk 2077 directory
 
 ### Starting the Game
 
