@@ -184,6 +184,8 @@ on the top right and a big run button next to it
 Ensure it is set to `Cyberpunk 2077` by selecting it in the dropdown
 box and then hitting the run button. Due to how it is deploying the files, you may have to click "Run" twice. This is normal
 
+---
+
 &#10240;
 
 ![Recommended](https://i.imgur.com/Cf8RliI.png)
