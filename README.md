@@ -280,7 +280,7 @@ Additional thanks and credits to:
 
 **_Remember to endorse the mod authors_**
 
-For support or to give feedback you can reach us at the [collection discord link below:](https://discord.gg/eJdMQKnQVt)
+For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
 
 [![Discord Link](https://i.imgur.com/QmblGWu.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
