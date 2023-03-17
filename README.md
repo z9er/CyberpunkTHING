@@ -259,7 +259,7 @@ New players may want to keep "Hints" on until they feel they no longer need them
 
 &#10240;
 
-# Updating
+# Updating/Uninstalling
 
 If this Modlist receives an update please check the Changelog before doing
 anything. Always backup your saves or start a new game after updating
@@ -272,13 +272,13 @@ will be deleted. Your downloads folder will not be touched! That means if you ha
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button
 
-### Frequently Asked Questions
-
-[Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
-
 ### Removing the Modlist
 
 You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
+
+### Frequently Asked Questions
+
+[Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 ---
 
