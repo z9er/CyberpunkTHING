@@ -25,7 +25,7 @@
 
 [A complete list of ALL of the features in the collection can be found in this article here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-# MO2 for Cyberpunk? 
+# MO2 for Cyberpunk
 
 Mod Organizer 2 and Cyberpunk 2077 aren't normally compatible - using MO2 on the game leads to CET and Redscript errors. This has been addressed through a plugin called Root Builder that allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes.
 Root builder requires a specific folder structure. The archive folder of mods is MO2 deploys via its Virtual File System (**VFS**),  this works in 99% of cases for mods of this type.
