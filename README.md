@@ -80,7 +80,7 @@ If you have used Vortex before, please purge the installed mods, you will be abl
 This Wabbajack list does not work with the Epic version of Cyberpunk 2077
 ```
 
-## Steam/Gog Config
+## Steam/GOG Config
 
 ### Disable any game Overlays
 
