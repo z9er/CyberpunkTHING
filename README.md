@@ -80,7 +80,11 @@ If you have used Vortex before, please purge the installed mods, you will be abl
 This Wabbajack list does not work with the Epic version of Cyberpunk 2077
 ```
 
-## Steam/GOG Config
+---
+
+&#10240;
+
+# Steam/GOG Config
 
 ### Disable any game Overlays
 
@@ -111,7 +115,11 @@ To ensure that GOG does not automatically update the game unless you want it to,
 to the Settings window, navigate to the _Game Features_ tab and turn off the checkbox for
 _Auto Update Games_
 
-## Using Wabbajack
+---
+
+&#10240;
+
+# Using Wabbajack
 
 ### Preparations
 
@@ -157,7 +165,11 @@ You need to have launched the game once before WJ will locate it. The list works
 
 Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
-## Post-Installation
+---
+
+&#10240;
+
+# Post-Installation
 
 In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) open the "Game Folder Files" folder in your modlist install location, and copy the archive folder into your main Cyberpunk 2077 directory
 
@@ -243,6 +255,10 @@ Further down in the **"HUD Visibility"** section, recommend keeping all on excep
 New players may want to keep "Hints" on until they feel they no longer need them
 ```
 
+---
+
+&#10240;
+
 # Updating
 
 If this Modlist receives an update please check the Changelog before doing
@@ -256,13 +272,17 @@ will be deleted. Your downloads folder will not be touched! That means if you ha
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button
 
-# Frequently Asked Questions
+### Frequently Asked Questions
 
 [Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
-# Removing the Modlist
+### Removing the Modlist
 
 You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
+
+---
+
+&#10240;
 
 # Credits and Thanks
 
