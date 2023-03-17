@@ -96,7 +96,7 @@ GOG:
 Open the settings window (Cog in the top left of GOG Galaxy),
 navigate to the Game Features tab and un-tick the Overlay checkbox. 
 
-## Change Steam/GOG's Update Behavior
+## Change Steam/GOG Update Behavior
 
 Cyberpunk 2077 is still being updated by CDPR. Whenever the game updates, it's quite possible
 that everything can break due to these changes.
