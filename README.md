@@ -64,7 +64,7 @@ For non-premium users, the installation process is still simple. You just have t
 If you've ever modded Cyberpunk before, it's important to ensure you have a clean game folder
 ```
 
-Go to your main Cyberpunk 2077 directory and delete the **"bin,"** **"engine,"** **"r6,"** and **"red4ext"** folder
+Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
 
 ![Clean Install 1](https://i.imgur.com/AXG7U40.png)
 
