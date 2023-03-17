@@ -23,7 +23,7 @@
 
 [Featureimage]: https://i.imgur.com/3ffXZ8g.png
 
-[A complete list of ALL of the features in the collection can be found in this article here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[A complete list of ALL of the features in the collection can be found here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 # MO2 for Cyberpunk
 
