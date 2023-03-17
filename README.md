@@ -309,4 +309,4 @@ For support or to give feedback you can reach us at the [collection discord link
 
 # Changelog
 
-See [Changelog](https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d?tab=Changelog).
+See [Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
