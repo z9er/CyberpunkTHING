@@ -147,7 +147,7 @@
 ### Vortex Specific Troubleshooting
 
 <details>
-  <summary>Why is my game crashing after installing the recommended mods?</summary>
+  <summary>I cannot see the mod settings menu ingame</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
@@ -155,15 +155,7 @@
 </details>
 
 <details>
-  <summary>How do I fix the issue with missing textures?</summary>
-  &#10240;
-  
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
-  
-</details>
-
-<details>
-  <summary>How do I uninstall a mod?</summary>
+  <summary>What are some recommended CET keybinds?</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
@@ -173,7 +165,7 @@
 ### Wabbajack Specific Troubleshooting
 
 <details>
-  <summary>Why is my game crashing after installing the recommended mods?</summary>
+  <summary>How can I use MO2 to download mods from Nexus?</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
@@ -181,7 +173,7 @@
 </details>
 
 <details>
-  <summary>How do I fix the issue with missing textures?</summary>
+  <summary>Wabbajack can't find Cyberpunk 2077</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
@@ -189,7 +181,23 @@
 </details>
 
 <details>
-  <summary>How do I uninstall a mod?</summary>
+  <summary>My flashlight isn't working</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>Mods I added disappeared on update</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>I can't get my preorder rewards</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
@@ -199,7 +207,7 @@
 ### Gameplay Questions
 
 <details>
-  <summary>How do I increase the draw distance in the game?</summary>
+  <summary>How do I use the CET console?</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
@@ -207,7 +215,7 @@
 </details>
 
 <details>
-  <summary>What are some good mods for improving vehicle handling?</summary>
+  <summary>I can't find the new sandevistans or techdecks</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
@@ -215,7 +223,71 @@
 </details>
 
 <details>
-  <summary>Can I use mods to change the game's weather and lighting?</summary>
+  <summary>I level too slowly/quickly</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>I take too much/little damage</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>The breach protocol minigame is too easy/hard</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>My sandevistan isn't slowing time</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>I can't see enemies through walls with ping</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>My distraction quickhacks cost 0 ram</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>I can't walljump</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>I want to change the Immersive Timeskip hotkey from **"o"**</summary>
+  &#10240;
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  
+</details>
+
+<details>
+  <summary>I can't use a sandevistan and a techdeck at the same time</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
