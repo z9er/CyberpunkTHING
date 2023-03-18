@@ -18,12 +18,11 @@
 
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
+![Features Buttons Not Clickable](https://i.imgur.com/JZ3pUvU.png)
 
-[![Features List](https://i.imgur.com/BeaaNvQ.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
+[![Features List](https://i.imgur.com/mij1ZV7.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
 
-[Featureimage]: https://i.imgur.com/BeaaNvQ.png
-
-[A complete list of ALL of the features in the collection can be found here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[Featureimage]: https://i.imgur.com/mij1ZV7.png
 
 # MO2 for Cyberpunk
 
