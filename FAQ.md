@@ -18,7 +18,17 @@
   <summary>My game flatlines when opening with a redscript error</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  **It's important to ensure that this list is installed onto a purely vanilla setup to avoid script errors and crashes from old mods.**
+  
+  Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
+
+![Clean Install 1](https://i.imgur.com/AXG7U40.png)
+
+Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"** 
+
+![Clean Install 2](https://i.imgur.com/YW0s73X.png)
+
+Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
   
 </details>
 
