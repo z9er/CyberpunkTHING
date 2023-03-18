@@ -184,6 +184,8 @@
 
 **[Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)** - You can now actually have animated drinks at bars with bartenders
 
+**[Immersive Food Vendors](https://www.nexusmods.com/cyberpunk2077/mods/7322)** - Adds animations for eating food from food vendors
+
 **[Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)** - Can use the chair in ripperdoc clinics animated where ripperdocs do work more immersively
 
 **[Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)** - V now actually uses the ripper's chair when getting chrome/appearance work done and Vik is animated for it
@@ -199,6 +201,8 @@
 **[Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198)** - Gives you the ability to pet Nibbles in V's apartment 
 
 **[River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)** - River now eats, drinks, sleeps and works out around Joss' family trailer 
+
+**[Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367)** - Makes Wilson's gun range (2nd Amendment) usable outside of his competition side quest
 
 &#10240;
 &#10240;
