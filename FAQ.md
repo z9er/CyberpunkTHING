@@ -194,6 +194,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   &#10240;
 
 <details>
+  
   <summary>How can I use MO2 to download mods from Nexus?</summary>
   &#10240;
   
