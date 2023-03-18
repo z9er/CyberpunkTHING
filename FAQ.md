@@ -40,8 +40,11 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I don't see the initial CET keybind popup</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  Go to your main **Cyberpunk 2077 directory** to **"bin/x64/plugins/cyber_engine_tweaks"** and delete **"bindings.json"**, then restart the game.
   
+  ![CET binding location](https://i.imgur.com/5BTFUBx.png)
+  
+   &#10240;
 </details>
 
 <details>
