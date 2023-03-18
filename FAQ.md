@@ -192,6 +192,8 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   ![CET binding location](https://i.imgur.com/cDUXnZP.png)
   
   &#10240;
+  
+  </details>
 
 <details>
   
