@@ -1,8 +1,8 @@
 [![Discord Link](https://i.imgur.com/OehZMjj.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-## Frequently Asked Questions
+# Frequently Asked Questions
 
-### General Troubleshooting
+## General Troubleshooting
 
 <details>
   <summary>Can I add this list to my existing save?</summary>
@@ -144,7 +144,9 @@
   
 </details>
 
-### Vortex Specific Troubleshooting
+&#10240;
+
+## Vortex Specific Troubleshooting
 
 <details>
   <summary>I cannot see the mod settings menu ingame</summary>
@@ -162,7 +164,9 @@
   
 </details>
 
-### Wabbajack Specific Troubleshooting
+&#10240;
+
+## Wabbajack Specific Troubleshooting
 
 <details>
   <summary>How can I use MO2 to download mods from Nexus?</summary>
@@ -204,7 +208,9 @@
   
 </details>
 
-### Gameplay Questions
+&#10240;
+
+## Gameplay Questions
 
 <details>
   <summary>How do I use the CET console?</summary>
