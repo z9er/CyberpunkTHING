@@ -10,11 +10,7 @@
   <summary>Can I add this list to my existing save?</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
-  
-  ![test](https://i.imgur.com/8Rfy44l.png)
-  
-  test
+  **You can add this list to an existing vanilla save with no issues.** If you're adding this to a previously modded save, it would depend on the mods that were   associated. Sometimes mods that add items to the game through ArchiveXL can be baked into the save, and if that mod is no longer there, would cause the game to crash.
   
 </details>
 
