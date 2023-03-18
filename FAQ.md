@@ -17,7 +17,7 @@
 </details>
 
 <details>
-  <summary>My game flatlines when opening with a redscript error?</summary>
+  <summary>My game flatlines when opening with a redscript error</summary>
   &#10240;
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
