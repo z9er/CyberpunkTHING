@@ -184,6 +184,14 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 ## Wabbajack Specific Troubleshooting
 
 <details>
+  <summary>I don't see the initial CET keybind popup</summary>
+  &#10240;
+  
+  In **MO2**, right click on **"CT Config"** in the left hand panel and select **"Open in Explorer"** and go to **"Root/bin/x64/plugins/cyber_engine_tweaks"** and delete **"bindings.json"**, then restart the game.
+  
+  ![CET binding location](https://i.imgur.com/cDUXnZP.png)
+
+<details>
   <summary>How can I use MO2 to download mods from Nexus?</summary>
   &#10240;
   
