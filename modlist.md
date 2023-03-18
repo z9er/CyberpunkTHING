@@ -130,6 +130,8 @@
 
 **[Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250)** - Adds missing crafting specs back into the game
 
+**[Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197)** - Loosens the angles at which ricochets snap so you can reliably use them. **Has Mod Menu: "RICOCHET"**
+
 **[SWSC - Simple Weapon Stat Customization](https://www.nexusmods.com/cyberpunk2077/mods/4409)** - Adds mod settings to be able to configure various stats about each weapon in the game. **Has Mod Menu: "SWSC"**
 
 **[Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861)** - Increases the stamina cost for all actions and allows you to do different movement abilities in and out of combat to “combo” for more experience
@@ -179,6 +181,8 @@
 **[Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)** - Adds a cat to the Japantown apartment
 
 **[Apartment Cats - Motel](https://www.nexusmods.com/cyberpunk2077/mods/6379)** - Adds a cat to the Northside motel apartment
+
+**[Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)** - You can now actually have animated drinks at bars with bartenders
 
 **[Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)** - Can use the chair in ripperdoc clinics animated where ripperdocs do work more immersively
 
@@ -266,6 +270,8 @@
 
 **[No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470)** - Doesn’t automatically uncrouch when melee attacking in stealth for 3 seconds after entering combat
 
+**[Quickhack Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/7238)** - Allows selecting and activating quickhacks with keyboard number hotkeys
+
 **[Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113)** - Increases time spans between sickness effects applied to V by The Relic
 
 **[Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913)** - Adds a flashlight to the game, toggled by tapping **“T”**. **Has CET hotkey. Has Mod Menu: "FLASHLIGHT"**
@@ -319,6 +325,8 @@
 **[Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213)** - Makes several of the arcade machines ingame usable
 
 **[Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858)** - Better enemy ragdolls
+
+**[Sit Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/7299)** - Lets you sit down almost anywhere you want
 
 **[Vanilla Billboard LODs Improved](https://www.nexusmods.com/cyberpunk2077/mods/3184)** - Improves the LOD textures of all billboards in the game
 
