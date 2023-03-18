@@ -2,6 +2,8 @@
 
 # Frequently Asked Questions
 
+&#10240;
+
 ## General Troubleshooting
 
 <details>
