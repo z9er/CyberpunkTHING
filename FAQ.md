@@ -4,6 +4,13 @@
 
 &#10240;
 
+- [General Troubleshooting](#general-troubleshooting)
+- [Vortex Specific Troubleshooting](#vortex-specific-troubleshooting)
+- [Wabbajack Specific Troubleshooting](#wabbajack-specific-troubleshooting)
+- [Gameplay Questions](#gameplay-questions)
+
+&#10240;
+
 ## General Troubleshooting
 
 <details>
