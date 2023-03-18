@@ -12,6 +12,8 @@
   
   **You can add this list to an existing vanilla save with no issues.** If you're adding this to a previously modded save, it would depend on the mods that were   associated. Sometimes mods that add items to the game through ArchiveXL can be baked into the save, and if that mod is no longer there, would cause the game to crash.
   
+  &#10240;
+  
 </details>
 
 <details>
@@ -29,6 +31,8 @@ Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
 ![Clean Install 2](https://i.imgur.com/YW0s73X.png)
 
 Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
+  
+  &#10240;
   
 </details>
 
