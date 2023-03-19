@@ -586,7 +586,7 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>My distraction quickhacks cost 0 ram</summary>
   &#10240;
   
-  This is a known [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) issue and is a ui glitch but does not affect the actual cost, which is correctly taken from your ram. The author is aware of the issue, but since the mod adds so much it is very much worth using
+  This is a known [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) issue and is a UI glitch that does not affect the actual cost, which is correctly taken from your ram. The author is aware of the issue, but since the mod adds so much it is very much worth using
   
   &#10240;
   
