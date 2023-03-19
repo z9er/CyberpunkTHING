@@ -58,7 +58,21 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My saved games are blank ingame</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  ![picture of problem](https://i.imgur.com/XBoH5Fi.png)
+  
+  If you run into the error displayed above, you will want to disable cloud saves as that game setting can cause this issue.
+  
+  On the left side of the main menu, click on **"Settings"**
+  
+  ![Example settings](https://i.imgur.com/2yoHsqd.png)
+  
+  At the top click **"Gameplay"**
+  
+  ![first image](https://i.imgur.com/8W36yPc.png)
+  
+  Scroll down to **"Enable cross-platform Saves"** and ensure that it is turned off
+  
+  ![second image](https://i.imgur.com/t6QOwYM.png)
   
 </details>
 
