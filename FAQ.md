@@ -212,7 +212,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>Why is it so bright in the middle of the night?</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This is a vanilla game error and has been reported to CDPR, hopefully they will patch this in the future
   
 </details>
 
@@ -220,7 +220,12 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>The car mod shop wrench icon isn't on the map</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  When on your map, on the left side ensure that when on **"FILTER: CUSTOM"** that the **"DROP POINT"** section is highlighted and the wrench icon for the [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) will appear in Northeast Watson
+  
+  ![shop 1](https://i.imgur.com/AXpYYJd.png)
+  ![shop 2](https://i.imgur.com/LCJ6TCd.png)
+  
+  &#10240;
   
 </details>
 
