@@ -247,7 +247,9 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My car fell through the ground</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This is a vanilla game error and has been reported to CDPR, hopefully they will patch this in the future
+  
+  &#10240;
   
 </details>
 
@@ -255,7 +257,15 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I can't get into Claire's garage</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This was a known issue with [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) which has now been fixed, but could still be an issue on a save that was running a previous version. If the issue is affecting you, the mod author has an optional file that can be added found [here](https://www.nexusmods.com/cyberpunk2077/mods/7203?tab=files)
+  
+  ![optional file](https://i.imgur.com/5pOgUZ1.png)
+  
+  His instructions for using it are
+  
+  ![beast 2](https://i.imgur.com/5FtutwT.png)
+  
+  &#10240;
   
 </details>
 
