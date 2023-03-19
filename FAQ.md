@@ -396,7 +396,19 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>How can I use MO2 to download mods from Nexus?</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  In **MO2**, click on the wrench icon on the top bar
+  
+  ![wjack 1](https://i.imgur.com/uXQdCzn.png)
+  
+  In the popup click on **"Nexus"**
+  
+  ![wjack 2](https://i.imgur.com/mKMH2pd.png)
+  
+  Click on **"Associate with 'Download with manager' Links"** and approve its request
+  
+  ![wjack 3](https://i.imgur.com/hRtGSZI.png)
+  
+  &#10240;
   
 </details>
 
@@ -404,7 +416,9 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>Wabbajack can't find Cyberpunk 2077</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  One common cause for this is the **Wabbajack** client not being on the same hard drive as the game install, another is forgetting to have **Steam** or **GOG** verify and reacquire files as part of doing a cleaning of your Cyberpunk 2077 install
+  
+  &#10240;
   
 </details>
 
@@ -424,7 +438,9 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>Mods I added disappeared on update</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  To keep some of your custom mods when updating the **Wabbajack** rename the mods in **MO2** and add [NoDelete] on the left hand MO2 pane. As example "Dawn FM" becomes "[NoDelete] Dawn FM"
+  
+   &#10240;
   
 </details>
 
@@ -432,7 +448,9 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>I can't get my preorder rewards</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  Launching the game through MO2 means that those rewards do not populate in your game as they have to go through CDPR's launcher. The easiest workaround is to in your new game run it without the modlist active (running through **GOG** or **Steam**), go through the prologue to your apartment and get the items, then launch the game through **MO2** to use the list after that
+  
+  &#10240;
   
 </details>
 
