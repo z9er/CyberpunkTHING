@@ -190,7 +190,9 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My game crashes when I open the map</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This is associated with a **Reshade** version issue. As this list does not include and is not tested for any reshade, adding one is at your own risk, and this is one of a multitude of issues that can arise in using one
+  
+   &#10240;
   
 </details>
 
