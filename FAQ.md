@@ -313,49 +313,49 @@ Go to the left hand side of vortex and click on **"Mods"** on the grey bar
   
  Left click on the mod at the top of the list in the middle of the screen to highlight it
   
-  ![step 5](https://imgur.com/ZnFt4GG)
+  ![step 5](https://i.imgur.com/ZnFt4GG.png)
   
 Scroll to the bottom mod in the list and shift + left click it in order to highlight all of the mods
   
-  ![step 6](https://imgur.com/sMgjtyG)
+  ![step 6](https://i.imgur.com/sMgjtyG.png)
   
   On the white bar that has appeared at the very bottom of the list click **"Remove"**
   
-  ![step 7](
+  ![step 7](https://i.imgur.com/YOX2Eh1.png)
   
   In the popup that appears ensure that **"Remove Mod"** is ticked with a blue and white checkmark, but that **"Delete Archive"** remains unticked and clear
   
-  ![step 8](
+  ![step 8](https://i.imgur.com/TCjQfam.png)
   
  Click **"Remove"** at the bottom right of the popup 
   
-  ![step 9](
+  ![step 9](https://i.imgur.com/0DZZrf9.png)
   
  In the next popup, tick the box for **"Apply to Recommended Mods"** so that a blue and white checkmark appears 
   
-  ![step 10](
+  ![step 10](https://i.imgur.com/DdN6SNc.png)
   
-  ![step 11](
+  ![step 11](https://i.imgur.com/T2FjoXZ.png)
   
 Then click on **"Disable"** bottom right of the grey popup  
   
-  ![step 12](
+  ![step 12](https://i.imgur.com/umC3y4R.png)
   
 The list of mods will now show as **"Uninstalled"** in blue
   
-  ![step 13](
+  ![step 13](https://i.imgur.com/gcxRfNe.png)
   
 Scroll down to the mod **"Cyberpunk Thing"** and left click it 
   
-  ![step 14](
+  ![step 14](https://i.imgur.com/uSZAlMx.png)
   
   After highlighting **"Cyberpunk Thing"** right click it and left click **"Install"**
   
-  ![step 15](
+  ![step 15](https://i.imgur.com/alHSwBk.png)
   
   In the popup that appears click **"Install Now"**
   
-  ![step 16](
+  ![step 16](https://i.imgur.com/L2LCxFQ.png)
   
  These steps will undo the REDmod autoconversion that vortex performed and will correct your install without you having to redownload any mods
   
