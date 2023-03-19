@@ -164,6 +164,8 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   FOR VORTEX USERS
   ```
   
+  In your main Cyberpunk 2077 directory, navigate to **"r6/input"** and open **"LimitedHUD.xml**
+  
   ![shud 2](https://i.imgur.com/t8J91RJ.png)
   
   ```
