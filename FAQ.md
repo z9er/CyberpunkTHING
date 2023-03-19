@@ -359,7 +359,17 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I can't find the new sandevistans or techdecks</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  You can find the new sandevistans added by [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) at
+  
+  ![locations 1](https://i.imgur.com/6PySXe7.png)
+  
+  You can find the new techdecks added by [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520)
+  
+  ![locations 2](https://i.imgur.com/EBG6RLY.png)
+  
+  ![locations 3](https://i.imgur.com/BF7qHnT.png)
+  
+  &#10240;
   
 </details>
 
