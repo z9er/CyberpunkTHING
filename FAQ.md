@@ -602,7 +602,31 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>I want to change the Immersive Timeskip hotkey from o</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  ```
+  FOR VORTEX USERS
+  ```
+  
+  In your main Cyberpunk 2077 directory, navigate to **"r6/input"** and open **"ImmersiveTimeskip.xml**
+  
+  ![shud 2](https://i.imgur.com/7Ts5R9G.png)
+  
+  ```
+  FOR WABBAJACK USERS
+  ```
+  
+  In **MO2** in the left panel left click **"Immersive Timeskip"** to highlight it, then right click it and select **"Open in Explorer"**
+  
+  ![shud 3](https://i.imgur.com/t37UVF9.png)
+  
+  Navigate to **"Root/r6/Input"**
+  
+  ![shud 4](https://i.imgur.com/I7zK8Se.png)
+  
+  **"ImmersiveTimeskip.xml** can be customized to choose whatever keybinds you would like, [a full list of CDPR's method for key naming here](https://pastebin.com/nsQ1cqi8)
+  
+  ![shud 5](https://i.imgur.com/fHosI4t.png)
+  
+  &#10240;
   
 </details>
 
