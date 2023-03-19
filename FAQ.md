@@ -164,7 +164,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   FOR VORTEX USERS
   ```
   
-  In your main Cyberpunk 2077 directory, navigate to **"r6/input"** and open **"LimitedHUD.xml**
+  In your main Cyberpunk 2077 directory, navigate to **"r6\input"** and open **"LimitedHUD.xml**
   
   ![shud 2](https://i.imgur.com/t8J91RJ.png)
   
@@ -176,9 +176,13 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   ![shud 3](https://i.imgur.com/EuBGa2T.png)
   
-  Navigate to **"Root/r6/Input"**
+  Navigate to **"Root\r6\Input"**
   
   ![shud 4](https://i.imgur.com/qReV98j.png)
+  
+  ```
+  Continued for Both
+  ```
   
   **"LimitedHUD.xml** can be customized to choose whatever keybinds you would like, [a full list of CDPR's method for key naming here](https://nativedb.red4ext.com/EInputKey)
   
@@ -606,7 +610,7 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   FOR VORTEX USERS
   ```
   
-  In your main Cyberpunk 2077 directory, navigate to **"r6/input"** and open **"ImmersiveTimeskip.xml**
+  In your main Cyberpunk 2077 directory, navigate to **"r6\input"** and open **"ImmersiveTimeskip.xml**
   
   ![shud 2](https://i.imgur.com/7Ts5R9G.png)
   
@@ -618,9 +622,13 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   ![shud 3](https://i.imgur.com/t37UVF9.png)
   
-  Navigate to **"Root/r6/Input"**
+  Navigate to **"Root\r6\Input"**
   
   ![shud 4](https://i.imgur.com/I7zK8Se.png)
+  
+  ```
+  Continued for Both
+  ```
   
   **"ImmersiveTimeskip.xml** can be customized to choose whatever keybinds you would like, [a full list of CDPR's method for key naming here](https://pastebin.com/nsQ1cqi8)
   
