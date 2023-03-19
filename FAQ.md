@@ -367,7 +367,11 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>What are some recommended CET keybinds?</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  Some binding recommendations for important features
+  
+  ![here](https://i.imgur.com/H3FeGjQ.png)
+  
+  &#10240;
   
 </details>
 
