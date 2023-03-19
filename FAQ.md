@@ -297,7 +297,31 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I cannot see the mod settings menu ingame</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This is often associated with the **Vortex Redmod Autoconversion** being toggled on. It is off by default, but if it has done the autoconversion you will need to go through a process to correct this, and you will not have to redownload the associated mods. Go to the left side of Vortex to the grey bar and click on **"Settings"**
+  
+  ![step 1](https://imgur.com/ilpBWRY)
+  
+Go to the middle top grey bar and click on **"V2077 Settings"** and ensure that **"Automatically convert old style 'archive' mods to REDmods on install"** is greyed out and is not active
+  
+  ![step 2](https://imgur.com/iSYsHmn)
+  
+  ![step 3](https://imgur.com/nhjRZnF)
+  
+Go to the left hand side of vortex and click on **"Mods"** on the grey bar
+  
+  ![step 4](https://imgur.com/qmilmkT)
+  
+ Left click on the mod at the top of the list in the middle of the screen to highlight it
+  
+  ![step 5](https://imgur.com/ZnFt4GG)
+  
+Scroll to the bottom mod in the list and shift + left click it in order to highlight all of the mods
+  
+  ![step 6](https://imgur.com/sMgjtyG)
+  
+  On the white bar that has appeared at the very bottom of the list click **"Remove"**
+  
+  ![step 7](
   
 </details>
 
