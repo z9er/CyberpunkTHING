@@ -438,7 +438,15 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My sandevistan isn't slowing time</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  With [Time Dilation Overhaul,](https://www.nexusmods.com/cyberpunk2077/mods/4931) some of the brands like Dynalar and Zetatech have very low (near real time) time dilation strength by default. Recommend staying with the defaults, but this can be adjusted by going to **"Mods"**
+  
+  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  
+  and go to **"TDO"** to make any desired adjustments
+  
+  ![tdo menu](https://i.imgur.com/Z3ITTaW.png)
+  
+  &#10240;
   
 </details>
 
