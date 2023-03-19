@@ -303,13 +303,13 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
 Go to the middle top grey bar and click on **"V2077 Settings"** and ensure that **"Automatically convert old style 'archive' mods to REDmods on install"** is greyed out and is not active
   
-  ![step 2](https://imgur.com/iSYsHmn)
+  ![step 2](https://i.imgur.com/iSYsHmn.png)
   
-  ![step 3](https://imgur.com/nhjRZnF)
+  ![step 3](https://i.imgur.com/nhjRZnF.png)
   
 Go to the left hand side of vortex and click on **"Mods"** on the grey bar
   
-  ![step 4](https://imgur.com/qmilmkT)
+  ![step 4](https://imgur.com/qmilmkT.png)
   
  Left click on the mod at the top of the list in the middle of the screen to highlight it
   
