@@ -200,7 +200,11 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>How do I name a save?</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  You're about to create a manual save, but don't just immediately click it. If you look at the top left above that you will see where you can add a name to your save
+  
+  ![save](https://i.imgur.com/f96LrEP.png)
+  
+  &#10240;
   
 </details>
 
