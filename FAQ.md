@@ -74,13 +74,33 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   ![second image](https://i.imgur.com/t6QOwYM.png)
   
+   &#10240;
+  
 </details>
 
 <details>
   <summary>I can't remote activate a door to open it</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  ![bnet 1](https://i.imgur.com/DTkEwci.png)
+  
+  If you run into the above issue where there is no way to remote activate a door or window, you will need to ensure that [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) is correctly configured. On the left side of the main menu click on **"Mods"**
+  
+  ![bnet 2](https://i.imgur.com/U2wROZZ.png)
+  
+  Go to **"Better Netrunning"**
+  
+  ![bnet 3](https://i.imgur.com/GxIVeTh.png)
+  
+  Scroll down to the **"Access Points"** section and ensure that **"Unlock Networks With No Access Points"** is enabled
+  
+  ![bnet 4](https://i.imgur.com/7S5GG80.png)
+  
+  This will correct the issue
+  
+  ![bnet 5](https://i.imgur.com/W3I8uMT.png)
+  
+   &#10240;
   
 </details>
 
