@@ -144,7 +144,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I am stuck in conversation with Jackie</summary>
   &#10240;
   
-  You're sitting sharing a nice moment pondering the future's opportunities with Jackie at the food stand outside of your apartment, and you need to call the car in order to "feel the factory new ride". If your hints are disabled it won't tell you what to do, but you'll want to call your vehicle, default keybind is **"v"**
+  You're sitting sharing a nice moment pondering the future's opportunities with Jackie at the food stand outside of your apartment, and you need to call the car in order to "feel the factory new ride". If your hints are disabled it won't tell you what to do, but you'll want to call your vehicle, default keybind is **"V"**
   
   ![example of jackie](https://i.imgur.com/CAZD805.png)
   
@@ -156,7 +156,33 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My hud disappears when using a controller</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  ![shud](https://i.imgur.com/OuugWwr.png)
+  
+  The reason this option is off in **"Mod Settings"**, **"LHUD ADDONS"** is if it is on, it allows certain keys to turn off all hud elements, which can be quite annoying on controller. If you would like to turn this on but want to change the keybind you will need to go to 
+  
+  ```
+  FOR VORTEX USERS
+  ```
+  
+  ![shud 2](https://i.imgur.com/t8J91RJ.png)
+  
+  ```
+  FOR WABBAJACK USERS
+  ```
+  
+  In **MO2** in the left panel left click **"Limited Hud"** to highlight it, then right click it and select **"Open in Explorer"**
+  
+  ![shud 3](https://i.imgur.com/EuBGa2T.png)
+  
+  Navigate to **"Root/r6/Input"**
+  
+  ![shud 4](https://i.imgur.com/qReV98j.png)
+  
+  **"LimitedHUD.xml** can be customized to choose whatever keybinds you would like, [a full list of CDPR's method for key naming here](https://nativedb.red4ext.com/EInputKey)
+  
+  ![shud 5](https://i.imgur.com/ONUo751.png)
+  
+  &#10240;
   
 </details>
 
