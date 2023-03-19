@@ -377,7 +377,19 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I level too slowly/quickly</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  Adjustments to leveling can be made by going to **"Mods"** in the main menu
+  
+  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  
+  Go to **"RMK Mods"**
+  
+  ![rmk mods](https://i.imgur.com/uOJA9Yt.png)
+  
+  Scroll to **"Simple XP Multiplier"** and adjust any values to your liking
+  
+  ![simple xp mult](https://i.imgur.com/YWYtwsp.png)
+  
+  &#10240;
   
 </details>
 
