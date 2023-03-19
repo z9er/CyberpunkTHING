@@ -349,7 +349,9 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>How do I use the CET console?</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  You can find a guide on some useful CET console commands [here](https://wiki.redmodding.org/cyber-engine-tweaks/console/how-do-i)
+  
+   &#10240;
   
 </details>
 
