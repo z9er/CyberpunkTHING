@@ -144,7 +144,11 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I am stuck in conversation with Jackie</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  You're sitting sharing a nice moment pondering the future's opportunities with Jackie at the food stand outside of your apartment, and you need to call the car in order to "feel the factory new ride". If your hints are disabled it won't tell you what to do, but you'll want to call your vehicle, default keybind is **"v"**
+  
+  ![example of jackie](https://i.imgur.com/CAZD805.png)
+  
+  &#10240;
   
 </details>
 
