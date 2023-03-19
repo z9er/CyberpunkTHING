@@ -108,7 +108,35 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My custom quickslots binds aren't working</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  In order for your [custom quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) options to work, your choices that you bind in the **"Mods"** menu will need to be duplicated in CET. As an example of this, you would first choose a keybind and action for a quickslot by going to **"Mods"** on the left side of the main menu
+  
+  ![qslot 1](https://i.imgur.com/U2wROZZ.png)
+  
+  At the top, select **"QSLOTS"**
+  
+  ![qslot 2](https://i.imgur.com/vNUFxDF.png)
+  
+  Adjust **"Number of Custom Quickslots"** to be 1 or more
+  
+  ![qslot 3](https://i.imgur.com/F0eHCqd.png)
+  
+  In this example, selecting for **"food"** and selecting **"9"** as the keybind
+  
+  ![qslot 4](https://i.imgur.com/3LBK12M.png)
+  
+  Press the key you chose to bind for the CET menu in order to open it, and go to **"Bindings"**
+  
+  ![qslot 5](https://i.imgur.com/ICUwKoO.png)
+  
+  Will want to duplicate the keybind for the same slot, which was Slot 1
+  
+  ![qslot 6](https://i.imgur.com/HOAMy7C.png)
+  
+  Then save the selection, and the quickslot you have chosen will now work
+  
+  ![qslot 7](https://i.imgur.com/5oVjZgx.png)
+  
+  &#10240;
   
 </details>
 
