@@ -467,7 +467,9 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My distraction quickhacks cost 0 ram</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This is a known [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) issue and is a ui glitch but does not affect the actual cost, which is correctly taken from your ram. The author is aware of the issue, but since the mod adds so much it is very much worth using
+  
+  &#10240;
   
 </details>
 
@@ -475,7 +477,9 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I can't walljump</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  The included mod [Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) was customized for inclusion with [Demigod's](https://www.nexusmods.com/cyberpunk2077/users/30144935) permission to have the changes associated with the cyberware **"Maneuvering System"** which can be bought at the Arroyo Ripperdoc
+  
+  &#10240;
   
 </details>
 
