@@ -418,7 +418,19 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>The breach protocol minigame is too easy/hard</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  Adjustments to the breach protocol can be made by going to **"Mods"** in the main menu
+  
+  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  
+  Go to **"RMK Mods"**
+  
+  ![rmk mods](https://i.imgur.com/uOJA9Yt.png)
+  
+  Scroll to the **"Challenging Breach Minigame"** and adjust any values to your liking
+  
+  ![brch](https://i.imgur.com/uiiogVl.png)
+  
+  &#10240;
   
 </details>
 
