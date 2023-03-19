@@ -397,7 +397,20 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I take/do too much/little damage</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  Adjustments to damage taken or done can be made by going to **"Mods"** in the main menu
+  
+  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  
+  Go to **"RMK Mods"**
+  
+  ![rmk mods](https://i.imgur.com/uOJA9Yt.png)
+  
+  Scroll to the **"Damage to NPC Multiplier"** or **"Damage to Player Multiplier"** and adjust any values to your liking
+  
+  ![dmg npc](https://i.imgur.com/k9yXNSS.png)
+  ![dmg plyr](https://i.imgur.com/8HUjNHo.png)
+  
+  &#10240;
   
 </details>
 
