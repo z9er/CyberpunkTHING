@@ -299,7 +299,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   This is often associated with the **Vortex Redmod Autoconversion** being toggled on. It is off by default, but if it has done the autoconversion you will need to go through a process to correct this, and you will not have to redownload the associated mods. Go to the left side of Vortex to the grey bar and click on **"Settings"**
   
-  ![step 1](https://imgur.com/ilpBWRY)
+  ![step 1](https://i.imgur.com/ilpBWRY.png)
   
 Go to the middle top grey bar and click on **"V2077 Settings"** and ensure that **"Automatically convert old style 'archive' mods to REDmods on install"** is greyed out and is not active
   
@@ -322,6 +322,44 @@ Scroll to the bottom mod in the list and shift + left click it in order to highl
   On the white bar that has appeared at the very bottom of the list click **"Remove"**
   
   ![step 7](
+  
+  In the popup that appears ensure that **"Remove Mod"** is ticked with a blue and white checkmark, but that **"Delete Archive"** remains unticked and clear
+  
+  ![step 8](
+  
+ Click **"Remove"** at the bottom right of the popup 
+  
+  ![step 9](
+  
+ In the next popup, tick the box for **"Apply to Recommended Mods"** so that a blue and white checkmark appears 
+  
+  ![step 10](
+  
+  ![step 11](
+  
+Then click on **"Disable"** bottom right of the grey popup  
+  
+  ![step 12](
+  
+The list of mods will now show as **"Uninstalled"** in blue
+  
+  ![step 13](
+  
+Scroll down to the mod **"Cyberpunk Thing"** and left click it 
+  
+  ![step 14](
+  
+  After highlighting **"Cyberpunk Thing"** right click it and left click **"Install"**
+  
+  ![step 15](
+  
+  In the popup that appears click **"Install Now"**
+  
+  ![step 16](
+  
+ These steps will undo the REDmod autoconversion that vortex performed and will correct your install without you having to redownload any mods
+  
+  &#10240;
   
 </details>
 
