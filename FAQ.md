@@ -454,7 +454,12 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I can't see enemies through walls with ping</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This is a purposeful balance adjustment accomplished with the included mod [Disable Highlighting Through Walls,](https://www.nexusmods.com/cyberpunk2077/mods/3314) as without it ping can lead to extreme ease combined with tech weapons, and makes stealth far less rewarding. You are still able to manually mark enemies either yourself or through the [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) and this mark will show through walls
+  
+  ![walls](https://i.imgur.com/MzsrFMr.png)
+  ![walls 2](https://i.imgur.com/Y4MmLNr.png)
+  
+  &#10240;
   
 </details>
 
