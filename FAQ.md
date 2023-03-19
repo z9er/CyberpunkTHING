@@ -634,6 +634,44 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>I can't use a sandevistan and a techdeck at the same time</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This was a limitation we added for balance reasons with the mod author's permission. If you would like to change this
+  
+   ```
+  FOR VORTEX USERS
+  ```
+  
+  In **Vortex** in the **"Mods"** section, navigate to **"CT Config"** and right click it to **"Open in File Manager"**
+  
+  ![shud 2](https://i.imgur.com/HYroN5m.png)
+  
+  Navigate to **"CT Config\bin\x64\plugins\cyber_engine_tweaks\mods\Drone Companions\Modules"** and open the file **"Techdecks.lua"**
+  
+  ![2nd](https://i.imgur.com/a7D9naZ.png)
+  
+  ```
+  FOR WABBAJACK USERS
+  ```
+  
+  In **MO2** in the left panel left click **"CT Config"** to highlight it, then right click it and select **"Open in Explorer"**
+  
+  ![3nd](https://i.imgur.com/pteWnMf.png)
+  
+  Navigate to **"Root\bin\x64\plugins\cyber_engine_tweaks\mods\Drone Companions\Modules"** and open the file **"Techdecks.lua"**
+  
+  ```
+  Continued for Both
+  ```
+  
+  In **"Techdecks.lua"** go to line 2041
+  
+  ![techdeck 1](https://i.imgur.com/IpO9yEN.png)
+  
+  and adjust **"Cyberdeck"** to be **"Techdeck"** 
+  
+  ![techdeck 2](https://i.imgur.com/rGD3A60.png)
+  
+  Keep in mind this change would have to be done again when the list updates
+  
+  &#10240;
   
 </details>
