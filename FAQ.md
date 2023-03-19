@@ -273,7 +273,9 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>When I upgrade my weapon the stats don't change</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  If you notice this happening on the crafting screen, don't continue to try to upgrade the gun. Reload your save and the issue will be resolved
+  
+   &#10240;
   
 </details>
 
@@ -281,7 +283,9 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>An enemy gang member called the police on me</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  This is associated with [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815). At high stars, in addition to enemy reinforcements NCDP's finest can show up, as a reflection of things getting completely out of hand
+  
+  &#10240;
   
 </details>
 
