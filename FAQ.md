@@ -412,7 +412,11 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>My flashlight isn't working</summary>
   &#10240;
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod ac dolor vel pharetra. Sed gravida purus a dolor lobortis, sed bibendum dolor rutrum.
+  In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) open the "Game Folder Files" folder in your modlist install location, and copy the archive folder into your main Cyberpunk 2077 directory
+
+![demonstration of game folder files thing](https://media.giphy.com/media/N8oz510KVUrX2PzLBN/giphy.gif)
+  
+  &#10240;
   
 </details>
 
