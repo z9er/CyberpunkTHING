@@ -275,7 +275,7 @@ anything. Always backup your saves or start a new game after updating
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
 This means that any additional mods you have installed on top of the Modlist
-will be deleted. Your downloads folder will not be touched! That means if you have made your own modded setup on top of the list, you should update mods *manually*.
+will be deleted. Your downloads folder will not be touched! That means if you have made your own modded setup on top of the list, you should update those mods *manually*.
 
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button
