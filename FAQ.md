@@ -55,7 +55,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 </details>
 
 <details>
-  <summary>My saved games are blank ingame</summary>
+  <summary>My saved games are slow to load/blank ingame</summary>
   &#10240;
   
   ![picture of problem](https://i.imgur.com/XBoH5Fi.png)
