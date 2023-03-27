@@ -10,6 +10,7 @@
 - [Gameplay](#gameplay)
 - [Enemies and Difficulty](#enemies-and-difficulty)
 - [NPC Interactions](#npc-interactions)
+- [Quests](#quests)
 - [Vehicles and Driving](#vehicles-and-driving)
 - [Quality of Life](#quality-of-life)
 - [Bug Fixes](#bug-fixes)
@@ -29,6 +30,8 @@
 **[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)** - RED4ext plugin, loads archive extensions
 
 **[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)** - RED4ext plugin, modifications loader and script extensions 
+
+**[Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)** - Utility mod that allows for script extensions
 
 **[Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)** - Allows other mods to easily add settings menus using only native UI, looking like the game settings menu
 
@@ -140,6 +143,8 @@
 
 **[Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136)** - Configurable in-game sliders for all kinds of xp. **Has Mod Menu: "RMK MODS"**
 
+**[Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616)** - Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig; Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Has new items as rewards including new variations of Optical Camo. **Has Mod Menu: "STEALTHRUNNER"**
+
 **[Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921)** - Turns sticky grenades into proximity mines
 
 **[Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319)** - Adds a fully useable stock market system and news system that dynamically reacts to quests and player action
@@ -203,6 +208,17 @@
 **[River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)** - River now eats, drinks, sleeps and works out around Joss' family trailer 
 
 **[Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367)** - Makes Wilson's gun range (2nd Amendment) usable outside of his competition side quest
+
+&#10240;
+&#10240;
+
+## Quests
+
+**[Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831)** - Framework mod that allows for multiple quest mods to use a single hook
+
+**[Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833)** - Adds a new quest to the game
+
+**[One More Light](https://www.nexusmods.com/cyberpunk2077/mods/7834)** - Adds a new quest to the game
 
 &#10240;
 &#10240;
@@ -301,10 +317,6 @@
 
 **[Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000)** - Fixes a few small bugs in the Breach/Quickhacking system
 
-**[Optical Camo Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/3722)** - Fixes bugs with optical camo
-
-**[Proximity Mine Audio Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/6743)** - Fixes the bug where some proximity mines don't emit a sound when you approach them and instead explode without warning
-
 **[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519)** - Collection of general fixes for Cyberpunk
 
 **[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)** - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
@@ -321,6 +333,8 @@
 **[Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)** - Allows you to save and create character presets
 
 **[Blade runner 2077 Better Finer Rain](https://www.nexusmods.com/cyberpunk2077/mods/2001)** - Changes the rain to look more realistic
+
+**[Cyberpunk 2077 HD Reworked Project](https://www.nexusmods.com/cyberpunk2077/mods/7652)** - Aims to improve the graphics by reworking game assets to better quality preserving original art style and good performance
 
 **[Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)** - Transmog system and outfit manager
 
