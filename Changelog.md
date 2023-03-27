@@ -1,4 +1,50 @@
+### Version 3.7
+
+&#10240;
+
+**Added**
+
+- [Californication 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7833)
+
+- [Codeware 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+
+- [Cyberpunk 2077 HD Reworked Project 1.0-fix](https://www.nexusmods.com/cyberpunk2077/mods/7652)
+
+- [Deceptious Quest Core 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+
+- [One More Light 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7834)
+
+- [Stealthrunner 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+
+**Updated**
+
+- [Appearance Change Unlocker 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/3850)
+
+- [ArchiveXL 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+
+- [Enhanced Craft 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/4378)
+
+- [Equipment-EX 0.9.1](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+
+- [Immersive Timeskip 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/5115)
+
+- [Named Saves 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
+
+- [Virtual Car Dealer 1.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+
+- CT Config 1.0.2.9
+
+**Removed**
+
+- [Optical Camo Bug Fixes 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/3722)
+
+- [Proximity Mine Audio Bug Fix 1.1](https://www.nexusmods.com/cyberpunk2077/mods/6743)
+
+&#10240;
+
 ### Version 3.6
+
+&#10240;
 
 **Added**
 
