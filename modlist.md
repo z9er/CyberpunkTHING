@@ -155,8 +155,6 @@
 
 **[Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317)** -  Using healing items adds toxicity until you overdose, which has to elapse before you can use more. Set to two charges of toxicity. **Has Mod Menu: "RMK MODS"**
 
-**[Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815)** - Allows the player to use weapons while driving, and for enemies to call for reinforcements and crowd NPCs to call for the police. **Has Mod Menu: "VEHICLE COMBAT"**
-
 **[WE3D - Drugs of Night City](https://www.nexusmods.com/cyberpunk2077/mods/4407)** - Adds 23 new drugs of various effects to the game as well as crafting specs for them. **Has Mod Menu: "WE3D"**
 
 **[Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543)** - Adds configurable zoom levels to scoped weapons that can be cycled through. **Has CET Hotkey. Has Mod Menu: "BETTER SCOPES"**
