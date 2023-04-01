@@ -1,3 +1,29 @@
+### Version 3.8
+
+&#10240;
+
+**Updated**
+
+- [Californication 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/7833)
+
+- [Immersive Bartenders 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/7203)
+
+- [Immersive Vik 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6794)
+
+- [Judy Romanced Enhanced 1.5.1](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+
+- [Stealthrunner 1.0.5](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+
+- [Virtual Car Dealer 1.5.1](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+
+- CT Config 1.0.3.0
+
+**Removed**
+
+- [Vehicle Combat 1.22](https://www.nexusmods.com/cyberpunk2077/mods/3815)
+
+&#10240;
+
 ### Version 3.7
 
 &#10240;
