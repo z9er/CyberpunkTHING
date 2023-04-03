@@ -120,8 +120,15 @@ _Auto Update Games_
 
 ### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe`
-file in `C:\Wabbajack`
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) 
+
+![wjack githug](https://i.imgur.com/ljncxQg.png)
+
+Place the `Wabbajack.exe` in a location like `C:\Wabbajack`
+
+```
+Wabbajack can be installed to any folder as long as it is on the same hard drive as your Cyberpunk 2077 game directory
+```
 
 ### Downloading and Installing
 
