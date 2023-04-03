@@ -213,11 +213,11 @@ When you start the game for the first time you will be met with an overlay promp
 
 Keybinds for **"BetterScopes",** **"NanoDrone",** **"QuestTrackingToggle"** are as follows:
 
-Additional weapon zoom is **"Left Shift"**
+Additional weapon zoom is <kbd>Shift</kbd>
 
-Quest Tracking Toggle is **"F11"**
+Quest Tracking Toggle is <kbd>F11</kbd>
 
-NanoDrone forwards, left, backwards, and right is **"W, A, S, and D"**, and up and down are **"Space and Left Control"**
+NanoDrone forwards, left, backwards, and right is <kbd>w</kbd> <kbd>a</kbd> <kbd>s</kbd> and <kbd>d</kbd>, and up and down are <kbd>Space</kbd> and <kbd>Control</kbd>
 
 Any of this can be changed by hitting your bound **CET Overlay Key** and going to **"Bindings"**
 
