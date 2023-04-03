@@ -147,6 +147,12 @@ To have the highest amount of threads and thus the fastest speed, it is advised 
 
 3. Set Cyberpunk THING to install to `C:\Cyberpunk THING` and downloads to `C:\Cyberpunk THING\Downloads`
    You can set a different path if you wish, but avoid system protected folders. 
+   
+```
+Avoid installing the list to a system protected folder like Program Files, ensure the list is installed to a different location 
+than the folder Wabbajack.exe is located in
+```
+   
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 
