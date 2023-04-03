@@ -122,7 +122,9 @@ _Auto Update Games_
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) 
 
-![wjack githug](https://i.imgur.com/ljncxQg.png)
+[![wjak](https://i.imgur.com/ljncxQg.png)](https://github.com/wabbajack-tools/wabbajack/releases "Wabbajack Link")
+
+[wjak image]: https://i.imgur.com/ljncxQg.png
 
 Place the `Wabbajack.exe` in a location like `C:\Wabbajack`
 
