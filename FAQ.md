@@ -295,8 +295,6 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
 </details>
 
-&#10240;
-
 </details>
 
 <details>
