@@ -298,7 +298,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 </details>
 
 <details>
-  <summary>I turned on the Limited Hud Addon Simple Hud Toggle and it isn't working</summary>
+  <summary>I turned on the Simple Hud Toggle in Limited Hud Addon settings and it isn't working</summary>
   &#10240;
   
   Restart your game and it will, it defaults to <kbd>F1</kbd>
