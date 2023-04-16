@@ -80,7 +80,7 @@
 
 **[Untrack Quest Ultimate](https://www.nexusmods.com/cyberpunk2077/mods/6328)** - Easy quest untracking
 
-**[flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729)** - Quality of life UI improvements that help sort quests, messages and shards, and preview images of vehicles on texts from fixers
+**[flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729)** - Quality of life UI improvements that help sort quests, messages and shards, and preview images of vehicles on texts from fixers, prevents disassembling iconics
 
 &#10240;
 &#10240;
