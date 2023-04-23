@@ -1,3 +1,81 @@
+### Version 3.9
+
+&#10240;
+
+**Added**
+
+- [Idle Anywhere 0.9.4](https://www.nexusmods.com/cyberpunk2077/mods/8038)
+
+- [Improved (Or Is It) Rain Effect 1.0](https://www.nexusmods.com/cyberpunk2077/mods/8076)
+
+- [Shigure Weapon Bugs Fix 1](https://www.nexusmods.com/cyberpunk2077/mods/8067)
+
+- [TV Anywhere 0.9.4](https://www.nexusmods.com/cyberpunk2077/mods/8162)
+
+- [Virtual Care Dealer - PC Layout Patch 1.6.1](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+
+- [QoL - Interactive Judy's Apartment Devices 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8099)
+
+**Updated**
+
+- [Apartment Cats - Japantown 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/6493)
+
+- [Apartment Cats - Motel 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/6379)
+
+- [Apartment Cats - The Glen 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/6276)
+
+- [ArchiveXL 1.4.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+
+- [Codeware 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+
+- [Cyber Engine Tweaks 1.24.1](https://www.nexusmods.com/cyberpunk2077/mods/107)
+
+- [Equipment-EX 0.9.5](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+
+- [Immersive Rippers 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+
+- [Input Loader 0.1.0](https://www.nexusmods.com/cyberpunk2077/mods/4575)
+
+- [Judy Romanced Enhanced 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+
+- [Mod Settings 0.0.14](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+
+- [Muted Markers 1.9.1](https://www.nexusmods.com/cyberpunk2077/mods/1727)
+
+- [Named Saves 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
+
+- [Night City Interactions 0.3.6](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+
+- [Panam Romanced Enhanced 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+
+- [Playable Arcade Machines 1.2](https://www.nexusmods.com/cyberpunk2077/mods/4213)
+
+- [RED4ext 1.12.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+
+- [redscript 0.5.11](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+
+- [River Romanced Enhanced 1.3.3](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+
+- [Simple Flashlight 2.4](https://www.nexusmods.com/cyberpunk2077/mods/2913)
+
+- [Stealthrunner 1.0.10](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+
+- [TweakXL 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+
+- [Virtual Car Dealer 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+
+- [Weather Probability Rebalance 2.5](https://www.nexusmods.com/cyberpunk2077/mods/3196)
+
+- CT Config 1.0.3.1
+
+**Removed**
+
+- [Annoy Me No More - Disable Mantis Blades Finisher 15.0](https://www.nexusmods.com/cyberpunk2077/mods/1512)
+
+- [Blade runner 2077 Better Finer Rain 5.0](https://www.nexusmods.com/cyberpunk2077/mods/2001)
+
+&#10240;
+
 ### Version 3.8
 
 &#10240;
