@@ -205,6 +205,8 @@
 
 **[River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)** - River now eats, drinks, sleeps and works out around Joss' family trailer 
 
+**[QoL - Interactive Judy's Apartment Devices](https://www.nexusmods.com/cyberpunk2077/mods/8099)** - Let's V control the Radio, Bedroom TV, Kitchen TV, and Bathroom TV in Judy's apartment
+
 **[Wilson's Range](https://www.nexusmods.com/cyberpunk2077/mods/7367)** - Makes Wilson's gun range (2nd Amendment) usable outside of his competition side quest
 
 &#10240;
@@ -243,6 +245,8 @@
 
 **[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)** - Allows you to buy vehicles on a computer rather than through fixer deals
 
+**[Virtual Car Dealer PC Layout Patch](https://www.nexusmods.com/cyberpunk2077/mods/4454)** - Tweaks PC layout to make more tabs visible
+
 &#10240;
 &#10240;
 
@@ -250,7 +254,7 @@
 
 **[Adaptive Sliders](https://www.nexusmods.com/cyberpunk2077/mods/5075)** - Sets items sliders to max by default for Drop, Stash and Sell actions
 
-**[Annoy Me No More](https://www.nexusmods.com/cyberpunk2077/mods/1512)** - Disables the Mantis blades finisher animation, able to skip forward through call dialogue
+**[Annoy Me No More](https://www.nexusmods.com/cyberpunk2077/mods/1512)** - Able to skip forward through call dialogue
 
 **[Better Kyubi Sights](https://www.nexusmods.com/cyberpunk2077/mods/5968)** - Cleans up the unnecessary dots from the Kyubi sight
 
@@ -315,7 +319,9 @@
 
 **[Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000)** - Fixes a few small bugs in the Breach/Quickhacking system
 
-**[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519)** - Collection of general fixes for Cyberpunk
+**[Shigure Weapon Bugs Fix](https://www.nexusmods.com/cyberpunk2077/mods/4519)** - Corrects iron sight position and ghosting for Shigure
+
+**[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/8067)** - Collection of general fixes for Cyberpunk
 
 **[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)** - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
 
@@ -330,7 +336,9 @@
 
 **[Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850)** - Allows you to save and create character presets
 
-**[Blade runner 2077 Better Finer Rain](https://www.nexusmods.com/cyberpunk2077/mods/2001)** - Changes the rain to look more realistic
+**[Idle Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8038)** - Adds the ability to smoke, drink, and eat when V is idle
+
+**[Improved (Or Is It) Rain Effect](https://www.nexusmods.com/cyberpunk2077/mods/8076)** - Changes the rain to look more realistic
 
 **[Cyberpunk 2077 HD Reworked Project](https://www.nexusmods.com/cyberpunk2077/mods/7652)** - Aims to improve the graphics by reworking game assets to better quality preserving original art style and good performance
 
@@ -343,6 +351,8 @@
 **[Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858)** - Better enemy ragdolls
 
 **[Sit Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/7299)** - Lets you sit down almost anywhere you want
+
+**[TV Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8162)** - Unlocks the ability to watch TV anywhere, after completing a tiny collection quest
 
 **[Vanilla Billboard LODs Improved](https://www.nexusmods.com/cyberpunk2077/mods/3184)** - Improves the LOD textures of all billboards in the game
 
