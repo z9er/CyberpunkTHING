@@ -1,3 +1,5 @@
+[Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
+
 &#10240;
 &#10240;
 
