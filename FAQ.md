@@ -44,6 +44,20 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 </details>
 
 <details>
+  <summary>I was throwing sticky grenades and my game crashed</summary>
+  &#10240;
+  
+  This is a potential issue [per the mod page](https://www.nexusmods.com/cyberpunk2077/mods/4921)
+  
+  ![mine](https://i.imgur.com/hHNegIY.png) 
+  
+  Try not to do that 
+  
+  &#10240;
+  
+</details>
+
+<details>
   <summary>I don't see the initial CET keybind popup</summary>
   &#10240;
   
