@@ -1,3 +1,25 @@
+### Version 4.0
+
+&#10240;
+
+**Updated**
+
+- [ArchiveXL 1.4.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+
+- [Idle Anywhere 0.9.5](https://www.nexusmods.com/cyberpunk2077/mods/8038)
+
+- [Limited Hud 2.6.0](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+
+- [Purify the UI 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/2648)
+
+- [Stealthrunner 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+
+- [TV Anywhere 0.9.5](https://www.nexusmods.com/cyberpunk2077/mods/8162)
+
+- CT Config 1.0.3.2
+
+&#10240;
+
 ### Version 3.9
 
 &#10240;
