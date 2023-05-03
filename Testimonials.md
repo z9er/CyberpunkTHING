@@ -9,5 +9,21 @@ And that is largely what makes this list stand out.  Not only is the list highly
 I've probably put about 20-30 hours in this modlist over the course of a couple playthroughs, and it's been pretty solid.  Only one notable bug, and that was caused by a mod interaction removed in Revision 22.  Anything else was from me trying to add more mods onto it.  All in all, this has given me a pretty positive impression of Nexus' collections, and if you're going to try one for CP2077, it should probably be this one
 
 **Barachiel1976**
+
+After playing the shit out of this list for a long time, I have a bit of a review. Overall it is an excellent list. While the list is marketed as being a hardcore/difficult list (and it most definately is), it makes many small but great changes to the base game that it makes me not want to go back to vanilla. For example, I initially did not like the smaller menu/HUD, but after playing this list for a hundred hours and then going back to the base game, I absolutely hated how insanely large everything in the HUD was. In terms of performance, the list ran better than the base game, at least for me. Moreover, the WJ install was incredibly quick and updating even faster. I would ultimately recommend this list to anyone who loved the base game, and I would say that this list is great way to start a second playthrough. The only real recommendations that I would make for this list would be for more player customization options. The only real criticism I have of the list so far is that the vehicle scenes are a bit unbalanced, but the Modlist author did say that it was going to be addressed. TLDR: good list. definately play
+
+**Maliketh the Black Blade**
+
+Honestly, this collection is just great. It has basically fixed ALL the major complaints I had with the vanilla game. I'm about 10 hours in with a full hacker build and truly loving the challenge. No more cheese mode see everything through walls, or slowing down time for 20 seconds over and over and over again. 
+
+**harltone7443**
+
+Superb collection, plays really fluid on patch 1.6, offers new ways to tackle problems, and the gun-fights are brutally lethal. I love it so far. Thank you guys for this gem! 
+
+**DeviantTechnq**
+
+gotta say, this collection is freaking awesome. Wanted to come back to cp but dreaded the hours of installing mods. This pretty much packs everything i wanted into 1 in just a few minutes. Really appreciate whoever made this, thanks a lot! 
+
+**ThePoutinePrince**
                                                                                                                         
                                                                                                                         
