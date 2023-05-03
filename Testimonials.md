@@ -1,6 +1,12 @@
+[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+
+[logo image]: https://i.imgur.com/2zyLjNQ.png
+
 Great collection, I am enjoying the game once again. I can say the difficult balancing is quite good, playing very hard. before the thing every NCPD shootout would be resolved right there in the spot in few seconds, just hide behind a crater and kill one by one until it's done. Now since the reinforcement mechanic (and the amped up netrunning) sometime I need to use the whole block/city in order to take them down. When things gets heated I need to back out, run, hide, jump on buildings, reposition, go around the block to take them from behind, peek a boo. You never know where they coming from, always on the look out for an exit, a plan b. Fighting these gangoons really feels satisfyingly now and the city layout has become part of it.  Initially was a struggle but then I adapted, learned, with experience I become a better merc, not just with the levels and powers meta, but in the way you play, actually. it plays more as an open world city game now. the best there is  
 
 **strangerism**
+
+---
 
 So Cyberpunk THINGS was my first real experience with Nexusmods' Collections.  I'd been a little hesitant, as much like Steam Workshop's approach, I saw nothing but compatibility conflicts abounding from just slapping mods into a list and calling it a day.  Most of my "automated modding" experience came from Wabbajack with is a much more powerful tool, but not for beginners.  But after browsing a few collections on the website, this one caught my eyes.  The main thing that got my attention was how well done its Collection Page was.  And as I read through it, I noticed it talked about having a lot of its mods settings' come pre-configured for the list's intended play balance.  Well, that had my attention, and so I finally installed Vortex and gave it a whirl.  
 
@@ -22,41 +28,9 @@ Superb collection, plays really fluid on patch 1.6, offers new ways to tackle pr
 
 **DeviantTechnq**
 
-gotta say, this collection is freaking awesome. Wanted to come back to cp but dreaded the hours of installing mods. This pretty much packs everything i wanted into 1 in just a few minutes. Really appreciate whoever made this, thanks a lot! 
-
-**ThePoutinePrince**
-                                                                                                                        
- Hey! I really like what this modlist is offering, it's just great. I feels like a better rp and also immersive sim game now.  
- 
- **Steven9494**
- 
-hey guys, I am loving this collection! really makes the game feel like what I had hoped it would be prior to release. thank you so much for curating this and making it such a blast to install! 
-
-**PUR3**
-
-Thank you for working hard on this collection it will be worth the wait. ever since I used this collection it has made my experince I couldnt imagine playing it the old way now. 
-
-**MyLegend1996**
-
-No complaints here, I just wanted to thank you and your team, the Wabbajack discord and THING discord for providing a list that is rigorously tested and kept to a high standard, and to congratulate you on the first 'true' Cyberpunk 2077 list on Wabbajack! 
-
-**Viholiday**
-
 This is what I wanted out of the main game to begin with. [CDPR] made the game seem so hard and formidable, at least that was my first impression of it. Thanks to everyone who had a hand in this. 
 
 **mrsirdoe**
-
-Thank you all for your continued work on the collection, it has become the default from which I mod the game nowadays. 
-
-**Arath3I**
-
-Good day, installed and runs flawlessly.  I am very impressed with the detail the team has put into the collection. Thank you and endorsed! 
-
-**villish**
-
-been using this modpack for the past month for me second playthough. fantastic stuff. lots of QoL and content, but no fluff 9/10 
-
-**SilkyZ**
 
 Great collection, btw. Heavily recommend it. 
 
