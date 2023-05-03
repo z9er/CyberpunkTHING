@@ -26,4 +26,46 @@ gotta say, this collection is freaking awesome. Wanted to come back to cp but dr
 
 **ThePoutinePrince**
                                                                                                                         
-                                                                                                                        
+ Hey! I really like what this modlist is offering, it's just great. I feels like a better rp and also immersive sim game now.  
+ 
+ **Steven9494**
+ 
+hey guys, I am loving this collection! really makes the game feel like what I had hoped it would be prior to release. thank you so much for curating this and making it such a blast to install! 
+
+**PUR3**
+
+Thank you for working hard on this collection it will be worth the wait. ever since I used this collection it has made my experince I couldnt imagine playing it the old way now. 
+
+**MyLegend1996**
+
+No complaints here, I just wanted to thank you and your team, the Wabbajack discord and THING discord for providing a list that is rigorously tested and kept to a high standard, and to congratulate you on the first 'true' Cyberpunk 2077 list on Wabbajack! 
+
+**Viholiday**
+
+This is what I wanted out of the main game to begin with. [CDPR] made the game seem so hard and formidable, at least that was my first impression of it. Thanks to everyone who had a hand in this. 
+
+**mrsirdoe**
+
+Thank you all for your continued work on the collection, it has become the default from which I mod the game nowadays. 
+
+**Arath3I**
+
+Good day, installed and runs flawlessly.  I am very impressed with the detail the team has put into the collection. Thank you and endorsed! 
+
+**villish**
+
+been using this modpack for the past month for me second playthough. fantastic stuff. lots of QoL and content, but no fluff 9/10 
+
+**SilkyZ**
+
+Great collection, btw. Heavily recommend it. 
+
+**[Gwyn21](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)**
+
+Your collection page is looking awesome guys. The best i have seen for a collection. Very well done. 
+
+**[canliberk](https://next.nexusmods.com/skyrimspecialedition/collections/xxsqm4)**
+
+
+
+
