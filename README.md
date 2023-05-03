@@ -313,6 +313,13 @@ You can just remove the MO2 folder, along with any Game Folder file mod you've i
 
 &#10240;
 
+# Testimonials
+
+[See other users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+
+
+&#10240;
+
 # Credits and Thanks
 
 A special thanks to [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466), without whom this crazy experiment would never have gotten off the ground.
