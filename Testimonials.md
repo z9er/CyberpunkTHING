@@ -2,7 +2,6 @@
 
 [logo image]: https://i.imgur.com/2zyLjNQ.png
 
-&#10240;
 
 ![test 1](https://i.imgur.com/MIDmJCL.png)
 
