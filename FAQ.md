@@ -1,4 +1,6 @@
-[![Discord Link](https://i.imgur.com/OehZMjj.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+
+[logo image]: https://i.imgur.com/2zyLjNQ.png
 
 # Frequently Asked Questions
 
