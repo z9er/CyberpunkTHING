@@ -4,7 +4,7 @@
 
 &#10240;
 
-**strangerism:** 
+#### **strangerism:** 
 
 Great collection, I am enjoying the game once again. I can say the difficult balancing is quite good, playing very hard. before the thing every NCPD shootout would be resolved right there in the spot in few seconds, just hide behind a crater and kill one by one until it's done. Now since the reinforcement mechanic (and the amped up netrunning) sometime I need to use the whole block/city in order to take them down. When things gets heated I need to back out, run, hide, jump on buildings, reposition, go around the block to take them from behind, peek a boo. You never know where they coming from, always on the look out for an exit, a plan b. Fighting these gangoons really feels satisfyingly now and the city layout has become part of it.  Initially was a struggle but then I adapted, learned, with experience I become a better merc, not just with the levels and powers meta, but in the way you play, actually. it plays more as an open world city game now. the best there is 
 
