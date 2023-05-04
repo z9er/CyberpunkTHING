@@ -315,7 +315,7 @@ You can just remove the MO2 folder, along with any Game Folder file mod you've i
 
 # Testimonials
 
-[See other users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+[Read about other users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
 
 &#10240;
