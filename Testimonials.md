@@ -57,7 +57,7 @@ This is what I wanted out of the main game to begin with. [CDPR] made the game s
 
 ![test 7](https://i.imgur.com/0HFaI0R.png)
 
-**[Gwyn21:](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** 
+**[Gwyn21 - Curator, Welcome To Night City:](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** 
 
 Great collection, btw. Heavily recommend it. 
 
@@ -65,7 +65,7 @@ Great collection, btw. Heavily recommend it.
 
 ![test 8](https://i.imgur.com/vpdCBwJ.png)
 
-**[canliberk:](https://next.nexusmods.com/skyrimspecialedition/collections/xxsqm4)** 
+**[canliberk - Curator, Immersive & Adult, Immersive & Adult for Steamdeck, Immersive & Pure, Immersive & Epic:](https://www.nexusmods.com/users/5027009)** 
 
 Your collection page is looking awesome guys. The best i have seen for a collection. Very well done. 
 
