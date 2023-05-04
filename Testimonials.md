@@ -3,7 +3,7 @@
 [logo image]: https://i.imgur.com/2zyLjNQ.png
 
 
-![test 1](https://i.imgur.com/MIDmJCL.png)
+![test 1](https://i.imgur.com/ii866v8.png)
 
 #### **strangerism:** 
 
