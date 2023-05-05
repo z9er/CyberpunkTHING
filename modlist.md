@@ -16,10 +16,9 @@
 - [Quality of Life](#quality-of-life)
 - [Bug Fixes](#bug-fixes)
 - [Aesthetics](#aesthetics)
-
 &#10240;
 
-Several mods in the collection have been adjusted with permission from their mod authors. You are now limited to using the Techdeck from Drone Companions as an alternative to a cyberdeck rather than something that can be run in tandem. The movement changes from Alternate Midair Movement and Walljumping are now part of the Maneuvering System cyberware.
+*Several mods in the collection have been adjusted with permission from their mod authors. You are now limited to using the Techdeck from Drone Companions as an alternative to a cyberdeck rather than something that can be run in tandem. The movement changes from Alternate Midair Movement and Walljumping are now part of the Maneuvering System cyberware.*
 
 
 &#10240;
