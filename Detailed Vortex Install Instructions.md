@@ -320,3 +320,5 @@ Further down in the **"HUD Visibility"** section, recommend keeping all on excep
 ```
 New players may want to keep "Hints" on until they feel they no longer need them
 ```
+
+[Return to Main Collection Page](https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d)
