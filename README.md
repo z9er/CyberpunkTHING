@@ -21,13 +21,8 @@
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/wxtFNkO.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/JZ3pUvU.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JZ3pUvU.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.imgur.com/wxtFNkO.png">
 </picture>
 
 [![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
