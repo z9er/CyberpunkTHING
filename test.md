@@ -90,6 +90,8 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
+Pretend that this section is longer.
+
 [Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 ---
@@ -101,6 +103,8 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 [testimonialimage]: https://i.imgur.com/uJ4hFcp.png
 
 ![spacer](https://i.imgur.com/42dA30s.png)
+
+Pretend that this section is longer.
 
 [Read about other users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
