@@ -20,8 +20,8 @@
 
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
-![Features button not clickable](https://i.imgur.com/JZ3pUvU.png#gh-dark-mode-only)
-![Features button not clickable](https://i.imgur.com/wxtFNkO.png.png#gh-light-mode-only)
+![Features button not clickable dark](https://i.imgur.com/wxtFNkO.png#gh-light-mode-only)
+![Features button not clickable light](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
 
 [![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
