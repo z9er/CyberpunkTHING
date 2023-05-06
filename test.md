@@ -46,11 +46,11 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-# Adjusted Mod Configuration
+# In-Depth Installation and Setup Instructions
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-Several mods in the collection have been adjusted with permission from their mod authors. You are limited to using the **Techdeck** from [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520) as an alternative to a cyberdeck rather than something that can be run in tandem. The movement changes from [Alternate Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) are now part of the **Maneuvering System** cyberware.
+A guide to how to setup **Vortex**, how to prepare for and download the collection as well as how to update properly, as well as recommended in-game settings and keybinds can be found [in our more detailed guide here](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
 ---
 
