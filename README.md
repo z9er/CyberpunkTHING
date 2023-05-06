@@ -1,6 +1,3 @@
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
-![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
-
 [Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
 
 &#10240;
@@ -23,8 +20,8 @@
 
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
-![Features button not clickable dark](https://i.imgur.com/wxtFNkO.png#gh-light-mode-only)
-![Features button not clickable light](https://i.imgur.com/JZ3pUvU.png#gh-dark-mode-only)
+![Termux Logo](https://i.imgur.com/wxtFNkO.png#gh-dark-mode-only)
+![Termux Logo](https://i.imgur.com/JZ3pUvU.png#gh-light-mode-only)
 
 [![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
