@@ -84,7 +84,9 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-![FAQ](https://i.imgur.com/2htvKqF.png)
+[![FAQ](https://i.imgur.com/2htvKqF.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md "FAQ")
+
+[FAQimage]: https://i.imgur.com/2htvKqF.png
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -96,7 +98,7 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 [![Testimonials](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md "Testimonials")
 
-[Featureimage]: https://i.imgur.com/uJ4hFcp.png
+[testimonialimage]: https://i.imgur.com/uJ4hFcp.png
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
