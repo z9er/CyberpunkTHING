@@ -28,6 +28,14 @@
 
 [Featureimage]: https://i.imgur.com/GLyL7rR.png#gh-dark-mode-only
 
+[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png#gh-light-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
+
+[Featureimage]: https://i.imgur.com/JZ3pUvU.png#gh-light-mode-only
+
+[![Features List](https://i.imgur.com/GLyL7rR.png#gh-light-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
+
+[Featureimage]: https://i.imgur.com/GLyL7rR.png#gh-light-mode-only
+
 # MO2 for Cyberpunk
 
 Mod Organizer 2 and Cyberpunk 2077 aren't normally compatible - using MO2 on the game leads to CET and Redscript errors. This has been addressed through a plugin called Root Builder that allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes.
