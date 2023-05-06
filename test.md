@@ -18,9 +18,9 @@
 
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
-[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
+[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
+[![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 ---
 
