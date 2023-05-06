@@ -84,7 +84,7 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-# Frequently Asked Questions
+![FAQ](https://i.imgur.com/2htvKqF.png)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -94,7 +94,7 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-# Testimonials
+![Testimonials](https://i.imgur.com/uJ4hFcp.png)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
