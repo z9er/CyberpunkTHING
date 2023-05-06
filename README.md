@@ -20,21 +20,13 @@
 
 ![Features](https://i.imgur.com/Pne7IiW.png)
 
-[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png#gh-dark-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
+[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png#gh-dark-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[Featureimage]: https://i.imgur.com/JZ3pUvU.png#gh-dark-mode-only
+[![Features List](https://i.imgur.com/GLyL7rR.png#gh-dark-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[![Features List](https://i.imgur.com/GLyL7rR.png#gh-dark-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
+[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png#gh-light-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[Featureimage]: https://i.imgur.com/GLyL7rR.png#gh-dark-mode-only
-
-[![Features button not clickable](https://i.imgur.com/wxtFNkO.png#gh-light-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
-
-[Featureimage]: https://i.imgur.com/wxtFNkO.png#gh-light-mode-only
-
-[![Features List](https://i.imgur.com/wxtFNkO.png#gh-light-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Expanded Feature List")
-
-[Featureimage]: https://i.imgur.com/wxtFNkO.png#gh-light-mode-only
+[![Features List](https://i.imgur.com/GLyL7rR.png#gh-light-mode-only)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 # MO2 for Cyberpunk
 
