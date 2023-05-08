@@ -49,11 +49,9 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-# [DETAILED SETUP INSTRUCTIONS CAN BE FOUND HERE](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
+# [CLICK HERE FORDETAILED SETUP INSTRUCTIONS](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
-
-A guide to how to setup **Vortex**, how to prepare for and download the collection as well as how to update properly, as well as recommended in-game settings and keybinds can be found [in our more detailed guide here](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
 ---
 
