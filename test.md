@@ -113,9 +113,9 @@ Honestly, this collection is just great. It has basically fixed ALL the major co
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-Pretend that this section is longer.
+[Answers to common troubleshooting or game balancing questions can be found on our FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
-[Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
+Our FAQ page is a treasure trove of information that we’ve gathered from answering users' questions over time. If you have an issue, we highly recommend you check if it's already been answered. And if not, you can always find us on our [Discord](https://discord.gg/eJdMQKnQVt) :)
 
 ---
 
