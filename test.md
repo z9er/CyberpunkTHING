@@ -97,7 +97,11 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 When things gets heated I need to back out, run, hide, jump on buildings, reposition, go around the block to take them from behind, peek a boo. You never know where they coming from, always on the look out for an exit, a plan b. Fighting these gangoons really feels satisfyingly now and the city layout has become part of it. Initially was a struggle but then I adapted, learned, with experience I become a better merc, not just with the levels and powers meta, but in the way you play, actually. it plays more as an open world city game now. the best there is
 
-[Read further about other users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+[harltone7443:](https://forums.nexusmods.com/index.php?/user/159683838-harltone7443/)
+
+Honestly, this collection is just great. It has basically fixed ALL the major complaints I had with the vanilla game. I'm about 10 hours in with a full hacker build and truly loving the challenge. No more cheese mode see everything through walls, or slowing down time for 20 seconds over and over and over again.
+
+[Read about more users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
 ---
 
