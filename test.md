@@ -87,29 +87,31 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![FAQ](https://i.imgur.com/2htvKqF.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md "FAQ")
-
-[FAQimage]: https://i.imgur.com/2htvKqF.png
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
-Pretend that this section is longer.
-
-[Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
-
----
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
 [![Testimonials](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md "Testimonials")
 
 [testimonialimage]: https://i.imgur.com/uJ4hFcp.png
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-Pretend that this section is longer.
+[Strangerism:](https://www.nexusmods.com/fallout4/users/116794)
+
+When things gets heated I need to back out, run, hide, jump on buildings, reposition, go around the block to take them from behind, peek a boo. You never know where they coming from, always on the look out for an exit, a plan b. Fighting these gangoons really feels satisfyingly now and the city layout has become part of it. Initially was a struggle but then I adapted, learned, with experience I become a better merc, not just with the levels and powers meta, but in the way you play, actually. it plays more as an open world city game now. the best there is
 
 [Read about other users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+
+---
+
+![spacer](https://i.imgur.com/42dA30s.png)
+
+[![FAQ](https://i.imgur.com/BozcaiM.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md "FAQ")
+
+[FAQimage]: https://i.imgur.com/BozcaiM.png
+
+![spacer](https://i.imgur.com/42dA30s.png)
+
+Pretend that this section is longer.
+
+[Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 ---
 
