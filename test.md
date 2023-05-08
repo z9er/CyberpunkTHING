@@ -53,10 +53,6 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
----
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
 ![Uninstall](https://i.imgur.com/S8js7hT.png)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
