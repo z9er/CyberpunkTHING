@@ -49,7 +49,7 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-# [CLICK HERE FORDETAILED SETUP INSTRUCTIONS](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
+# [CLICK HERE FOR DETAILED SETUP INSTRUCTIONS](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
