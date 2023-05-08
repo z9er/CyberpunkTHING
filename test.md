@@ -31,7 +31,7 @@
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-![To Install](https://i.imgur.com/z6KynkI.png)
+[![To Install](https://i.imgur.com/z6KynkI.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md "Detailed Install Instructions")
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
