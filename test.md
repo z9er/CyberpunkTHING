@@ -128,8 +128,8 @@ Additional thanks and credits to:
 - Deristat for playtesting, QA and feedback
 - moLy, Busy Oscar, and the rest of the Cyberpunk THING Palace of the Mind for suggestions, ideas, and vision
 - [Bobbytronics](https://www.nexusmods.com/users/161227193) for the wonderfully customized version of [Alternative Midair Movement](https://www.nexusmods.com/cyberpunk2077/mods/5160)
-- Leon Maxwell for their unofficial [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815) fix
 - vahndaar for the bundled mods "Takedown and Dispose Rewards," "Fix Level Up Notification," and "Fistfight Armor"
+- Leon Maxwell for their unofficial [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815) fix
 - [walrus420](https://www.nexusmods.com/cyberpunk2077/users/4076520) for the incredible Cyberpunk THING logo!
 - [SOSUINEPXISUYU](https://www.nexusmods.com/cyberpunk2077/users/75442863?tab=user+files) for the beautiful and striking screenshots.
 - General namedrops for specific help and utilities: [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138), [KeanuWheeze/Nexusguy999](https://www.nexusmods.com/cyberpunk2077/users/77476393), [scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633), [rfuzzo](https://www.nexusmods.com/users/16300749), [KiroCobra](https://www.nexusmods.com/cyberpunk2077/users/40108180), and the Cyberpunk 2077 modding Discord!
