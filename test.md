@@ -16,7 +16,7 @@
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-![Features](https://i.imgur.com/Pne7IiW.png)
+[![Features](https://i.imgur.com/Pne7IiW.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Features")
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JZ3pUvU.png">
