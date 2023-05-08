@@ -16,12 +16,11 @@
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
+![spacer](https://i.imgur.com/42dA30s.png)
+
 [![Features](https://i.imgur.com/Pne7IiW.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Features")
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JZ3pUvU.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.imgur.com/wxtFNkO.png">
-</picture>
+[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 [![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
