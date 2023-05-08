@@ -101,7 +101,7 @@ When things gets heated I need to back out, run, hide, jump on buildings, reposi
 
 Honestly, this collection is just great. It has basically fixed ALL the major complaints I had with the vanilla game. I'm about 10 hours in with a full hacker build and truly loving the challenge. No more cheese mode see everything through walls, or slowing down time for 20 seconds over and over and over again.
 
-[Read about more users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+[Read about more people's experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
 ---
 
