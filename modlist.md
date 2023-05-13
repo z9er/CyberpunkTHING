@@ -72,13 +72,13 @@
 
 **[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
 
-**[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521)** - Allows for you to add names to save games
+**[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Allows for you to add names to save games
 
-**[Only Smartweapon Crosshairs](https://www.nexusmods.com/cyberpunk2077/mods/5434)** - Enables crosshair for certain weapons and not others, configurable ingame. **Has Mod Menu: "SMALL MODS"**
+**[Only Smartweapon Crosshairs](https://www.nexusmods.com/cyberpunk2077/mods/5434)** by **[NexusGuy999](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Enables crosshair for certain weapons and not others, configurable ingame. **Has Mod Menu: "SMALL MODS"**
 
-**[Purify The UI](https://www.nexusmods.com/cyberpunk2077/mods/2648)** - Disables the 2D repeated UI effect and 3D effect that adds blurriness
+**[Purify The UI](https://www.nexusmods.com/cyberpunk2077/mods/2648)** by **[Dravic](https://www.nexusmods.com/cyberpunk2077/users/2817235)** - Disables the 2D repeated UI effect and 3D effect that adds blurriness
 
-**[Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941)** - Displays the actual names for vendors’ world map icons rather than generic labels
+**[Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Displays the actual names for vendors’ world map icons rather than generic labels
 
 **[Spicy Clean Hack Screen](https://www.nexusmods.com/cyberpunk2077/mods/906)** - Removes the green tint from the hack screen
 
