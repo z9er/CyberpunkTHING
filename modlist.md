@@ -41,9 +41,9 @@
 
 **[Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)** by **[NexusGuy999](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Allows other mods to easily add settings menus using only native UI, looking like the game settings menu
 
-**[Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575)** - Allows for merged .xml files
+**[Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575)** by **[jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988)** - Allows for merged .xml files
 
-**[Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)** - Allows an ingame mods redscript mods
+**[Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885)** by **[jackhumbert](https://www.nexusmods.com/cyberpunk2077/users/86010988)** - Allows an ingame mods redscript mods
 
 &#10240;
 &#10240;
@@ -54,7 +54,7 @@
 
 **[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395)** - Removes the incredibly redundant safe area notification which clutters your screen in your apartment, Lizzie’s, etc
 
-**[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395)** - Removes the pop ups that show when you move from area to area
+**[(entering new area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4361)** - Removes the pop ups that show when you move from area to area
 
 **[Better Main Menu](https://www.nexusmods.com/cyberpunk2077/mods/6365)** - Resizes the text of the options on the main menu
 
