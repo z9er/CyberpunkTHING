@@ -1,9 +1,9 @@
-[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-[logo image]: https://i.imgur.com/2zyLjNQ.png
+[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/small%20discord%20link.png
 
 
-![test 1](https://i.imgur.com/ii866v8.png)
+![test 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%201.png)
 
 #### **strangerism:** 
 
@@ -11,7 +11,7 @@ Great collection, I am enjoying the game once again. I can say the difficult bal
 
 &#10240;
 
-![test 2](https://i.imgur.com/wWQ9FGL.png)
+![test 2](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%202.png)
 
 **Barachiel1976:** 
 
@@ -23,7 +23,7 @@ I've probably put about 20-30 hours in this modlist over the course of a couple 
 
 &#10240;
 
-![test 3](https://i.imgur.com/rOgPXiZ.png)
+![test 3](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%203.png)
 
 **Maliketh the Black Blade:** 
 
@@ -31,7 +31,7 @@ After playing the shit out of this list for a long time, I have a bit of a revie
 
 &#10240;
 
-![test 4](https://i.imgur.com/s9KUD03.png)
+![test 4](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%204.png)
 
 **harltone7443:**
 
@@ -39,7 +39,7 @@ Honestly, this collection is just great. It has basically fixed ALL the major co
 
 &#10240;
 
-![test 5](https://i.imgur.com/FcMGtnN.png)
+![test 5](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%205.png)
 
 **DeviantTechnq:** 
 
@@ -47,7 +47,7 @@ Superb collection, plays really fluid on patch 1.6, offers new ways to tackle pr
 
 &#10240;
 
-![test 6](https://i.imgur.com/SA8rYKK.png)
+![test 6](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%206.png)
 
 **mrsirdoe:** 
 
@@ -55,7 +55,7 @@ This is what I wanted out of the main game to begin with. [CDPR] made the game s
 
 &#10240;
 
-![test 7](https://i.imgur.com/0HFaI0R.png)
+![test 7](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%207.png)
 
 **[Gwyn21 - Curator, Welcome To Night City:](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** 
 
@@ -63,7 +63,7 @@ Great collection, btw. Heavily recommend it.
 
 &#10240;
 
-![test 8](https://i.imgur.com/vpdCBwJ.png)
+![test 8](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/test%208.png)
 
 **[canliberk - Curator, Immersive & Adult, Immersive & Adult for Steamdeck, Immersive & Pure, Immersive & Epic:](https://www.nexusmods.com/users/5027009)** 
 
