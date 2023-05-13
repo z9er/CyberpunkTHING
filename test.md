@@ -8,17 +8,13 @@
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-#### The aim is to make Cyberpunk the game it was always intended to be. More immersive, more realistic. A bullet's a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
 #### More than just a collection of other modders' amazing work, we are actively developing new mods to add gameplay elements that support our vision. We provide a fully preconfigured and easy to use modded experience; it just works, plug n' play.
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![Features](https://i.imgur.com/Pne7IiW.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md "Features")
+[![Features](https://i.imgur.com/Pne7IiW.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 [![Features button not clickable](https://i.imgur.com/JZ3pUvU.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
@@ -30,7 +26,7 @@
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![To Install](https://i.imgur.com/z6KynkI.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md "Detailed Install Instructions")
+[![To Install](https://i.imgur.com/z6KynkI.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -44,13 +40,11 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![Basic GIF](https://media.giphy.com/media/fgjbGZHcWGwqYWOyAl/giphy.gif)
 
----
-
 ![spacer](https://i.imgur.com/42dA30s.png)
 
 # [CLICK HERE FOR DETAILED INSTALL INSTRUCTIONS](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+---
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -82,9 +76,7 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![Testimonials](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md "Testimonials")
-
-[testimonialimage]: https://i.imgur.com/uJ4hFcp.png
+[![Testimonials](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -102,9 +94,7 @@ Honestly, this collection is just great. It has basically fixed ALL the major co
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![FAQ](https://i.imgur.com/BozcaiM.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md "FAQ")
-
-[FAQimage]: https://i.imgur.com/BozcaiM.png
+[![FAQ](https://i.imgur.com/BozcaiM.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -132,10 +122,11 @@ Additional thanks and credits to:
 - [walrus420](https://www.nexusmods.com/cyberpunk2077/users/4076520) for the incredible Cyberpunk THING logo!
 - [SOSUINEPXISUYU](https://www.nexusmods.com/cyberpunk2077/users/75442863?tab=user+files) for the beautiful and striking screenshots.
 - General namedrops for specific help and utilities: [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138), [KeanuWheeze/Nexusguy999](https://www.nexusmods.com/cyberpunk2077/users/77476393), [scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633), [rfuzzo](https://www.nexusmods.com/users/16300749), [KiroCobra](https://www.nexusmods.com/cyberpunk2077/users/40108180), and the Cyberpunk 2077 modding Discord!
-- Can't forget the [WolvenKit](https://www.nexusmods.com/cyberpunk2077/mods/2201) Team, the [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) team, the [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) team, and the [Vortex Extension](https://www.nexusmods.com/site/mods/196) team for making the tools all modders use, and the modding Discords in general for being a font of useful information!
+- Can't forget the [WolvenKit](https://www.nexusmods.com/cyberpunk2077/mods/2201) Team, the [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) team, and the [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) team for making the tools all modders use, and the modding Discords in general for being a font of information!
+- JTK from the Wabbajack team, as well as Xanza, Delta, and Crit for making MO2 for Cyberpunk a reality
 
 ***Remember to endorse the mods in this that you enjoy: the people who made these mods are the only reason this exists.***
 
-For support or to give feedback you can reach us at the [collection discord link below:](https://discord.gg/eJdMQKnQVt)
+For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
 
 [![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt)
