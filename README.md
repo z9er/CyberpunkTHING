@@ -307,15 +307,23 @@ You can just remove the MO2 folder, along with any Game Folder file mod you've i
 
 # Frequently Asked Questions
 
-[Answers to common troubleshooting or game balancing questions can be found in our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
+[Answers to common troubleshooting or game balancing questions can be found on our FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
+Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a treasure trove of information that we’ve gathered from answering users' questions over time. If you have an issue, we highly recommend you check if it's already been answered. And if not, you can always find us on our [Discord server](https://discord.gg/eJdMQKnQVt) :)
 
 &#10240;
 
 # Testimonials
 
-[Read about other users' experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+[Strangerism:](https://www.nexusmods.com/fallout4/users/116794)
 
+When things gets heated I need to back out, run, hide, jump on buildings, reposition, go around the block to take them from behind, peek a boo. You never know where they coming from, always on the look out for an exit, a plan b. Fighting these gangoons really feels satisfyingly now and the city layout has become part of it. Initially was a struggle but then I adapted, learned, with experience I become a better merc, not just with the levels and powers meta, but in the way you play, actually. it plays more as an open world city game now. the best there is
+
+[harltone7443:](https://forums.nexusmods.com/index.php?/user/159683838-harltone7443/)
+
+Honestly, this collection is just great. It has basically fixed ALL the major complaints I had with the vanilla game. I'm about 10 hours in with a full hacker build and truly loving the challenge. No more cheese mode see everything through walls, or slowing down time for 20 seconds over and over and over again.
+
+[Read about more people's experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
 &#10240;
 
