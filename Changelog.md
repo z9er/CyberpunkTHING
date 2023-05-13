@@ -1,6 +1,6 @@
-[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-[logo image]: https://i.imgur.com/2zyLjNQ.png
+[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
 ### Version 4.0
 
