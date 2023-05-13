@@ -50,13 +50,13 @@
 
 ## UI
 
-**[(enemyhealthbars) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4389)** - Removes the general enemy healthbar, does not remove the dynamic healthbar that appears when you ADS a silenced weapon at an enemy from stealth
+**[(enemyhealthbars) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4389)** by **[Krat0es](https://www.nexusmods.com/cyberpunk2077/users/59631521)** - Removes the general enemy healthbar, does not remove the dynamic healthbar that appears when you ADS a silenced weapon at an enemy from stealth
 
-**[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395)** - Removes the incredibly redundant safe area notification which clutters your screen in your apartment, Lizzie’s, etc
+**[(safe area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4395)** by **[Krat0es](https://www.nexusmods.com/cyberpunk2077/users/59631521)** - Removes the incredibly redundant safe area notification which clutters your screen in your apartment, Lizzie’s, etc
 
-**[(entering new area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4361)** - Removes the pop ups that show when you move from area to area
+**[(entering new area) be gone](https://www.nexusmods.com/cyberpunk2077/mods/4361)** by **[Krat0es](https://www.nexusmods.com/cyberpunk2077/users/59631521)** - Removes the pop ups that show when you move from area to area
 
-**[Better Main Menu](https://www.nexusmods.com/cyberpunk2077/mods/6365)** - Resizes the text of the options on the main menu
+**[Better Main Menu](https://www.nexusmods.com/cyberpunk2077/mods/6365)** by **[ctxrlsec](https://www.nexusmods.com/cyberpunk2077/users/105985193)** - Resizes the text of the options on the main menu
 
 **[Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)** - Shows you the attribute needed for a conversation skill check rather than your current attribute only
 
