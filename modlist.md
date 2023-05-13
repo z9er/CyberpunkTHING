@@ -27,19 +27,19 @@
 
 ## Utilities
 
-**[Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)** - Scripting framework, required by many mods
+**[Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107)** by **yamashi** - Scripting framework, required by many mods
 
-**[redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)** - Compiler for Cyberpunk scripts
+**[redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)** by **[jac3km4](https://www.nexusmods.com/cyberpunk2077/users/49982271)** - Compiler for Cyberpunk scripts
 
-**[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)** - Script extender for REDengine 4
+**[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)** by **[WopsS](https://www.nexusmods.com/cyberpunk2077/users/16475274)** - Script extender for REDengine 4
 
-**[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)** - RED4ext plugin, loads archive extensions
+**[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - RED4ext plugin, loads archive extensions
 
-**[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)** - RED4ext plugin, modifications loader and script extensions 
+**[TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - RED4ext plugin, modifications loader and script extensions 
 
-**[Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)** - Utility mod that allows for script extensions
+**[Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - Utility mod that allows for script extensions
 
-**[Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)** - Allows other mods to easily add settings menus using only native UI, looking like the game settings menu
+**[Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518)** by **[NexusGuy999](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Allows other mods to easily add settings menus using only native UI, looking like the game settings menu
 
 **[Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575)** - Allows for merged .xml files
 
