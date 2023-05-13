@@ -95,7 +95,7 @@
 
 **[Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160)** by **[DemiGoD715](https://www.nexusmods.com/cyberpunk2077/users/30144935)** - Adds walljumping/wallbouncing and allows the player to control the character's movement direction midair while jumping and double jumping (in **Cyberpunk THING**, these changes are exclusive to the Maneuvering System cyberware available at the Arroyo ripperdoc)
 
-**[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)** by **[finley243](https://www.nexusmods.com/cyberpunk2077/users/26255464) - Prevents most quickhacks until the local subnet is breached, if there is an access point. **Has Mod Menu: "BETTER NETRUNNING"**
+**[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)** by **[finley243](https://www.nexusmods.com/cyberpunk2077/users/26255464)** - Prevents most quickhacks until the local subnet is breached, if there is an access point. **Has Mod Menu: "BETTER NETRUNNING"**
 
 **[Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
 
