@@ -48,34 +48,6 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-![Uninstall](https://i.imgur.com/S8js7hT.png)
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
-To uninstall click the **"Remove"** button on the collection in the **"Collections"** section of Vortex
-
-![uninstall step 1](https://i.imgur.com/sox8fvJ.png)
-
-Open your game directory and go to **"Cyberpunk 2077\r6\cache"** folder and delete the file **"final.redscripts"**
-
-![uninstall step 3](https://i.imgur.com/3nBoD85.png)
-
-Rename **"final.redscripts.bk"** to **"final.redscripts"**
-
-![uninstall step 4](https://i.imgur.com/c0psZui.png)
-
-Click **"Yes"** on the popup to confirm that you would like to rename the file to **"final.redscripts"**
-
-![uninstall step 5](https://i.imgur.com/NPXljzg.png)
-
-What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
-
-![uninstall step 6](https://i.imgur.com/W4gP6uM.png)
-
----
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
 [![Testimonials](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
