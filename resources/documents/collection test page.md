@@ -14,11 +14,11 @@
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![Features](https://i.imgur.com/Pne7IiW.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Collection 1](https://i.imgur.com/Pne7IiW.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[![Features button not clickable](https://i.imgur.com/JZ3pUvU.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Collection 2](https://i.imgur.com/JZ3pUvU.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Collection 3](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![To Install](https://i.imgur.com/z6KynkI.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
+[![Collection 4](https://i.imgur.com/z6KynkI.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -48,7 +48,7 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![Testimonials](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+[![Collection 5](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -66,7 +66,7 @@ Honestly, this collection is just great. It has basically fixed ALL the major co
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-[![FAQ](https://i.imgur.com/BozcaiM.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
+[![Collection 6](https://i.imgur.com/BozcaiM.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -78,7 +78,7 @@ Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a tre
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
-![Credits and Thanks](https://i.imgur.com/JGNJXcY.png)
+![Collection 7](https://i.imgur.com/JGNJXcY.png)
 
 A special thanks to [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466), without whom this crazy experiment would never have gotten off the ground.
 
