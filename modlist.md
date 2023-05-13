@@ -245,7 +245,7 @@
 
 **[Vehicle Pack - Basic](https://www.nexusmods.com/cyberpunk2077/mods/4625)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Adds car varieties for Virtual Car Dealer
 
-**[Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)** - Able to dismiss a summoned car by being near it and pressing “R”. Costs for destroying your vehicle on resummon
+**[Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Able to dismiss a summoned car by being near it and pressing “R”. Costs for destroying your vehicle on resummon
 
 **[Vertical Camera Snap Fix](https://www.nexusmods.com/cyberpunk2077/mods/5593)** by **[Wspirit82](https://www.nexusmods.com/users/118326478)** - Disables vertical snap up when wanting to position the camera down in first person driving view
 
