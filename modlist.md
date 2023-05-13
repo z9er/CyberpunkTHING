@@ -58,7 +58,7 @@
 
 **[Better Main Menu](https://www.nexusmods.com/cyberpunk2077/mods/6365)** by **[ctxrlsec](https://www.nexusmods.com/cyberpunk2077/users/105985193)** - Resizes the text of the options on the main menu
 
-**[Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Shows you the attribute needed for a conversation skill check rather than your current attribute only
+**[Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Shows you the attribute needed for a conversation skill check rather than your current attribute only
 
 **[Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535)** by **[fox77x](https://www.nexusmods.com/cyberpunk2077/users/79272308)** - Removes the crouch vignette effect (CET option is not consistent, this mod is)
 
@@ -97,7 +97,7 @@
 
 **[Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302)** by **[finley243](https://www.nexusmods.com/cyberpunk2077/users/26255464) - Prevents most quickhacks until the local subnet is breached, if there is an access point. **Has Mod Menu: "BETTER NETRUNNING"**
 
-**[Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
+**[Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
 
 **[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Allows the player to craft during combat, added for the tie in with Drone Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
 
@@ -119,7 +119,7 @@
 
 **[Level Scaling and Balance](https://www.nexusmods.com/cyberpunk2077/mods/1712)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Levels NPCs under your level to your level and limits how high above your level higher leveled NPCs can be. Adds NPC scaling and damage values scaling for NPCs and player. **Has Mod Menu: "RMK MODS"**
 
-**[Lynx Paws Reimagined](https://www.nexusmods.com/cyberpunk2077/mods/4479)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Adds additional Lynx Paws variants
+**[Lynx Paws Reimagined](https://www.nexusmods.com/cyberpunk2077/mods/4479)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Adds additional Lynx Paws variants
 
 **[More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043)** by **[SOSUINEPSIXUYU](https://www.nexusmods.com/cyberpunk2077/users/75442863)** - More climable objects
 
@@ -129,7 +129,7 @@
 
 **[No Deflect Slomo](https://www.nexusmods.com/cyberpunk2077/mods/4899)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Removes the time slowdown during parry and riposte
 
-**[Non-lethal Blunt Weapons](https://www.nexusmods.com/cyberpunk2077/mods/3195)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Makes blunt weapons and fists non-lethal
+**[Non-lethal Blunt Weapons](https://www.nexusmods.com/cyberpunk2077/mods/3195)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Makes blunt weapons and fists non-lethal
 
 **[Overwatch wall penetration fix](https://www.nexusmods.com/cyberpunk2077/mods/4289)** by **[suckerold](https://www.nexusmods.com/cyberpunk2077/users/1869675)** - Restores the ability for the Overwatch rifle to be able to shoot through walls
 
@@ -143,13 +143,13 @@
 
 **[SWSC - Simple Weapon Stat Customization](https://www.nexusmods.com/cyberpunk2077/mods/4409)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Adds mod settings to be able to configure various stats about each weapon in the game. **Has Mod Menu: "SWSC"**
 
-**[Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Increases the stamina cost for all actions and allows you to do different movement abilities in and out of combat to “combo” for more experience
+**[Sensible Stamina and Athletics](https://www.nexusmods.com/cyberpunk2077/mods/2861)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Increases the stamina cost for all actions and allows you to do different movement abilities in and out of combat to “combo” for more experience
 
-**[Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Stops combat from auto-triggering when you use a silenced gun or throwing knife. **Has Mod Menu: "RMK MODS"**
+**[Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Stops combat from auto-triggering when you use a silenced gun or throwing knife. **Has Mod Menu: "RMK MODS"**
 
-**[Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Configurable in-game sliders for all kinds of xp. **Has Mod Menu: "RMK MODS"**
+**[Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Configurable in-game sliders for all kinds of xp. **Has Mod Menu: "RMK MODS"**
 
-**[Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig; Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Has new items as rewards including new variations of Optical Camo. **Has Mod Menu: "STEALTHRUNNER"**
+**[Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig; Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Has new items as rewards including new variations of Optical Camo. **Has Mod Menu: "STEALTHRUNNER"**
 
 **[Sticky Mines](https://www.nexusmods.com/cyberpunk2077/mods/4921)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Turns sticky grenades into proximity mines
 
@@ -159,7 +159,7 @@
 
 **[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** and the **Cyberpunk THING Team** - Differentiates the existing sandevistan brands to be unique, adds additional sandevistan brands, allows enemies with sandevistan/kerenzikov to engage you while you’re in time dilation, adds time dilation to cars via a sandevistan attachment, changes scanner for quickhacking. **Has CET Hotkeys. Has Mod Menu: "TDO"**
 
-**[Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** -  Using healing items adds toxicity until you overdose, which has to elapse before you can use more. Set to two charges of toxicity. **Has Mod Menu: "RMK MODS"**
+**[Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** -  Using healing items adds toxicity until you overdose, which has to elapse before you can use more. Set to two charges of toxicity. **Has Mod Menu: "RMK MODS"**
 
 **[WE3D - Drugs of Night City](https://www.nexusmods.com/cyberpunk2077/mods/4407)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Adds 23 new drugs of various effects to the game as well as crafting specs for them. **Has Mod Menu: "WE3D"**
 
@@ -170,7 +170,7 @@
 
 ## Enemies and Difficulty
 
-**[AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Tired of overheat? Enemy Netrunners will now use hacks against you from contagion to reboot optics to cripple movement, all the way to Imminent System Failure. **Has Mod Menu: "RMK MODS"**
+**[AI Netrunners Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/2468)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Tired of overheat? Enemy Netrunners will now use hacks against you from contagion to reboot optics to cripple movement, all the way to Imminent System Failure. **Has Mod Menu: "RMK MODS"**
 
 **[Amateur Hackers](https://www.nexusmods.com/cyberpunk2077/mods/4880)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Allows more enemies to quickhack the player with minor quickhacks
 
@@ -264,9 +264,9 @@
 
 **[Better Kyubi Sights](https://www.nexusmods.com/cyberpunk2077/mods/5968)** by **[Busy Oscar](https://www.nexusmods.com/cyberpunk2077/users/44887292)** - Cleans up the unnecessary dots from the Kyubi sight
 
-**[Crafting Quality of Life](https://www.nexusmods.com/cyberpunk2077/mods/4453)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Allows recrafting iconics, allows crafting mods at lower quality levels, fixes some bugs regarding crafting discounts
+**[Crafting Quality of Life](https://www.nexusmods.com/cyberpunk2077/mods/4453)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Allows recrafting iconics, allows crafting mods at lower quality levels, fixes some bugs regarding crafting discounts
 
-**[Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Adds customizable hotkeys that you can bind most abilities or items to as needed. **Has CET Inputs. Mod Menu Key and CET Input must match. Has Mod Menu: "QSLOTS"**
+**[Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Adds customizable hotkeys that you can bind most abilities or items to as needed. **Has CET Inputs. Mod Menu Key and CET Input must match. Has Mod Menu: "QSLOTS"**
 
 **[DLC and Iconic Modifiers](https://www.nexusmods.com/cyberpunk2077/mods/5171)** by **[apart](https://www.nexusmods.com/cyberpunk2077/users/4211422)** - Adds iconic rarity to more unique items and allows some quest specific clothing to be upgraded
 
@@ -306,7 +306,7 @@
 
 **[Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Extends Scrapper perk logic to auto disassemble clothes, weapons, mods, grenades and healers depending on item quality, configurable. **Has Mod Menu: "SMARTER SCRAPPER"**
 
-**[Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - The Target Analysis eye mod only applies to smart weapons
+**[Smarter Target Analysis](https://www.nexusmods.com/cyberpunk2077/mods/3194)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - The Target Analysis eye mod only applies to smart weapons
 
 **[Stop spammers](https://www.nexusmods.com/cyberpunk2077/mods/3801)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - Prevents the car deal and apartment deal message bombardment
 
@@ -319,17 +319,17 @@
 
 **[AccessPoint Quickhack drop chance fix](https://www.nexusmods.com/cyberpunk2077/mods/6841)** by **[Darkelf44](https://www.nexusmods.com/cyberpunk2077/users/37996290)** - Fixes an access point bug where if you fail to get a quickhack from an access point 10 times in a row you will never get another quickhack from an access point with that character
 
-**[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
+**[Armor Fix for All Weapons](https://www.nexusmods.com/cyberpunk2077/mods/2834)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Makes armor reduce damage from all weapon types, not just ranged, and adjusts how armor interacts with shotguns, Oda’s gun, etc. where it was too effective
 
 **[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
 
-**[Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Fixes a few small bugs in the Breach/Quickhacking system
+**[Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Fixes a few small bugs in the Breach/Quickhacking system
 
 **[Shigure Weapon Bugs Fix](https://www.nexusmods.com/cyberpunk2077/mods/8067)** by **[tduality](https://www.nexusmods.com/cyberpunk2077/users/5839471)** - Corrects iron sight position and ghosting for Shigure
 
 **[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Collection of general fixes for Cyberpunk
 
-**[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
+**[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
 
 &#10240;
 &#10240;
@@ -362,4 +362,4 @@
 
 **[Vanilla Billboard LODs Improved](https://www.nexusmods.com/cyberpunk2077/mods/3184)** by **[Walrus420](https://www.nexusmods.com/cyberpunk2077/users/4076520)** - Improves the LOD textures of all billboards in the game
 
-**[Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196)** **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Changes weather patterns so that rain and more interesting weathers happen more often
+**[Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Changes weather patterns so that rain and more interesting weathers happen more often
