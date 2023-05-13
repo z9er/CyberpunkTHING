@@ -103,7 +103,7 @@
 
 **[Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
 
-**[Cyberdeck Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/5055)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** - Adds intelligence requirements for installing cyberdecks, limits the quality of quickhacks that can be equipped on a cyberdeck to the quality of the cyberdeck. **Has Mod Menu: "DECKS"**
+**[Cyberdeck Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/5055)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** and the **Cyberpunk THING Team** - Adds intelligence requirements for installing cyberdecks, limits the quality of quickhacks that can be equipped on a cyberdeck to the quality of the cyberdeck. **Has Mod Menu: "DECKS"**
 
 **[Disable Highlighting Through Walls](https://www.nexusmods.com/cyberpunk2077/mods/3314)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Disables the red highlight effect on enemies from showing up through walls
 
@@ -135,7 +135,7 @@
 
 **[Projectile Launcher Rework](https://www.nexusmods.com/cyberpunk2077/mods/6925)** by **[riviera13](https://www.nexusmods.com/cyberpunk2077/users/53747001)** - Mod to rework projectile launcher AOE and balance, customizable. **Has Mod Menu: "PROJECTILE LAUNCHER REWORK"**
 
-**[Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** - Fixes ranged damage decreasing when attacks per second increases
+**[Ranged Attack Speed Damage Fix](https://www.nexusmods.com/cyberpunk2077/mods/4997)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** and the **Cyberpunk THING Team** - Fixes ranged damage decreasing when attacks per second increases
 
 **[Restored Crafting Specs](https://www.nexusmods.com/cyberpunk2077/mods/4250)** by **[apart](https://www.nexusmods.com/cyberpunk2077/users/4211422)** - Adds missing crafting specs back into the game
 
@@ -157,7 +157,7 @@
 
 **[System-EX](https://www.nexusmods.com/cyberpunk2077/mods/3158)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - Allows the ability to equip two operating systems, techdeck/cyberdeck and sandevistan/berserk. **Has mod menu: "SYSTEM-EX"**
 
-**[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** - Differentiates the existing sandevistan brands to be unique, adds additional sandevistan brands, allows enemies with sandevistan/kerenzikov to engage you while you’re in time dilation, adds time dilation to cars via a sandevistan attachment, changes scanner for quickhacking. **Has CET Hotkeys. Has Mod Menu: "TDO"**
+**[Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** and the **Cyberpunk THING Team** - Differentiates the existing sandevistan brands to be unique, adds additional sandevistan brands, allows enemies with sandevistan/kerenzikov to engage you while you’re in time dilation, adds time dilation to cars via a sandevistan attachment, changes scanner for quickhacking. **Has CET Hotkeys. Has Mod Menu: "TDO"**
 
 **[Toxicity](https://www.nexusmods.com/cyberpunk2077/mods/4317)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** -  Using healing items adds toxicity until you overdose, which has to elapse before you can use more. Set to two charges of toxicity. **Has Mod Menu: "RMK MODS"**
 
