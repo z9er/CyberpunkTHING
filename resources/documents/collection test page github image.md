@@ -2,33 +2,33 @@
 
 ## [Important note regarding Vortex if you installed the collection before the release of revision 30](https://forums.nexusmods.com/index.php?/topic/11923283-cyberpunk-thing-1-61/?p=118319143)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Discord Link](https://i.imgur.com/OehZMjj.png)](https://discord.gg/eJdMQKnQVt)
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/large%20discord%20link.png)](https://discord.gg/eJdMQKnQVt)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 #### More than just a collection of other modders' amazing work, we are actively developing new mods to add gameplay elements that support our vision. We provide a fully preconfigured and easy to use modded experience; it just works, plug n' play.
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 1](https://i.imgur.com/Pne7IiW.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Collection 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%201.png)
 
-[![Collection 2](https://i.imgur.com/JZ3pUvU.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Collection 2](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%202.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[![Collection 3](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Collection 3](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%203.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 ---
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 4](https://i.imgur.com/z6KynkI.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
+[![Collection 4](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%204.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 # Premium vs Non-Premium
 
@@ -40,17 +40,17 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![Basic GIF](https://media.giphy.com/media/fgjbGZHcWGwqYWOyAl/giphy.gif)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 # [CLICK HERE FOR DETAILED INSTALL INSTRUCTIONS](https://github.com/z9er/CyberpunkTHING/blob/main/resources/documents/Detailed%20Vortex%20Instructions.md)
 
 ---
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 5](https://i.imgur.com/uJ4hFcp.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+[![Collection 5](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%205.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 [Strangerism:](https://www.nexusmods.com/fallout4/users/116794)
 
@@ -64,11 +64,11 @@ Honestly, this collection is just great. It has basically fixed ALL the major co
 
 ---
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 6](https://i.imgur.com/BozcaiM.png)](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
+[![Collection 6](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%206.png)
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 [Answers to common troubleshooting or game balancing questions can be found on our FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
@@ -76,9 +76,9 @@ Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a tre
 
 ---
 
-![spacer](https://i.imgur.com/42dA30s.png)
+![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![Collection 7](https://i.imgur.com/JGNJXcY.png)
+![Collection 7](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%207.png)
 
 A special thanks to [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466), without whom this crazy experiment would never have gotten off the ground.
 
@@ -101,4 +101,4 @@ Additional thanks and credits to:
 
 For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
 
-[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt)
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt)
