@@ -18,6 +18,7 @@
 - [CET Setup](#cet-setup)
 - [Quickslots Settings](#quickslots-settings)
 - [Recommended Game Settings](#recommended-game-settings)
+- [Uninstallation Details](#uninstallation-details)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
@@ -322,5 +323,37 @@ Further down in the **"HUD Visibility"** section, recommend keeping all on excep
 ```
 New players may want to keep "Hints" on until they feel they no longer need them
 ```
+
+---
+
+![spacer](https://i.imgur.com/42dA30s.png)
+
+![Uninstall](https://i.imgur.com/S8js7hT.png)
+
+![spacer](https://i.imgur.com/42dA30s.png)
+
+## Uninstallation Details
+
+![spacer](https://i.imgur.com/42dA30s.png)
+
+To uninstall click the **"Remove"** button on the collection in the **"Collections"** section of Vortex
+
+![uninstall step 1](https://i.imgur.com/sox8fvJ.png)
+
+Open your game directory and go to **"Cyberpunk 2077\r6\cache"** folder and delete the file **"final.redscripts"**
+
+![uninstall step 3](https://i.imgur.com/3nBoD85.png)
+
+Rename **"final.redscripts.bk"** to **"final.redscripts"**
+
+![uninstall step 4](https://i.imgur.com/c0psZui.png)
+
+Click **"Yes"** on the popup to confirm that you would like to rename the file to **"final.redscripts"**
+
+![uninstall step 5](https://i.imgur.com/NPXljzg.png)
+
+What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
+
+![uninstall step 6](https://i.imgur.com/W4gP6uM.png)
 
 [Return to Main Collection Page](https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d)
