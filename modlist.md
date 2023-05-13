@@ -101,7 +101,7 @@
 
 **[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Allows the player to craft during combat, added for the tie in with Drone Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
 
-**[Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
+**[Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
 
 **[Cyberdeck Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/5055)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** and the **Cyberpunk THING Team** - Adds intelligence requirements for installing cyberdecks, limits the quality of quickhacks that can be equipped on a cyberdeck to the quality of the cyberdeck. **Has Mod Menu: "DECKS"**
 
