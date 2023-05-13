@@ -66,7 +66,7 @@ Honestly, this collection is just great. It has basically fixed ALL the major co
 
 ![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 6](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%206.png)
+![Collection 6](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%206.png)
 
 ![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
