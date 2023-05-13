@@ -58,19 +58,19 @@
 
 **[Better Main Menu](https://www.nexusmods.com/cyberpunk2077/mods/6365)** by **[ctxrlsec](https://www.nexusmods.com/cyberpunk2077/users/105985193)** - Resizes the text of the options on the main menu
 
-**[Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)** - Shows you the attribute needed for a conversation skill check rather than your current attribute only
+**[Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Shows you the attribute needed for a conversation skill check rather than your current attribute only
 
-**[Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535)** - Removes the crouch vignette effect (CET option is not consistent, this mod is)
+**[Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535)** by **[fox77x](https://www.nexusmods.com/cyberpunk2077/users/79272308)** - Removes the crouch vignette effect (CET option is not consistent, this mod is)
 
-**[Extra Clean Hacking Screen](https://www.nexusmods.com/cyberpunk2077/mods/4381)** - Removes additional extraneous features from the hacking screen, as an addendum to **“Spicy Clean Hack Screen”**
+**[Extra Clean Hacking Screen](https://www.nexusmods.com/cyberpunk2077/mods/4381)** by **[Krat0es](https://www.nexusmods.com/cyberpunk2077/users/59631521)** - Removes additional extraneous features from the hacking screen, as an addendum to **“Spicy Clean Hack Screen”**
 
-**[Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)** - Adds in some options to filter saves by different Lifepath instead of seeing all saves
+**[Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Adds in some options to filter saves by different Lifepath instead of seeing all saves
 
-**[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776)** - Lets you zoom onto your character on the inventory screen
+**[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776)** by **[NexusGuy999](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Lets you zoom onto your character on the inventory screen
 
-**[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)** - Configurable hud visibility, customized to only show minimap and job tracker when holding right click without a weapon out, shows minimap when in vehicles. **Has Mod Menus: "LHUD" and "LHUD ADDONS"** 
+**[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Configurable hud visibility, customized to only show minimap and job tracker when holding right click without a weapon out, shows minimap when in vehicles. **Has Mod Menus: "LHUD" and "LHUD ADDONS"** 
 
-**[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)** - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
+**[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
 
 **[Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521)** - Allows for you to add names to save games
 
