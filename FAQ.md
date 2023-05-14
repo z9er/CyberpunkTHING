@@ -1,4 +1,4 @@
-[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![small Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
 [logo image]: https://i.imgur.com/2zyLjNQ.png
 
@@ -33,11 +33,11 @@
   
   Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
 
-![Clean Install 1](https://i.imgur.com/AXG7U40.png)
+![faq 1](https://i.imgur.com/AXG7U40.png)
 
 Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"** 
 
-![Clean Install 2](https://i.imgur.com/YW0s73X.png)
+![faq 2](https://i.imgur.com/YW0s73X.png)
 
 Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
   
@@ -51,7 +51,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   This is a potential issue [per the mod page](https://www.nexusmods.com/cyberpunk2077/mods/4921)
   
-  ![mine](https://i.imgur.com/hHNegIY.png) 
+  ![faq 3](https://i.imgur.com/hHNegIY.png) 
   
   Try not to do that 
   
@@ -65,7 +65,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   Go to your main **Cyberpunk 2077 directory** to **"bin/x64/plugins/cyber_engine_tweaks"** and delete **"bindings.json"**, then restart the game.
   
-  ![CET binding location](https://i.imgur.com/5BTFUBx.png)
+  ![faq 4](https://i.imgur.com/5BTFUBx.png)
   
    &#10240;
 </details>
@@ -74,21 +74,21 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My saved games are slow to load/blank ingame</summary>
   &#10240;
   
-  ![picture of problem](https://i.imgur.com/XBoH5Fi.png)
+  ![faq 5](https://i.imgur.com/XBoH5Fi.png)
   
   If you run into the error displayed above, you will want to disable cloud saves as that game setting can cause this issue.
   
   On the left side of the main menu, click on **"Settings"**
   
-  ![Example settings](https://i.imgur.com/2yoHsqd.png)
+  ![faq 6](https://i.imgur.com/2yoHsqd.png)
   
   At the top click **"Gameplay"**
   
-  ![first image](https://i.imgur.com/8W36yPc.png)
+  ![faq 7](https://i.imgur.com/8W36yPc.png)
   
   Scroll down to **"Enable cross-platform Saves"** and ensure that it is turned off
   
-  ![second image](https://i.imgur.com/t6QOwYM.png)
+  ![faq 8](https://i.imgur.com/t6QOwYM.png)
   
    &#10240;
   
@@ -98,23 +98,23 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>I can't remote activate a door to open it</summary>
   &#10240;
   
-  ![bnet 1](https://i.imgur.com/DTkEwci.png)
+  ![faq 9](https://i.imgur.com/DTkEwci.png)
   
   If you run into the above issue where there is no way to remote activate a door or window, you will need to ensure that [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) is correctly configured. On the left side of the main menu click on **"Mods"**
   
-  ![bnet 2](https://i.imgur.com/U2wROZZ.png)
+  ![faq 10](https://i.imgur.com/U2wROZZ.png)
   
   Go to **"Better Netrunning"**
   
-  ![bnet 3](https://i.imgur.com/GxIVeTh.png)
+  ![faq 11](https://i.imgur.com/GxIVeTh.png)
   
   Scroll down to the **"Access Points"** section and ensure that **"Unlock Networks With No Access Points"** is enabled
   
-  ![bnet 4](https://i.imgur.com/7S5GG80.png)
+  ![faq 12](https://i.imgur.com/7S5GG80.png)
   
   This will correct the issue
   
-  ![bnet 5](https://i.imgur.com/W3I8uMT.png)
+  ![faq 13](https://i.imgur.com/W3I8uMT.png)
   
    &#10240;
   
@@ -126,23 +126,23 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   In order for your [custom quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) options to work, your choices that you bind in the **"Mods"** menu will need to be duplicated in CET. As an example of this, you would first choose a keybind and action for a quickslot by going to **"Mods"** on the left side of the main menu
   
-  ![qslot 1](https://i.imgur.com/U2wROZZ.png)
+  ![faq 14](https://i.imgur.com/U2wROZZ.png)
   
   At the top, select **"QSLOTS"**
   
-  ![qslot 2](https://i.imgur.com/vNUFxDF.png)
+  ![faq 15](https://i.imgur.com/vNUFxDF.png)
   
   Adjust **"Number of Custom Quickslots"** to be 1 or more
   
-  ![qslot 3](https://i.imgur.com/F0eHCqd.png)
+  ![faq 16](https://i.imgur.com/F0eHCqd.png)
   
   In this example, selecting for **"food"** and selecting **"9"** as the keybind
   
-  ![qslot 4](https://i.imgur.com/3LBK12M.png)
+  ![faq 17](https://i.imgur.com/3LBK12M.png)
   
   Press the key you chose to bind for the CET menu in order to open it, and go to **"Bindings"**
   
-  ![qslot 5](https://i.imgur.com/ICUwKoO.png)
+  ![faq 18](https://i.imgur.com/ICUwKoO.png)
   
   Will want to duplicate the keybind for the same slot, which was Slot 1
   
