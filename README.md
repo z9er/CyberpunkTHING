@@ -18,7 +18,7 @@
 &#10240;
 
 
-![Features](https://i.imgur.com/Pne7IiW.png)
+![wjack readme 1](https://i.imgur.com/Pne7IiW.png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JZ3pUvU.png">
@@ -38,7 +38,7 @@ While most mods will work, there are a few that do some archive checking and thu
 
 &#10240;
 
-![To Install](https://i.imgur.com/z6KynkI.png)
+![wjack readme 2](https://i.imgur.com/z6KynkI.png)
 
 # Premium vs Non-Premium
 
@@ -64,11 +64,11 @@ If you've ever modded Cyberpunk before, it's important to ensure you have a clea
 
 Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
 
-![Clean Install 1](https://i.imgur.com/AXG7U40.png)
+![wjack readme 3](https://i.imgur.com/AXG7U40.png)
 
 Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"** 
 
-![Clean Install 2](https://i.imgur.com/YW0s73X.png)
+![wjack readme 4](https://i.imgur.com/YW0s73X.png)
 
 Now make sure you go and verify your game files through **Steam** or **GOG**
 
@@ -123,9 +123,9 @@ _Auto Update Games_
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) 
 
-[![wjak](https://i.imgur.com/ljncxQg.png)](https://github.com/wabbajack-tools/wabbajack/releases "Wabbajack Link")
+[![wjack readme 5](https://i.imgur.com/ljncxQg.png)](https://github.com/wabbajack-tools/wabbajack/releases "Wabbajack Link")
 
-[wjak image]: https://i.imgur.com/ljncxQg.png
+[wjack readme 5 p2]: https://i.imgur.com/ljncxQg.png
 
 Place the `Wabbajack.exe` in a location like `C:\Wabbajack`
 
@@ -202,7 +202,7 @@ box and then hitting the run button. Due to how it is deploying the files, you m
 
 &#10240;
 
-![Recommended](https://i.imgur.com/Cf8RliI.png)
+![wjack readme 6](https://i.imgur.com/Cf8RliI.png)
 
 # CET Setup
 
@@ -211,7 +211,7 @@ box and then hitting the run button. Due to how it is deploying the files, you m
 
 When you start the game for the first time you will be met with an overlay prompting you to choose a key to toggle on Cyber Engine Tweaks, recommend that you choose the **"~"** key for the **"Overlay Key"**
 
-![First CET Popup](https://i.imgur.com/GotiBl6.png)
+![wjack readme 7](https://i.imgur.com/GotiBl6.png)
 
 Keybinds for **"BetterScopes",** **"NanoDrone",** **"QuestTrackingToggle"** are as follows:
 
@@ -223,7 +223,7 @@ NanoDrone forwards, left, backwards, and right is <kbd>w</kbd> <kbd>a</kbd> <kbd
 
 Any of this can be changed by hitting your bound **CET Overlay Key** and going to **"Bindings"**
 
-![CET Binding](https://i.imgur.com/HiLTXZA.png)
+![wjack readme 8](https://i.imgur.com/HiLTXZA.png)
 
 
 
@@ -241,7 +241,7 @@ Navigating the Mods menu uses the arrows at the top to switch between the differ
 
 After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
 
-![Qslots Recommended Settings Combined](https://i.imgur.com/8Rfy44l.png)
+![wjack readme 9](https://i.imgur.com/8Rfy44l.png)
 
 
 
@@ -257,15 +257,15 @@ This collection is built around the very hard difficulty setting
 
 After clicking **"Settings"** in the main menu, near the left side of the top menu click on the **"GAMEPLAY"** section, recommend changing **"Aim Assist"** and **"Aim Assist - Melee Combat"** to **"Off"**
 
-![Gameplay Recommended Settings Combined](https://i.imgur.com/mAUjyAW.png)
+![wjack readme 10](https://i.imgur.com/mAUjyAW.png)
 
 Near the right side of the top menu click on the **"INTERFACE"** section, recommend changing **"Damage Numbers Mode"** to **"Off,"** **"Overhead Damage Numbers"** to **"None,"** and **"Threat and Damage Indicator"** to **"Damage Only"**
 
-![Interface Recommended Settings Combined](https://i.imgur.com/6JNViAW.png)
+![wjack readme 11](https://i.imgur.com/6JNViAW.png)
 
 Further down in the **"HUD Visibility"** section, recommend keeping all on except **"Hints,"** **"Activity Log,"** and **"NPC Names"**
 
-![Hud Visibility](https://i.imgur.com/zleClLA.png)
+![wjack readme 12](https://i.imgur.com/zleClLA.png)
 
 ```
 New players may want to keep "Hints" on until they feel they no longer need them
