@@ -146,11 +146,11 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   Will want to duplicate the keybind for the same slot, which was Slot 1
   
-  ![qslot 6](https://i.imgur.com/HOAMy7C.png)
+  ![faq 19](https://i.imgur.com/HOAMy7C.png)
   
   Then save the selection, and the quickslot you have chosen will now work
   
-  ![qslot 7](https://i.imgur.com/5oVjZgx.png)
+  !faq 20](https://i.imgur.com/5oVjZgx.png)
   
   &#10240;
   
@@ -162,7 +162,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   You're sitting sharing a nice moment pondering the future's opportunities with Jackie at the food stand outside of your apartment, and you need to call the car in order to "feel the factory new ride". If your hints are disabled it won't tell you what to do, but you'll want to call your vehicle, default keybind is **"V"**
   
-  ![example of jackie](https://i.imgur.com/CAZD805.png)
+  ![faq 21](https://i.imgur.com/CAZD805.png)
   
   &#10240;
   
@@ -172,7 +172,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   <summary>My hud disappears when using a controller</summary>
   &#10240;
   
-  ![shud](https://i.imgur.com/OuugWwr.png)
+  ![faq 22](https://i.imgur.com/OuugWwr.png)
   
   The reason this option is off in **"Mod Settings"**, **"LHUD ADDONS"** is if it is on, it allows certain keys to turn off all hud elements, which can be quite annoying on controller. If you would like to turn this on but want to change the keybind you will need to go to 
   
@@ -182,7 +182,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   In your main Cyberpunk 2077 directory, navigate to **"r6\input"** and open **"LimitedHUD.xml**
   
-  ![shud 2](https://i.imgur.com/t8J91RJ.png)
+  ![faq 23](https://i.imgur.com/t8J91RJ.png)
   
   ```
   FOR WABBAJACK USERS
@@ -190,11 +190,11 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   In **MO2** in the left panel left click **"Limited Hud"** to highlight it, then right click it and select **"Open in Explorer"**
   
-  ![shud 3](https://i.imgur.com/EuBGa2T.png)
+  ![faq 24](https://i.imgur.com/EuBGa2T.png)
   
   Navigate to **"Root\r6\Input"**
   
-  ![shud 4](https://i.imgur.com/qReV98j.png)
+  ![faq 25](https://i.imgur.com/qReV98j.png)
   
   ```
   Continued for Both
@@ -202,7 +202,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   **"LimitedHUD.xml** can be customized to choose whatever keybinds you would like, [a full list of CDPR's method for key naming here](https://nativedb.red4ext.com/EInputKey)
   
-  ![shud 5](https://i.imgur.com/ONUo751.png)
+  ![faq 26](https://i.imgur.com/ONUo751.png)
   
   &#10240;
   
@@ -224,7 +224,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   You're about to create a manual save, but don't just immediately click it. If you look at the top left above that you will see where you can add a name to your save
   
-  ![save](https://i.imgur.com/f96LrEP.png)
+  ![faq 27](https://i.imgur.com/f96LrEP.png)
   
   &#10240;
   
@@ -244,8 +244,8 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   When on your map, on the left side ensure that when on **"FILTER: CUSTOM"** that the **"DROP POINT"** section is highlighted and the wrench icon for the [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) will appear in Northeast Watson
   
-  ![shop 1](https://i.imgur.com/AXpYYJd.png)
-  ![shop 2](https://i.imgur.com/LCJ6TCd.png)
+  ![faq 28](https://i.imgur.com/AXpYYJd.png)
+  ![faq 29](https://i.imgur.com/LCJ6TCd.png)
   
   &#10240;
   
@@ -257,7 +257,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
  This is due to [Better Netrunning's](https://www.nexusmods.com/cyberpunk2077/mods/2302) changes to vanilla network topology
   
-  ![netrun](https://i.imgur.com/40Rr5lY.png)
+  ![faq 30](https://i.imgur.com/40Rr5lY.png)
   
   Sometimes the quickest way into a network is an unconscious gonk
   
@@ -281,11 +281,11 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   This was a known issue with [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) which has now been fixed, but could still be an issue on a save that was running a previous version. If the issue is affecting you, the mod author has an optional file that can be added found [here](https://www.nexusmods.com/cyberpunk2077/mods/7203?tab=files)
   
-  ![optional file](https://i.imgur.com/5pOgUZ1.png)
+  ![faq 31](https://i.imgur.com/5pOgUZ1.png)
   
   His instructions for using it are
   
-  ![beast 2](https://i.imgur.com/5FtutwT.png)
+  ![faq 32](https://i.imgur.com/5FtutwT.png)
   
   &#10240;
   
@@ -333,63 +333,63 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
   This is often associated with the **Vortex Redmod Autoconversion** being toggled on. It is off by default, but if it has done the autoconversion you will need to go through a process to correct this, and you will not have to redownload the associated mods. Go to the left side of Vortex to the grey bar and click on **"Settings"**
   
-  ![step 1](https://i.imgur.com/ilpBWRY.png)
+  ![faq 33](https://i.imgur.com/ilpBWRY.png)
   
 Go to the middle top grey bar and click on **"V2077 Settings"** and ensure that **"Automatically convert old style 'archive' mods to REDmods on install"** is greyed out and is not active
   
-  ![step 2](https://i.imgur.com/iSYsHmn.png)
+  ![faq 34](https://i.imgur.com/iSYsHmn.png)
   
-  ![step 3](https://i.imgur.com/nhjRZnF.png)
+  ![faq 35](https://i.imgur.com/nhjRZnF.png)
   
 Go to the left hand side of vortex and click on **"Mods"** on the grey bar
   
-  ![step 4](https://imgur.com/qmilmkT.png)
+  ![faq 36](https://imgur.com/qmilmkT.png)
   
  Left click on the mod at the top of the list in the middle of the screen to highlight it
   
-  ![step 5](https://i.imgur.com/ZnFt4GG.png)
+  ![faq 37](https://i.imgur.com/ZnFt4GG.png)
   
 Scroll to the bottom mod in the list and shift + left click it in order to highlight all of the mods
   
-  ![step 6](https://i.imgur.com/sMgjtyG.png)
+  ![faq 38](https://i.imgur.com/sMgjtyG.png)
   
   On the white bar that has appeared at the very bottom of the list click **"Remove"**
   
-  ![step 7](https://i.imgur.com/YOX2Eh1.png)
+  ![faq 39](https://i.imgur.com/YOX2Eh1.png)
   
   In the popup that appears ensure that **"Remove Mod"** is ticked with a blue and white checkmark, but that **"Delete Archive"** remains unticked and clear
   
-  ![step 8](https://i.imgur.com/TCjQfam.png)
+  ![faq 40](https://i.imgur.com/TCjQfam.png)
   
  Click **"Remove"** at the bottom right of the popup 
   
-  ![step 9](https://i.imgur.com/0DZZrf9.png)
+  ![faq 41](https://i.imgur.com/0DZZrf9.png)
   
  In the next popup, tick the box for **"Apply to Recommended Mods"** so that a blue and white checkmark appears 
   
-  ![step 10](https://i.imgur.com/DdN6SNc.png)
+  ![faq 42](https://i.imgur.com/DdN6SNc.png)
   
-  ![step 11](https://i.imgur.com/T2FjoXZ.png)
+  ![faq 43](https://i.imgur.com/T2FjoXZ.png)
   
 Then click on **"Disable"** bottom right of the grey popup  
   
-  ![step 12](https://i.imgur.com/umC3y4R.png)
+  ![faq 44](https://i.imgur.com/umC3y4R.png)
   
 The list of mods will now show as **"Uninstalled"** in blue
   
-  ![step 13](https://i.imgur.com/gcxRfNe.png)
+  ![faq 45](https://i.imgur.com/gcxRfNe.png)
   
 Scroll down to the mod **"Cyberpunk Thing"** and left click it 
   
-  ![step 14](https://i.imgur.com/uSZAlMx.png)
+  ![faq 46](https://i.imgur.com/uSZAlMx.png)
   
   After highlighting **"Cyberpunk Thing"** right click it and left click **"Install"**
   
-  ![step 15](https://i.imgur.com/alHSwBk.png)
+  ![faq 47](https://i.imgur.com/alHSwBk.png)
   
   In the popup that appears click **"Install Now"**
   
-  ![step 16](https://i.imgur.com/L2LCxFQ.png)
+  ![faq 48](https://i.imgur.com/L2LCxFQ.png)
   
  These steps will undo the REDmod autoconversion that vortex performed and will correct your install without you having to redownload any mods
   
@@ -403,7 +403,7 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   Some binding recommendations for important features
   
-  ![here](https://i.imgur.com/H3FeGjQ.png)
+  ![faq 49](https://i.imgur.com/H3FeGjQ.png)
   
   &#10240;
   
@@ -419,7 +419,7 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   In **MO2**, right click on **"CT Config"** in the left hand panel and select **"Open in Explorer"** and go to **"Root/bin/x64/plugins/cyber_engine_tweaks"** and delete **"bindings.json"**, then restart the game.
   
-  ![CET binding location](https://i.imgur.com/cDUXnZP.png)
+  ![faq 50](https://i.imgur.com/cDUXnZP.png)
   
   &#10240;
   
@@ -432,15 +432,15 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   In **MO2**, click on the wrench icon on the top bar
   
-  ![wjack 1](https://i.imgur.com/uXQdCzn.png)
+  ![faq 51](https://i.imgur.com/uXQdCzn.png)
   
   In the popup click on **"Nexus"**
   
-  ![wjack 2](https://i.imgur.com/mKMH2pd.png)
+  ![faq 52](https://i.imgur.com/mKMH2pd.png)
   
   Click on **"Associate with 'Download with manager' Links"** and approve its request
   
-  ![wjack 3](https://i.imgur.com/hRtGSZI.png)
+  ![faq 53](https://i.imgur.com/hRtGSZI.png)
   
   &#10240;
   
@@ -508,13 +508,13 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   You can find the new sandevistans added by [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) at
   
-  ![locations 1](https://i.imgur.com/6PySXe7.png)
+  ![faq 54](https://i.imgur.com/6PySXe7.png)
   
   You can find the new techdecks added by [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520)
   
-  ![locations 2](https://i.imgur.com/EBG6RLY.png)
+  ![faq 55](https://i.imgur.com/EBG6RLY.png)
   
-  ![locations 3](https://i.imgur.com/BF7qHnT.png)
+  ![faq 56](https://i.imgur.com/BF7qHnT.png)
   
   &#10240;
   
@@ -526,15 +526,15 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   Adjustments to leveling can be made by going to **"Mods"** in the main menu
   
-  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  ![faq 57](https://i.imgur.com/U2wROZZ.png)
   
   Go to **"RMK Mods"**
   
-  ![rmk mods](https://i.imgur.com/uOJA9Yt.png)
+  ![faq 58](https://i.imgur.com/uOJA9Yt.png)
   
   Scroll to **"Simple XP Multiplier"** and adjust any values to your liking
   
-  ![simple xp mult](https://i.imgur.com/YWYtwsp.png)
+  ![faq 59](https://i.imgur.com/YWYtwsp.png)
   
   &#10240;
   
@@ -546,16 +546,16 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   Adjustments to damage taken or done can be made by going to **"Mods"** in the main menu
   
-  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  ![faq 60](https://i.imgur.com/U2wROZZ.png)
   
   Go to **"RMK Mods"**
   
-  ![rmk mods](https://i.imgur.com/uOJA9Yt.png)
+  ![faq 61](https://i.imgur.com/uOJA9Yt.png)
   
   Scroll to the **"Damage to NPC Multiplier"** or **"Damage to Player Multiplier"** and adjust any values to your liking
   
-  ![dmg npc](https://i.imgur.com/k9yXNSS.png)
-  ![dmg plyr](https://i.imgur.com/8HUjNHo.png)
+  ![faq 62](https://i.imgur.com/k9yXNSS.png)
+  ![faq 63](https://i.imgur.com/8HUjNHo.png)
   
   &#10240;
   
@@ -567,15 +567,15 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   Adjustments to the breach protocol can be made by going to **"Mods"** in the main menu
   
-  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  ![faq 64](https://i.imgur.com/U2wROZZ.png)
   
   Go to **"RMK Mods"**
   
-  ![rmk mods](https://i.imgur.com/uOJA9Yt.png)
+  ![faq 65](https://i.imgur.com/uOJA9Yt.png)
   
   Scroll to the **"Challenging Breach Minigame"** and adjust any values to your liking
   
-  ![brch](https://i.imgur.com/uiiogVl.png)
+  ![faq 66](https://i.imgur.com/uiiogVl.png)
   
   &#10240;
   
@@ -587,11 +587,11 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   With [Time Dilation Overhaul,](https://www.nexusmods.com/cyberpunk2077/mods/4931) some of the brands like Dynalar and Zetatech have very low (near real time) time dilation strength by default. Recommend staying with the defaults, but this can be adjusted by going to **"Mods"**
   
-  ![step 1](https://i.imgur.com/U2wROZZ.png)
+  ![faq 67](https://i.imgur.com/U2wROZZ.png)
   
   and go to **"TDO"** to make any desired adjustments
   
-  ![tdo menu](https://i.imgur.com/Z3ITTaW.png)
+  ![faq 68](https://i.imgur.com/Z3ITTaW.png)
   
   &#10240;
   
@@ -603,8 +603,8 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   This is a purposeful balance adjustment accomplished with the included mod [Disable Highlighting Through Walls,](https://www.nexusmods.com/cyberpunk2077/mods/3314) as without it ping can lead to extreme ease combined with tech weapons, and makes stealth far less rewarding. You are still able to manually mark enemies either yourself or through the [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) and this mark will show through walls
   
-  ![walls](https://i.imgur.com/MzsrFMr.png)
-  ![walls 2](https://i.imgur.com/Y4MmLNr.png)
+  ![faq 69](https://i.imgur.com/MzsrFMr.png)
+  ![faq 70](https://i.imgur.com/Y4MmLNr.png)
   
   &#10240;
   
@@ -640,7 +640,7 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   In your main Cyberpunk 2077 directory, navigate to **"r6\input"** and open **"ImmersiveTimeskip.xml**
   
-  ![shud 2](https://i.imgur.com/7Ts5R9G.png)
+  ![faq 71](https://i.imgur.com/7Ts5R9G.png)
   
   ```
   FOR WABBAJACK USERS
@@ -648,11 +648,11 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   In **MO2** in the left panel left click **"Immersive Timeskip"** to highlight it, then right click it and select **"Open in Explorer"**
   
-  ![shud 3](https://i.imgur.com/t37UVF9.png)
+  ![faq 72](https://i.imgur.com/t37UVF9.png)
   
   Navigate to **"Root\r6\Input"**
   
-  ![shud 4](https://i.imgur.com/I7zK8Se.png)
+  ![faq 73](https://i.imgur.com/I7zK8Se.png)
   
   ```
   Continued for Both
@@ -660,7 +660,7 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   **"ImmersiveTimeskip.xml** can be customized to choose whatever keybinds you would like, [a full list of CDPR's method for key naming here](https://pastebin.com/nsQ1cqi8)
   
-  ![shud 5](https://i.imgur.com/fHosI4t.png)
+  ![faq 74](https://i.imgur.com/fHosI4t.png)
   
   &#10240;
   
@@ -678,11 +678,11 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   In **Vortex** in the **"Mods"** section, navigate to **"CT Config"** and right click it to **"Open in File Manager"**
   
-  ![shud 2](https://i.imgur.com/HYroN5m.png)
+  ![faq 75](https://i.imgur.com/HYroN5m.png)
   
   Navigate to **"CT Config\bin\x64\plugins\cyber_engine_tweaks\mods\Drone Companions\Modules"** and open the file **"Techdecks.lua"**
   
-  ![2nd](https://i.imgur.com/a7D9naZ.png)
+  ![faq 76](https://i.imgur.com/a7D9naZ.png)
   
   ```
   FOR WABBAJACK USERS
@@ -690,7 +690,7 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   In **MO2** in the left panel left click **"CT Config"** to highlight it, then right click it and select **"Open in Explorer"**
   
-  ![3nd](https://i.imgur.com/pteWnMf.png)
+  ![faq 77](https://i.imgur.com/pteWnMf.png)
   
   Navigate to **"Root\bin\x64\plugins\cyber_engine_tweaks\mods\Drone Companions\Modules"** and open the file **"Techdecks.lua"**
   
@@ -700,11 +700,11 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   In **"Techdecks.lua"** go to line 2041
   
-  ![techdeck 1](https://i.imgur.com/IpO9yEN.png)
+  ![faq 78](https://i.imgur.com/IpO9yEN.png)
   
   and adjust **"Cyberdeck"** to be **"Techdeck"** 
   
-  ![techdeck 2](https://i.imgur.com/rGD3A60.png)
+  ![faq 79](https://i.imgur.com/rGD3A60.png)
   
   Keep in mind this change would have to be done again when the list updates
   
