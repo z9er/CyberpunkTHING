@@ -3,9 +3,9 @@
 &#10240;
 &#10240;
 
-[![Discord Link](https://i.imgur.com/OehZMjj.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/large%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-[logo image]: https://i.imgur.com/OehZMjj.png
+[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/large%20discord%20link.png
 
 &#10240;
 
@@ -18,14 +18,14 @@
 &#10240;
 
 
-![wjack readme 1](https://i.imgur.com/Pne7IiW.png)
+![wjack readme 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%201.png)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/JZ3pUvU.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://i.imgur.com/wxtFNkO.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/color%20change%201.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/color%20change%202.png">
 </picture>
 
-[![Features List](https://i.imgur.com/GLyL7rR.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Features List](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/features%20list.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 # MO2 for Cyberpunk
 
@@ -38,7 +38,7 @@ While most mods will work, there are a few that do some archive checking and thu
 
 &#10240;
 
-![wjack readme 2](https://i.imgur.com/z6KynkI.png)
+![wjack readme 2](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%202.png)
 
 # Premium vs Non-Premium
 
@@ -64,11 +64,11 @@ If you've ever modded Cyberpunk before, it's important to ensure you have a clea
 
 Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
 
-![wjack readme 3](https://i.imgur.com/AXG7U40.png)
+![wjack readme 3](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%203.png)
 
 Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"** 
 
-![wjack readme 4](https://i.imgur.com/YW0s73X.png)
+![wjack readme 4](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%204.png)
 
 Now make sure you go and verify your game files through **Steam** or **GOG**
 
@@ -123,9 +123,9 @@ _Auto Update Games_
 
 Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) 
 
-[![wjack readme 5](https://i.imgur.com/ljncxQg.png)](https://github.com/wabbajack-tools/wabbajack/releases "Wabbajack Link")
+[![wjack readme 5](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%205.png)](https://github.com/wabbajack-tools/wabbajack/releases "Wabbajack Link")
 
-[wjack readme 5 p2]: https://i.imgur.com/ljncxQg.png
+[wjack readme 5 p2]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%205.png
 
 Place the `Wabbajack.exe` in a location like `C:\Wabbajack`
 
@@ -202,7 +202,7 @@ box and then hitting the run button. Due to how it is deploying the files, you m
 
 &#10240;
 
-![wjack readme 6](https://i.imgur.com/Cf8RliI.png)
+![wjack readme 6](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%206.png)
 
 # CET Setup
 
@@ -211,7 +211,7 @@ box and then hitting the run button. Due to how it is deploying the files, you m
 
 When you start the game for the first time you will be met with an overlay prompting you to choose a key to toggle on Cyber Engine Tweaks, recommend that you choose the **"~"** key for the **"Overlay Key"**
 
-![wjack readme 7](https://i.imgur.com/GotiBl6.png)
+![wjack readme 7](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%207.png)
 
 Keybinds for **"BetterScopes",** **"NanoDrone",** **"QuestTrackingToggle"** are as follows:
 
@@ -223,7 +223,7 @@ NanoDrone forwards, left, backwards, and right is <kbd>w</kbd> <kbd>a</kbd> <kbd
 
 Any of this can be changed by hitting your bound **CET Overlay Key** and going to **"Bindings"**
 
-![wjack readme 8](https://i.imgur.com/HiLTXZA.png)
+![wjack readme 8](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%208.png)
 
 
 
@@ -241,7 +241,7 @@ Navigating the Mods menu uses the arrows at the top to switch between the differ
 
 After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
 
-![wjack readme 9](https://i.imgur.com/8Rfy44l.png)
+![wjack readme 9](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%209.png)
 
 
 
@@ -257,15 +257,15 @@ This collection is built around the very hard difficulty setting
 
 After clicking **"Settings"** in the main menu, near the left side of the top menu click on the **"GAMEPLAY"** section, recommend changing **"Aim Assist"** and **"Aim Assist - Melee Combat"** to **"Off"**
 
-![wjack readme 10](https://i.imgur.com/mAUjyAW.png)
+![wjack readme 10](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%2010.png)
 
 Near the right side of the top menu click on the **"INTERFACE"** section, recommend changing **"Damage Numbers Mode"** to **"Off,"** **"Overhead Damage Numbers"** to **"None,"** and **"Threat and Damage Indicator"** to **"Damage Only"**
 
-![wjack readme 11](https://i.imgur.com/6JNViAW.png)
+![wjack readme 11](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%2011.png)
 
 Further down in the **"HUD Visibility"** section, recommend keeping all on except **"Hints,"** **"Activity Log,"** and **"NPC Names"**
 
-![wjack readme 12](https://i.imgur.com/zleClLA.png)
+![wjack readme 12](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%2012.png)
 
 ```
 New players may want to keep "Hints" on until they feel they no longer need them
@@ -351,8 +351,8 @@ Additional thanks and credits to:
 
 For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
 
-[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-[logo image]: https://i.imgur.com/2zyLjNQ.png
+[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/small%20discord%20link.png
 
 [Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
