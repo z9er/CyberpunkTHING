@@ -2,55 +2,55 @@
 
 ## [Important note regarding Vortex if you installed the collection before the release of revision 30](https://forums.nexusmods.com/index.php?/topic/11923283-cyberpunk-thing-1-61/?p=118319143)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/large%20discord%20link.png)](https://discord.gg/eJdMQKnQVt)
+[![the word "Cyberpunk" emblazoned in garish yellow with a light blue undershading, with the word "THING" stamped haphazardly underneath in a bright light blue](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/large%20discord%20link.png)](https://discord.gg/eJdMQKnQVt)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 #### More than just a collection of other modders' amazing work, we are actively developing new mods to add gameplay elements that support our vision. We provide a fully preconfigured and easy to use modded experience; it just works, plug n' play.
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![Collection 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%201.png)
+![a bright blue header with black text showing the word "Features"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%201.png)
 
-[![Collection 2](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%202.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![Cyberpunk thing features deeper netrunning and scanning, a more lively world and npc interactions, high lethality and tougher bosses, game changing cyberware options, an immersive and tasteful ui, healing rework and new drugs, custom vehicle handling and updates, enhanced stealth and reconnaissance, bug fixes and quality of life enhancements](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%202.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
-[![Collection 3](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%203.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+[![a full list of our mods and why we include them can be found at this link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%203.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 ---
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 4](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%204.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
+[![a bright blue header with black text showing the word "install"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%204.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 # Premium vs Non-Premium
 
 For premium Nexus users installing this collection is a one click process as below
 
-![Premium GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU4NmJiM2Q4Y2QxYzI5MjQyMDViN2RmYTU5MWIyMjU3MzkzZjg0MSZjdD1n/HEGph9HbpardEJUFgk/giphy.gif)
+![A GIF showing how with nexus premium the collection can be installed with one click](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTU4NmJiM2Q4Y2QxYzI5MjQyMDViN2RmYTU5MWIyMjU3MzkzZjg0MSZjdD1n/HEGph9HbpardEJUFgk/giphy.gif)
 
 For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Vortex brings up buttons for every mod in the collection.
 
-![Basic GIF](https://media.giphy.com/media/fgjbGZHcWGwqYWOyAl/giphy.gif)
+![A GIF showing how downloading the collection without nexus premium works, 2 clicks per mod in the list](https://media.giphy.com/media/fgjbGZHcWGwqYWOyAl/giphy.gif)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 # [CLICK HERE FOR DETAILED INSTALL INSTRUCTIONS](https://github.com/z9er/CyberpunkTHING/blob/main/resources/documents/Detailed%20Vortex%20Instructions.md)
 
 ---
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 5](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%205.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
+[![a bright blue header with black text showing the word "testimonials"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%205.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 [Strangerism:](https://www.nexusmods.com/fallout4/users/116794)
 
@@ -64,11 +64,11 @@ Honestly, this collection is just great. It has basically fixed ALL the major co
 
 ---
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![Collection 6](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%206.png)
+![a bright blue header with black text showing the words "frequently asked"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%206.png)
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
 [Answers to common troubleshooting or game balancing questions can be found on our FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
@@ -76,9 +76,9 @@ Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a tre
 
 ---
 
-![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-![Collection 7](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%207.png)
+![a bright blue header with black text showing the words "credits and thanks"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%207.png)
 
 A special thanks to [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466), without whom this crazy experiment would never have gotten off the ground.
 
