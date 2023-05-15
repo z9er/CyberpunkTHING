@@ -14,7 +14,7 @@
 
 ![spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
 
-[![Collection 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%201.png)
+![Collection 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%201.png)
 
 [![Collection 2](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%202.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
