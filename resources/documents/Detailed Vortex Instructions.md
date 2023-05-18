@@ -1,8 +1,8 @@
 [Return to Main Collection Page](https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d)
 
-[![Discord Link](https://i.imgur.com/2zyLjNQ.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-[logo image]: https://i.imgur.com/2zyLjNQ.png
+[logo image]: [https://i.imgur.com/2zyLjNQ.png](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/Testimonials/small%20discord%20link.png)
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 
