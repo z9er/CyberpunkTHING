@@ -299,7 +299,7 @@ path and tick the _overwrite existing Modlist_ button
 
 ### Reseting Night City Interactions
 
-After an update, if you go to V's original apartment, go into the stash room and reset NCI
+After an update, go to V's original apartment and into the stash room to reset NCI
 
 ![NCI Reset](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/nci.PNG)
 
