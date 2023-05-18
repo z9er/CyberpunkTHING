@@ -12,7 +12,6 @@
 - [Staging Folder](#staging-folder)
 - [Disabling REDmod Autoconversion](#disabling-redmod-autoconversion)
 - [Profile Management](#profile-management)
-- [For REDmod Users Only](#for-redmod-users-only)
 - [Adding Collection](#adding-collection)
 - [Updating Collection](#updating-collection)
 - [CET Setup](#cet-setup)
@@ -175,34 +174,6 @@ On the top bar, ensure that you are on the **"Interface"** section
 In the **"Advanced"** section below turn on **"Enable Profile Management"**
 
 ![Profilemanagement1](https://i.imgur.com/Juf2RBX.png)
-
----
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
-## For REDmod Users Only
-
-![spacer](https://i.imgur.com/42dA30s.png)
-
-```
-Ignore this step if you have not installed the REDmod DLC, as it will screw up your install. This is a mandatory step for users who have installed the REDmod DLC
-```
-
-If you have installed the **REDmod DLC**, go to the [cybercmd page at the link below](https://www.nexusmods.com/cyberpunk2077/mods/5176?tab=files)
-
-[![cybercmd](https://i.imgur.com/QKHJlGJ.png)](https://www.nexusmods.com/cyberpunk2077/mods/5176?tab=files "cybercmd download")
-
-In the **"Main Files"** section of the page, click on **"Mod Manager Download"** for the latest version of **"cybercmd"**
-
-![cybercmd 1](https://i.imgur.com/qwgomuF.png)
-
-On the popup click **"Download"**
-
-![cybercmd 2](https://i.imgur.com/ewlRNrK.png)
-
-If you click on **"Mods"** on the grey pane on the left side of Vortex, you will see that the **"cybercmd"** mod has been downloaded and enabled
-
-![cybercmd 4](https://i.imgur.com/E7XHKSp.png)
 
 ---
 
