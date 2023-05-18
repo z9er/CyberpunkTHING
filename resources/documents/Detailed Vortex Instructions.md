@@ -220,7 +220,9 @@ The uninstalled mod archives are left in the **"Mods"** list in bright blue, whi
 ![Update Removing Old Mods step 2](https://i.imgur.com/OdfLQcO.png)
 
 ```
-Do not update any of the mods in the collection individually in Vortex! The philosophy of this collection is that when a mod updates, we update a full revision in order to keep everything up to date and interfacing correctly; when you see a new revision, update to it. If anything special is needed we will mention it in the changelog
+Do not update any of the mods in the collection individually in Vortex! The philosophy of this collection is that when a 
+mod updates, we update a full revision in order to keep everything up to date and interfacing correctly; when you see a 
+new revision, update to it. If anything special is needed we will mention it in the changelog
 ```
 
 ---
