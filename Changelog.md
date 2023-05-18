@@ -2,6 +2,56 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.1
+
+&#10240;
+
+**Added**
+
+- [cybercmd 0.0.10](https://www.nexusmods.com/cyberpunk2077/mods/5176)
+
+- [Find-EX 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8340)
+
+- [Kiroshi Optics Night Vision Mod 1.1](https://www.nexusmods.com/cyberpunk2077/mods/8326)
+
+- [RT-46 Burya and DR-12 Quasar Sights Fix 1.1](https://www.nexusmods.com/cyberpunk2077/mods/7158)
+
+- [Simple Loot 1.0](https://www.nexusmods.com/cyberpunk2077/mods/3365)
+
+**Updated**
+
+- [ArchiveXL 1.4.5](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+
+- [Codeware 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+
+- [Equipment-EX 0.9.6](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+
+- [Input Loader 0.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4575)
+
+- [Mod Settings 0.1.2](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+
+- [More Climbable Objects 1.01](https://www.nexusmods.com/cyberpunk2077/mods/7043)
+
+- [Native Settings UI 1.93](https://www.nexusmods.com/cyberpunk2077/mods/3518)
+
+- [Night City Interactions 0.4.1](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+
+- [One More Light 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7834)
+
+- [Panam Romanced Enhanced 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+
+- [RED4ext 1.13.1](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+
+- [redscript 0.5.14](https://www.nexusmods.com/cyberpunk2077/mods/1511)
+
+- [TweakXL 1.1.5](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+
+- [Wilson's Range 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/7367)
+
+- CT Config 1.0.3.3
+
+&#10240;
+
 ### Version 4.0
 
 &#10240;
