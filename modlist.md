@@ -31,6 +31,8 @@
 
 **[redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)** by **[jac3km4](https://www.nexusmods.com/cyberpunk2077/users/49982271)** - Compiler for Cyberpunk scripts
 
+**[cybercmd](https://www.nexusmods.com/cyberpunk2077/mods/5176)** by **[jac3km4](https://www.nexusmods.com/cyberpunk2077/users/49982271)** - Command-line argument loader for Cyberpunk 2077
+
 **[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)** by **[WopsS](https://www.nexusmods.com/cyberpunk2077/users/16475274)** - Script extender for REDengine 4
 
 **[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - RED4ext plugin, loads archive extensions
@@ -80,6 +82,8 @@
 
 **[Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Displays the actual names for vendors’ world map icons rather than generic labels
 
+**[Simple Loot](https://www.nexusmods.com/cyberpunk2077/mods/3365)** by **[Filiperamos96](https://www.nexusmods.com/cyberpunk2077/users/7047017)** - A simple and tasteful loot icon replacement
+
 **[Spicy Clean Hack Screen](https://www.nexusmods.com/cyberpunk2077/mods/906)** by **[spicy2332](https://www.nexusmods.com/cyberpunk2077/users/4892301)** - Removes the green tint from the hack screen
 
 **[Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Adds filters for your stash
@@ -114,6 +118,8 @@
 **[Improved Slide](https://www.nexusmods.com/cyberpunk2077/mods/5533)** by **[zouzoulle](https://www.nexusmods.com/cyberpunk2077/users/1408962)** - Enables side sliding and has much more flexibility on the slide's trajectory
 
 **[Item Level Scaled Upgrade Cost](https://www.nexusmods.com/cyberpunk2077/mods/2873)** by **[DeS3InY](https://www.nexusmods.com/cyberpunk2077/users/572039)** - Changes the upgrade cost of items so upgrading items costs are scaled by item level instead of the number of times upgraded
+
+**[Kiroshi Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326)** by **[keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Adds a new purchasable cyberware mod that enables the ability to toggle a night vision mode., toggled by **“F4”** once purchased. **Has Mod Menu: "NIGHT VISION CW"**
 
 **[Leg Cyberware Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4336)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** - Adds additional Leg Cyberware options to balance, all modular and configurable. **Has Mod Menu: "LEGS"**
 
@@ -278,6 +284,8 @@
 
 **[Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Allows you to choose the damage type when crafting weapons, choose the appearance of the crafted weapon, and even give it a name if it suits your fancy, if you have the right perks. **Has mod menu: "ECRAFT"**
 
+**[Find-EX](https://www.nexusmods.com/cyberpunk2077/mods/8340)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - A search function for the codex,shards, quests, and messages
+
 **[Hide Read Shards](https://www.nexusmods.com/cyberpunk2077/mods/2820)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Removes world placed shards that you have already read
 
 **[Immersive First Person](https://www.nexusmods.com/cyberpunk2077/mods/2675)** by **[Bonaniki](https://www.nexusmods.com/cyberpunk2077/users/109414063) - Improved body presence and free look
@@ -324,6 +332,8 @@
 **[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
 
 **[Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Fixes a few small bugs in the Breach/Quickhacking system
+
+**[RT-46 Burya and DR-12 Quasar Sights Fix](https://www.nexusmods.com/cyberpunk2077/mods/7158)** by **[NeHooYeY](https://www.nexusmods.com/cyberpunk2077/users/83155303)** - Fixes the sights for the RT-46 Burya and DR-12 Quasar
 
 **[Shigure Weapon Bugs Fix](https://www.nexusmods.com/cyberpunk2077/mods/8067)** by **[tduality](https://www.nexusmods.com/cyberpunk2077/users/5839471)** - Corrects iron sight position and ghosting for Shigure
 
