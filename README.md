@@ -297,7 +297,7 @@ will be deleted. Your downloads folder will not be touched! That means if you ha
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button
 
-# Reseting Night City Interactions
+### Reseting Night City Interactions
 
 After an update, if you go to V's original apartment, go into the stash room and reset NCI
 
