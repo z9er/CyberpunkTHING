@@ -360,7 +360,7 @@
 
 **[Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - Transmog system and outfit manager
 
-**[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508)** by **[Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)** - Reuses melee weapon finishers as stealth takedowns without having to grapple first. **Has mod menu: "Kvalyr Mods"**
+**[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508)** by **[Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)** - Reuses melee weapon finishers as stealth takedowns without having to grapple first. **Has mod menu: "KVALYR MODS"**
 
 **[Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213)** by **[keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Makes several of the arcade machines ingame usable
 
