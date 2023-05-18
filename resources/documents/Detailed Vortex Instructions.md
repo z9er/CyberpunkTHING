@@ -219,6 +219,12 @@ The uninstalled mod archives are left in the **"Mods"** list in bright blue, whi
 
 ![Update Removing Old Mods step 2](https://i.imgur.com/OdfLQcO.png)
 
+After an update, go to V's original apartment and into the stash room to reset Night City Interactions
+
+![NCI Reset](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/nci.PNG)
+
+Then leave the apartment and reenter to complete the reset
+
 ```
 Do not update any of the mods in the collection individually in Vortex! The philosophy of this collection is that when a 
 mod updates, we update a full revision in order to keep everything up to date and interfacing correctly; when you see a 
