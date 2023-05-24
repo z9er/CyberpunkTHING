@@ -2,6 +2,30 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.2
+
+&#10240;
+
+**Added**
+
+- [Immersion patch - The Hunt quest missing audio restore 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7413)
+
+- [Immersion patch - No crowd panic from stealth activity 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7360)
+
+- [Immersion Patch - No crowd panic from using devices 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/7353)
+
+- [Immersion patch - Skippy animations restore 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7428)
+
+**Updated**
+
+- [Enhanced Craft 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/4378)
+
+**Removed**
+
+- [cybercmd 0.0.10](https://www.nexusmods.com/cyberpunk2077/mods/5176)
+
+&#10240;
+
 ### Version 4.1
 
 &#10240;
