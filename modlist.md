@@ -31,8 +31,6 @@
 
 **[redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)** by **[jac3km4](https://www.nexusmods.com/cyberpunk2077/users/49982271)** - Compiler for Cyberpunk scripts
 
-**[cybercmd](https://www.nexusmods.com/cyberpunk2077/mods/5176)** by **[jac3km4](https://www.nexusmods.com/cyberpunk2077/users/49982271)** - Command-line argument loader for Cyberpunk 2077
-
 **[RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)** by **[WopsS](https://www.nexusmods.com/cyberpunk2077/users/16475274)** - Script extender for REDengine 4
 
 **[ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)** by **[psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)** - RED4ext plugin, loads archive extensions
@@ -332,6 +330,14 @@
 **[Berserk Fix](https://www.nexusmods.com/cyberpunk2077/mods/4310)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** - Corrects Berserk to actually apply the armor and resistance values it was supposed to have
 
 **[Hacking Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/7000)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Fixes a few small bugs in the Breach/Quickhacking system
+
+**[Immersion patch - The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - This mod restores a missing crucial clue audio playback in The Hunt quest
+
+**[Immersion patch - No crowd panic from stealth activity](https://www.nexusmods.com/cyberpunk2077/mods/7360)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - No more crowd panic caused by stealth grab takedowns or body pickups
+
+**[Immersion Patch - No crowd panic from using devices](https://www.nexusmods.com/cyberpunk2077/mods/7353)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - No more crowd panic form using computers, doors, access points, etc
+
+**[Immersion patch - Skippy animations restore](https://www.nexusmods.com/cyberpunk2077/mods/7428)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - This mod restores missing animations in the Skippy quest
 
 **[RT-46 Burya and DR-12 Quasar Sights Fix](https://www.nexusmods.com/cyberpunk2077/mods/7158)** by **[NeHooYeY](https://www.nexusmods.com/cyberpunk2077/users/83155303)** - Fixes the sights for the RT-46 Burya and DR-12 Quasar
 
