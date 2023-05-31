@@ -2,6 +2,32 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.3
+
+&#10240;
+
+**Updated**
+
+- [Always First Equip 1.11.1](https://www.nexusmods.com/cyberpunk2077/mods/2557)
+
+- [Apartment Cats - Japantown 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/6493)
+
+- [Apartment Cats - Motel 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6379)
+
+- [Apartment Cats - The Glen 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6276)
+
+- [Deceptious Quest Core 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+
+- [Equipment-EX 0.9.7](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+
+- [Find-EX 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/8340)
+
+**Removed** 
+
+- [Apartment Cats - Custom Cats 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/6837)
+
+&#10240;
+
 ### Version 4.2
 
 &#10240;
