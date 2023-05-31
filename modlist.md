@@ -19,7 +19,7 @@
 
 &#10240;
 
-*Several mods in the collection have been adjusted with permission from their mod authors. You are limited to using the **Techdeck** from [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520) as an alternative to a cyberdeck rather than something that can be run in tandem. The movement changes from [Alternate Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) are now part of the **Maneuvering System** cyberware.*
+*Several mods in the collection have been adjusted with permission from their mod authors. You are limited to using the **Techdeck** from* [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520) *as an alternative to a cyberdeck rather than something that can be run in tandem. The movement changes from* [Alternate Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) *are now part of the **Maneuvering System** cyberware.*
 
 
 &#10240;
