@@ -1,4 +1,4 @@
-&#10240;
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt)
 
 More immersive, more realistic. A bullet's a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.
 
