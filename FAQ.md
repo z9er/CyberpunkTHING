@@ -323,7 +323,25 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
 </details>
 
+  <details>
+  <summary>I have an aspect ratio that's different from 16:9 and Item descriptions as well as heavily modded items are going off screen</summary>
+  &#10240;
+  
+  This due to a known gamebug we fixed with the mod ToolTipsFixer. The mod is preadjusted for 16:9 but can be adjusted for other ratios.
+  
+  ![faq 33](INSERT MOD SETTINGS PNG HERE!! Z9 / B)
+
+  About settings:
+Mod supports ingame configuring through Mod settings.
+Mod switches over several scale levels depending tooltip content size.
+On/Off settings switches do exactly what they descriptions says. One thing is: hiding evolution description and replacing 'crafted' module may help to get more useful space for tooltip text content and get a bit higher calculated scale for more readable text.
+Scale offset - global offset value for each scale level. Use mostly for fine size tuning.
+Scale multiplier - mult for each basic scale value (apply before scale offset). If lower scale levels make too small tooltips then this slider might help. Won't affect on basic (default) scale level.
+Content limit offset - offset for tooltip size limit to change scale level. In other words - higher value will switch scaling level down earlier, and lower value - later.
+
 &#10240;
+
+</details>
 
 ## Vortex Specific Troubleshooting
 
