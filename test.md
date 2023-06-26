@@ -1,3 +1,31 @@
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
+[![the word "Cyberpunk" emblazoned in garish yellow with a light blue undershading, with the word "THING" stamped haphazardly underneath in a bright light blue](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/large%20discord%20link.png)](https://discord.gg/eJdMQKnQVt)
+
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
+#### More than just a collection of other modders' amazing work, we are actively developing new mods to add gameplay elements that support our vision. We provide a fully preconfigured and easy to use modded experience; it just works, plug n' play.
+
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
+![a bright blue header with black text showing the word "Features"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%201.png)
+
+[![Cyberpunk thing features deeper netrunning and scanning, a more lively world and npc interactions, high lethality and tougher bosses, game changing cyberware options, an immersive and tasteful ui, healing rework and new drugs, custom vehicle handling and updates, enhanced stealth and reconnaissance, bug fixes and quality of life enhancements](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%202.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+
+[![a full list of our mods and why we include them can be found at this link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%203.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+
+***
+
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
+[![a bright blue header with black text showing the word "install"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%204.png)](https://github.com/z9er/CyberpunkTHING/blob/main/Detailed%20Vortex%20Install%20Instructions.md)
+
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
 # Premium vs Non-Premium
 
 For premium Nexus users installing this collection is a one click process as below
@@ -1069,3 +1097,36 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
 ![spacer](https://i.imgur.com/42dA30s.png)
 
 </details>
+
+***
+
+![a blank spacer](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/spacer.png)
+
+![a bright blue header with black text showing the words "credits and thanks"](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/collection%207.png)
+
+The [Cyberpunk](https://www.nexusmods.com/users/147471503) [THING](https://www.nexusmods.com/cyberpunk2077/users/3534466) [team](https://www.nexusmods.com/cyberpunk2077/users/144799768) stands on the shoulders of giants.
+
+A special thanks to [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466), without whom this crazy experiment would never have gotten off the ground.
+
+Many thanks to [Gwyn21](https://www.nexusmods.com/users/7846251) for paving the way with [Welcome to Night City](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe) and inspiring us to follow our passion.
+
+This could not have been done without the Cyberpunk modding scene at large. They have taken what could have been a forgettable game and turned it into an unforgettable experience.
+
+Additional thanks and credits to:
+
+- Deristat for playtesting, QA and feedback
+- moLy, [Busy Oscar,](https://www.nexusmods.com/cyberpunk2077/users/44887292) and the rest of the [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) Palace of the Mind for suggestions, ideas, and vision
+- [Bobbytronics](https://www.nexusmods.com/users/161227193) for the wonderfully customized version of [Alternative Midair Movement](https://www.nexusmods.com/cyberpunk2077/mods/5160)
+- vahndaar for the bundled mods "Takedown and Dispose Rewards," "Fix Level Up Notification," and "Fistfight Armor"
+- Leon Maxwell for their unofficial [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815) fix
+- [walrus420](https://www.nexusmods.com/cyberpunk2077/users/4076520) for the incredible [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) logo!
+- [SOSUINEPXISUYU](https://www.nexusmods.com/cyberpunk2077/users/75442863?tab=user+files) for the beautiful and striking screenshots.
+- General namedrops for specific help and utilities: [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138), [KeanuWheeze/Nexusguy999](https://www.nexusmods.com/cyberpunk2077/users/77476393), [scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633), [rfuzzo](https://www.nexusmods.com/users/16300749), [KiroCobra](https://www.nexusmods.com/cyberpunk2077/users/40108180), and the Cyberpunk 2077 modding Discord!
+- Can't forget the [WolvenKit](https://www.nexusmods.com/cyberpunk2077/mods/2201) Team, the [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) team, and the [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) team for making the tools all modders use, and the modding Discords in general for being a font of information!
+- JTK from the Wabbajack team, as well as Xanza, Delta, and Crit for making MO2 for Cyberpunk a reality
+
+***Remember to endorse the mods in this that you enjoy: the people who made these mods are the only reason this exists.***
+
+For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
+
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt)
