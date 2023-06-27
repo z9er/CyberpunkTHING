@@ -2,6 +2,44 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.4
+
+&#10240;
+
+**Added**
+
+- [Kill Phantom Liberty Banner 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8623)
+- [ToolTips Fixer 1.01](https://www.nexusmods.com/cyberpunk2077/mods/8560)
+
+**Updated**
+
+- [ArchiveXL 1.4.8](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Codeware 1.1.6](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [Cyber Engine Tweaks 1.25.1](https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [Deceptious Quest Core 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+- [Immersive First Person 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/2675)
+- [Immersive Rippers 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Judy Romanced Enhanced 1.8.0](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+- [Mod Settings 0.2.0](https://www.nexusmods.com/cyberpunk2077/mods/4885)
+- [Named Saves 1.6.4](https://www.nexusmods.com/cyberpunk2077/mods/4521)
+- [Night City Interactions 0.5.0](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+- [Panam Romanced Enhanced 1.7.1](https://www.nexusmods.com/cyberpunk2077/mods/4626)
+- [RED4ext 1.15.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
+- [River Romanced Enhanced 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4870)
+- [Silent Silencers and Throwing Knives 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/4070)
+- [Stealthrunner 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+- [TV Anywhere 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8162)
+- [TweakXL 1.1.7](https://www.nexusmods.com/cyberpunk2077/mods/4197)
+- [Quickhack Hotkeys 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/7238)
+- [QoL - Interactive Judy's Apartment Devices 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/8099)
+- CT Config 1.0.3.4
+
+**Removed**
+
+- [Drone Companions 1.20](https://www.nexusmods.com/cyberpunk2077/mods/4520)
+
+&#10240;
+
 ### Version 4.3
 
 &#10240;
