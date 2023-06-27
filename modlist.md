@@ -68,6 +68,8 @@
 
 **[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776)** by **[keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Lets you zoom onto your character on the inventory screen
 
+**[Kill Phantom Liberty Banner](https://www.nexusmods.com/cyberpunk2077/mods/8623)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - Removes the intrusive Phantom Liberty banner ad from your main menu
+
 **[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Configurable hud visibility, customized to only show minimap and job tracker when holding right click without a weapon out, shows minimap when in vehicles. **Has Mod Menus: "LHUD" and "LHUD ADDONS"** 
 
 **[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
@@ -86,6 +88,8 @@
 
 **[Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Adds filters for your stash
 
+**[ToolTips Fixer](https://www.nexusmods.com/cyberpunk2077/mods/8560)** by **[svarmod](https://www.nexusmods.com/cyberpunk2077/users/31925465)** - ToolTips Fixer repairs missing, oversized and overshifted weapons/clothes/cyberware tooltips
+
 **[Untrack Quest Ultimate](https://www.nexusmods.com/cyberpunk2077/mods/6328)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - Easy quest untracking
 
 **[flib's UI Improvements](https://www.nexusmods.com/cyberpunk2077/mods/2729)** by **[flib](https://www.nexusmods.com/cyberpunk2077/users/388144)** - Quality of life UI improvements that help sort quests, messages and shards, and preview images of vehicles on texts from fixers, prevents disassembling iconics
@@ -101,15 +105,13 @@
 
 **[Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
 
-**[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Allows the player to craft during combat, added for the tie in with Drone Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
+**[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Allows the player to craft during combat, added for the tie in with  Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
 
 **[Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
 
 **[Cyberdeck Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/5055)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** and the **Cyberpunk THING Team** - Adds intelligence requirements for installing cyberdecks, limits the quality of quickhacks that can be equipped on a cyberdeck to the quality of the cyberdeck. **Has Mod Menu: "DECKS"**
 
 **[Disable Highlighting Through Walls](https://www.nexusmods.com/cyberpunk2077/mods/3314)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Disables the red highlight effect on enemies from showing up through walls
-
-**[Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Adds a new type of Operating System for Technical Ability that allows crafting and controlling different types of drones, androids, and mechs. Able to have the drones prioritize your target by manually marking them, via scanning + middle mouse button. **Has Mod Menu: "DRONES"**
 
 **[Iconic Sasquatch's Hammer](https://www.nexusmods.com/cyberpunk2077/mods/4216)** by **[apart](https://www.nexusmods.com/cyberpunk2077/users/4211422)** - Makes Sasquatch’s Hammer into an iconic weapon with a unique effect
 
