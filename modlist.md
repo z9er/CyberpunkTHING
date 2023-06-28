@@ -347,6 +347,8 @@
 
 **[Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Fixes bugs associated with the status/debuff/buff bar and weapon wheel
 
+**[QoL - Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663)** by **[Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Fixes the dark box shadows cast by holotext screens with using ray/path tracing.
+
 &#10240;
 &#10240;
 
