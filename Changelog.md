@@ -2,6 +2,23 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.5
+
+&#10240;
+
+**Added**
+
+- [QoL - Fix for holotext shadows with RT or PT 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8663)
+
+**Updated**
+
+- [Cyber Engine Tweaks 1.25.2](https://www.nexusmods.com/cyberpunk2077/mods/107)
+- [Kill Phantom Liberty Banner 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/8623)
+- [One More Light 1.1.5](https://www.nexusmods.com/cyberpunk2077/mods/7834)
+- CT Config 1.0.3.5
+
+&#10240;
+
 ### Version 4.4
 
 &#10240;
