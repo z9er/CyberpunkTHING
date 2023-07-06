@@ -2,6 +2,29 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.6
+
+&#10240;
+
+**Added**
+
+- [Show Item level on crafting and upgrading 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8701)
+
+**Updated**
+
+- [Californication 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7833)
+- [Idle Anywhere 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8038)
+- [Immersive Food Vendors 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/7322)
+- [Immersive Rippers 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/7064)
+- [Improved Minimap Zoom 1.7.7](https://www.nexusmods.com/cyberpunk2077/mods/2959)
+- [Judy Romanced Enhanced 1.8.4](https://www.nexusmods.com/cyberpunk2077/mods/4508)
+
+**Removed**
+
+- [Combat Crafting 1.0](https://www.nexusmods.com/cyberpunk2077/mods/4928)
+
+&#10240;
+
 ### Version 4.5
 
 &#10240;
