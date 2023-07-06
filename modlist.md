@@ -105,8 +105,6 @@
 
 **[Challenging Breach Minigame](https://www.nexusmods.com/cyberpunk2077/mods/3661)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - The Breach Protocol timer starts immediately and is shortened. **Has Mod Menu: "RMK MODS"**
 
-**[Combat Crafting](https://www.nexusmods.com/cyberpunk2077/mods/4928)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Allows the player to craft during combat, added for the tie in with  Companions. Does not work by going to crafting from the main menu, must use the actual crafting menu shortcut, by default **"K"**
-
 **[Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886)** by **[RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Scales up conversation skill checks so you see options requiring higher attribute levels in general and as you level up
 
 **[Cyberdeck Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/5055)** by **[Teslacoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466)** and the **Cyberpunk THING Team** - Adds intelligence requirements for installing cyberdecks, limits the quality of quickhacks that can be equipped on a cyberdeck to the quality of the cyberdeck. **Has Mod Menu: "DECKS"**
@@ -342,6 +340,8 @@
 **[RT-46 Burya and DR-12 Quasar Sights Fix](https://www.nexusmods.com/cyberpunk2077/mods/7158)** by **[NeHooYeY](https://www.nexusmods.com/cyberpunk2077/users/83155303)** - Fixes the sights for the RT-46 Burya and DR-12 Quasar
 
 **[Shigure Weapon Bugs Fix](https://www.nexusmods.com/cyberpunk2077/mods/8067)** by **[tduality](https://www.nexusmods.com/cyberpunk2077/users/5839471)** - Corrects iron sight position and ghosting for Shigure
+
+**[Show Item level on crafting and upgrading](https://www.nexusmods.com/cyberpunk2077/mods/8701)** by **[svarmod](https://www.nexusmods.com/cyberpunk2077/users/31925465)** - Adds item level indicator to crafting and upgrading menu
 
 **[Simple Gameplay Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4519)** by **[Scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633)** - Collection of general fixes for Cyberpunk
 
