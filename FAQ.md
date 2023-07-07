@@ -343,6 +343,8 @@ Content limit offset - offset for tooltip size limit to change scale level. In o
 
 </details>
 
+&#10240;
+
 ## Vortex Specific Troubleshooting
 
 <details>
