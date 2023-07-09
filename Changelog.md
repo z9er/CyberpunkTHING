@@ -2,6 +2,20 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.7
+
+&#10240;
+
+**Updated**
+
+- [Native Settings UI 1.94](https://www.nexusmods.com/cyberpunk2077/mods/3518)
+
+**Removed**
+
+- [Cyberdeck Tweaks 1.0](https://www.nexusmods.com/cyberpunk2077/mods/5055)
+
+&#10240;
+
 ### Version 4.6
 
 &#10240;
