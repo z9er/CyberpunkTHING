@@ -66,10 +66,6 @@
 
 **[Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400)** by **[rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)** - Adds in some options to filter saves by different Lifepath instead of seeing all saves
 
-**[Inventory Zoom](https://www.nexusmods.com/cyberpunk2077/mods/4776)** by **[keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Lets you zoom onto your character on the inventory screen
-
-**[Kill Phantom Liberty Banner](https://www.nexusmods.com/cyberpunk2077/mods/8623)** by **[anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)** - Removes the intrusive Phantom Liberty banner ad from your main menu
-
 **[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Configurable hud visibility, customized to only show minimap and job tracker when holding right click without a weapon out, shows minimap when in vehicles. **Has Mod Menus: "LHUD" and "LHUD ADDONS"** 
 
 **[Muted Markers](https://www.nexusmods.com/cyberpunk2077/mods/1727)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Removes loot markers and enemy markers from the minimap. **Has Mod Menu: "MUTEDMARKERS"**
@@ -200,6 +196,14 @@
 **[Immersive Rippers](https://www.nexusmods.com/cyberpunk2077/mods/7064)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Can use the chair in ripperdoc clinics animated where ripperdocs do work more immersively
 
 **[Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - V now actually uses the ripper's chair when getting chrome/appearance work done and Vik is animated for it
+
+**[I Really Want To Stay At Your House - Judy](https://www.nexusmods.com/cyberpunk2077/mods/8753)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Judy will now stay at V's H10 apartment sometimes, if V romanced her
+
+**[I Really Want To Stay At Your House - Kerry](https://www.nexusmods.com/cyberpunk2077/mods/8806)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Kerry will now stay at V's H10 apartment sometimes, if V romanced him
+
+**[I Really Want To Stay At Your House - Panam](https://www.nexusmods.com/cyberpunk2077/mods/8775)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Panam will now stay at V's H10 apartment sometimes, if V romanced her
+
+**[I Really Want To Stay At Your House - River](https://www.nexusmods.com/cyberpunk2077/mods/8826)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - River will now stay at V's H10 apartment sometimes, if V romanced him
 
 **[Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Adds a few different states for Judy to be in when you visit her apartment once romanced
 
