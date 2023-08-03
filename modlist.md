@@ -183,6 +183,8 @@
 
 **[Apartment Cats - Corpo Plaza](https://www.nexusmods.com/cyberpunk2077/mods/6329)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Adds a holographic cat to the Corpo Plaza apartment
 
+**[Apartment Cats - Custom Cats](https://www.nexusmods.com/cyberpunk2077/mods/6837)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Adds variants for each of the Apartment Cats mods, fully individualised so each apartment cat can have a different look
+
 **[Apartment Cats - The Glen](https://www.nexusmods.com/cyberpunk2077/mods/6276)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Adds a cat to The Glen apartment
 
 **[Apartment Cats - Japantown](https://www.nexusmods.com/cyberpunk2077/mods/6493)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Adds a cat to the Japantown apartment
