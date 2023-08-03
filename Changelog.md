@@ -22,8 +22,8 @@
 - [I Really Want To Stay At Your House - Kerry 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/8806)
 - [I Really Want To Stay At Your House - Panam 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/8775)
 - [I Really Want To Stay At Your House - River 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/8826)
-&#10240;
 
+&#10240;
 
 ### Version 4.8
 
