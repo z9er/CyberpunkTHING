@@ -2,6 +2,29 @@
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/changelog/small%20discord%20link.png
 
+### Version 4.9
+
+&#10240;
+
+**Added**
+
+- [Apartment Cats - Custom Cats 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/6837)
+
+**Updated**
+
+- [Apartment Cats - Corpo Plaza 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/6329)
+- [Apartment Cats - Japantown 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6493)
+- [Apartment Cats - The Glen 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/6276)
+- [ArchiveXL 1.4.9](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [Codeware 1.1.7](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [Equipment-EX 0.9.9](https://www.nexusmods.com/cyberpunk2077/mods/6945)
+- [I Really Want To Stay At Your House - Judy 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8753)
+- [I Really Want To Stay At Your House - Kerry 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/8806)
+- [I Really Want To Stay At Your House - Panam 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/8775)
+- [I Really Want To Stay At Your House - River 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/8826)
+&#10240;
+
+
 ### Version 4.8
 
 &#10240;
