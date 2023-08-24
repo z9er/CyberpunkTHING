@@ -300,8 +300,6 @@
 
 **[Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Allows marking any item in your inventory as a Junk so you will be able to sell all marked items at once using vendors **"Sell Junk"** option
 
-**[More Inventory Filters](https://www.nexusmods.com/cyberpunk2077/mods/6879)** by **[Darkelf44](https://www.nexusmods.com/cyberpunk2077/users/37996290)** - Adds more filters to your inventory, your stash's inventory, and to most vendors inventory
-
 **[No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533)** by **[djkovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)** - Disables the game intro videos
 
 **[No Walk Auto Disable](https://www.nexusmods.com/cyberpunk2077/mods/3966)** by **[sjbox](https://www.nexusmods.com/cyberpunk2077/users/26373199)** - Removes the game’s attempts to disable the walk toggle
@@ -377,6 +375,8 @@
 **[Finisher and Takedown Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/6508)** by **[Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)** - Reuses melee weapon finishers as stealth takedowns without having to grapple first. **Has mod menu: "KVALYR MODS"**
 
 **[Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213)** by **[keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)** - Makes several of the arcade machines ingame usable
+
+**[QoL - Fix for the Arasaka nuke being on the 21st](https://www.nexusmods.com/cyberpunk2077/mods/9004)** by **[deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)** - Fixes the clock time during the Arasaka raid to match the expected time: Team arrives at ~23:35pm, leaves at ~23:45pm Aug 20th, instead of 00:10am on August 21st
 
 **[Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858)** by **[SketchCritic](https://www.nexusmods.com/cyberpunk2077/users/84432183)** - Better enemy ragdolls
 
