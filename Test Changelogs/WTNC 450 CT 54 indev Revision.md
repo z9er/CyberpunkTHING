@@ -9,7 +9,7 @@ more added mods for 2.02, added ct config, removed hq food
 - [Browser Extension 0.9.2](https://www.nexusmods.com/cyberpunk2077/mods/10038)
 - [Buttslinger Quickmelee 1.1](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 - [Cleaner Main Menu and Pause Menu 1.2](https://www.nexusmods.com/cyberpunk2077/mods/10285)
-- [Dance Off1.0.0]( https://www.nexusmods.com/cyberpunk2077/mods/10615)
+- [Dance Off 1.0.0]( https://www.nexusmods.com/cyberpunk2077/mods/10615)
 - [Disable W-S Keys To Select Dialogue Options 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9799)
 - [DR-10 Wormhole Smart Revolver 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10541)
 - [DualSense Controller Support 3.10](https://www.nexusmods.com/cyberpunk2077/mods/4156)
