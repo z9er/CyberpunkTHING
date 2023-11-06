@@ -52,7 +52,7 @@ preparing for live, removed ct config.
 - [I Really Want To Stay At Your House - Kerry 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8806)
 - [I Really Want To Stay At Your House - Panam 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/8775)
 - [I Really Want To Stay At Your House - River 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8826)
-- [Keep Drawing the Line 2.1](https://www.nexusmods.com/cyberpunk2077/mods/7198)
+- [Keep Drawing the Line 2.2](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 - [Limited Hud 2.11.1](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 - [Longer Car Delivery Timers 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9735)
 - [Mod Settings 0.2.2](https://www.nexusmods.com/cyberpunk2077/mods/4885)
