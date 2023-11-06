@@ -70,6 +70,7 @@ preparing for live, removed ct config.
 - [Smarter Scrapper 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/2687)
 - [TweakXL 1.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 - [Virtual Car Dealer 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4454)
+- WTNC Config 0.0.0.7
 
 **Removed**
 
