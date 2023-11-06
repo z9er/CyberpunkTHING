@@ -1,4 +1,4 @@
-preparing for live, removed ct config.
+preparing for live, added wtnc config.
 
 **Added**
 
