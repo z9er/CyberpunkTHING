@@ -1,19 +1,21 @@
-more added mods for 2.02, added ct config, removed hq food
+preparing for live, removed ct config.
 
 **Added**
 
 - [Apartment Cats - Dogtown 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10325)
 - [Better Access Point Hacking Netrunner Rewards 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10355)
 - [Body Shield 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10533)
-- [Borg Malorian Restored 1.2](https://www.nexusmods.com/cyberpunk2077/mods/9213)
+- [Borg Malorian Restored 1.3](https://www.nexusmods.com/cyberpunk2077/mods/9213)
 - [Browser Extension 0.9.2](https://www.nexusmods.com/cyberpunk2077/mods/10038)
 - [Buttslinger Quickmelee 1.1](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 - [Cleaner Main Menu and Pause Menu 1.2](https://www.nexusmods.com/cyberpunk2077/mods/10285)
+- [Comrade's Hammer Restored 1.2](https://www.nexusmods.com/cyberpunk2077/mods/9707)
 - [Dance Off 1.0.0]( https://www.nexusmods.com/cyberpunk2077/mods/10615)
 - [Disable W-S Keys To Select Dialogue Options 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9799)
 - [DR-10 Wormhole Smart Revolver 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10541)
 - [DualSense Controller Support 3.10](https://www.nexusmods.com/cyberpunk2077/mods/4156)
 - [Fix Max Cyberware Capacity 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10354)
+- [Focus Vignette Removal 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10712)
 - [Hide Read Shards 0.3](https://www.nexusmods.com/cyberpunk2077/mods/2820)
 - [Idle Anywhere 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/8038)
 - [Immersive Bartenders - Dogtown 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10372)
@@ -28,9 +30,10 @@ more added mods for 2.02, added ct config, removed hq food
 - [Nano Drone 1.4]( https://www.nexusmods.com/cyberpunk2077/mods/3419)
 - [Scan Mode - Default to Data Tab 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9730)
 - [Set Bonuses 2.02u1](https://www.nexusmods.com/cyberpunk2077/mods/8103)
+- [The Passenger 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 - [Vehicle Summon Tweaks - Favorites 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4658)
 - [Vehicle Summon Tweaks - Repair Cost 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/4658)
-- [Weapons Reclassified 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10312)
+- [Weapons Reclassified 1.1](https://www.nexusmods.com/cyberpunk2077/mods/10312)
 
 **Updated**
 
@@ -49,9 +52,10 @@ more added mods for 2.02, added ct config, removed hq food
 - [I Really Want To Stay At Your House - Kerry 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8806)
 - [I Really Want To Stay At Your House - Panam 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/8775)
 - [I Really Want To Stay At Your House - River 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8826)
-- [Keep Drawing the Line 2.0](https://www.nexusmods.com/cyberpunk2077/mods/7198)
+- [Keep Drawing the Line 2.1](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 - [Limited Hud 2.11.1](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 - [Longer Car Delivery Timers 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9735)
+- [Mod Settings 0.2.2](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 - [Named Saves 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 - [Night City Interactions 2.0.5](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 - [No Camera Auto Centering 0.8](https://www.nexusmods.com/cyberpunk2077/mods/2169)
@@ -59,7 +63,7 @@ more added mods for 2.02, added ct config, removed hq food
 - [QoL - Faster Checkpoints 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/9724)
 - [QoL - Interactive Judy's Apartment Devices 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/8099)
 - [RED4ext 1.18.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
-- [Ricochet Redux 3.0](https://www.nexusmods.com/cyberpunk2077/mods/7197)
+- [Ricochet Redux 3.1](https://www.nexusmods.com/cyberpunk2077/mods/7197)
 - [River Romanced Enhanced 2.0.3](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 - [Rita Wheeler Romanced 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 - [Sensible Time Bomb 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10575)
@@ -72,4 +76,4 @@ more added mods for 2.02, added ct config, removed hq food
 - [Cyberpunk 2077 HD Reworked Project 2.0](https://www.nexusmods.com/cyberpunk2077/mods/7652)
 - [Fix Skill Progression Rewards Not Applying 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9879)
 - [Kill Phantom Liberty Banner 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8623)
-- Mod Settings
+- [Sprint Fix 1.2](https://www.nexusmods.com/cyberpunk2077/mods/9753)
