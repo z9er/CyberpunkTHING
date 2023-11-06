@@ -1,4 +1,4 @@
-## Added Mods
+# Added Mods
 
 ### UI
 
@@ -53,7 +53,7 @@
 - [Disable W-S Keys To Select Dialogue Options 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9799)
 - [Fix Max Cyberware Capacity 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10354)
 
-## Updated Mods
+# Updated Mods
 
 ### Utilities
 
@@ -112,7 +112,7 @@
 
 - [Equipment-EX 1.1.8](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-## Removed Mods
+# Removed Mods
 
 - [Cyberpunk 2077 HD Reworked Project 2.0](https://www.nexusmods.com/cyberpunk2077/mods/7652)
 - [Fix Skill Progression Rewards Not Applying 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9879)
