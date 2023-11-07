@@ -13,6 +13,7 @@
 - [Body Shield 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10533)
 - [Buttslinger Quickmelee 1.1](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 - [Nano Drone 1.4]( https://www.nexusmods.com/cyberpunk2077/mods/3419)
+- [Sensible Time Bomb 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10575)
 - [Set Bonuses 2.02u1](https://www.nexusmods.com/cyberpunk2077/mods/8103)
 
 ### World and NPC Interactions
@@ -74,7 +75,6 @@
 
 - [Keep Drawing the Line 2.2](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 - [Ricochet Redux 3.1](https://www.nexusmods.com/cyberpunk2077/mods/7197)
-- [Sensible Time Bomb 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10575)
 
 ### World and NPC Interactions
 
