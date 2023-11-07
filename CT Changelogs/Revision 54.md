@@ -31,6 +31,7 @@ Updated for and Compatible with version **2.02**
 
 - [Vehicle Summon Tweaks - Favorites 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4658)
 - [Vehicle Summon Tweaks - Repair Cost 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/4658)
+- [Virtual Car Dealer - Browser Extension 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
 ### Weapons
 
