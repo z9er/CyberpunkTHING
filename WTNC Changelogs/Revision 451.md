@@ -1,3 +1,5 @@
+Updated for and Compatible with version **2.02**
+
 # Added Mods
 
 ### UI
