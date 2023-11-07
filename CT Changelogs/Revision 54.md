@@ -113,7 +113,6 @@ Updated for and Compatible with version **2.02**
 
 # Removed Mods
 
-- [Cyberpunk 2077 HD Reworked Project 2.0](https://www.nexusmods.com/cyberpunk2077/mods/7652)
 - [Fix Skill Progression Rewards Not Applying 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9879)
 - [Kill Phantom Liberty Banner 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8623)
 - [Sprint Fix 1.2](https://www.nexusmods.com/cyberpunk2077/mods/9753)
