@@ -16,7 +16,7 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
   <summary>Vehicles and Driving</summary>
   &#10240;
   
-  ![expanded blurb](https://i.imgur.com/zKfuQOS.png)
+  ![expanded blurb](https://i.imgur.com/m5ypLS3.png)
   
   ![faq 50](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2050.png)
   
