@@ -99,6 +99,8 @@ This video guide will give you all the information you need in less than two min
 
 For premium Nexus users installing this collection is a one click process as below
 
+![premium gif picture](https://i.imgur.com/vhecJdw.png)
+
 For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Vortex brings up buttons for every mod in the collection.
 
 
