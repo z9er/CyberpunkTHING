@@ -86,5 +86,3 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
   &#10240;
   
 </details>
-
-&#10240;
