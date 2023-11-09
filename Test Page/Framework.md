@@ -16,7 +16,7 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
   <summary>Gameplay</summary>
   &#10240;
   
-  In **MO2**, right click on **"CT Config"** in the left hand panel and select **"Open in Explorer"** and go to **"Root/bin/x64/plugins/cyber_engine_tweaks"** and delete **"bindings.json"**, then restart the game.
+  ![expanded blurb](https://i.imgur.com/zKfuQOS.png)
   
   ![faq 50](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2050.png)
   
