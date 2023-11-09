@@ -10,7 +10,7 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
 
 ![general overview of lists selling points](https://i.imgur.com/1Os2m6v.png)
 
-## Selected Features
+# Selected Features
 
 <details>
   <summary>Gameplay</summary>
@@ -89,13 +89,13 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
 
 ![thing info](https://i.imgur.com/RXy9JKK.png)
 
-## Install
+# Install
 
 This video guide will give you all the information you need in less than two minutes, or you can continue reading below.
 
 ![install guide picture](https://i.imgur.com/iq2Eew2.png)
 
-### Premium vs Non-Premium
+## Premium vs Non-Premium
 
 For premium Nexus users installing this collection is a one click process as below
 
@@ -411,3 +411,7 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 ![uninstall step 6](https://i.imgur.com/W4gP6uM.png)
 </details>
 </details>
+
+# Frequently Asked
+
+
