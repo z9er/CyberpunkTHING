@@ -13,7 +13,7 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
 # Selected Features
 
 <details>
-  <summary>Gameplay</summary>
+  <summary>Vehicles and Driving</summary>
   &#10240;
   
   ![expanded blurb](https://i.imgur.com/zKfuQOS.png)
@@ -56,7 +56,7 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
 </details>
 
 <details>
-  <summary>Vehicles and Driving</summary>
+  <summary>Gameplay</summary>
   &#10240;
   
   In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) open the "Game Folder Files" folder in your modlist install location, and copy the archive folder into your main Cyberpunk 2077 directory
