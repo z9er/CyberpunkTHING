@@ -94,3 +94,7 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
 This video guide will give you all the information you need in less than two minutes, or you can continue reading below.
 
 ![install guide picture](https://i.imgur.com/iq2Eew2.png)
+
+### Premium vs Non-Premium
+
+
