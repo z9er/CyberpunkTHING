@@ -89,4 +89,6 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
 
 ![thing info](https://i.imgur.com/RXy9JKK.png)
 
+## Install
+
 ![install guide picture](https://i.imgur.com/iq2Eew2.png)
