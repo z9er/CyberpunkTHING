@@ -404,6 +404,16 @@ What was once **"final.redscripts.bk"** will now be **"final.redscripts"**
 </details>
 </details>
 
+## Premium vs Non-Premium
+
+For premium Nexus users installing this collection is a one click process as below
+
+![premium gif picture](https://i.imgur.com/vhecJdw.png)
+
+For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Vortex brings up buttons for every mod in the collection.
+
+![non premium gif](https://i.imgur.com/PMr3dxQ.png)
+
 # Frequently Asked
 
 Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a treasure trove of information that we’ve gathered from answering users' questions over time. If you have an issue, we highly recommend you check if it's already been answered. And if not, you can always find us on our [Discord server](https://discord.gg/eJdMQKnQVt) :)
@@ -932,16 +942,6 @@ Continued for Both
 
 ![spacer](https://i.imgur.com/42dA30s.png)
 </details>
-
-## Premium vs Non-Premium
-
-For premium Nexus users installing this collection is a one click process as below
-
-![premium gif picture](https://i.imgur.com/vhecJdw.png)
-
-For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Vortex brings up buttons for every mod in the collection.
-
-![non premium gif](https://i.imgur.com/PMr3dxQ.png)
 
 # Credits and Thanks
 
