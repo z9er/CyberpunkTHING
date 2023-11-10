@@ -105,6 +105,8 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![non premium gif](https://i.imgur.com/PMr3dxQ.png)
 
+![install arrow](https://i.imgur.com/qRx9Z9L.png)
+
 <details><summary>Ensuring Clean Game Install</summary>
 ## Ensuring Clean Game Install
 
