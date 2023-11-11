@@ -18,8 +18,6 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
   
   ![expanded blurb](https://i.imgur.com/m5ypLS3.png)
   
-  ![faq 50](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2050.png)
-  
   &#10240;
   
   </details>
