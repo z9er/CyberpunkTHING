@@ -27,13 +27,13 @@ Updated with and compatible for version 2.02 and Phantom Liberty.
   <summary>World and NPC Interactions</summary>
   &#10240;
   
-- [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034)
+[Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034)
 
 Car Modification shop allows to to modify the handling, speed, blah blah fuck you of v's car something something consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ![car mod shop gif](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/car-mod-shop.gif)
 
-- [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)
+[Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203)
 
 Immersive Bartenders is a cool mod that allows adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
