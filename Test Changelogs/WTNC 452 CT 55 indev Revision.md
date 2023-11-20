@@ -19,7 +19,7 @@
 
 ### UI
 
-- [Limited Hud 2.11.4](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+- [Limited Hud 2.11.5](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
 ### Gameplay
 
