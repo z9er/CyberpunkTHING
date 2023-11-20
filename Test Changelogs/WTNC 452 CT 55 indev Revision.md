@@ -24,6 +24,7 @@
 ### Gameplay
 
 - [Buttslinger Quickmelee 1.2](https://www.nexusmods.com/cyberpunk2077/mods/10556)
+- [Buttslinger Quickmelee - Synergy Patch for Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 - [Keep Drawing The Line 3.0](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 - [Keep Drawing The Line - Invisible Standby Line 3.0](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 - [Ricochet Redux 3.3.1](https://www.nexusmods.com/cyberpunk2077/mods/7197)
