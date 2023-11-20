@@ -6,9 +6,9 @@
 
 ### Bug Fixes
 
-- [QuickSlot and Consumables Bug Fix 2.02](https://www.nexusmods.com/cyberpunk2077/mods/10811)
 - [Database Fixes 1.02](https://www.nexusmods.com/cyberpunk2077/mods/10636)
 - [Perk Selling Extra Point Gain Bug Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10857)
+- [QuickSlot and Consumables Bug Fix 2.02](https://www.nexusmods.com/cyberpunk2077/mods/10811)
 
 # Updated Mods
 
