@@ -1,6 +1,6 @@
-![gif](https://i.imgur.com/oAvTzlv.png)
+**Supports Version 2.02**
 
-Updated with and compatible for version 2.02 and Phantom Liberty.
+![gif](https://i.imgur.com/oAvTzlv.png)
 
 ![picture of awards transparent floating](https://i.imgur.com/mxW1thQ.png)
 
