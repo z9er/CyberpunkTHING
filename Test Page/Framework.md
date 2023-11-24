@@ -1,4 +1,4 @@
-**Updated for and Compatible with Version 2.02**
+###### **Updated for and compatible with version 2.02**
 
 ![gif](https://i.imgur.com/oAvTzlv.png)
 
