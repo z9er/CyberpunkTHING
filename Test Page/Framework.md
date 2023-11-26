@@ -982,6 +982,7 @@ Additional thanks and credits to:
 - [Freykun](https://www.nexusmods.com/users/104283928) for the beautiful Collection page art
 - moLy, hs0003, [Busy Oscar,](https://www.nexusmods.com/cyberpunk2077/users/44887292) and the rest of the [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) Palace of the Mind for suggestions, ideas, and vision
 - Bioskop for UI/UX assistance, consulting, and ideas
+- Nine for assistance with the collection page
 - [walrus420](https://www.nexusmods.com/cyberpunk2077/users/4076520) for the incredible [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) logo!
 - General namedrops for specific help and utilities: [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138), [KeanuWheeze/Nexusguy999](https://www.nexusmods.com/cyberpunk2077/users/77476393), [scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633), [rfuzzo](https://www.nexusmods.com/users/16300749), [KiroCobra](https://www.nexusmods.com/cyberpunk2077/users/40108180), [Exoclyps](https://www.nexusmods.com/fallout4/users/697340?tab=about+me), and the Cyberpunk 2077 modding Discord!
 - Can't forget the [WolvenKit](https://www.nexusmods.com/cyberpunk2077/mods/2201) Team, the [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) team, and the [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) team for making the tools all modders use, and the modding Discords in general for being a font of information!
