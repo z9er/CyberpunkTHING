@@ -35,7 +35,7 @@ Unlike some other collections that take you on an unexpected journey of left tur
 
 On both Discord and Nexus you can find our team actively answering questions, listening to your feedback and incorporating the community's suggestions into future revisions and mod projects
 
-# Selected Features
+# Notable Features
 
 <details>
   <summary>Vehicles and Driving</summary>
