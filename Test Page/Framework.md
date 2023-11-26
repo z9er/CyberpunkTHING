@@ -4,7 +4,7 @@
 
 ![picture of awards transparent floating](https://i.imgur.com/mxW1thQ.png)
 
-#### The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences made from the best mods our team and the community at large have to offer.
+#### The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences crafted from the best mods our team and the community at large have to offer.
 
 ## A WORLD TO GET LOST IN (THIS IS A PICTURE WITH THE WORDS THEN IMAGE ON RIGHT TO SPRUCE IT UP)
 
@@ -23,7 +23,7 @@ With or without Phantom Liberty, enjoy two completely different experiences from
 **OBSESSIVELY CURATED**
 
 
-Stringently tested and preconfigured, we've made sure every mod is 100% compatible and tailored to give you the best possible combination of bug fixes, quality-of-life improvements, and brand-new features
+Stringently tested and preconfigured, we've ensured that every mod is 100% compatible and tailored to give you the best possible combination of bug fixes, quality-of-life improvements, and brand-new features
 
 **SIT BACK AND RELAX**
 
