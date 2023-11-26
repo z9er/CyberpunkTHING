@@ -110,7 +110,7 @@ Immersive Bartenders is a cool mod that allows adipiscing elit, sed do eiusmod t
   
 </details>
 
-# Cyberpunk THING
+# Cyberpunk THING (Maybe the cyberpunk thing logo here?)
 
 Tired of the day-to-day in WTNC? Looking for more of a challenge? Cyberpunk THING offers a world more focused on immersion and realism, featuring a reduced (but sensible) HUD, more difficult and varied enemies and more balanced cyberware options, just to name a few
 
