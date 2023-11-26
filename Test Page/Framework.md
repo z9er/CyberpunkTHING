@@ -18,7 +18,7 @@ Whether you're out at the club with your friends, hooking up with strangers, or 
 
 
 
-With or without Phantom Liberty, enjoy two completely different experiences in one collection. Welcome to Night City brings the vanilla balance you know and love with all the best mods the scene has to offer. Cyberpunk THING offers a more challenging and immersive approach with a focus on realism. Switch between them at any time for any reason
+With or without Phantom Liberty, enjoy two completely different experiences from one collection. Welcome to Night City brings the vanilla balance you know and love with all the best mods. Cyberpunk THING provides a more challenging and immersive approach with a focus on realism. Switch between them at any time for any reason
 
 **OBSESSIVELY CURATED**
 
