@@ -4,7 +4,7 @@
 
 ![picture of awards transparent floating](https://i.imgur.com/mxW1thQ.png)
 
-#### The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences made from the best mods our team and the community at large have to offer. 
+#### The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences made from the best mods our team and the community at large have to offer.
 
 ## A WORLD TO GET LOST IN (THIS IS A PICTURE WITH THE WORDS THEN IMAGE ON RIGHT TO SPRUCE IT UP)
 
@@ -23,17 +23,17 @@ With or without Phantom Liberty, enjoy two completely different experiences from
 **OBSESSIVELY CURATED**
 
 
-Stringently tested and preconfigured, we've made sure every mod is 100% compatible and tailored to give you the best possible combination of bug fixes, quality of life improvements and brand new features
+Stringently tested and preconfigured, we've made sure every mod is 100% compatible and tailored to give you the best possible combination of bug fixes, quality-of-life improvements, and brand-new features
 
 **SIT BACK AND RELAX**
 
 
-Unlike some other collections that take you on an unexpected journey of left turns and popups, we've made sure our installation is easy and painless. Truly a one click process for Premium Nexus Users (No Advanced Setup Here!)
+Unlike some other collections that take you on an unexpected journey of left turns and popups, we've made sure our installation is easy and painless. Truly a one-click process for Premium Nexus Users (No Advanced Setup Here!)
 
 **A COMMUNITY THAT CARES**
 
 
-On both Discord and Nexus you can find our team actively answering questions, listening to your feedback and incorporating the community's suggestions into future revisions and mod projects
+On both Discord and Nexus, you can find our team actively answering questions, listening to your feedback, and incorporating the community's suggestions into future revisions and mod projects
 
 # Notable Features
 
@@ -112,7 +112,7 @@ Immersive Bartenders is a cool mod that allows adipiscing elit, sed do eiusmod t
 
 # Cyberpunk THING (Maybe the cyberpunk thing logo here?)
 
-Tired of the day-to-day in WTNC? Looking for more of a challenge? Cyberpunk THING offers a world more focused on immersion and realism, featuring a reduced (but sensible) HUD, more difficult and varied enemies and more balanced cyberware options, just to name a few
+Tired of the day-to-day in WTNC? Looking for more of a challenge? Cyberpunk THING offers a world more focused on immersion and realism, featuring a reduced (but sensible) HUD, more difficult and varied enemies, and more balanced cyberware options, just to name a few.
 
 A bullet's a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.
 
