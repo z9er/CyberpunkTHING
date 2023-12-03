@@ -39,7 +39,7 @@ Adds a solution to several issues with Cyberpunk 2077's movement to allow less "
 
 Adds a purchasable, upgradeable and useable Nano Drone to the game that can be used for scouting or offensively
 
-#### [No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470)
+#### [No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470) by [Paradox4624](https://www.nexusmods.com/cyberpunk2077/users/3922548)
 
 Supresses auto-uncrouching when melee attacking from stealth for 1 second
   
