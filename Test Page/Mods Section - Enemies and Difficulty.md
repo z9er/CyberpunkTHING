@@ -11,6 +11,10 @@ Adds a disabled by default option to immediately start the breach minigame timer
 #### THING
 
 Breach minigame starts immediately and the time allowed is lowered by 70%
+
+#### [Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Scales up conversation skill checks so that you will see options requiring higher attribute levels in general and as you level up
   
   &#10240;
   
