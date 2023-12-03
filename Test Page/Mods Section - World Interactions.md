@@ -34,6 +34,10 @@ Adds a number of drinking spots to the game in bars where you can drink alone or
 #### [Interactive Judy's Apartment Devices](https://www.nexusmods.com/cyberpunk2077/mods/8099) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Allows the player to control the radio, bedroom tv, kitchen tv, and bathroom tv in Judy's apartment
+
+#### [Sit Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/7299) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Lets you sit down almost everywhere in Night City, prompt appears on objects in scan mode
   
   &#10240;
   
