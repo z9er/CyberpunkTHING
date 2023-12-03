@@ -14,6 +14,10 @@ A framework mod that allows mod added websites to be sorted under the main brows
 #### [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780) by [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 
 A library and framework for creating redscript and Cyber Engine Tweaks mods
+
+#### [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) by [yamashi](https://www.nexusmods.com/cyberpunk2077/users/3386513)
+
+A framework that allows scripting with Lua and includes a UI and ingame console
   
   &#10240;
   
