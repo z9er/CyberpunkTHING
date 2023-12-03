@@ -71,6 +71,10 @@ Increases the time between relic sickness events
 
 The 'Ticking Time Bomb' perk will only trigger its explosion if you are in combat at the end of its delay
 
+#### [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds a toggleable flashlight to the game
+
   &#10240;
   
 </details>
