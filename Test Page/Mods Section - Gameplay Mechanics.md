@@ -56,6 +56,16 @@ test
 #### [Set Bonuses](https://www.nexusmods.com/cyberpunk2077/mods/8103) by [apart](https://www.nexusmods.com/cyberpunk2077/users/4211422)
 
 Adds set bonuses to the TTRPG-sets, Silverhand's gear and some other pseudo equipment sets
+
+#### [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+#### WTNC
+
+test
+
+#### THING
+
+test
   
   &#10240;
   
