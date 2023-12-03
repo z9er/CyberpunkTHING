@@ -27,6 +27,10 @@ Reduces the egg hatching period from 90 days to 10
 
 V gets up slightly faster when struck down by a car
 
+#### [Quick Message Exit](https://www.nexusmods.com/cyberpunk2077/mods/9377) by [anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)
+
+You can close both a message and and the phone app with one key
+
   &#10240;
   
 </details>
