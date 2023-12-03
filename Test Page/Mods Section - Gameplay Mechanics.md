@@ -12,6 +12,10 @@ Adds netrunner specific temporary buffs to the player after successfully hacking
 - **+20% Quickhack upload speed for 5 minutes** solving tier III
 
 Rewards are additive
+
+#### [Body Shield](https://www.nexusmods.com/cyberpunk2077/mods/10533) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Picking up a body will function as a shield for V giving an extra layer of protection against upcoming bullets
   
   &#10240;
   
