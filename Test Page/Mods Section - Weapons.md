@@ -14,6 +14,10 @@ Restores the Comrade's Hammer's ability to headshot and pierce through obstacles
 #### [DR-10 Wormhole Smart Revolver](https://www.nexusmods.com/cyberpunk2077/mods/10541) by [BuffMcMuff](https://www.nexusmods.com/cyberpunk2077/users/21089089)
 
 Adds a custom non-replacer smart revolver to the game which fires in full auto while ADSing
+
+#### [Midnight Arms MA70 BSG Smart LMG](https://www.nexusmods.com/cyberpunk2077/mods/10252) by [BuffMcMuff](https://www.nexusmods.com/cyberpunk2077/users/21089089)
+
+Adds a slower-firing custom non-replacer smart LMG to the game
   
   &#10240;
   
