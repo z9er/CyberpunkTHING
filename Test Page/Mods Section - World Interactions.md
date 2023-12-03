@@ -29,7 +29,7 @@ You now sit in Ripperdocs' chairs to get work done
 
 #### [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
-Adds a number of drinking spots to the game in bars where you can drink alone or with friends, as well as idling locations at iconic places in Night City
+Adds a number of drinking spots to the game in bars where you can drink alone or with friends, as well as idling at iconic locations in Night City
   
   &#10240;
   
