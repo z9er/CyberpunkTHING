@@ -19,7 +19,7 @@ Allows collisions and ragdoll behavior when NPCs are killed by finishers rather 
 
 Allows you to choose skins for crafted weapons and give them custom names
 
-#### [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945) by [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138) and [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+#### [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945) by [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138) [and DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 An outfit manager which replaces the vanilla system to allow 30+ clothing slots,allows you to better manage outfit sets, works with vanilla and custom items
   
