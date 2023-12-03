@@ -43,6 +43,10 @@ Removes the loading bar when opening the wardrobe
 
 Adds a night vision mode to the Kiroshi optics implant
 
+#### [Longer Car Delivery Timers](https://www.nexusmods.com/cyberpunk2077/mods/9735) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Increases the delivery time window by 25% for the repeatable courier missions
+
   &#10240;
   
 </details>
