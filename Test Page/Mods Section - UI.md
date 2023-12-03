@@ -43,6 +43,10 @@ Can mark any item in your inventory as junk so that can be sold in bulk via the 
 
 **test**
 
+#### [Named Saves](https://www.nexusmods.com/cyberpunk2077/mods/4521) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Can add custom notes on created save games
+
   &#10240;
   
 </details>
