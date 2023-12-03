@@ -34,6 +34,10 @@ Adds a framework for redscript mods to have ingame menus
 #### [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
 Framework to allow other mods to easily add ingame menus through the Mods menu, usually used by CET mods
+
+#### [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380) by [WopsS](https://www.nexusmods.com/cyberpunk2077/users/16475274)
+
+A script extender that allows modders to add new features, modify game behavior, add new scripting functions or call existing ones from other mods
   
   &#10240;
   
