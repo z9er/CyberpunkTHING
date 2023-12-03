@@ -26,6 +26,10 @@ Framework mod that allows triggering or activation of multiple quest mods from t
 #### [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575) by [Jack Humbert](https://www.nexusmods.com/cyberpunk2077/users/86010988)
 
 Plugin which looks for all xml files in r6/scripts and merges them with an appropriate input config file to allow compatibility between different mods' xml files
+
+#### [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) by [Jack Humbert](https://www.nexusmods.com/cyberpunk2077/users/86010988)
+
+Adds a framework for redscript mods to have ingame menus
   
   &#10240;
   
