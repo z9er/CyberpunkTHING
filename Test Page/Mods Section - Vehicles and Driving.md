@@ -14,6 +14,10 @@ Adds controls for turning headlights on or off, changing brightness, and operati
 #### [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 Disables camera auto centering while driving in first person
+
+#### [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Adds the ability to dismiss your summoned vehicle, a way to add to favorites, and a repair cost for destroyed owned vehicles
   
   &#10240;
   
