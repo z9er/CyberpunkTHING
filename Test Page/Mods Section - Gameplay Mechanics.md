@@ -66,6 +66,10 @@ test
 #### THING
 
 test
+
+#### [Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/9360) by [Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)
+
+Melee weapon finishers also function as stealth finishers which can be initiated without grapple
   
   &#10240;
   
