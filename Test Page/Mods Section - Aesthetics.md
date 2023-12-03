@@ -26,6 +26,10 @@ An outfit manager which replaces the vanilla system to allow 30+ clothing slots,
 #### [Focus Vignette Removal](https://www.nexusmods.com/cyberpunk2077/mods/10712) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Removes the vignette effect from the Cool perk 'Focus'
+
+#### [Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Can now use the timeskip widget outside of the menu, allowing you to see the time change affect the world around you
   
   &#10240;
   
