@@ -42,6 +42,10 @@ Adds an optional encounter with Rita Wheeler
 #### [River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 River now eats, drinks, and works out around the Joss' family trailer, adds additional interactions if romanced
+
+#### [The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Johnny can now spawn as a passenger while driving around Night City
   
   &#10240;
   
