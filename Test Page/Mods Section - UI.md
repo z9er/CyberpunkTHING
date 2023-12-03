@@ -63,6 +63,10 @@ Adds an option to default the scanner to the data tab rather than the quickhack 
 
 Configurable multipliers for all XP types with an ingame menu
 
+#### [Stash Filters](https://www.nexusmods.com/cyberpunk2077/mods/5298) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Adds category filters for your storage items list
+
   &#10240;
   
 </details>
