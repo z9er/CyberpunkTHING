@@ -79,6 +79,10 @@ Adds a toggleable flashlight to the game
 
 Adds optional auto disassembling that is configurable, can be enabled in the Mod Settings menu
 
+#### [Weapons Reclassified](https://www.nexusmods.com/cyberpunk2077/mods/10312) by [Northern Epsilon](https://www.nexusmods.com/cyberpunk2077/users/27281649)
+
+Reclassifies the Kyubi as a precision rifle
+
   &#10240;
   
 </details>
