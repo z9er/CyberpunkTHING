@@ -22,6 +22,10 @@ Disables the game hiding the stamina bar when you holster your weapon as it is r
 #### [Firecracker Pyromaniac Fix](https://www.nexusmods.com/cyberpunk2077/mods/10053) by [thewalpa](https://www.nexusmods.com/cyberpunk2077/users/26689069)
 
 Makes weapons equipped with the Firecracks weapon mod stack the Pyromaniac tier 3 perk buff
+
+#### [Fix Adrenaline Decay](https://www.nexusmods.com/cyberpunk2077/mods/9921) by [fyodor](https://www.nexusmods.com/cyberpunk2077/users/7875060)
+
+Fixes an issue with the Solo 55 skill progression bonus that was causing rapid adrenaline decay
   
   &#10240;
   
