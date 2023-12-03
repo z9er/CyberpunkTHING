@@ -39,6 +39,10 @@ Framework to allow other mods to easily add ingame menus through the Mods menu, 
 
 A script extender that allows modders to add new features, modify game behavior, add new scripting functions or call existing ones from other mods
 
+#### [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) by [jac3km4](https://www.nexusmods.com/cyberpunk2077/users/49982271)
+
+A script compiler that can be integrated with the game and used to add or replace game scripts
+
 #### [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197) by [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138)
 
 Framework to create mods that modify TweakDB, allowing YAML and RED formats, hot reloading, and script extensions for adding complex logic and dynamic changes
