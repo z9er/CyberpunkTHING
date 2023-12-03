@@ -11,6 +11,10 @@ Sets item sliders to max by default for Drop, Stash, and Sell actions
 
 Allows saving and loading of character presets during character creation and unlocks all options in the mirror menu to customize your character
 
+#### [Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Shows you what attribute level you needed for conversation skill checks that you pass rather than your current attribute level
+
   &#10240;
   
 </details>
