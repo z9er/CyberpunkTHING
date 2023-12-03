@@ -23,6 +23,10 @@ Provides the ability to add new quickslots to the bottom of the screen for consu
 
 Reduces the egg hatching period from 90 days to 10
 
+#### [Faster Vehicle Knockback Animation](https://www.nexusmods.com/cyberpunk2077/mods/5431) by [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818)
+
+V gets up slightly faster when struck down by a car
+
   &#10240;
   
 </details>
