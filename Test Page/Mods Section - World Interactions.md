@@ -22,6 +22,10 @@ Adds the ability to smoke, drink or eat while idle
 #### [Immersive](https://www.nexusmods.com/cyberpunk2077/mods/7203) [Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/10372) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Can now buy drinks from bartends and consume them with animations
+
+#### [Immersive](https://www.nexusmods.com/cyberpunk2077/mods/7064) [Rippers](https://www.nexusmods.com/cyberpunk2077/mods/10255) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+
   
   &#10240;
   
