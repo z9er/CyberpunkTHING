@@ -63,6 +63,10 @@ Removes a couple of additional ways that the walk toggle can be auto disabled th
 
 Disables the crosshair for all weapons except smart weapons with some exceptions where reasonable
 
+#### [Relic Effect Periods](https://www.nexusmods.com/cyberpunk2077/mods/5113) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Increases the time between relic sickness events
+
   &#10240;
   
 </details>
