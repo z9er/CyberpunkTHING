@@ -34,6 +34,10 @@ Your ranged quickmelee attack stun opens enemies to grabs and finishers
 #### [Movement Unclunkifier](https://www.nexusmods.com/cyberpunk2077/mods/9899) by [TheHoss2](https://www.nexusmods.com/cyberpunk2077/users/54717832)
 
 Adds a solution to several issues with Cyberpunk 2077's movement to allow less "clunky" movement, removing the sprint block when it would get in the way, disabling the automatic walk untoggle, and adjusting the slide crouch
+
+#### [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds a purchasable, upgradeable and useable Nano Drone to the game that can be used for scouting or offensively
   
   &#10240;
   
