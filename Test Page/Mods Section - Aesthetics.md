@@ -30,6 +30,10 @@ Removes the vignette effect from the Cool perk 'Focus'
 #### [Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 Can now use the timeskip widget outside of the menu, allowing you to see the time change affect the world around you
+
+#### [Inventory Glitch Effect Removal](https://www.nexusmods.com/cyberpunk2077/mods/3251) by [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818)
+
+Removes the glitch effect that appears when entering the inventory or changing clothing
   
   &#10240;
   
