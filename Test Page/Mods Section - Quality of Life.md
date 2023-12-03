@@ -31,6 +31,10 @@ V gets up slightly faster when struck down by a car
 
 You can close both a message and and the phone app with one key
 
+#### [Hide Read Shards](https://www.nexusmods.com/cyberpunk2077/mods/2820) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Removes placed shards which you have already read without affecting important quest shards
+
   &#10240;
   
 </details>
