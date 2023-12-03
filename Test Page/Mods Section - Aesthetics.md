@@ -50,6 +50,10 @@ Improves enemy ragdolls and fixes vanilla collision issues
 #### [Spicy Clean Hack Screen](https://www.nexusmods.com/cyberpunk2077/mods/906) by [Spicy](https://www.nexusmods.com/cyberpunk2077/users/4892301)
 
 Removes the green color from the hacking screen
+
+#### [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Changes weather patterns and durations so that rain and other interesting weather happens more often
   
   &#10240;
   
