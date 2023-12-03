@@ -83,6 +83,10 @@ Adds optional auto disassembling that is configurable, can be enabled in the Mod
 
 Reclassifies the Kyubi as a precision rifle
 
+#### [Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds configurable zoom levels to scoped weapons that can be cycled through
+
   &#10240;
   
 </details>
