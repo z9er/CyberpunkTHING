@@ -42,6 +42,16 @@ Adds a purchasable, upgradeable and useable Nano Drone to the game that can be u
 #### [No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470) by [Paradox4624](https://www.nexusmods.com/cyberpunk2077/users/3922548)
 
 Supresses auto-uncrouching when melee attacking from stealth for 1 second
+
+#### [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+#### WTNC
+
+test
+
+#### THING
+
+test
   
   &#10240;
   
