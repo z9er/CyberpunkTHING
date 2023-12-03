@@ -18,6 +18,10 @@ Adds a smart window similar to the E3 2018 demo to apartments with interactive f
 #### [Idle Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8038) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Adds the ability to smoke, drink or eat while idle
+
+#### [Immersive](https://www.nexusmods.com/cyberpunk2077/mods/7203) [Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/10372) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+
   
   &#10240;
   
