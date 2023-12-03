@@ -15,6 +15,10 @@ Shows you what attribute level you needed for conversation skill checks that you
 
 Provides the ability to add new quickslots to the bottom of the screen for consumables, grenades, and cyberware abilities
 
+#### [Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Reduces the time to pass through the Dogtown vehicle checkpoint by about 66%
+
 #### [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 Reduces the egg hatching period from 90 days to 10
