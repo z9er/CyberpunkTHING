@@ -67,6 +67,10 @@ Disables the crosshair for all weapons except smart weapons with some exceptions
 
 Increases the time between relic sickness events
 
+#### [Sensible Time Bomb](https://www.nexusmods.com/cyberpunk2077/mods/10575) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+The 'Ticking Time Bomb' perk will only trigger its explosion if you are in combat at the end of its delay
+
   &#10240;
   
 </details>
