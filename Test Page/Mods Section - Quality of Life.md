@@ -55,6 +55,10 @@ No more logos and wasted time, removes some of the intro videos to the game
 
 Removes a couple of additional ways that the walk toggle can be auto disabled that were missing in [Movement Unclunkifier](https://www.nexusmods.com/cyberpunk2077/mods/9899)
 
+#### [Only Smartweapon Crosshairs](https://www.nexusmods.com/cyberpunk2077/mods/5434) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Disables the crosshair for all weapons except smart weapons with some exceptions where reasonable
+
   &#10240;
   
 </details>
