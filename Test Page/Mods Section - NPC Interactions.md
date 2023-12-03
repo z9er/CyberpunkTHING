@@ -38,6 +38,10 @@ Allows you to pet cats in your apartment
 #### [Rita Wheeler Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9191) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Adds an optional encounter with Rita Wheeler
+
+#### [River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+River now eats, drinks, and works out around the Joss' family trailer, adds additional interactions if romanced
   
   &#10240;
   
