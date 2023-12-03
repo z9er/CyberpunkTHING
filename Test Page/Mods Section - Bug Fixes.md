@@ -42,6 +42,10 @@ Restores some "crucial" missing audio during part of the quest 'The Hunt'
 #### [Perk Selling Extra Point Gain Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/10857) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Fixes a bug where you sometimes gain extra perk points while selling perks
+
+#### [QuickSlot and Consumables Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/10811) by [tduality](https://www.nexusmods.com/cyberpunk2077/users/5839471)
+
+Fixes the bug where you get an empty health item QuickSlot after using consumables from your backpack
   
   &#10240;
   
