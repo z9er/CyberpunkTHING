@@ -22,6 +22,10 @@ Allows you to choose skins for crafted weapons and give them custom names
 #### [Equipment-EX](https://www.nexusmods.com/cyberpunk2077/mods/6945) by [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138) [and DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 An outfit manager which replaces the vanilla system to allow 30+ clothing slots,allows you to better manage outfit sets, works with vanilla and custom items
+
+#### [Focus Vignette Removal](https://www.nexusmods.com/cyberpunk2077/mods/10712) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Removes the vignette effect from the Cool perk 'Focus'
   
   &#10240;
   
