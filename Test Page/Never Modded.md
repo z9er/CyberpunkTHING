@@ -33,7 +33,15 @@ Ensure that you have installed Vortex if you haven't, which can be obtained [the
 
 ![REDmod first BS popup](https://i.imgur.com/mY9T3Aw.png)
 
-**7)** Go to **"Settings""** on the left, then go to the **"Mods"** section and ensure the deployment method is **"Hardlink Deployment"**
+**7)** Go to **"Settings"** on the left, then go to **"V2077 Settings"** and ensure that **"Automically convert old style 'archive' mods to REDmods on install"** is turned off
+
+```
+This setting is defaulted to off by default unless you had changed it
+```
+
+![redmod bullshit](https://i.imgur.com/rTip1CM.png)
+
+**8)** Go to **"Settings""** on the left, then go to the **"Mods"** section and ensure the deployment method is **"Hardlink Deployment"**
 
 ```
 If you are on a drive that does not allow hard links due to the formatting, you may need to reformat your drive. This can happen with FAT or XFAT formatting and the only solution is changing the drive format
