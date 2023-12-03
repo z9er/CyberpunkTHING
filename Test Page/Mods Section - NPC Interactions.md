@@ -30,6 +30,10 @@ Adds new states for Kerry to be in when you visit him as well as being able to r
 #### [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Panam now eats, drinks, sleeps, showers, and uses her phone at her camp. Adds additional interactions with Panam if romanced
+
+#### [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Allows you to pet cats in your apartment
   
   &#10240;
   
