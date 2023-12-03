@@ -46,6 +46,10 @@ Fixes a bug where you sometimes gain extra perk points while selling perks
 #### [QuickSlot and Consumables Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/10811) by [tduality](https://www.nexusmods.com/cyberpunk2077/users/5839471)
 
 Fixes the bug where you get an empty health item QuickSlot after using consumables from your backpack
+
+#### [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Fixes 8 distinct bugs with the status/buff/debuff bar and weapon wheel
   
   &#10240;
   
