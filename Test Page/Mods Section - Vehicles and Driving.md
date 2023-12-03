@@ -25,7 +25,7 @@ Adds a virtual shop to computers through [TweakXL](https://www.nexusmods.com/cyb
 
 #### [Vehicle Packs - Basic,](https://www.nexusmods.com/cyberpunk2077/mods/4625)[ Corpo,](https://www.nexusmods.com/cyberpunk2077/mods/4539)[ Gangs](https://www.nexusmods.com/cyberpunk2077/mods/4509) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
-
+Adds new vehicles buyable through [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
   
   &#10240;
   
