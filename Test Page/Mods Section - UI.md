@@ -51,6 +51,10 @@ Can add custom notes on created save games
 
 Allows selecting and activating quickhacks with keyboard number hotkeys
 
+#### [Real Vendor Names](https://www.nexusmods.com/cyberpunk2077/mods/4941) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Displays the actual vendors' names on the world map icons rather than generic labels
+
   &#10240;
   
 </details>
