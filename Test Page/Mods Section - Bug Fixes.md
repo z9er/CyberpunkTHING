@@ -30,6 +30,10 @@ Fixes an issue with the Solo 55 skill progression bonus that was causing rapid a
 #### [Fix Max Cyberware Capacity](https://www.nexusmods.com/cyberpunk2077/mods/10354) by [rfuzzo](https://www.nexusmods.com/cyberpunk2077/users/16300749)
 
 Fixes a UI issue with the cyberware menu where the cyberware capacity bar would stop working after exceeding a certain value
+
+#### [The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413) by [anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)
+
+Restores some "crucial" missing audio during part of the quest 'The Hunt'
   
   &#10240;
   
