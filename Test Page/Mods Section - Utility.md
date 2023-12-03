@@ -30,6 +30,10 @@ Plugin which looks for all xml files in r6/scripts and merges them with an appro
 #### [Mod Settings](https://www.nexusmods.com/cyberpunk2077/mods/4885) by [Jack Humbert](https://www.nexusmods.com/cyberpunk2077/users/86010988)
 
 Adds a framework for redscript mods to have ingame menus
+
+#### [Native Settings UI](https://www.nexusmods.com/cyberpunk2077/mods/3518) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Framework to allow other mods to easily add ingame menus through the Mods menu, usually used by CET mods
   
   &#10240;
   
