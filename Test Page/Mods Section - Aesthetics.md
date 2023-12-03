@@ -46,6 +46,10 @@ Adds new playable arcade machines to the game
 #### [Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858) by [SketchCritic](https://www.nexusmods.com/cyberpunk2077/users/84432183)
 
 Improves enemy ragdolls and fixes vanilla collision issues
+
+#### [Spicy Clean Hack Screen](https://www.nexusmods.com/cyberpunk2077/mods/906) by [Spicy](https://www.nexusmods.com/cyberpunk2077/users/4892301)
+
+Removes the green color from the hacking screen
   
   &#10240;
   
