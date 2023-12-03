@@ -10,7 +10,7 @@ Adds a disabled by default option to immediately start the breach minigame timer
 
 #### THING
 
-Breach minigame starts immediately and is the time allowed is lowered by 70%
+Breach minigame starts immediately and the time allowed is lowered by 70%
   
   &#10240;
   
