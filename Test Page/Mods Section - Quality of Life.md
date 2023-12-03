@@ -15,6 +15,10 @@ Allows saving and loading of character presets during character creation and unl
 
 Shows you what attribute level you needed for conversation skill checks that you pass rather than your current attribute level
 
+#### [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Provides the ability to add new quickslots to the bottom of the screen for consumables, grenades, and cyberware abilities
+
   &#10240;
   
 </details>
