@@ -51,6 +51,10 @@ Allows the player to climb more objects
 
 No more logos and wasted time, removes some of the intro videos to the game
 
+#### [No Walk Auto Disable](https://www.nexusmods.com/cyberpunk2077/mods/3966) by [sjbox](https://www.nexusmods.com/cyberpunk2077/mods/3966)
+
+Removes a couple of additional ways that the walk toggle can be auto disabled that were missing in [Movement Unclunkifier](https://www.nexusmods.com/cyberpunk2077/mods/9899)
+
   &#10240;
   
 </details>
