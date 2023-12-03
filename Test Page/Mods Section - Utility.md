@@ -22,6 +22,10 @@ A framework that allows scripting with Lua and includes a UI and ingame console
 #### [Deceptious Quest Core](https://www.nexusmods.com/cyberpunk2077/mods/7831) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
 Framework mod that allows triggering or activation of multiple quest mods from the same 'hook' without incompatibility or increased complexity
+
+#### [Input Loader](https://www.nexusmods.com/cyberpunk2077/mods/4575) by [Jack Humbert](https://www.nexusmods.com/cyberpunk2077/users/86010988)
+
+Plugin which looks for all xml files in r6/scripts and merges them with an appropriate input config file to allow compatibility between different mods' xml files
   
   &#10240;
   
