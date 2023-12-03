@@ -35,6 +35,10 @@ You can close both a message and and the phone app with one key
 
 Removes placed shards which you have already read without affecting important quest shards
 
+#### [Instant Wardrobe](https://www.nexusmods.com/cyberpunk2077/mods/6550) by [Spicy](https://www.nexusmods.com/cyberpunk2077/users/4892301)
+
+Removes the loading bar when opening the wardrobe
+
   &#10240;
   
 </details>
