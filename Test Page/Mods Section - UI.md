@@ -47,6 +47,10 @@ Can mark any item in your inventory as junk so that can be sold in bulk via the 
 
 Can add custom notes on created save games
 
+#### [Quickhack Hotkeys](https://www.nexusmods.com/cyberpunk2077/mods/7238) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Allows selecting and activating quickhacks with keyboard number hotkeys
+
   &#10240;
   
 </details>
