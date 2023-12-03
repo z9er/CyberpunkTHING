@@ -10,6 +10,10 @@ Adds a shop in Northwest Watson where you can upgrade your owned cars and motorc
 #### [Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
 Adds controls for turning headlights on or off, changing brightness, and operating the vehicle windows
+
+#### [No Camera Auto Centering](https://www.nexusmods.com/cyberpunk2077/mods/2169) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Disables camera auto centering while driving in first person
   
   &#10240;
   
