@@ -26,6 +26,10 @@ Can now buy drinks from bartenders and consume them with animations
 #### [Immersive](https://www.nexusmods.com/cyberpunk2077/mods/7064) [Rippers](https://www.nexusmods.com/cyberpunk2077/mods/10255) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 You now sit in Ripperdocs' chairs to get work done
+
+#### [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Adds a number of drinking spots to the game in bars where you can drink alone or with friends, as well as idling locations at iconic places in Night City
   
   &#10240;
   
