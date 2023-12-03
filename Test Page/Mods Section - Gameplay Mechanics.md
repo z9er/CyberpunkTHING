@@ -70,6 +70,10 @@ test
 #### [Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/9360) by [Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)
 
 Melee weapon finishers also function as stealth finishers which can be initiated without grapple
+
+#### [Stealth Remote Control Cars and Turrets](https://www.nexusmods.com/cyberpunk2077/mods/9939) by [VeganForTheAnimals](https://www.nexusmods.com/cyberpunk2077/users/16336704)
+
+Instead of instantly revealing your position, hitting an enemy with a remoted controlled car now starts a trace and only alerts enemies
   
   &#10240;
   
