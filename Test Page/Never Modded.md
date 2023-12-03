@@ -1,11 +1,11 @@
 <details>
   
-  <summary>Never Modded</summary>
+  <summary>Never Modded Before</summary>
   &#10240;
   
 # Installing Vortex
 
-Ensure that you have installed Vortex if you haven't, which can be obtained [the link below](https://www.nexusmods.com/site/mods/1?tab=files)
+**1)** Ensure that you have installed Vortex if you haven't, which can be obtained [the link below](https://www.nexusmods.com/site/mods/1?tab=files)
 
 [![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1?tab=files "Vortex download")
 
@@ -51,9 +51,17 @@ If you are on a drive that does not allow hard links due to the formatting, you 
 
 # Installing Collection
 
-**1)** On the **[collection page](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** click on **"ADD TO VORTEX"**
+**1)** On the **[collection page](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** click on **"ADD TO VORTEX,"** then click **"Install Now"** when that pops up in Vortex
 
 ![vortex add to](https://i.imgur.com/j0C9Jxd.png)
+
+![install now](https://camo.githubusercontent.com/3692307718215b512a3850f35e92d24e1dc53202dd13ddce0b1faed501bd304c/68747470733a2f2f692e696d6775722e636f6d2f393553587156482e706e67)
+
+**2)** Vortex will guide you through installing the collection, when it is completed you can play the game by clicking the play button top left
+
+![installed](https://camo.githubusercontent.com/81f9b6925a2506e8a94b2ebe3a11ad411728425c9f4803e996196f71d44b32e8/68747470733a2f2f692e696d6775722e636f6d2f5934686d5a6d472e706e67)
+
+![play button](https://i.imgur.com/4NE5ZHv.png)
   
   &#10240;
   
