@@ -39,6 +39,10 @@ Removes placed shards which you have already read without affecting important qu
 
 Removes the loading bar when opening the wardrobe
 
+#### [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds a night vision mode to the Kiroshi optics implant
+
   &#10240;
   
 </details>
