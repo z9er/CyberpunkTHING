@@ -18,6 +18,10 @@ Disables camera auto centering while driving in first person
 #### [Vehicle Summon Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/4658) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 Adds the ability to dismiss your summoned vehicle, a way to add to favorites, and a repair cost for destroyed owned vehicles
+
+#### [Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Adds a virtual shop to computers through [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197) and [Browser Extension](https://www.nexusmods.com/cyberpunk2077/mods/10038) which allows you to buy vehicles from your apartment
   
   &#10240;
   
