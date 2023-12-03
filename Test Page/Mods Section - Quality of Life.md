@@ -47,6 +47,10 @@ Increases the delivery time window by 25% for the repeatable courier missions
 
 Allows the player to climb more objects
 
+#### [No Intro Videos](https://www.nexusmods.com/cyberpunk2077/mods/533) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+No more logos and wasted time, removes some of the intro videos to the game
+
   &#10240;
   
 </details>
