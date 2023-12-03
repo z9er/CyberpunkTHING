@@ -48,6 +48,12 @@ If you are on a drive that does not allow hard links due to the formatting, you 
 ```
 
 ![hardlink thing](https://i.imgur.com/iSMkrcz.png)
+
+# Installing Collection
+
+**1)** On the **[collection page](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** click on **"ADD TO VORTEX"**
+
+![vortex add to](https://i.imgur.com/j0C9Jxd.png)
   
   &#10240;
   
