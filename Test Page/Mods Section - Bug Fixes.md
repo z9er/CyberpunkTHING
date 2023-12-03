@@ -27,6 +27,10 @@ Makes weapons equipped with the Firecracks weapon mod stack the Pyromaniac tier 
 
 Fixes an issue with the Solo 55 skill progression bonus that was causing rapid adrenaline decay
 
+#### [Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Fixes the dark box shadows cast by holotext screens with using ray/path tracing
+
 #### [Fix Max Cyberware Capacity](https://www.nexusmods.com/cyberpunk2077/mods/10354) by [rfuzzo](https://www.nexusmods.com/cyberpunk2077/users/16300749)
 
 Fixes a UI issue with the cyberware menu where the cyberware capacity bar would stop working after exceeding a certain value
