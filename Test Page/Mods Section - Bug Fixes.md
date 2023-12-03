@@ -18,6 +18,10 @@ Disables using the W and S keys for dialogue selection to avoid mistakes while d
 #### [Don't Hide Stamina Bar on Holster](https://www.nexusmods.com/cyberpunk2077/mods/9448) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Disables the game hiding the stamina bar when you holster your weapon as it is redundant and causes issues
+
+#### [Firecracker Pyromaniac Fix](https://www.nexusmods.com/cyberpunk2077/mods/10053) by [thewalpa](https://www.nexusmods.com/cyberpunk2077/users/26689069)
+
+Makes weapons equipped with the Firecracks weapon mod stack the Pyromaniac tier 3 perk buff
   
   &#10240;
   
