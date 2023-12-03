@@ -30,6 +30,10 @@ You now sit in Ripperdocs' chairs to get work done
 #### [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Adds a number of drinking spots to the game in bars where you can drink alone or with friends, as well as idling at iconic locations in Night City
+
+#### [Interactive Judy's Apartment Devices](https://www.nexusmods.com/cyberpunk2077/mods/8099) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Allows the player to control the radio, bedroom tv, kitchen tv, and bathroom tv in Judy's apartment
   
   &#10240;
   
