@@ -75,6 +75,10 @@ The 'Ticking Time Bomb' perk will only trigger its explosion if you are in comba
 
 Adds a toggleable flashlight to the game
 
+#### [Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Adds optional auto disassembling that is configurable, can be enabled in the Mod Settings menu
+
   &#10240;
   
 </details>
