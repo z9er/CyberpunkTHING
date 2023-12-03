@@ -14,6 +14,10 @@ Removes the crouch vignette effect
 #### [Enable Finisher Ragdolls](https://www.nexusmods.com/cyberpunk2077/mods/9496) by [Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)
 
 Allows collisions and ragdoll behavior when NPCs are killed by finishers rather than acting statically animated
+
+#### [Enhanced Craft](https://www.nexusmods.com/cyberpunk2077/mods/4378) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Allows you to choose skins for crafted weapons and give them custom names
   
   &#10240;
   
