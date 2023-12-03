@@ -14,6 +14,10 @@ Adds the option to dance with someone at different club dance floors if you are 
 #### [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
 Adds a smart window similar to the E3 2018 demo to apartments with interactive features and stock market integration
+
+#### [Idle Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/8038) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Adds the ability to smoke, drink or eat while idle
   
   &#10240;
   
