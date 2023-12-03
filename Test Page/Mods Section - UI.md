@@ -55,6 +55,10 @@ Allows selecting and activating quickhacks with keyboard number hotkeys
 
 Displays the actual vendors' names on the world map icons rather than generic labels
 
+#### [Scan Mode - Default to Data Tab](https://www.nexusmods.com/cyberpunk2077/mods/9730) by [Technic235](https://www.nexusmods.com/cyberpunk2077/users/25510404)
+
+Adds an option to default the scanner to the data tab rather than the quickhack tab, able to be enabled through the Mod Settings menu ingame
+
   &#10240;
   
 </details>
