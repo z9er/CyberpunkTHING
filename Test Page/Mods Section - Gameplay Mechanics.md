@@ -1,1 +1,10 @@
+<details>
+  
+  <summary>Gameplay Mechanics</summary>
+  &#10240;
+  
 test
+  
+  &#10240;
+  
+</details>
