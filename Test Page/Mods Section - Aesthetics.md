@@ -34,6 +34,10 @@ Can now use the timeskip widget outside of the menu, allowing you to see the tim
 #### [Inventory Glitch Effect Removal](https://www.nexusmods.com/cyberpunk2077/mods/3251) by [JohnsonsStuff](https://www.nexusmods.com/cyberpunk2077/users/49231818)
 
 Removes the glitch effect that appears when entering the inventory or changing clothing
+
+#### [No Paper Bags From Vending Machines](https://www.nexusmods.com/cyberpunk2077/mods/8387) by [johnson](https://www.nexusmods.com/cyberpunk2077/users/49231818)
+
+Get the actual item you bought from the vending machine instead of a boring paper bag
   
   &#10240;
   
