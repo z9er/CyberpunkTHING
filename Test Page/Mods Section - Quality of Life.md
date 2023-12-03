@@ -7,8 +7,6 @@
 
 Sets item sliders to max by default for Drop, Stash, and Sell actions
 
-
-  
   &#10240;
   
 </details>
