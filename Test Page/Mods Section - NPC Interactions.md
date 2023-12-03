@@ -26,6 +26,10 @@ Adds new interactions with Judy after romancing and variety to Judy's states in 
 #### [Kerry Interactions Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4990) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Adds new states for Kerry to be in when you visit him as well as being able to request songs
+
+#### [Panam Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4626) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Panam now eats, drinks, sleeps, showers, and uses her phone at her camp. Adds additional interactions with Panam if romanced
   
   &#10240;
   
