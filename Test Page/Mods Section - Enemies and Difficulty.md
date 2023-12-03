@@ -15,6 +15,10 @@ Breach minigame starts immediately and the time allowed is lowered by 70%
 #### [Convo Skill Check Scaling](https://www.nexusmods.com/cyberpunk2077/mods/2886) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Scales up conversation skill checks so that you will see options requiring higher attribute levels in general and as you level up
+
+#### [Damage Scaling](https://www.nexusmods.com/cyberpunk2077/mods/1712) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Configurable damage multipliers for both the player and NPCs 
   
   &#10240;
   
