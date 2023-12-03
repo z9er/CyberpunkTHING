@@ -34,6 +34,10 @@ Fixes a UI issue with the cyberware menu where the cyberware capacity bar would 
 #### [The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413) by [anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)
 
 Restores some "crucial" missing audio during part of the quest 'The Hunt'
+
+#### [Perk Selling Extra Point Gain Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/10857) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Fixes a bug where you sometimes gain extra perk points while selling perks
   
   &#10240;
   
