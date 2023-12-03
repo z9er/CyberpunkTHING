@@ -54,6 +54,10 @@ Removes the green color from the hacking screen
 #### [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Changes weather patterns and durations so that rain and other interesting weather happens more often
+
+#### [Windswept - V hair blowing while driving bikes](https://www.nexusmods.com/cyberpunk2077/mods/9060) by [johnson](https://www.nexusmods.com/cyberpunk2077/users/49231818)
+
+Adds a subtle movement to the hair physical particles while driving motorcycles
   
   &#10240;
   
