@@ -26,6 +26,10 @@ Makes weapons equipped with the Firecracks weapon mod stack the Pyromaniac tier 
 #### [Fix Adrenaline Decay](https://www.nexusmods.com/cyberpunk2077/mods/9921) by [fyodor](https://www.nexusmods.com/cyberpunk2077/users/7875060)
 
 Fixes an issue with the Solo 55 skill progression bonus that was causing rapid adrenaline decay
+
+#### [Fix Max Cyberware Capacity](https://www.nexusmods.com/cyberpunk2077/mods/10354) by [rfuzzo](https://www.nexusmods.com/cyberpunk2077/users/16300749)
+
+Fixes a UI issue with the cyberware menu where the cyberware capacity bar would stop working after exceeding a certain value
   
   &#10240;
   
