@@ -19,6 +19,10 @@ Shows you what attribute level you needed for conversation skill checks that you
 
 Provides the ability to add new quickslots to the bottom of the screen for consumables, grenades, and cyberware abilities
 
+#### [Faster Iguana Hatch](https://www.nexusmods.com/cyberpunk2077/mods/5112) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Reduces the egg hatching period from 90 days to 10
+
   &#10240;
   
 </details>
