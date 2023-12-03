@@ -25,6 +25,10 @@ Allows you to search codex entries, shards, quests, and crafting recipes as well
 
 **test**
 
+#### [Mark To Sell](https://www.nexusmods.com/cyberpunk2077/mods/4725) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Can mark any item in your inventory as junk so that can be sold in bulk via the "Sell Junk" option
+
   &#10240;
   
 </details>
