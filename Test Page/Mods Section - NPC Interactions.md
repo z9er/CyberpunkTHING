@@ -9,7 +9,7 @@ Adds an opportunity to cavort with Aurore after certain events in the expansion
 
 #### [Flaming Crotch Man Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9573) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
-Adds an optional tryst with a newly cybered side character (if they're alive)
+Adds an optional tryst with a newly cybered side character
   
   &#10240;
   
