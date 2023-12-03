@@ -42,6 +42,10 @@ Get the actual item you bought from the vending machine instead of a boring pape
 #### [Playable Arcade Machines](https://www.nexusmods.com/cyberpunk2077/mods/4213) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/mods/4213)
 
 Adds new playable arcade machines to the game
+
+#### [Ragdoll Physics Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/3858) by [SketchCritic](https://www.nexusmods.com/cyberpunk2077/users/84432183)
+
+Improves enemy ragdolls and fixes vanilla collision issues
   
   &#10240;
   
