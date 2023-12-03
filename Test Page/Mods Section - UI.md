@@ -59,6 +59,10 @@ Displays the actual vendors' names on the world map icons rather than generic la
 
 Adds an option to default the scanner to the data tab rather than the quickhack tab, able to be enabled through the Mod Settings menu ingame
 
+#### [Simple XP Multiplier](https://www.nexusmods.com/cyberpunk2077/mods/3136) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Configurable multipliers for all XP types with an ingame menu
+
   &#10240;
   
 </details>
