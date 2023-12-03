@@ -2,6 +2,10 @@
   
   <summary>UI</summary>
   &#10240;
+
+#### [Adaptive Sliders](https://www.nexusmods.com/cyberpunk2077/mods/5075) by [DeepBlueFrog](https://www.nexusmods.com/cyberpunk2077/users/68200)
+
+Sets item sliders to max by default for Drop, Stash, and Sell actions
   
 #### [Cleaner Main Menu and Pause Menu](https://www.nexusmods.com/cyberpunk2077/mods/10285) by [heero139](https://www.nexusmods.com/cyberpunk2077/users/1973216)
 
