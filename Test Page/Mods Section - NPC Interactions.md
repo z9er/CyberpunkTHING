@@ -34,6 +34,10 @@ Panam now eats, drinks, sleeps, showers, and uses her phone at her camp. Adds ad
 #### [Pet Your Cat](https://www.nexusmods.com/cyberpunk2077/mods/6198) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Allows you to pet cats in your apartment
+
+#### [Rita Wheeler Romanced](https://www.nexusmods.com/cyberpunk2077/mods/9191) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Adds an optional encounter with Rita Wheeler
   
   &#10240;
   
