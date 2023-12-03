@@ -43,6 +43,10 @@ Adds a night vision mode to the Kiroshi optics implant
 
 Increases the delivery time window by 25% for the repeatable courier missions
 
+#### [More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043) by [SOSUINEPSIXUYU](https://www.nexusmods.com/cyberpunk2077/users/75442863)
+
+Allows the player to climb more objects
+
   &#10240;
   
 </details>
