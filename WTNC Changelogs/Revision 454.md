@@ -1,4 +1,4 @@
-Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news/49597/update-2-1-patch-notes) We have also now integrated the [**Cyberpunk THING**](https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d) collection into **Welcome to Night City**, where both distinct collections will now reside. Instructions for install are on the main page or in our video guide here. 
+Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news/49597/update-2-1-patch-notes) We have also now integrated the [**Cyberpunk THING**](https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d) collection into **Welcome to Night City**, where both distinct collections will now reside. Instructions for install are on the main page.
 
 # Added Mods
 
