@@ -16,7 +16,7 @@
 ## Crashes
 
 <details>
-  <summary>My game crashes on startup/loading save/I have a script error, what is **the ultimate fix that will solve all my problems most of the time**?</summary>
+  <summary>My game crashes on startup/loading save/I have a script error, what is the ultimate fix that will solve all my problems most of the time?</summary>
   &#10240;
   
 Go side of Vortex and on the grey bar and click on **"Settings"**
