@@ -6,7 +6,7 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 ## **Cyberpunk THING** and **Welcome to Night City** come with extensive but accessible documentation:
 
 - Answers to common troubleshooting or game balancing questions can be found on our FAQ page [here](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
-- You can track all changes to the list on our changelog [here](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
+- You can track all changes to the list on our changelog [here](https://github.com/z9er/CyberpunkTHING/tree/main/Changelogs)
 
 ### Wabbajack
 
