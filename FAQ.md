@@ -13,6 +13,20 @@
 
 &#10240;
 
+## Crashes
+
+<details>
+  <summary>Can I add this list to my existing save?</summary>
+  &#10240;
+  
+  **You can add this list to an existing vanilla save with no issues.** If you're adding this to a previously modded save, it would depend on the mods that were   associated. Sometimes mods that add items to the game through ArchiveXL can be baked into the save, and if that mod is no longer there, would cause the game to crash.
+  
+  &#10240;
+  
+</details>
+
+&#10240;
+
 ## General Troubleshooting
 
 <details>
