@@ -1,6 +1,6 @@
 &#10240;
 
-More immersive, more realistic. A bullet's a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they've never run into anything like you.
+The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences crafted from the best mods our team and the community at large have to offer.
 
 &#10240;
 
