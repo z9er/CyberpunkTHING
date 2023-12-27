@@ -55,7 +55,9 @@ Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
 
 Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic** so that it will reacquire the missing game files and get you back to a vanilla install, clearing the script error. Once the files are installed by your launcher, go to the website for the collection and add it to Vortex
 
-![tes8](https://i.imgur.com/TLBR53V.png)It will now install using the archives you had previously, so it won't need to download anything.
+![tes8](https://i.imgur.com/TLBR53V.png)
+
+It will now install using the archives you had previously, so it won't need to download anything.
   
   &#10240;
   
