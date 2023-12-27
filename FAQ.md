@@ -385,24 +385,6 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
 </details>
 
 <details>
-  <summary>I can't find the new sandevistans or techdecks</summary>
-  &#10240;
-  
-  You can find the new sandevistans added by [Time Dilation Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/4931) at
-  
-  ![faq 54](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2054.png)
-  
-  You can find the new techdecks added by [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520)
-  
-  ![faq 55](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2055.png)
-  
-  ![faq 56](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2056.png)
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>I level too slowly/quickly</summary>
   &#10240;
   
@@ -464,55 +446,6 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
 </details>
 
 <details>
-  <summary>My sandevistan isn't slowing time</summary>
-  &#10240;
-  
-  With [Time Dilation Overhaul,](https://www.nexusmods.com/cyberpunk2077/mods/4931) some of the brands like Dynalar and Zetatech have very low (near real time) time dilation strength by default. Recommend staying with the defaults, but this can be adjusted by going to **"Mods"**
-  
-  ![faq 67](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2067.png)
-  
-  and go to **"TDO"** to make any desired adjustments
-  
-  ![faq 68](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2068.png)
-  
-  &#10240;
-  
-</details>
-
-<details>
-  <summary>I can't see enemies through walls with ping</summary>
-  &#10240;
-  
-  This is a purposeful balance adjustment accomplished with the included mod [Disable Highlighting Through Walls,](https://www.nexusmods.com/cyberpunk2077/mods/3314) as without it ping can lead to extreme ease combined with tech weapons, and makes stealth far less rewarding. You are still able to manually mark enemies either yourself or through the [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) and this mark will show through walls
-  
-  ![faq 69](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2069.png)
-  ![faq 70](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2070.png)
-  
-  &#10240;
-  
-</details>
-
-<details>
-  <summary>My distraction quickhacks cost 0 ram</summary>
-  &#10240;
-  
-  This is a known [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) issue and is a UI glitch that does not affect the actual cost, which is correctly taken from your ram. The author is aware of the issue, but since the mod adds so much it is very much worth using
-  
-  &#10240;
-  
-</details>
-
-<details>
-  <summary>I can't walljump</summary>
-  &#10240;
-  
-  The included mod [Alternative Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) was customized for inclusion with [Demigod's](https://www.nexusmods.com/cyberpunk2077/users/30144935) permission to have the changes associated with the cyberware **"Maneuvering System"** which can be bought at the Arroyo Ripperdoc
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>I want to change the Immersive Timeskip hotkey from o</summary>
   &#10240;
   
@@ -548,48 +481,3 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
 </details>
 
-<details>
-  <summary>I can't use a sandevistan and a techdeck at the same time</summary>
-  &#10240;
-  
-  This was a limitation we added for balance reasons with the mod author's permission. If you would like to change this
-  
-   ```
-  FOR VORTEX USERS
-  ```
-  
-  In **Vortex** in the **"Mods"** section, navigate to **"CT Config"** and right click it to **"Open in File Manager"**
-  
-  ![faq 75](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2075.png)
-  
-  Navigate to **"CT Config\bin\x64\plugins\cyber_engine_tweaks\mods\Drone Companions\Modules"** and open the file **"Techdecks.lua"**
-  
-  ![faq 76](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2076.png)
-  
-  ```
-  FOR WABBAJACK USERS
-  ```
-  
-  In **MO2** in the left panel left click **"CT Config"** to highlight it, then right click it and select **"Open in Explorer"**
-  
-  ![faq 77](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2077.png)
-  
-  Navigate to **"Root\bin\x64\plugins\cyber_engine_tweaks\mods\Drone Companions\Modules"** and open the file **"Techdecks.lua"**
-  
-  ```
-  Continued for Both
-  ```
-  
-  In **"Techdecks.lua"** go to line 2041
-  
-  ![faq 78](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2078.png)
-  
-  and adjust **"Cyberdeck"** to be **"Techdeck"** 
-  
-  ![faq 79](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2079.png)
-  
-  Keep in mind this change would have to be done again when the list updates
-  
-  &#10240;
-  
-</details>
