@@ -19,7 +19,43 @@
   <summary>My game crashes on startup/loading save/I have a script error, what is **the ultimate fix that will solve all my problems most of the time**?</summary>
   &#10240;
   
-  **You can add this list to an existing vanilla save with no issues.** If you're adding this to a previously modded save, it would depend on the mods that were   associated. Sometimes mods that add items to the game through ArchiveXL can be baked into the save, and if that mod is no longer there, would cause the game to crash.
+Go side of Vortex and on the grey bar and click on **"Settings"**
+
+![Redmod 1](https://i.imgur.com/ilpBWRY.png)
+
+In the middle top of Vortex click on **"V2077 Settings"** and ensure that **"Automatically convert old-style 'archive' mods to REDmods on install"** is greyed out and not active
+
+![Redmod 2](https://i.imgur.com/iSYsHmn.png)
+
+![Redmod 3](https://i.imgur.com/nhjRZnF.png)
+
+Left click on the grey part of any mod on the list in the mods section of Vortex to highlight the mod\
+
+![test1](https://i.imgur.com/dQX1fI9.png)
+
+Now hit Control + A to highlight all mods and bring up a white bar at the bottom of Vortex. On this bar click Remove on the left side of it.\
+
+![test2](https://i.imgur.com/AEc8cwh.png)
+
+On the popup that comes up, ensure that delete archives checkbox is Not Ticked, and then click the orange Remove button on the bottom right\
+
+![test3](https://i.imgur.com/pI1ojet.png)
+
+You will now see all the mods uninstalled and in blue in Vortex. If you see this, close out of Vortex.
+
+![test4](https://i.imgur.com/mbWyDJX.png)
+
+Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
+
+![tes5](https://i.imgur.com/AXG7U40.png)
+
+Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
+
+![tes6](https://i.imgur.com/YW0s73X.png)
+
+Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic** so that it will reacquire the missing game files and get you back to a vanilla install, clearing the script error. Once the files are installed by your launcher, go to the website for the collection and add it to Vortex
+
+![tes8](https://i.imgur.com/TLBR53V.png)It will now install using the archives you had previously, so it won't need to download anything.
   
   &#10240;
   
