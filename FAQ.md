@@ -46,20 +46,6 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 </details>
 
 <details>
-  <summary>I was throwing sticky grenades and my game crashed</summary>
-  &#10240;
-  
-  This is a potential issue [per the mod page](https://www.nexusmods.com/cyberpunk2077/mods/4921)
-  
-  ![faq 3](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%203.png) 
-  
-  Try not to do that 
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>I don't see the initial CET keybind popup</summary>
   &#10240;
   
@@ -89,32 +75,6 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   Scroll down to **"Enable cross-platform Saves"** and ensure that it is turned off
   
   ![faq 8](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%208.png)
-  
-   &#10240;
-  
-</details>
-
-<details>
-  <summary>I can't remote activate a door to open it</summary>
-  &#10240;
-  
-  ![faq 9](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%209.png)
-  
-  If you run into the above issue where there is no way to remote activate a door or window, you will need to ensure that [Better Netrunning](https://www.nexusmods.com/cyberpunk2077/mods/2302) is correctly configured. On the left side of the main menu click on **"Mods"**
-  
-  ![faq 10](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2010.png)
-  
-  Go to **"Better Netrunning"**
-  
-  ![faq 11](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2011.png)
-  
-  Scroll down to the **"Access Points"** section and ensure that **"Unlock Networks With No Access Points"** is enabled
-  
-  ![faq 12](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2012.png)
-  
-  This will correct the issue
-  
-  ![faq 13](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2013.png)
   
    &#10240;
   
@@ -169,46 +129,6 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 </details>
 
 <details>
-  <summary>My hud disappears when using a controller</summary>
-  &#10240;
-  
-  ![faq 22](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2022.png)
-  
-  The reason this option is off in **"Mod Settings"**, **"LHUD ADDONS"** is if it is on, it allows certain keys to turn off all hud elements, which can be quite annoying on controller. If you would like to turn this on but want to change the keybind you will need to go to 
-  
-  ```
-  FOR VORTEX USERS
-  ```
-  
-  In your main Cyberpunk 2077 directory, navigate to **"r6\input"** and open **"LimitedHUD.xml**
-  
-  ![faq 23](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2023.png)
-  
-  ```
-  FOR WABBAJACK USERS
-  ```
-  
-  In **MO2** in the left panel left click **"Limited Hud"** to highlight it, then right click it and select **"Open in Explorer"**
-  
-  ![faq 24](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2024.png)
-  
-  Navigate to **"Root\r6\Input"**
-  
-  ![faq 25](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2025.png)
-  
-  ```
-  Continued for Both
-  ```
-  
-  **"LimitedHUD.xml** can be customized to choose whatever keybinds you would like, [a full list of CDPR's method for key naming here](https://nativedb.red4ext.com/EInputKey)
-  
-  ![faq 26](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2026.png)
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>My game crashes when I open the map</summary>
   &#10240;
   
@@ -252,40 +172,10 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 </details>
 
 <details>
-  <summary>I can't breach protocol or quickhack an enemy</summary>
-  &#10240;
-  
- This is due to [Better Netrunning's](https://www.nexusmods.com/cyberpunk2077/mods/2302) changes to vanilla network topology
-  
-  ![faq 30](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2030.png)
-  
-  Sometimes the quickest way into a network is an unconscious gonk
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>My car fell through the ground</summary>
   &#10240;
   
   This is a vanilla game error and has been reported to CDPR, hopefully they will patch this in the future
-  
-  &#10240;
-  
-</details>
-
-<details>
-  <summary>I can't get into Claire's garage</summary>
-  &#10240;
-  
-  This was a known issue with [Immersive Bartenders](https://www.nexusmods.com/cyberpunk2077/mods/7203) which has now been fixed, but could still be an issue on a save that was running a previous version. If the issue is affecting you, the mod author has an optional file that can be added found [here](https://www.nexusmods.com/cyberpunk2077/mods/7203?tab=files)
-  
-  ![faq 31](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2031.png)
-  
-  His instructions for using it are
-  
-  ![faq 32](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2032.png)
   
   &#10240;
   
@@ -301,16 +191,6 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   
 </details>
 
-<details>
-  <summary>An enemy gang member called the police on me</summary>
-  &#10240;
-  
-  This is associated with [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815). At high stars, in addition to enemy reinforcements NCDP's finest can show up, as a reflection of things getting completely out of hand
-  
-  &#10240;
-  
-</details>
-
 </details>
 
 <details>
@@ -322,24 +202,6 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
   &#10240;
   
 </details>
-
-  <details>
-  <summary>I have an aspect ratio that's different from 16:9 and Item descriptions as well as heavily modded items are going off screen</summary>
-  &#10240;
-  
-  This due to a known gamebug we fixed with the mod ToolTipsFixer. The mod is preadjusted for 16:9 but can be adjusted for other ratios.
-  
-  ![faq 33](INSERT MOD SETTINGS PNG HERE!! Z9 / B)
-
-  About settings:
-Mod supports ingame configuring through Mod settings.
-Mod switches over several scale levels depending tooltip content size.
-On/Off settings switches do exactly what they descriptions says. One thing is: hiding evolution description and replacing 'crafted' module may help to get more useful space for tooltip text content and get a bit higher calculated scale for more readable text.
-Scale offset - global offset value for each scale level. Use mostly for fine size tuning.
-Scale multiplier - mult for each basic scale value (apply before scale offset). If lower scale levels make too small tooltips then this slider might help. Won't affect on basic (default) scale level.
-Content limit offset - offset for tooltip size limit to change scale level. In other words - higher value will switch scaling level down earlier, and lower value - later.
-
-&#10240;
 
 </details>
 
