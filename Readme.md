@@ -4,7 +4,7 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 
 &#10240;
 
-**Cyberpunk THING** comes with extensive but accessible documentation:
+# **Cyberpunk THING** and **Welcome to Night City** come with extensive but accessible documentation:
 
 - Our readme and installation instructions for the Wabbajack are found [here](https://github.com/z9er/CyberpunkTHING/blob/main/README.md)
 - You can find a list of all included mods and why we include them on our [Modlist page](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
