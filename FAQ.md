@@ -16,7 +16,7 @@
 ## Crashes
 
 <details>
-  <summary>My game crashes on startup/loading save/I have a script error, what is the ultimate fix that will solve all my problems most of the time?</summary>
+  <summary>My game crashes on startup/loading save/I have a script error, what is **the ultimate fix that will solve all my problems most of the time**?</summary>
   &#10240;
   
   **You can add this list to an existing vanilla save with no issues.** If you're adding this to a previously modded save, it would depend on the mods that were   associated. Sometimes mods that add items to the game through ArchiveXL can be baked into the save, and if that mod is no longer there, would cause the game to crash.
