@@ -11,7 +11,7 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 ### Wabbajack
 
 - Our readme and installation instructions for the Wabbajack are found [here](https://github.com/z9er/CyberpunkTHING/blob/main/Wabbajack/Readme.md)
-- You can find a list of all included mods and why we include them [here](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
+- You can find a list of all included mods and why we include them [here](https://github.com/z9er/CyberpunkTHING/blob/main/Wabbajack/Modlist.md)
 - Join us on the official [Discord server](https://discord.gg/eJdMQKnQVt) for support or to give us feedback [here](https://discord.gg/eJdMQKnQVt).
 
 ### Collection
