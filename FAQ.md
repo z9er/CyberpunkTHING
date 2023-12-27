@@ -29,15 +29,15 @@ In the middle top of Vortex click on **"V2077 Settings"** and ensure that **"Aut
 
 ![Redmod 3](https://i.imgur.com/nhjRZnF.png)
 
-Left click on the grey part of any mod on the list in the mods section of Vortex to highlight the mod\
+Left click on the grey part of any mod on the list in the mods section of Vortex to highlight the mod
 
 ![test1](https://i.imgur.com/dQX1fI9.png)
 
-Now hit Control + A to highlight all mods and bring up a white bar at the bottom of Vortex. On this bar click Remove on the left side of it.\
+Now hit Control + A to highlight all mods and bring up a white bar at the bottom of Vortex. On this bar click Remove on the left side of it
 
 ![test2](https://i.imgur.com/AEc8cwh.png)
 
-On the popup that comes up, ensure that delete archives checkbox is Not Ticked, and then click the orange Remove button on the bottom right\
+On the popup that comes up, ensure that delete archives checkbox is Not Ticked, and then click the orange Remove button on the bottom right
 
 ![test3](https://i.imgur.com/pI1ojet.png)
 
