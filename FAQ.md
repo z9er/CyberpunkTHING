@@ -78,26 +78,6 @@ It will now install using the archives you had previously, so it won't need to d
 </details>
 
 <details>
-  <summary>My game flatlines when opening with a redscript error</summary>
-  &#10240;
-  
-  **It's important to ensure that this list is installed onto a purely vanilla setup to avoid script errors and crashes from old mods.**
-  
-  Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
-
-![faq 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%201.png)
-
-Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"** 
-
-![faq 2](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%202.png)
-
-Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>I don't see the initial CET keybind popup</summary>
   &#10240;
   
