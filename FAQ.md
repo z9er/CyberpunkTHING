@@ -105,7 +105,20 @@ It will now install using the archives you had previously, so it won't need to d
   <summary>How do I use Idle Anywhere?</summary>
   &#10240;
   
-test
+Visit V's starting apartment in H10. You only need to do this once to 'activate' the mod.
+Press the Sprint input while the following is true:
+
+- Stood still (not sat, or crouched)
+- Not in a moving elevator (probably can't be vehicle surf either)
+- Out of combat
+- Have empty hands
+- Not looking directly up or down
+- Not scanning (zooming is okay)
+
+Press Sprint again to manually hide it.
+
+The menu will also not work when controlling surveilance systems, in Brain Dances, and shouldn't work in Johnny's memories either.
+If you do have/use the option while in conversation with NPCs just be aware that it can sometimes cause NPCs to sound distant/quiet during the animation(s)
   
   &#10240;
   
