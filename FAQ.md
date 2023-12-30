@@ -131,6 +131,7 @@ If you do have/use the option while in conversation with NPCs just be aware that
 The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
 
 **Global Toggle:** global hotkey which you can use to toggle visibility for any module combination by your choice. By default it toggles Minimap, Quest Tracker and Quest Markers modules (**F8** by default).
+
 **Minimap Toggle:** a separate hotkey to toggle minimap visibility (**F6** by default)
   
   &#10240;
