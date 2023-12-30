@@ -1,3 +1,5 @@
+[![the word "Cyberpunk" emblazoned in garish yellow with a light blue undershading, with the word "THING" stamped haphazardly underneath in a bright light blue](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/collection/larg%20logo%20new%20timing%20collection.gif)](https://discord.gg/eJdMQKnQVt)
+
 &#10240;
 
 The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences crafted from the best mods our team and the community at large have to offer.
