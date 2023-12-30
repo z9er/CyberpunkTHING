@@ -371,34 +371,12 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
 </details>
 
 <details>
-  <summary>My flashlight isn't working</summary>
-  &#10240;
-  
-  In order to use the included mod [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) open the "Game Folder Files" folder in your modlist install location, and copy the archive folder into your main Cyberpunk 2077 directory
-
-![demonstration of game folder files thing](https://media.giphy.com/media/N8oz510KVUrX2PzLBN/giphy.gif)
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>Mods I added disappeared on update</summary>
   &#10240;
   
   To keep some of your custom mods when updating the **Wabbajack** rename the mods in **MO2** and add [NoDelete] on the left hand MO2 pane. As example "Dawn FM" becomes "[NoDelete] Dawn FM"
   
    &#10240;
-  
-</details>
-
-<details>
-  <summary>I can't get my preorder rewards</summary>
-  &#10240;
-  
-  Launching the game through MO2 means that those rewards do not populate in your game as they have to go through CDPR's launcher. The easiest workaround is to in your new game run it without the modlist active (running through **GOG** or **Steam**), go through the prologue to your apartment and get the items, then launch the game through **MO2** to use the list after that
-  
-  &#10240;
   
 </details>
 
