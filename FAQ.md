@@ -201,6 +201,16 @@ When you click the "Load" button, the quickhacks stored in that loadout are equi
 </details>
 
 <details>
+  <summary>How can I prevent auto updates to my game?</summary>
+  &#10240;
+  
+Consult this guide on the [Modding Wiki](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/users-downgrading-preventing-auto-updates)
+  
+  &#10240;
+  
+</details>
+
+<details>
   <summary>I don't see the initial CET keybind popup</summary>
   &#10240;
   
