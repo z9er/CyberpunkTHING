@@ -65,6 +65,8 @@ It will now install using the archives you had previously, so it won't need to d
   
 </details>
 
+&#10240;
+
 ## Mod Functionality
 
 <details>
