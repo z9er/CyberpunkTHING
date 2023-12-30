@@ -211,6 +211,16 @@ Consult this guide on the [Modding Wiki](https://wiki.redmodding.org/cyberpunk-2
 </details>
 
 <details>
+  <summary>I added some mods which are causing issues, how do I know which is the problem?</summary>
+  &#10240;
+  
+Learn how to bisect with the [Modding Wiki](https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/user-guide-troubleshooting#finding-the-broken-mod-bisecting)
+  
+  &#10240;
+  
+</details>
+
+<details>
   <summary>I don't see the initial CET keybind popup</summary>
   &#10240;
   
