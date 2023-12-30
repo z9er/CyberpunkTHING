@@ -251,7 +251,7 @@ When you click the "Load" button, the quickhacks stored in that loadout are equi
   
   Then save the selection, and the quickslot you have chosen will now work
   
-  !faq 20](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2020.png)
+  ![faq 20](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2020.png)
   
   &#10240;
   
