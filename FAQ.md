@@ -296,6 +296,8 @@ When you click the "Load" button, the quickhacks stored in that loadout are equi
   &#10240;
   
   This is a vanilla game error and has been reported to CDPR, hopefully they will patch this in the future
+
+&#10240;
   
 </details>
 
