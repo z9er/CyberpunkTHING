@@ -68,10 +68,50 @@ It will now install using the archives you had previously, so it won't need to d
 ## Mod Functionality
 
 <details>
-  <summary>Can I add this list to my existing save?</summary>
+  <summary>How does Equipment-EX work?</summary>
   &#10240;
   
-  **You can add this list to an existing vanilla save with no issues.** If you're adding this to a previously modded save, it would depend on the mods that were   associated. Sometimes mods that add items to the game through ArchiveXL can be baked into the save, and if that mod is no longer there, would cause the game to crash.
+test
+  
+  &#10240;
+  
+</details>
+
+<details>
+  <summary>How do I use Idle Anywhere?</summary>
+  &#10240;
+  
+test
+  
+  &#10240;
+  
+</details>
+
+<details>
+  <summary>How does Metro Pocket Guide help me?</summary>
+  &#10240;
+  
+test
+  
+  &#10240;
+  
+</details>
+
+<details>
+  <summary>How do I reset Night City Interactions?</summary>
+  &#10240;
+  
+test
+  
+  &#10240;
+  
+</details>
+
+<details>
+  <summary>What are Quickhack Loadouts all about?</summary>
+  &#10240;
+  
+ test
   
   &#10240;
   
