@@ -155,8 +155,18 @@ Leave the apartment and reenter to complete the reset
 <details>
   <summary>What are Quickhack Loadouts all about?</summary>
   &#10240;
-  
- test
+
+Lets you set up to 5 Quickhack loadouts for your Cyberdeck with an easy to use interface in the cyberdeck equip menu. Give each loadout a custom name; save and load loadouts at any time. This mod relieves the frustration of slowly changing your equipped quickhacks every time you want to switch from combat hacks to stealth, or whatever it is you need. There are 5 loadout slots. You can rename the title of each slot by clicking on the title and typing with a keyboard.
+
+### Saving
+
+When you click the "Save" button, the currently equipped quickhacks are saved to that loadout, and the current name of the loadout is saved. If you save while there are no loadouts equipped, an empty loadout is saved. Saved loadouts can be overwritten, including with an empty loadout.
+
+### Loading
+
+When you click the "Load" button, the quickhacks stored in that loadout are equipped. If there are no quickhacks stored in the loadout, then the Load button will be disabled. When you hover over a Load button, a tooltip displays the quickhacks in the loadout.
+
+![loading image](https://i.imgur.com/c0rF9qF.png)
   
   &#10240;
   
