@@ -1,4 +1,4 @@
-[![the word "Cyberpunk" emblazoned in garish yellow with a light blue undershading, with the word "THING" stamped haphazardly underneath in a bright light blue](https://i.imgur.com/TW8tmPX.png)](https://discord.gg/eJdMQKnQVt)
+[![the word "Cyberpunk" emblazoned in garish yellow with a light blue undershading, with the word "THING" stamped haphazardly underneath in a bright light blue](https://i.imgur.com/LjSqCzU.png)](https://discord.gg/eJdMQKnQVt)
 
 &#10240;
 
