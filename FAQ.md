@@ -7,6 +7,7 @@
 &#10240;
 
 - [Crashes](#crashes)
+- [Mod Functionality](#mod-functionality)
 - [General Troubleshooting](#general-troubleshooting)
 - [Vortex Specific Troubleshooting](#vortex-specific-troubleshooting)
 - [Wabbajack Specific Troubleshooting](#wabbajack-specific-troubleshooting)
@@ -59,6 +60,18 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 ![tes8](https://i.imgur.com/TLBR53V.png)
 
 It will now install using the archives you had previously, so it won't need to download anything.
+  
+  &#10240;
+  
+</details>
+
+## Mod Functionality
+
+<details>
+  <summary>Can I add this list to my existing save?</summary>
+  &#10240;
+  
+  **You can add this list to an existing vanilla save with no issues.** If you're adding this to a previously modded save, it would depend on the mods that were   associated. Sometimes mods that add items to the game through ArchiveXL can be baked into the save, and if that mod is no longer there, would cause the game to crash.
   
   &#10240;
   
