@@ -72,8 +72,30 @@ It will now install using the archives you had previously, so it won't need to d
 <details>
   <summary>How does Equipment-EX work?</summary>
   &#10240;
+
+### Overview
   
-test
+- New transmog system with 50+ clothing slots
+- A brand-new UI accessible from Hub menu and V's apartments
+- Allows you to manage an unlimited amount of outfits with your names
+- Converts your existing wardrobe sets to a new system at a first launch
+- Works with vanilla and custom items
+
+### How to Use
+
+- The outfit manager is accessible through the new "Wardrobe" button in the Inventory menu or from wardrobe call in V's apartments
+- On the right side of the screen, you will see all compatible gear grouped by slots
+- By clicking on a button with three lines above the item list you can choose what items you want to see: current inventory, stash, wardrobe memory
+- Clicking on any item will activate outfit mode, which applies the visuals of the selected items to your character over equipped gear
+- To equip item in another slot, move cursor over the item and hold displayed hotkey (F on keyboard)
+- To unequip all currently equipped items, move cursor over the preview puppet and press displayed hotkey (X on keyboard)
+- On the left side of the screen, you will see a list of your outfits
+- The "Save outfit" button becomes available when outfit mode is active
+- To equip a previously saved outfit, just click on the name in the list
+- To delete an outfit, hover over the outfit and press the hotkey from the hint (X on keyboard)
+- To disable the outfit mode, you can select "No outfit" or unequip the outfit from the Inventory menu
+- In photo mode, you will find the option to change outfits on the fly in the pose section
+
   
   &#10240;
   
