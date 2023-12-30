@@ -142,7 +142,11 @@ If you do have/use the option while in conversation with NPCs just be aware that
   <summary>How do I reset Night City Interactions?</summary>
   &#10240;
   
-test
+Go to V's original apartment and into the stash room to reset Night City Interactions
+
+![NCI Reset](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/nci.PNG)
+
+Leave the apartment and reenter to complete the reset
   
   &#10240;
   
