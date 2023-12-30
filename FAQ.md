@@ -6,6 +6,7 @@
 
 &#10240;
 
+- [Crashes](#crashes)
 - [General Troubleshooting](#general-troubleshooting)
 - [Vortex Specific Troubleshooting](#vortex-specific-troubleshooting)
 - [Wabbajack Specific Troubleshooting](#wabbajack-specific-troubleshooting)
