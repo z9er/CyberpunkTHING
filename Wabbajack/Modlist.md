@@ -38,19 +38,71 @@ Picking up a body will function as a shield for V giving an extra layer of prote
 
 Your ranged quickmelee attack stun opens enemies to grabs and finishers
 
+### [Keep Drawing The Line](https://www.nexusmods.com/cyberpunk2077/mods/7198) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
+Provides additional options and control for when the ricochet preview is visible
+
+### [No uncrouching when melee attacking from stealth](https://www.nexusmods.com/cyberpunk2077/mods/4470) by [Paradox4624](https://www.nexusmods.com/cyberpunk2077/users/3922548)
+
+Supresses auto-uncrouching when melee attacking from stealth for 1 second
+
+### [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Loosens the angle for ricochet snap to targets, adds new ricochet focused gun mod, adds options for more ricochet shenanigans
+
+### [Second Heart Fix](https://www.nexusmods.com/cyberpunk2077/mods/11100) by [enowai](https://www.nexusmods.com/cyberpunk2077/users/16205449)
+
+Changes how NPCs react to V when second heart is triggered after "dying" and changes the effect aesthetically
+
+### [Set Bonuses](https://www.nexusmods.com/cyberpunk2077/mods/8103) by [apart](https://www.nexusmods.com/cyberpunk2077/users/4211422)
+
+Adds set bonuses to the TTRPG-sets, Silverhand's gear and some other pseudo equipment sets
+
+### [Silent Silencers and Throwing Knives](https://www.nexusmods.com/cyberpunk2077/mods/4070) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Provides options to prevent auto-triggering of combat when you use a silenced gun or throwing knife
+
+### [Sonic Shock Prevents Trace](https://www.nexusmods.com/cyberpunk2077/mods/11438) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Sonic shock prevents further quickhacks on the affected target from starting the **Position Reveal** trace
+
+### [Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/9360) by [Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)
+
+Melee weapon finishers also function as stealth finishers which can be initiated without grapple
+
+### [Stealth Remote Control Cars and Turrets](https://www.nexusmods.com/cyberpunk2077/mods/9939) by [VeganForTheAnimals](https://www.nexusmods.com/cyberpunk2077/users/16336704)
+
+Instead of instantly revealing your position, hitting an enemy with a remoted controlled car now starts a trace and only alerts enemies
+
+### [Weapon Handling Control](https://www.nexusmods.com/cyberpunk2077/mods/11474) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Adds customizable drawing and holstering speed, and the ability to disable recoil recovery
+
+&#10240;
 
 ## Enemies and Difficulty
 
+&#10240;
+
 ## Quests
+
+&#10240;
 
 ## NPC Interactions
 
+&#10240;
+
 ## World Interactions
+
+&#10240;
 
 ## Vehicles and Driving
 
+&#10240;
+
 ## Weapons
+
+&#10240;
 
 ## Cyberware
 
@@ -62,12 +114,22 @@ New cyberware, an alternate ballistic coprocessor meant for stealth play
 
 Adds back the removed in 2.0 Heat Converter cyberware to all ripperdocs
 
+&#10240;
+
 ## Aesthetics
+
+&#10240;
 
 ## UI
 
+&#10240;
+
 ## Quality of Life
 
+&#10240;
+
 ## Bug Fixes
+
+&#10240;
 
 ## Utility
