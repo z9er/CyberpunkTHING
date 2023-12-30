@@ -336,16 +336,6 @@ When you click the "Load" button, the quickhacks stored in that loadout are equi
 
 </details>
 
-<details>
-  <summary>I enabled on the Simple Hud Toggle in Limited Hud Addon settings and it isn't working</summary>
-  &#10240;
-  
-  Restart your game and it will, it defaults to <kbd>F1</kbd>
-  
-  &#10240;
-  
-</details>
-
 </details>
 
 &#10240;
