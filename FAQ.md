@@ -128,7 +128,11 @@ If you do have/use the option while in conversation with NPCs just be aware that
   <summary>How does Metro Pocket Guide help me?</summary>
   &#10240;
   
-test
+- Open world map menu
+- Press "Route" button at the bottom of the screen
+- Select starting metro station
+- Select destination station and press "Сonfirm"
+- Enter the subway and follow the tracked route
   
   &#10240;
   
