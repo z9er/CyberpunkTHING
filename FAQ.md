@@ -70,6 +70,19 @@ It will now install using the archives you had previously, so it won't need to d
 ## Mod Functionality
 
 <details>
+  <summary>How do I find the Car Modification Shop?</summary>
+  &#10240;
+  
+  When on your map, on the left side ensure that when on **"FILTER: CUSTOM"** that the **"DROP POINT"** section is highlighted and the wrench icon for the [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) will appear in Northeast Watson
+  
+  ![faq 28](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2028.png)
+  ![faq 29](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2029.png)
+  
+  &#10240;
+  
+</details>
+
+<details>
   <summary>How does Equipment-EX work?</summary>
   &#10240;
 
@@ -360,19 +373,6 @@ Learn how to bisect with the [Modding Wiki](https://wiki.redmodding.org/cyberpun
   This is a vanilla game error and has been reported to CDPR, hopefully they will patch this in the future
 
 &#10240;
-  
-</details>
-
-<details>
-  <summary>The car mod shop wrench icon isn't on the map</summary>
-  &#10240;
-  
-  When on your map, on the left side ensure that when on **"FILTER: CUSTOM"** that the **"DROP POINT"** section is highlighted and the wrench icon for the [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) will appear in Northeast Watson
-  
-  ![faq 28](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2028.png)
-  ![faq 29](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2029.png)
-  
-  &#10240;
   
 </details>
 
