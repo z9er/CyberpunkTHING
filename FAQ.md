@@ -167,6 +167,24 @@ Leave the apartment and reenter to complete the reset
 </details>
 
 <details>
+  <summary>I have a PS5 controller, how do I get Enhanced Dualsense Support to work?</summary>
+  &#10240;
+  
+You need the accessory application **DualSenseX** which you can get through the new paid app [on steam](https://store.steampowered.com/app/1812620/DSX/) or by using the old free version from [github.](https://github.com/Paliverse/DualSenseX/releases/tag/1.4.9)
+
+If you downloaded the new version, follow this guide
+
+![dsxnewguide](https://www.youtube.com/watch?v=rR54G_GS2Xc)
+
+If you are using the old version from github, follow this guide
+
+![dsxoldguide](https://www.youtube.com/watch?v=PAXKJR2crT4)
+  
+  &#10240;
+  
+</details>
+
+<details>
   <summary>What are Quickhack Loadouts all about?</summary>
   &#10240;
 
