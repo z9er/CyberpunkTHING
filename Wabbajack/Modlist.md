@@ -402,6 +402,10 @@ Shows you what attribute level you needed for conversation skill checks that you
 
 Provides the ability to add new quickslots to the bottom of the screen for consumables, grenades, and cyberware abilities
 
+### [Dualsense Enhanced Support](https://www.nexusmods.com/cyberpunk2077/mods/4156) by [Limai](https://www.nexusmods.com/cyberpunk2077/users/104882473)
+
+Improves Adaptive Triggers support and some other features for the PS5 DualSense controller
+
 ### [Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Reduces the time to pass through the Dogtown vehicle checkpoint by about 66%
