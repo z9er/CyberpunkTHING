@@ -585,9 +585,9 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
   ![faq 60](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2060.png)
   
-  Go to **"RMK Mods"**
+  Go to **"DMG. SCALING"**
   
-  ![faq 61](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2061.png)
+  ![faq 61](https://i.imgur.com/JsM1FLQ.png)
   
   Scroll to the **"Damage to NPC Multiplier"** or **"Damage to Player Multiplier"** and adjust any values to your liking
   
