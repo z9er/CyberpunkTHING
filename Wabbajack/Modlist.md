@@ -538,6 +538,10 @@ Fixes a bug introduced in 2.1 where animated ("slow") finishers would not play
 
 Restores some "crucial" missing audio during part of the quest 'The Hunt'
 
+### [QoL - Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Fixes the dark box shadows cast by holotext screens with using ray tracing or path tracing
+
 ### [QuickSlot and Consumables Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/10811) by [tduality](https://www.nexusmods.com/cyberpunk2077/users/5839471)
 
 Fixes the bug where you get an empty health item QuickSlot after using consumables from your backpack
