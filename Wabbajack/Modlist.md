@@ -354,7 +354,7 @@ Adds buttons in the save and load menus to filter either by lifepath or type (ma
 
 Allows you to search codex entries, shards, quests, and crafting recipes as well as mass expand or collapse nested lists
 
-## [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+### [Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 Highly configurable hud editor
 
