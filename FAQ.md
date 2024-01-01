@@ -292,42 +292,6 @@ Learn how to bisect with the [Modding Wiki](https://wiki.redmodding.org/cyberpun
 </details>
 
 <details>
-  <summary>My custom quickslots binds aren't working</summary>
-  &#10240;
-  
-  In order for your [custom quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) options to work, your choices that you bind in the **"Mods"** menu will need to be duplicated in CET. As an example of this, you would first choose a keybind and action for a quickslot by going to **"Mods"** on the left side of the main menu
-  
-  ![faq 14](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2014.png)
-  
-  At the top, select **"QSLOTS"**
-  
-  ![faq 15](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2015.png)
-  
-  Adjust **"Number of Custom Quickslots"** to be 1 or more
-  
-  ![faq 16](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2016.png)
-  
-  In this example, selecting for **"food"** and selecting **"9"** as the keybind
-  
-  ![faq 17](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2017.png)
-  
-  Press the key you chose to bind for the CET menu in order to open it, and go to **"Bindings"**
-  
-  ![faq 18](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2018.png)
-  
-  Will want to duplicate the keybind for the same slot, which was Slot 1
-  
-  ![faq 19](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2019.png)
-  
-  Then save the selection, and the quickslot you have chosen will now work
-  
-  ![faq 20](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2020.png)
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>I am stuck in conversation with Jackie</summary>
   &#10240;
   
