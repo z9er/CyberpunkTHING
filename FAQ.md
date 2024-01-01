@@ -169,6 +169,16 @@ Leave the apartment and reenter to complete the reset
 <details>
   <summary>I have a PS5 controller, how do I get Enhanced Dualsense Support to work?</summary>
   &#10240;
+
+This mod is defaulted off to avoid a pop-up for non-PS5 controller players. You will need to turn it on in-game by going to the **Mods** menu
+
+![dualsense 1](https://i.imgur.com/OXOlX5C.png)
+
+Go to **Enhanced Dualsense Control** and turn on the options
+
+[dualsense 2](https://i.imgur.com/xwX2TZP.png)
+
+[dualsense 3](https://i.imgur.com/Ksl7aUF.png)
   
 You need the accessory application **DualSenseX** which you can get through the new paid app [on steam](https://store.steampowered.com/app/1812620/DSX/) or by using the old free version from [github.](https://github.com/Paliverse/DualSenseX/releases/tag/1.4.9)
 
