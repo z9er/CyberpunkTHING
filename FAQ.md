@@ -167,6 +167,18 @@ Leave the apartment and reenter to complete the reset
 </details>
 
 <details>
+  <summary>How do I name a save with Named Saves?</summary>
+  &#10240;
+  
+  You're about to create a manual save, but don't just immediately click it. If you look at the top left above that you will see where you can add a name to your save
+  
+  ![faq 27](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2027.png)
+  
+  &#10240;
+  
+</details>
+
+<details>
   <summary>I have a PS5 controller, how do I get Enhanced Dualsense Support to work?</summary>
   &#10240;
 
@@ -338,18 +350,6 @@ Learn how to bisect with the [Modding Wiki](https://wiki.redmodding.org/cyberpun
   This is associated with a **Reshade** version issue. As this list does not include and is not tested for any reshade, adding one is at your own risk, and this is one of a multitude of issues that can arise in using one
   
    &#10240;
-  
-</details>
-
-<details>
-  <summary>How do I name a save?</summary>
-  &#10240;
-  
-  You're about to create a manual save, but don't just immediately click it. If you look at the top left above that you will see where you can add a name to your save
-  
-  ![faq 27](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2027.png)
-  
-  &#10240;
   
 </details>
 
