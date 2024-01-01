@@ -174,11 +174,11 @@ You need the accessory application **DualSenseX** which you can get through the 
 
 If you downloaded the new version, follow this guide
 
-![dsxnewguide](https://www.youtube.com/watch?v=rR54G_GS2Xc)
+[With Steam DualSenseX](https://www.youtube.com/watch?v=rR54G_GS2Xc)
 
 If you are using the old version from github, follow this guide
 
-![dsxoldguide](https://www.youtube.com/watch?v=PAXKJR2crT4)
+[With Older DualSenseX from Github](https://www.youtube.com/watch?v=PAXKJR2crT4)
   
   &#10240;
   
