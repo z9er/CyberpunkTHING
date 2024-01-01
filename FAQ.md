@@ -186,6 +186,16 @@ When you click the "Load" button, the quickhacks stored in that loadout are equi
   
 </details>
 
+<details>
+  <summary>Why won't my Custom Quickslots work?</summary>
+  &#10240;
+
+test
+  
+  &#10240;
+  
+</details>
+
 &#10240;
 
 ## General Troubleshooting
