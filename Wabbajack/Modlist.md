@@ -158,6 +158,10 @@ Adds an optional encounter with Rita Wheeler
 
 River now eats, drinks, and works out around the Joss' family trailer, adds additional interactions if romanced
 
+### [Romance Hangouts Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/11590) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+A collection of quality-of-life updates and changes for the patch 2.1 Romance Hangouts Features
+
 ### [The Passenger](https://www.nexusmods.com/cyberpunk2077/mods/10731) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Johnny can now spawn as a passenger while driving around Night City
