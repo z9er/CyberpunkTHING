@@ -8,7 +8,7 @@ Fully compatible with and updated for version 1.63 Hotfix 1
 
 - [Show Item level on crafting and upgrading 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8701)
 
-**Updated**
+# Updated
 
 ### Quests
 
