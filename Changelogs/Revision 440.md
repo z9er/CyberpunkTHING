@@ -30,6 +30,6 @@ Fully compatible with and updated for version 1.63 Hotfix 1
 
 - [Improved Minimap Zoom 1.7.7](https://www.nexusmods.com/cyberpunk2077/mods/2959)
 
-**Removed**
+# Removed
 
 - [Combat Crafting 1.0](https://www.nexusmods.com/cyberpunk2077/mods/4928)
