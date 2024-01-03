@@ -20,6 +20,10 @@
   
 - [Vehicle Summon Tweaks 2.01](https://www.nexusmods.com/cyberpunk2077/mods/4658)
 
+### Cyberware
+
+- [Kiroshi Optics Night Vision Mod 1.2](https://www.nexusmods.com/cyberpunk2077/mods/8326)
+
 ### Aesthetics
 
 - [Enable Finisher Ragdolls 0.1](https://www.nexusmods.com/cyberpunk2077/mods/9496)
@@ -31,8 +35,6 @@
 ### Quality of Life
 
 - [Custom Quickslots 4.01](https://www.nexusmods.com/cyberpunk2077/mods/3096)
-
-- [Kiroshi Optics Night Vision Mod 1.2](https://www.nexusmods.com/cyberpunk2077/mods/8326)
 
 - [Only Smartweapon Crosshairs 1.2](https://www.nexusmods.com/cyberpunk2077/mods/5434)
 
