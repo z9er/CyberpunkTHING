@@ -537,7 +537,22 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   <summary>Mods I added disappeared on update</summary>
   &#10240;
   
-  To keep some of your custom mods when updating the **Wabbajack** rename the mods in **MO2** and add [NoDelete] on the left hand MO2 pane. As example "Dawn FM" becomes "[NoDelete] Dawn FM"
+    In **MO2**, click on the disc icon in the top bar:
+  
+  ![faq xx](https://i.imgur.com/VAwaVU4.png)
+  
+  In the popup, navigate to your chosen mod. Highlight the file, verify your selection, and click open.
+  
+  ![faq xx](https://i.imgur.com/e14sSU2.png)
+  
+  In this new popup, add the modifier "[NoDelete]" to the beginning of the mod name.
+  
+  ![faq xx](https://i.imgur.com/4Nv3MIA.png)
+  
+  Verify the change from previous step within **MO2**.
+  
+  ![faq xx](https://i.imgur.com/AGXbTFo.png)
+  &#10240;
   
    &#10240;
   
