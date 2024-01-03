@@ -539,19 +539,19 @@ Scroll down to the mod **"Cyberpunk Thing"** and left click it
   
     In **MO2**, click on the disc icon in the top bar:
   
-  ![faq xx](https://i.imgur.com/VAwaVU4.png)
+  ![faq xx](https://i.imgur.com/c1yv5LO.png)
   
   In the popup, navigate to your chosen mod. Highlight the file, verify your selection, and click open.
   
-  ![faq xx](https://i.imgur.com/e14sSU2.png)
+  ![faq xx](https://i.imgur.com/beTQwAS.png)
   
   In this new popup, add the modifier "[NoDelete]" to the beginning of the mod name.
   
-  ![faq xx](https://i.imgur.com/4Nv3MIA.png)
+  ![faq xx](https://i.imgur.com/KaUAyjZ.png)
   
   Verify the change from previous step within **MO2**.
   
-  ![faq xx](https://i.imgur.com/AGXbTFo.png)
+  ![faq xx](https://i.imgur.com/TOaOVQQ.png)
   &#10240;
   
    &#10240;
