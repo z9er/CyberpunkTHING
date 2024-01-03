@@ -286,6 +286,10 @@ New cyberware, an alternate ballistic coprocessor meant for stealth play
 
 Adds back the removed in 2.0 Heat Converter cyberware to all ripperdocs
 
+### [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds a night vision mode to the Kiroshi optics implant
+
 &#10240;
 
 ## Aesthetics
@@ -441,10 +445,6 @@ No more crowd panic form using computers, doors, access points, etc
 ### [Instant Wardrobe](https://www.nexusmods.com/cyberpunk2077/mods/6550) by [Spicy](https://www.nexusmods.com/cyberpunk2077/users/4892301)
 
 Removes the loading bar when opening the wardrobe
-
-### [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
-
-Adds a night vision mode to the Kiroshi optics implant
 
 ### [Longer Car Delivery Timers](https://www.nexusmods.com/cyberpunk2077/mods/9735) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
