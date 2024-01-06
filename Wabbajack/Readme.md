@@ -74,15 +74,11 @@ To have the highest amount of threads and thus the fastest speed, it is advised 
 
 1. Open Wabbajack
 2. Load the Modlist by clicking **"Browse Modlists"** (selecting the Cyberpunk 2077) 
-
-![demonstration of finding list](https://media.giphy.com/media/d5g7myYxhXqsLzKHHL/giphy.gif)
-
 3. Set Cyberpunk THING to install to `C:\Cyberpunk THING` and downloads to `C:\Cyberpunk THING\Downloads`
    You can set a different path if you wish, but avoid system protected folders. 
    
 ```
-Avoid installing the list to a system protected folder like Program Files, ensure the list is installed to a different location 
-than the folder Wabbajack.exe is located in
+Avoid installing the list to a system protected folder like Program Files, ensure the list is installed to a different location than the folder Wabbajack.exe is located in
 ```
    
 4. Click the Go/Begin button
@@ -109,104 +105,19 @@ You need to have launched the game once before WJ will locate it. The list works
 
 Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
-
-
-&#10240;
-
 # Starting the Game
 
 Head over to the installation folder and locate an executable named
 ModOrganizer.exe and launch it. Once its launched there will be a dropdown box
 on the top right and a big run button next to it
 
-Ensure it is set to `Cyberpunk 2077` by selecting it in the dropdown
-box and then hitting the run button. Due to how it is deploying the files, you may have to click "Run" twice. This is normal
+### Switching Profiles
 
+This modlist comes with two separately built experiences which can be changed by choosing either **Cyberpunk THING** or **Welcome to Night City** on the upper left side of Mod Organizer 2
 
+### Getting Familiar with Mods
 
-&#10240;
-
-![wjack readme 6](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%206.png)
-
-# CET Setup
-
-&#10240;
-
-
-When you start the game for the first time you will be met with an overlay prompting you to choose a key to toggle on Cyber Engine Tweaks, recommend that you choose the **"~"** key for the **"Overlay Key"**
-
-![wjack readme 7](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%207.png)
-
-Keybinds for **"BetterScopes",** **"NanoDrone",** **"QuestTrackingToggle"** are as follows:
-
-Additional weapon zoom is <kbd>Shift</kbd>
-
-Quest Tracking Toggle is <kbd>F11</kbd>
-
-NanoDrone forwards, left, backwards, and right is <kbd>w</kbd> <kbd>a</kbd> <kbd>s</kbd> and <kbd>d</kbd>, and up and down are <kbd>Space</kbd> and <kbd>Control</kbd>
-
-Any of this can be changed by hitting your bound **CET Overlay Key** and going to **"Bindings"**
-
-![wjack readme 8](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%208.png)
-
-
-
-&#10240;
-
-# Quickslots Settings
-
-&#10240;
-
-In Cyberpunk, there is no way to bind multiple hotkeys for actions, items, or abilities, as each must be assigned through the menu to the one assignable hotkey at a time, leading to gameplay interruptions if you want to play well. [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) solves this issue by allowing bindable hotkeys which show up on the Native game UI and allow you up to 20 hotkeyed actions, abilities, or items. Some small setup is required
-
-```
-Navigating the Mods menu uses the arrows at the top to switch between the different pages of mods
-```
-
-After clicking **"Mods"** in the main menu, navigate to the **"QSLOTS"** section, you can add slots and then select the key they bind to. This will need to be duplicated in **CET Bindings** in order for it to work. Recommend adding slots as needed during the course of gameplay
-
-![wjack readme 9](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%209.png)
-
-
-
-&#10240;
-
-# Recommended Game Settings
-
-&#10240;
-
-```
-This collection is built around the very hard difficulty setting
-```
-
-After clicking **"Settings"** in the main menu, near the left side of the top menu click on the **"GAMEPLAY"** section, recommend changing **"Aim Assist"** and **"Aim Assist - Melee Combat"** to **"Off"**
-
-![wjack readme 10](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%2010.png)
-
-Near the right side of the top menu click on the **"INTERFACE"** section, recommend changing **"Damage Numbers Mode"** to **"Off,"** **"Overhead Damage Numbers"** to **"None,"** and **"Threat and Damage Indicator"** to **"Damage Only"**
-
-![wjack readme 11](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%2011.png)
-
-Further down in the **"HUD Visibility"** section, recommend keeping all on except **"Hints,"** **"Activity Log,"** and **"NPC Names"**
-
-![wjack readme 12](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%2012.png)
-
-```
-New players may want to keep "Hints" on until they feel they no longer need them
-```
-
-
-&#10240;
-
-# Adjusted Mod Configuration
-
-&#10240;
-
-Several mods in the collection have been adjusted with permission from their mod authors. You are limited to using the **Techdeck** from [Drone Companions](https://www.nexusmods.com/cyberpunk2077/mods/4520) as an alternative to a cyberdeck rather than something that can be run in tandem. The movement changes from [Alternate Midair Movement and Walljumping](https://www.nexusmods.com/cyberpunk2077/mods/5160) are now part of the **Maneuvering System** cyberware.
-
-
-
-&#10240;
+Some mods may have additional features that may not be immediately apparent, would recommend looking at the [Mod Functionality section of our FAQ](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md#mod-functionality)
 
 # Updating/Uninstalling
 
@@ -233,31 +144,11 @@ Then leave the apartment and reenter to complete the reset
 
 You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
 
-
-
-&#10240;
-
 # Frequently Asked Questions
 
 [Answers to common troubleshooting or game balancing questions can be found on our FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 
 Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a treasure trove of information that we’ve gathered from answering users' questions over time. If you have an issue, we highly recommend you check if it's already been answered. And if not, you can always find us on our [Discord server](https://discord.gg/eJdMQKnQVt) :)
-
-&#10240;
-
-# Testimonials
-
-[Strangerism:](https://www.nexusmods.com/fallout4/users/116794)
-
-When things gets heated I need to back out, run, hide, jump on buildings, reposition, go around the block to take them from behind, peek a boo. You never know where they coming from, always on the look out for an exit, a plan b. Fighting these gangoons really feels satisfyingly now and the city layout has become part of it. Initially was a struggle but then I adapted, learned, with experience I become a better merc, not just with the levels and powers meta, but in the way you play, actually. it plays more as an open world city game now. the best there is
-
-[harltone7443:](https://forums.nexusmods.com/index.php?/user/159683838-harltone7443/)
-
-Honestly, this collection is just great. It has basically fixed ALL the major complaints I had with the vanilla game. I'm about 10 hours in with a full hacker build and truly loving the challenge. No more cheese mode see everything through walls, or slowing down time for 20 seconds over and over and over again.
-
-[Read about more people's experiences with the list here](https://github.com/z9er/CyberpunkTHING/blob/main/Testimonials.md)
-
-&#10240;
 
 # Credits and Thanks
 
