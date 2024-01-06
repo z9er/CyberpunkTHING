@@ -14,7 +14,33 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 ![features](https://i.imgur.com/Y3pvM7p.png)
 
 
-# Install
+# Prerequisites
+
+You must have a clean **Cyberpunk 2077** installation before installing this Wabbajack modlist, which you can ensure by doing the following:
+
+# Ensuring Clean Game Install
+
+1️⃣ Go to your **"appdata"** folder by searching windows typing **%appdata%**
+
+![appdata](https://i.imgur.com/ViAyUOX.png)
+
+2️⃣ In **"AppData"** folder go to **"Local,"** and in this folder delete the **"CD Projekt Red"** and **"Red Engine"** folders to ensure there are no errors with the cached config files
+
+![appdata delete](https://i.imgur.com/egu0d8A.png)
+
+3️⃣ Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
+
+```
+If you've ever modded Cyberpunk before, it's important to ensure you have a clean game folder
+```
+
+![Clean Install 1](https://i.imgur.com/AXG7U40.png)
+
+4️⃣ Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
+
+![Clean Install 2](https://i.imgur.com/YW0s73X.png)
+
+5️⃣ Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
 
 # Premium vs Non-Premium
 
