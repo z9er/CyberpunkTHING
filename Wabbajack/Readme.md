@@ -161,6 +161,10 @@ This could not have been done without the Cyberpunk modding scene at large. They
 Additional thanks and credits to:
 
 - Deristat for playtesting, QA and feedback
+- [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476?tab=user+files) for collaborating, consulting and being a partner in invention and innovation
+- [viperc48](https://www.nexusmods.com/cyberpunk2077/users/27730170?tab=user+files) for huge amounts of work on tying in to the modlist and always being willing to do more for new features
+- [destinybu](https://www.nexusmods.com/cyberpunk2077/users/162970258?tab=user+files) for assistance on the collection, making new skins for weapons, and creating amazing thumbnails
+- The Cyberpunk THING [Me](https://www.nexusmods.com/cyberpunk2077/users/82100978?tab=user+files)[rch](https://www.nexusmods.com/cyberpunk2077/users/53009476?tab=user+files)[an](https://www.nexusmods.com/users/21089089?tab=user+files)[ts](https://www.nexusmods.com/users/21279544?tab=user+files) [of](https://www.nexusmods.com/cyberpunk2077/users/162970258?tab=user+files) [Dea](https://www.nexusmods.com/users/29053425?tab=user+files)[th](https://www.nexusmods.com/cyberpunk2077/users/98630928?tab=user+files)
 - [Freykun](https://www.nexusmods.com/users/104283928) for the beautiful Collection page art
 - moLy, hs0003, [Busy Oscar,](https://www.nexusmods.com/cyberpunk2077/users/44887292) and the rest of the [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) Palace of the Mind for suggestions, ideas, and vision
 - Bioskop for UI/UX assistance, consulting, and ideas
