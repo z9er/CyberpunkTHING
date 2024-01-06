@@ -18,7 +18,7 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 
 You must have a clean **Cyberpunk 2077** installation before installing this Wabbajack modlist, which you can ensure by doing the following:
 
-## Ensuring Clean Game Install
+### Ensuring Clean Game Install
 
 1️⃣ Go to your **"appdata"** folder by searching windows typing **%appdata%**
 
@@ -44,78 +44,9 @@ If you've ever modded Cyberpunk before, it's important to ensure you have a clea
 
 ## Premium vs Non-Premium
 
-&#10240;
-
 For premium Nexus users installing this Wabbajack is a one click process
 
 For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Wabbajack brings up buttons for every mod
-
-
-
-&#10240;
-
-# Ensuring Clean Game Install
-
-&#10240;
-
-```
-If you've ever modded Cyberpunk before, it's important to ensure you have a clean game folder
-```
-
-Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
-
-![wjack readme 3](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%203.png)
-
-Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"** 
-
-![wjack readme 4](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%204.png)
-
-Now make sure you go and verify your game files through **Steam** or **GOG**
-
-If you have used Vortex before, please purge the installed mods, you will be able to redeploy them later if you choose to
-
-```
-This Wabbajack list does not work with the Epic version of Cyberpunk 2077
-```
-
-
-
-&#10240;
-
-# Steam/GOG Config
-
-### Disable any game Overlays
-
-The Steam/GOG Overlay can cause issues with certain mods and is
-recommended to be turned off
-
-Steam:
-Open the Properties window (right click the game in your Library->Properties),
-navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_
-checkbox
-
-GOG:
-Open the settings window (Cog in the top left of GOG Galaxy),
-navigate to the Game Features tab and un-tick the Overlay checkbox
-
-## Change Steam/GOG Update Behavior
-
-Cyberpunk 2077 is still being updated by CDPR. Whenever the game updates, it's quite possible
-that everything can break due to these changes
-
-Steam:
-To ensure that Steam does not automatically update the game unless you want it to, head over
-to the Properties window, navigate to the _Updates_ tab and change
-_Automatic updates_ to _Only update this game when I launch it_
-
-GOG:
-To ensure that GOG does not automatically update the game unless you want it to, head over
-to the Settings window, navigate to the _Game Features_ tab and turn off the checkbox for
-_Auto Update Games_
-
-
-
-&#10240;
 
 # Using Wabbajack
 
