@@ -18,7 +18,7 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 
 You must have a clean **Cyberpunk 2077** installation before installing this Wabbajack modlist, which you can ensure by doing the following:
 
-# Ensuring Clean Game Install
+## Ensuring Clean Game Install
 
 1️⃣ Go to your **"appdata"** folder by searching windows typing **%appdata%**
 
@@ -42,13 +42,11 @@ If you've ever modded Cyberpunk before, it's important to ensure you have a clea
 
 5️⃣ Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
 
-# Premium vs Non-Premium
+## Premium vs Non-Premium
 
 &#10240;
 
 For premium Nexus users installing this Wabbajack is a one click process
-
-![Premium GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk3YTc2MTI0MzJmMmUyY2I0NmUyYTdhMTk0NzY5ZTY3ZmIxYjAxZCZjdD1n/mlMB0EnTfhTsAo6L7C/giphy.gif)
 
 For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Wabbajack brings up buttons for every mod
 
