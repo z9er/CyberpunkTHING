@@ -280,6 +280,16 @@ In order for your [custom quickslots](https://www.nexusmods.com/cyberpunk2077/mo
 ## General Troubleshooting
 
 <details>
+  <summary>My HUD disappeared, what should I do?</summary>
+  &#10240;
+  
+ This is actually a vanilla bug. There are certain areas of the game that can bug out your hud (an example of this would be the door leading to enemies in the Scav Haunt at the beginning of the game). This can also happen with UI elements getting stuck on your screen, like the out of bounds message. There's an easy fix to this: save your game and reload it and the UI is refreshed.
+  
+  &#10240;
+  
+</details>
+
+<details>
   <summary>Can I add this list to my existing save?</summary>
   &#10240;
   
