@@ -20,7 +20,7 @@ You must have a clean **Cyberpunk 2077** installation before installing this Wab
 
 ### Ensuring Clean Game Install
 
-1️⃣ Go to your **"appdata"** folder by searching windows typing **%appdata%**
+1️⃣ Go to your **"appdata"** folder by searching windows and typing **%appdata%**
 
 ![appdata](https://i.imgur.com/ViAyUOX.png)
 
