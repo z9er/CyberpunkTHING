@@ -14,18 +14,7 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 ![features](https://i.imgur.com/Y3pvM7p.png)
 
 
-# MO2 for Cyberpunk
-
-Mod Organizer 2 and Cyberpunk 2077 aren't normally compatible - using MO2 on the game leads to CET and Redscript errors. This has been addressed through a plugin called Root Builder that allows specific folders to be automatically be copied into the game folders when launching the game, and be automatically cleaned up once the game closes.
-Root builder requires a specific folder structure. The archive folder of mods is MO2 deploys via its Virtual File System (**VFS**),  this works in 99% of cases for mods of this type.
-The other folders are copied before runtime, namely: bin, engine, r6, red4ext and Redmods. This way your game folder remains intact when not run via MO2.
-This means under all practical purposes, these mods are installed manually, but with the convenience of a mod manager. 
-
-While most mods will work, there are a few that do some archive checking and thus require manual installation outside of MO2
-
-&#10240;
-
-![wjack readme 2](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%202.png)
+# Install
 
 # Premium vs Non-Premium
 
