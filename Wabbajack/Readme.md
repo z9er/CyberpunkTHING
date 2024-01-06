@@ -1,8 +1,3 @@
-[Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
-
-&#10240;
-&#10240;
-
 [![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/large%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/large%20discord%20link.png
@@ -356,6 +351,3 @@ For support or to give feedback you can reach us at the [modlist discord link be
 [![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
 [logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/small%20discord%20link.png
-
-[Changelog](https://github.com/z9er/CyberpunkTHING/blob/main/Changelog.md)
-
