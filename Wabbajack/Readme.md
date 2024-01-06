@@ -11,14 +11,8 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 &#10240;
 
 
-![wjack readme 1](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%201.png)
+![features](https://i.imgur.com/Y3pvM7p.png)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/color%20change%201.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/color%20change%202.png">
-</picture>
-
-[![Features List](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/features%20list.png)](https://github.com/z9er/CyberpunkTHING/blob/main/modlist.md)
 
 # MO2 for Cyberpunk
 
