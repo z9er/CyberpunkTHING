@@ -4,7 +4,7 @@
 The future of modding is here. You shouldn't need a degree from Arasaka Academy just to be able to enjoy Cyberpunk 2077 with mods. We provide not one, but two fully tailored and preconfigured modded experiences crafted from the best mods our team and the community at large have to offer.
 
 
-## **Cyberpunk THING** and **Welcome to Night City** come with extensive but accessible documentation:
+## **Welcome to Night City** and **Cyberpunk THING** come with extensive but accessible documentation:
 
 - Answers to common troubleshooting or game balancing questions can be found on our FAQ page [here](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md)
 - You can track all changes to the list on our changelog [here](https://github.com/z9er/CyberpunkTHING/tree/main/Changelogs)
