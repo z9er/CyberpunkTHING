@@ -1,6 +1,4 @@
-[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/large%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
-
-[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/large%20discord%20link.png
+# Welcome to Night City and Cyberpunk THING
 
 &#10240;
 
