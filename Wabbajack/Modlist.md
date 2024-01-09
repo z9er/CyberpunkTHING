@@ -74,6 +74,18 @@ Melee weapon finishers also function as stealth finishers which can be initiated
 
 Instead of instantly revealing your position, hitting an enemy with a remoted controlled car now starts a trace and only alerts enemies
 
+### [Stealthrunner](https://www.nexusmods.com/cyberpunk2077/mods/7616) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig. Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Unlock new items including new variations of Optical Camo
+
+#### WTNC
+
+Default settings
+
+#### THING
+
+Shorter red and yellow timers and heightened enemy awareness
+
 ### [Weapon Handling Control](https://www.nexusmods.com/cyberpunk2077/mods/11474) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Adds customizable drawing and holstering speed, and the ability to disable recoil recovery
@@ -97,6 +109,10 @@ Configurable damage multipliers for both the player and NPCs
 &#10240;
 
 ## Quests
+
+### [Brendan - No Skill Check](https://www.nexusmods.com/cyberpunk2077/mods/12046) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+
+Removes the Strength skill check from the dumpster in front of Brendan
 
 ### [Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
@@ -210,6 +226,10 @@ Lets you sit down almost everywhere in Night City, prompt appears on objects in 
 
 ## Vehicles and Driving
 
+### [Authentic Shift](https://www.nexusmods.com/cyberpunk2077/mods/6823) by [imbamakaber](https://www.nexusmods.com/cyberpunk2077/users/3307393)
+
+New audio gearing for cars' transmissions
+
 ### [Car Modification Shop](https://www.nexusmods.com/cyberpunk2077/mods/4034) by [Erok](https://www.nexusmods.com/cyberpunk2077/users/25841040)
 
 Adds a shop in Northwest Watson where you can upgrade your owned cars and motorcycles handling
@@ -258,6 +278,10 @@ DR-10 Wormhole Smart Revolver rebalanced to better fit in with vanilla smart gun
 
 New iconic revolver, shoots explosive bullets or engages smart link and fans the hammer
 
+### [MaxTac Silencer](https://www.nexusmods.com/cyberpunk2077/mods/11979) by [TII7](https://www.nexusmods.com/cyberpunk2077/users/100393193)
+
+Adds a new iconic variant of the Achilles rifle. It's special effect allows it to fire in full auto when fully charged, and it has the chance to disable enemy cyberware with each shot
+
 ### [Midas Collection](https://www.nexusmods.com/cyberpunk2077/mods/11800) by [destinybu](https://www.nexusmods.com/cyberpunk2077/users/162970258)
 
 Adds a new iconic Unity with gun, custom scope, and custom supressor. Hope you can headshot
@@ -266,9 +290,17 @@ Adds a new iconic Unity with gun, custom scope, and custom supressor. Hope you c
 
 Adds a slower-firing custom non-replacer smart LMG to the game
 
+### [Net Hound-Ram](https://www.nexusmods.com/cyberpunk2077/mods/12199) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+New iconic Ashuras, fire breaching darts that reveal all enemies in the target's network and halve the time needed to gain a smart link lock on their members
+
 ### [PS-11A Plasma Gun](https://www.nexusmods.com/cyberpunk2077/mods/11663) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 New iconic shotgun, fires a plasma shell that sets enemies on fire and compromises their armor
+
+### [Rostovic Koplje Smart Precision Rifle](https://www.nexusmods.com/cyberpunk2077/mods/10830) by [BuffMcMuff](https://www.nexusmods.com/cyberpunk2077/users/21089089)
+
+Adds a new fully functional smart precision rifle
 
 ### [Tzijimura](https://www.nexusmods.com/cyberpunk2077/mods/11539) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
@@ -289,6 +321,10 @@ Adds back the removed in 2.0 Heat Converter cyberware to all ripperdocs
 ### [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
 Adds a night vision mode to the Kiroshi optics implant
+
+### [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds a purchasable, upgradable and useable Nano Drone to the game, that can be used for scouting out areas or offensively
 
 &#10240;
 
@@ -353,6 +389,10 @@ Adds a subtle movement to the hair physical particles while driving motorcycles
 ### [Cleaner Main Menu and Pause Menu](https://www.nexusmods.com/cyberpunk2077/mods/10285) by [heero139](https://www.nexusmods.com/cyberpunk2077/users/1973216)
 
 Reduces the height of menu buttons to allow additional menu entries to fit, removes the Phantom Liberty banner, and hides some of the background elements to make the menu background more visible
+
+### [Crafting Recipe Owned Labels](https://www.nexusmods.com/cyberpunk2077/mods/11261) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Adds little check marks to the recipe icons in the crafting menu so that you can tell what you already own
 
 ### [Filter Saves by Lifepath and Type](https://www.nexusmods.com/cyberpunk2077/mods/3400) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
