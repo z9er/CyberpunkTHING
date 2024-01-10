@@ -107,6 +107,10 @@ Head over to the installation folder and locate an executable named
 ModOrganizer.exe and launch it. Once its launched there will be a dropdown box
 on the top right and a big run button next to it
 
+```
+Do not ever unlock MO2 while it says "locked," you will cause issues
+```
+
 ### Switching Profiles
 
 This modlist comes with two separately built experiences which can be changed by choosing either **Cyberpunk THING** or **Welcome to Night City** on the upper left side of Mod Organizer 2
