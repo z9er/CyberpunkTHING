@@ -78,11 +78,11 @@ Instead of instantly revealing your position, hitting an enemy with a remoted co
 
 Tracks and rewards Ghost, Pacifist, No-Touch, and more objectives for almost every quest and gig. Adds an all-new stealth-focused perk tree to unlock new abilities such as Pickpocketing. Unlock new items including new variations of Optical Camo
 
-# WTNC
+**WTNC**
 
 Default settings
 
-# THING
+**THING**
 
 Shorter red and yellow timers and heightened enemy awareness
 
