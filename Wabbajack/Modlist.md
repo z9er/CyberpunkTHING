@@ -86,6 +86,18 @@ Default settings
 
 Shorter red and yellow timers and heightened enemy awareness
 
+[Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Adds nuance to the trace position enemy mechanic, adding new difficulty
+
+**WTNC**
+
+Disabled
+
+**THING**
+
+Fully enabled and allows enemies with ICE to trace, as well as letting Netrunners better protect their networks
+
  [Weapon Handling Control](https://www.nexusmods.com/cyberpunk2077/mods/11474) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Adds customizable drawing and holstering speed, and the ability to disable recoil recovery
@@ -193,6 +205,10 @@ Adds new and varied cats to the different apartments V can own
  [Dance Off](https://www.nexusmods.com/cyberpunk2077/mods/10615) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Adds the option to dance with someone at different club dance floors if you are on friendly terms with them and they are alive
+
+[DLC Liberation Protocol](https://www.nexusmods.com/cyberpunk2077/mods/12322) by [destinybu](https://www.nexusmods.com/cyberpunk2077/users/162970258)
+
+Seamlessly integrates different items that were previously just put into your stash out into the world
 
  [E3 Smart Windows](https://www.nexusmods.com/cyberpunk2077/mods/7026) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
@@ -310,13 +326,25 @@ New iconic, natively integrated Shingen. While aiming homing functionality is di
 
 ## Cyberware
 
+[Extra Hands](https://www.nexusmods.com/cyberpunk2077/mods/12325) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Adds three new cyberware for the hands slot: Ambush Compiler which is an alternative ballistic coprocessor meant for stealth play, Tactical Link lets you guide your shots to specific body parts with different effects, and External Capacitors empowers your tech weapons with more stopping power and faster charge 
+
  [Heat Converter](https://www.nexusmods.com/cyberpunk2077/mods/11820) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Adds back the removed in 2.0 Heat Converter cyberware to all ripperdocs
 
+[Jarngreipr](https://www.nexusmods.com/cyberpunk2077/mods/12591) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+New iconic projectile launcher which messes with the implants of enemies and their electronics
+
  [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
 Adds a night vision mode to the Kiroshi optics implant
+
+[Megingjord](https://www.nexusmods.com/cyberpunk2077/mods/12664) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Adds new iconic legs which bring the hover function back and add a new iconic effect, dependent on adrenaline
 
  [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
@@ -434,9 +462,17 @@ Adds category filters for your storage items list
 
 Allows saving and loading of character presets during character creation and unlocks all options in the mirror menu to customize your character
 
+[Arcade Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/12378) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Allows V to play Roach Race, Trauma Drama, and Arasaka Tower 3D, on their Video Tab from TV Anywhere
+
  [Clear Skill Checks](https://www.nexusmods.com/cyberpunk2077/mods/2805) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Shows you what attribute level you needed for conversation skill checks that you pass rather than your current attribute level
+
+[Computer Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/12520) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Gives the player access to a computer, anywhere
 
  [Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
@@ -485,6 +521,10 @@ Finds the shortest route between two selected metro stations and helps you navig
  [More Climbable Objects](https://www.nexusmods.com/cyberpunk2077/mods/7043) by [SOSUINEPSIXUYU](https://www.nexusmods.com/cyberpunk2077/users/75442863)
 
 Allows the player to climb more objects
+
+[No More Out-Leveling Vendor Items](https://www.nexusmods.com/cyberpunk2077/mods/12500) by [Asterra](https://www.nexusmods.com/cyberpunk2077/users/5557437)
+
+Removes the phenomenon of vendor stock vanishing when the player out-levels it
 
  [Only Smartweapon Crosshairs](https://www.nexusmods.com/cyberpunk2077/mods/5434) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
@@ -549,6 +589,10 @@ Fixes a UI issue with the cyberware menu where the cyberware capacity bar would 
  [Kusanagi Neon Rims Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/11508) by [Lunxara](https://www.nexusmods.com/cyberpunk2077/users/90917958)
 
 Fixes the Neon Rims on the Kusanagi broke in 2.1
+
+[Light Beams Fix](https://www.nexusmods.com/cyberpunk2077/mods/12381) by [sosuinepsixuyu](https://www.nexusmods.com/cyberpunk2077/users/75442863)
+
+Fixes light beams that were broken in 2.0
 
  [Patch 2.1 Finisher Fix](https://www.nexusmods.com/cyberpunk2077/mods/11453) by [rfuzzo](https://www.nexusmods.com/cyberpunk2077/users/16300749)
 
