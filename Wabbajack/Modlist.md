@@ -310,10 +310,6 @@ New iconic, natively integrated Shingen. While aiming homing functionality is di
 
 ## Cyberware
 
- [Ambush Compiler](https://www.nexusmods.com/cyberpunk2077/mods/11500) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
-
-New cyberware, an alternate ballistic coprocessor meant for stealth play 
-
  [Heat Converter](https://www.nexusmods.com/cyberpunk2077/mods/11820) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Adds back the removed in 2.0 Heat Converter cyberware to all ripperdocs
@@ -377,10 +373,6 @@ Removes the green color from the hacking screen
  [Weather Probability Rebalance](https://www.nexusmods.com/cyberpunk2077/mods/3196) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Changes weather patterns and durations so that rain and other interesting weather happens more often
-
- [Windswept - V hair blowing while driving bikes](https://www.nexusmods.com/cyberpunk2077/mods/9060) by [johnson](https://www.nexusmods.com/cyberpunk2077/users/49231818)
-
-Adds a subtle movement to the hair physical particles while driving motorcycles
 
 &#10240;
 
@@ -450,10 +442,6 @@ Shows you what attribute level you needed for conversation skill checks that you
 
 Provides the ability to add new quickslots to the bottom of the screen for consumables, grenades, and cyberware abilities
 
- [Dualsense Enhanced Support](https://www.nexusmods.com/cyberpunk2077/mods/4156) by [Limai](https://www.nexusmods.com/cyberpunk2077/users/104882473)
-
-Improves Adaptive Triggers support and some other features for the PS5 DualSense controller
-
  [Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Reduces the time to pass through the Dogtown vehicle checkpoint by about 66%
@@ -518,17 +506,9 @@ Increases the time between relic sickness events
 
 The 'Ticking Time Bomb' perk will only trigger its explosion if you are in combat at the end of its delay
 
- [Simple Flashlight](https://www.nexusmods.com/cyberpunk2077/mods/2913) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
-
-Adds a toggleable flashlight to the game
-
  [Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 Adds optional auto disassembling that is configurable, can be enabled in the Mod Settings menu
-
- [Weapons Reclassified](https://www.nexusmods.com/cyberpunk2077/mods/10312) by [Northern Epsilon](https://www.nexusmods.com/cyberpunk2077/users/27281649)
-
-Reclassifies the Kyubi as a precision rifle
 
  [Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
@@ -545,10 +525,6 @@ Allows settings to be saved even if all keybinds are not set
  [Better Armor Tooltip](https://www.nexusmods.com/cyberpunk2077/mods/9706) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Fixes the armor tooltip in the Cyberware menu to be factually correct and show your current damage reduction from armor rather than a theoretical maximum
-
- [Database Fixes](https://www.nexusmods.com/cyberpunk2077/mods/10636) by [MerseyRockoff](https://www.nexusmods.com/cyberpunk2077/users/56064207)
-
-Fixes and restores many database and journal entries not activating correctly
 
  [Disable W-S Keys To Select Dialogue Options](https://www.nexusmods.com/cyberpunk2077/mods/9799) by [K4DAV3R](https://www.nexusmods.com/cyberpunk2077/users/57310307)
 
