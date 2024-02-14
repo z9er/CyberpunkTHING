@@ -318,6 +318,10 @@ New iconic shotgun, fires a plasma shell that sets enemies on fire and compromis
 
 Adds a new fully functional smart precision rifle
 
+[Slice and Dice](https://www.nexusmods.com/cyberpunk2077/mods/12948) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Adds a new iconic machete and a new iconic pistol
+
  [Tzijimura](https://www.nexusmods.com/cyberpunk2077/mods/11539) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 New iconic, natively integrated Shingen. While aiming homing functionality is disabled, but bullet velocity is increased and shots will pierce walls
@@ -346,10 +350,6 @@ Adds a night vision mode to the Kiroshi optics implant
 
 Adds new iconic legs which bring the hover function back and add a new iconic effect, dependent on adrenaline
 
- [Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
-
-Adds a purchasable, upgradable and useable Nano Drone to the game, that can be used for scouting out areas or offensively
-
 &#10240;
 
 ## Aesthetics
@@ -361,6 +361,10 @@ Repeats the first equip animation for your equipped weapon once per minute. **Ha
  [Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535) by [OREZXX](https://www.nexusmods.com/cyberpunk2077/users/79272308)
 
 Removes the crouch vignette effect
+
+[Diverse Death Screens](https://www.nexusmods.com/cyberpunk2077/mods/12673) by [DeepBlueFrog](https://www.nexusmods.com/cyberpunk2077/users/68200)
+
+Adds a random screen effect to the death sequence
 
  [Enable Finisher Ragdolls](https://www.nexusmods.com/cyberpunk2077/mods/9496) by [Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)
 
@@ -478,6 +482,10 @@ Gives the player access to a computer, anywhere
 
 Provides the ability to add new quickslots to the bottom of the screen for consumables, grenades, and cyberware abilities
 
+[Deadeye Sound Remover](https://www.nexusmods.com/cyberpunk2077/mods/12787) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Removes the cartoonish sound effect that usually happens when triggering the Deadeye perk
+
  [Faster Checkpoints](https://www.nexusmods.com/cyberpunk2077/mods/9724) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Reduces the time to pass through the Dogtown vehicle checkpoint by about 66%
@@ -509,10 +517,6 @@ No more crowd panic form using computers, doors, access points, etc
  [Instant Wardrobe](https://www.nexusmods.com/cyberpunk2077/mods/6550) by [Spicy](https://www.nexusmods.com/cyberpunk2077/users/4892301)
 
 Removes the loading bar when opening the wardrobe
-
- [Longer Car Delivery Timers](https://www.nexusmods.com/cyberpunk2077/mods/9735) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
-
-Increases the delivery time window by 25% for the repeatable courier missions
 
  [Metro Pocket Guide](https://www.nexusmods.com/cyberpunk2077/mods/11882) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
@@ -574,29 +578,9 @@ Disables using the W and S keys for dialogue selection to avoid mistakes while d
 
 Disables the game hiding the stamina bar when you holster your weapon as it is redundant and causes issues
 
- [Fix Adrenaline Decay](https://www.nexusmods.com/cyberpunk2077/mods/9921) by [fyodor](https://www.nexusmods.com/cyberpunk2077/users/7875060)
-
-Fixes an issue with the Solo 55 skill progression bonus that was causing rapid adrenaline decay
-
  [Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Fixes the dark box shadows cast by holotext screens with using ray/path tracing
-
- [Fix Max Cyberware Capacity](https://www.nexusmods.com/cyberpunk2077/mods/10354) by [rfuzzo](https://www.nexusmods.com/cyberpunk2077/users/16300749)
-
-Fixes a UI issue with the cyberware menu where the cyberware capacity bar would stop working after exceeding a certain value
-
- [Kusanagi Neon Rims Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/11508) by [Lunxara](https://www.nexusmods.com/cyberpunk2077/users/90917958)
-
-Fixes the Neon Rims on the Kusanagi broke in 2.1
-
-[Light Beams Fix](https://www.nexusmods.com/cyberpunk2077/mods/12381) by [sosuinepsixuyu](https://www.nexusmods.com/cyberpunk2077/users/75442863)
-
-Fixes light beams that were broken in 2.0
-
- [Patch 2.1 Finisher Fix](https://www.nexusmods.com/cyberpunk2077/mods/11453) by [rfuzzo](https://www.nexusmods.com/cyberpunk2077/users/16300749)
-
-Fixes a bug introduced in 2.1 where animated ("slow") finishers would not play
 
  [The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413) by [anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)
 
@@ -606,13 +590,13 @@ Restores some "crucial" missing audio during part of the quest 'The Hunt'
 
 Fixes the dark box shadows cast by holotext screens with using ray tracing or path tracing
 
- [QuickSlot and Consumables Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/10811) by [tduality](https://www.nexusmods.com/cyberpunk2077/users/5839471)
-
-Fixes the bug where you get an empty health item QuickSlot after using consumables from your backpack
-
  [Radio Port Vehicle Fix](https://www.nexusmods.com/cyberpunk2077/mods/11757) by [mar](https://www.nexusmods.com/cyberpunk2077/users/194873018)
 
 Automatically turns off the radio port when leaving a vehicle if it was disabled when entering the vehicle
+
+[Repeating Synaptic Accelerator Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/12850) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)
+
+Fixes a bug introduced in patch 2.11 causing Synaptic Accelerator's effect to keep triggering as long as an enemy is detecting you over 50%
 
  [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
