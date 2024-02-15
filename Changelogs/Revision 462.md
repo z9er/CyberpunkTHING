@@ -19,6 +19,7 @@
 ### Aesthetics
 
 - [Diverse Death Screens 2024-02-10](https://www.nexusmods.com/cyberpunk2077/mods/12673)
+
 - [Playable Arcade Machines 1.3](https://www.nexusmods.com/cyberpunk2077/mods/4213)
 
 ### Quality of Life
@@ -42,6 +43,7 @@
 ### Weapons
 
 - [Midas Collection 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/11800)
+
 - [PS-11A Plasma Gun 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11663)
 
 ### Aesthetics
@@ -59,4 +61,5 @@
 ### Utility
 
 - [ArchiveXL 1.11.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+
 - [Codeware 1.7.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
