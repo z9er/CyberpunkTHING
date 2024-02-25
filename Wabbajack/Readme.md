@@ -38,6 +38,8 @@ If you've ever modded Cyberpunk before, it's important to ensure you have a clea
 
 5️⃣ Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
 
+6️⃣ Ensure the drive you wish to install the list to supports hard links
+
 ## Premium vs Non-Premium
 
 For premium Nexus users installing this Wabbajack is a one click process
