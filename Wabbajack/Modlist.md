@@ -86,6 +86,10 @@ Default settings
 
 Shorter red and yellow timers and heightened enemy awareness
 
+[Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds a fully useable stock market system and news system that dynamically react to quests and player actions 
+
 [Trace Position Overhaul](https://www.nexusmods.com/cyberpunk2077/mods/12445) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Adds nuance to the trace position enemy mechanic, adding new difficulty
@@ -122,9 +126,9 @@ Configurable damage multipliers for both the player and NPCs
 
 ## Quests
 
- [Brendan - No Skill Check](https://www.nexusmods.com/cyberpunk2077/mods/12046) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/7831)
+[Artistic](https://www.nexusmods.com/cyberpunk2077/mods/13066) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
-Removes the Strength skill check from the dumpster in front of Brendan
+V can now choose, display, and enjoy art in their apartment
 
  [Californication](https://www.nexusmods.com/cyberpunk2077/mods/7833) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
@@ -161,6 +165,10 @@ Adds an optional tryst with a newly cybered side character
  [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/6794)
 
 Vik kicks over his stool towards the Ripperdoc chair which you can then sit in while having work done
+
+[I Really](https://www.nexusmods.com/cyberpunk2077/mods/8753) [Want To](https://www.nexusmods.com/cyberpunk2077/mods/8806) [Stay At](https://www.nexusmods.com/cyberpunk2077/mods/8775) [Your House](https://www.nexusmods.com/cyberpunk2077/mods/8826) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/6794)
+
+Adds on to the vanilla game romance hangouts
 
  [Judy Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4508) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
@@ -290,6 +298,10 @@ Adds a custom non-replacer smart revolver to the game which fires in full auto w
 
 DR-10 Wormhole Smart Revolver rebalanced to better fit in with vanilla smart guns
 
+[Firestorm](https://www.nexusmods.com/cyberpunk2077/mods/13101) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Adds a new fire themed iconic Ajax that has alternate fire modes with different effects
+
  [High Doom](https://www.nexusmods.com/cyberpunk2077/mods/11790) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 New iconic revolver, shoots explosive bullets or engages smart link and fans the hammer
@@ -310,6 +322,10 @@ Adds a slower-firing custom non-replacer smart LMG to the game
 
 New iconic Ashuras, fire breaching darts that reveal all enemies in the target's network and halve the time needed to gain a smart link lock on their members
 
+[Overcompensator](https://www.nexusmods.com/cyberpunk2077/mods/13005) by [destinybu](https://www.nexusmods.com/cyberpunk2077/users/162970258)
+
+Adds a variety of new silencers with different, and not always good, effects
+
  [PS-11A Plasma Gun](https://www.nexusmods.com/cyberpunk2077/mods/11663) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 New iconic shotgun, fires a plasma shell that sets enemies on fire and compromises their armor
@@ -321,6 +337,10 @@ Adds a new fully functional smart precision rifle
 [Slice and Dice](https://www.nexusmods.com/cyberpunk2077/mods/12948) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Adds a new iconic machete and a new iconic pistol
+
+[Trigger Mode Control](https://www.nexusmods.com/cyberpunk2077/mods/13077) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Framework for weapon mods to enable specific weapons ability to swap firemodes at the press of a keybind while leaving all unaffected weapons untouched
 
  [Tzijimura](https://www.nexusmods.com/cyberpunk2077/mods/11539) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
@@ -381,6 +401,10 @@ An outfit manager which replaces the vanilla system to allow 30+ clothing slots,
  [Focus Vignette Removal](https://www.nexusmods.com/cyberpunk2077/mods/10712) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Removes the vignette effect from the Cool perk 'Focus'
+
+[Higher TV Quality](https://www.nexusmods.com/cyberpunk2077/mods/13090) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Improves the TV channels texture quality, increasing their resolution by 3x, reducing pixelation and artefacting
 
  [Immersive Timeskip](https://www.nexusmods.com/cyberpunk2077/mods/5115) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
@@ -581,6 +605,10 @@ Disables the game hiding the stamina bar when you holster your weapon as it is r
  [Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Fixes the dark box shadows cast by holotext screens with using ray/path tracing
+
+[Only Smartweapon Crosshairs - Deadeye Perk Fix](https://www.nexusmods.com/cyberpunk2077/mods/13421) by [Murdoc13](https://www.nexusmods.com/cyberpunk2077/mods/13421)
+
+Small fix for Crosshair not appearing with active Deadeye Perk
 
  [The Hunt quest missing audio restore](https://www.nexusmods.com/cyberpunk2077/mods/7413) by [anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)
 
