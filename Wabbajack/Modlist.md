@@ -162,6 +162,10 @@ Adds an opportunity to cavort with Aurore after certain events in the expansion
 
 Adds an optional tryst with a newly cybered side character
 
+[Here's Johnny](https://www.nexusmods.com/cyberpunk2077/mods/13779) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Johnny can now spawn in V's other apartments, with the option to have him play guitar
+
  [Immersive Vik](https://www.nexusmods.com/cyberpunk2077/mods/6794) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/mods/6794)
 
 Vik kicks over his stool towards the Ripperdoc chair which you can then sit in while having work done
@@ -234,6 +238,14 @@ Can now buy food from vendors and have an animated snack
 
 You now sit in Ripperdocs' chairs to get work done
 
+[Kabuki Gun Range Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/13466) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Makes the Gun-O-Rama's shooting range a little more interesting with moving targets, which react to V shooting them, and adds a repeatable 60 second shooting timer, with tracked score
+
+[Lean Anywhere](https://www.nexusmods.com/cyberpunk2077/mods/9938) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Lets you lean almost anywhere you want, e.g. on railings
+
  [Night City Interactions](https://www.nexusmods.com/cyberpunk2077/mods/5519) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Adds a number of drinking spots to the game in bars where you can drink alone or with friends, as well as idling at iconic locations in Night City
@@ -289,6 +301,10 @@ Restores the Malorian's hybrid nature, allowing hipfiring to ricochet and aimed 
  [Comrade's Hammer Restored](https://www.nexusmods.com/cyberpunk2077/mods/9707) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Restores the Comrade's Hammer's ability to headshot and pierce through obstacles
+
+[Cronos](https://www.nexusmods.com/cyberpunk2077/mods/13462) by [TII7](https://www.nexusmods.com/cyberpunk2077/users/100393193)
+
+Adds a new iconic variant of the Defender LMG with charge up and explosive rounds
 
  [DR-10 Wormhole Smart Revolver](https://www.nexusmods.com/cyberpunk2077/mods/10541) by [BuffMcMuff](https://www.nexusmods.com/cyberpunk2077/users/21089089)
 
@@ -370,6 +386,10 @@ Adds a night vision mode to the Kiroshi optics implant
 
 Adds new iconic legs which bring the hover function back and add a new iconic effect, dependent on adrenaline
 
+[Nano Drone](https://www.nexusmods.com/cyberpunk2077/mods/3419) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
+
+Adds a purchase, upgrade and useable Nano Drone to the game that can be used for scouting out areas but also offensively
+
 &#10240;
 
 ## Aesthetics
@@ -378,6 +398,10 @@ Adds new iconic legs which bring the hover function back and add a new iconic ef
 
 Repeats the first equip animation for your equipped weapon once per minute. **Has Mod Settings Menu: "FIRST EQUIP"**
 
+[Clean Computer Wallpaper](https://www.nexusmods.com/cyberpunk2077/mods/13657) by [Defyant](https://www.nexusmods.com/cyberpunk2077/users/98273)
+
+A clean wallpaper for the in-game computers
+
  [Crouch vignette effect remover](https://www.nexusmods.com/cyberpunk2077/mods/535) by [OREZXX](https://www.nexusmods.com/cyberpunk2077/users/79272308)
 
 Removes the crouch vignette effect
@@ -385,6 +409,10 @@ Removes the crouch vignette effect
 [Diverse Death Screens](https://www.nexusmods.com/cyberpunk2077/mods/12673) by [DeepBlueFrog](https://www.nexusmods.com/cyberpunk2077/users/68200)
 
 Adds a random screen effect to the death sequence
+
+[Enable Advert Animations](https://www.nexusmods.com/cyberpunk2077/mods/13014) by [EmreHQ](https://www.nexusmods.com/cyberpunk2077/users/89775888)
+
+Changes static animations in some regions to fully animated
 
  [Enable Finisher Ragdolls](https://www.nexusmods.com/cyberpunk2077/mods/9496) by [Kvalyr](https://www.nexusmods.com/cyberpunk2077/users/3606798)
 
@@ -602,9 +630,17 @@ Disables using the W and S keys for dialogue selection to avoid mistakes while d
 
 Disables the game hiding the stamina bar when you holster your weapon as it is redundant and causes issues
 
+[Fix Adrenaline Decay](https://www.nexusmods.com/cyberpunk2077/mods/9921) by [fyodor](https://www.nexusmods.com/cyberpunk2077/users/7875060)
+
+Fixes an edge case with adrenaline decay not resetting correctly
+
  [Fix for holotext shadows with RT or PT](https://www.nexusmods.com/cyberpunk2077/mods/8663) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
 
 Fixes the dark box shadows cast by holotext screens with using ray/path tracing
+
+[News Audio Fix](https://www.nexusmods.com/cyberpunk2077/mods/13756) by [Syynx](https://www.nexusmods.com/cyberpunk2077/users/19327684)
+
+Fixes the news segment audio that was broken in patch 2.12
 
 [Only Smartweapon Crosshairs - Deadeye Perk Fix](https://www.nexusmods.com/cyberpunk2077/mods/13421) by [Murdoc13](https://www.nexusmods.com/cyberpunk2077/mods/13421)
 
