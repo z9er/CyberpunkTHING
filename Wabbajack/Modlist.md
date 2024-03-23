@@ -1,6 +1,6 @@
-[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/modlist/small%20discord%20link.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
+[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/thing%20newer%20hotness.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
 
-[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/modlist/small%20discord%20link.png
+[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/thing%20newer%20hotness.png
 
 &#10240;
 
