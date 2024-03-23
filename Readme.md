@@ -20,5 +20,7 @@ The future of modding is here. You shouldn't need a degree from Arasaka Academy 
 - Our readme and installation instructions for the Nexus Collection are found [here](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)
 - Join us on the official [Discord server](https://discord.gg/eJdMQKnQVt) for support or to give us feedback [here](https://discord.gg/eJdMQKnQVt)
 
+Load Order Library links for [Welcome to Night City](https://loadorderlibrary.com/lists/welcome-to-night-city) and [Cyberpunk THING](https://loadorderlibrary.com/lists/cyberpunk-thing)
+
 
 
