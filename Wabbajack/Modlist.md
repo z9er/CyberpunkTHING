@@ -4,6 +4,8 @@
 
 &#10240;
 
+Load Order Library links for [Welcome to Night City](https://loadorderlibrary.com/lists/welcome-to-night-city) and [Cyberpunk THING](https://loadorderlibrary.com/lists/cyberpunk-thing)
+
 ### What's in the modlist and why
 
 - [Gameplay Mechanics](#gameplay-mechanics)
