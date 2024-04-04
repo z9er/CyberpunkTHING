@@ -99,7 +99,7 @@ them. In this case just wait until there is a list update
 
 **Wabbajack could not find my game folder**
 
-You need to have launched the game once before WJ will locate it. The list works with the **GOG** or **Steam** version of the game
+You need to have launched the game once before WJ will locate it. The list works with the **GOG,** **Steam,** or **Epic** version of the game
 
 Support in [Cyberpunk THING discord](https://discord.gg/eJdMQKnQVt)
 
