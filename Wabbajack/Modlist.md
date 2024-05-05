@@ -48,6 +48,14 @@ Provides additional options and control for when the ricochet preview is visible
 
 Supresses auto-uncrouching when melee attacking from stealth for 1 second
 
+[Overclock Overheat](https://www.nexusmods.com/cyberpunk2077/mods/14255) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Expands the Overclock mechanic, which can now be portioned, but if run completely out of charge then you're going to be overheated and start burning
+
+[Renaissance Punk - Perk Scaling](https://www.nexusmods.com/cyberpunk2077/mods/14037) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
+
+Makes the Technical Ability Perk: "Renaissance Punk" scale with Attribute level instead of only giving a 4 Cyberware Capacity bonus at level 9
+
  [Ricochet Redux](https://www.nexusmods.com/cyberpunk2077/mods/7197) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Loosens the angle for ricochet snap to targets, adds new ricochet focused gun mod, adds options for more ricochet shenanigans
@@ -272,6 +280,10 @@ New audio gearing for cars' transmissions
 
 Adds a shop in Northwest Watson where you can upgrade your owned cars and motorcycles handling
 
+[Delamain No. 22](https://www.nexusmods.com/cyberpunk2077/mods/14405) by [MisterChedda](https://www.nexusmods.com/cyberpunk2077/users/185259609)
+
+Delamain with combat mode -- fully animated turrets and rockets
+
  [Extra Vehicle Controls](https://www.nexusmods.com/cyberpunk2077/mods/3225) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
 Adds controls for turning headlights on or off, changing brightness, and operating the vehicle windows
@@ -324,6 +336,18 @@ Adds a new fire themed iconic Ajax that has alternate fire modes with different 
 
 New iconic revolver, shoots explosive bullets or engages smart link and fans the hammer
 
+[Kanetsugu Short Scope Enhancement](https://www.nexusmods.com/cyberpunk2077/mods/14146) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
+
+Enhances the short scope, Kanetsugu, by replacing the aim-down-sights originally-offset reticle with a precise dot and crosshair
+
+[Malorian Arms 3516 Alternative Ironsight Animation](https://www.nexusmods.com/cyberpunk2077/mods/9666) by [Azagorh](https://www.nexusmods.com/cyberpunk2077/users/5963045)
+
+Restores the pre 2.0 ironsight animation
+
+[Malorian Arms 3516 Slide Fix](https://www.nexusmods.com/cyberpunk2077/mods/9666) by [Azagorh](https://www.nexusmods.com/cyberpunk2077/users/5963045)
+
+Fixes the sliding part of the gun being too slow to fully slide back in place before you can shoot again
+
  [MaxTac Silencer](https://www.nexusmods.com/cyberpunk2077/mods/11979) by [TII7](https://www.nexusmods.com/cyberpunk2077/users/100393193)
 
 Adds a new iconic variant of the Achilles rifle. It's special effect allows it to fire in full auto when fully charged, and it has the chance to disable enemy cyberware with each shot
@@ -344,6 +368,10 @@ New iconic Ashuras, fire breaching darts that reveal all enemies in the target's
 
 Adds a variety of new silencers with different, and not always good, effects
 
+[Plan C](https://www.nexusmods.com/cyberpunk2077/mods/13461) by [Demon9ne](https://www.nexusmods.com/cyberpunk2077/users/1074586)
+
+Adds a new gun which V can craft from the Plan B
+
  [PS-11A Plasma Gun](https://www.nexusmods.com/cyberpunk2077/mods/11663) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 New iconic shotgun, fires a plasma shell that sets enemies on fire and compromises their armor
@@ -351,6 +379,14 @@ New iconic shotgun, fires a plasma shell that sets enemies on fire and compromis
  [Rostovic Koplje Smart Precision Rifle](https://www.nexusmods.com/cyberpunk2077/mods/10830) by [BuffMcMuff](https://www.nexusmods.com/cyberpunk2077/users/21089089)
 
 Adds a new fully functional smart precision rifle
+
+[Slaught-O-Matic Platinum](https://www.nexusmods.com/cyberpunk2077/mods/14004) by [Demon9ne](https://www.nexusmods.com/cyberpunk2077/users/1074586)
+
+A chance to receive a Slaught-O-Matic Platinum instead of the usual
+
+[Slaught-O-Matic QoL](https://www.nexusmods.com/cyberpunk2077/mods/14125) by [Demon9ne](https://www.nexusmods.com/cyberpunk2077/users/1074586)
+
+Adjusts the Slaught-O-Matic to be more usable
 
 [Slice and Dice](https://www.nexusmods.com/cyberpunk2077/mods/12948) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
@@ -368,9 +404,25 @@ New iconic, natively integrated Shingen. While aiming homing functionality is di
 
 ## Cyberware
 
+[Actual Chrome Compression](https://www.nexusmods.com/cyberpunk2077/mods/14044) by [dragonshardz](https://www.nexusmods.com/cyberpunk2077/users/866542)
+
+Chrome Compressor now compresses cyberware allocation by up to 30%
+
+[Berserk Unchained](https://www.nexusmods.com/cyberpunk2077/mods/14203) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+No longer restricts the player to only melee weapons
+
+[Extra Berserks](https://www.nexusmods.com/cyberpunk2077/mods/14236) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
+
+Adds 2 new berserk lines which give bonuses to melee and ranged weapons
+
 [Extra Hands](https://www.nexusmods.com/cyberpunk2077/mods/12325) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 Adds three new cyberware for the hands slot: Ambush Compiler which is an alternative ballistic coprocessor meant for stealth play, Tactical Link lets you guide your shots to specific body parts with different effects, and External Capacitors empowers your tech weapons with more stopping power and faster charge 
+
+[Gorilla Grapple](https://www.nexusmods.com/cyberpunk2077/mods/14183) by [Demon9ne](https://www.nexusmods.com/cyberpunk2077/users/1074586)
+
+Grappling an enemy with gorilla arms is typically inescapable
 
  [Heat Converter](https://www.nexusmods.com/cyberpunk2077/mods/11820) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
@@ -379,6 +431,10 @@ Adds back the removed in 2.0 Heat Converter cyberware to all ripperdocs
 [Jarngreipr](https://www.nexusmods.com/cyberpunk2077/mods/12591) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 New iconic projectile launcher which messes with the implants of enemies and their electronics
+
+[Jenkins Tendons Cyberware Can Recharge While Airborne](https://www.nexusmods.com/cyberpunk2077/mods/14223) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
+
+Modifies Jenkins' Tendons to remove the unwritten, second condition of having your feet on the ground so now it can recharge while airborne
 
  [Kiroshi Optics Night Vision Mod](https://www.nexusmods.com/cyberpunk2077/mods/8326) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
@@ -600,6 +656,10 @@ Quickhacks are sorted by slot
 
 Increases the time between relic sickness events
 
+[Retrothrusters QoL](https://www.nexusmods.com/cyberpunk2077/mods/14320) by [Demon9ne](https://www.nexusmods.com/cyberpunk2077/users/1074586)
+
+Quality-of-Life improvements for retrothrusters
+
  [Sensible Time Bomb](https://www.nexusmods.com/cyberpunk2077/mods/10575) by [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476)
 
 The 'Ticking Time Bomb' perk will only trigger its explosion if you are in combat at the end of its delay
@@ -607,6 +667,18 @@ The 'Ticking Time Bomb' perk will only trigger its explosion if you are in comba
  [Smarter Scrapper](https://www.nexusmods.com/cyberpunk2077/mods/2687) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
 
 Adds optional auto disassembling that is configurable, can be enabled in the Mod Settings menu
+
+[Stash Search](https://www.nexusmods.com/cyberpunk2077/mods/14264) by [DJ_Kovrik](https://www.nexusmods.com/cyberpunk2077/users/100354)
+
+Adds a search option for stash screen menu
+
+[TV Mute Control](https://www.nexusmods.com/cyberpunk2077/mods/14149) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Adds a Mute/Unmute option along side the Off / Previous Channel / Next Channel options on TVs
+
+[Untrack Quest Ultimate](https://www.nexusmods.com/cyberpunk2077/mods/6328) by [anygoodname](https://www.nexusmods.com/cyberpunk2077/users/105393778)
+
+Main Quest re-tracking preventer
 
  [Zoomable Scopes](https://www.nexusmods.com/cyberpunk2077/mods/3543) by [keanuWheeze](https://www.nexusmods.com/cyberpunk2077/users/77476393)
 
@@ -619,6 +691,10 @@ Adds configurable zoom levels to scoped weapons that can be cycled through
  [Allow Unbound Actions](https://www.nexusmods.com/cyberpunk2077/mods/11429) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Allows settings to be saved even if all keybinds are not set
+
+[Base Fists and Arm Cyberware Attack Speed Fix](https://www.nexusmods.com/cyberpunk2077/mods/14130) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
+
+Arm Cyberware and Base Fists now scale with melee attack speed, and running low on stamina will slow your attack speed, just like other melee weapons
   
  [Better Armor Tooltip](https://www.nexusmods.com/cyberpunk2077/mods/9706) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
@@ -660,13 +736,37 @@ Fixes the dark box shadows cast by holotext screens with using ray tracing or pa
 
 Automatically turns off the radio port when leaving a vehicle if it was disabled when entering the vehicle
 
+[Recon Grenade Bounce Fix](https://www.nexusmods.com/cyberpunk2077/mods/14163) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
+
+Fixes that bug where, if bounced against the ground, enemies will be attracted to location of the bounce instead of the final location after bouncing
+
 [Repeating Synaptic Accelerator Bug Fix](https://www.nexusmods.com/cyberpunk2077/mods/12850) by [rmk1234](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Fixes a bug introduced in patch 2.11 causing Synaptic Accelerator's effect to keep triggering as long as an enemy is detecting you over 50%
 
+[Senkoh LX Bolt Fix](https://www.nexusmods.com/cyberpunk2077/mods/14053) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
+
+Extends the Bolt buff duration from the Technical Ability Perk tree from 2s to 4s
+
+[Small TV Channels Fix](https://www.nexusmods.com/cyberpunk2077/mods/14165) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Small TVs (4x3 Aspect Ratio) were missing WNS TV and Just Ads!
+
+[Stanley's Morning Audio Fix](https://www.nexusmods.com/cyberpunk2077/mods/14042) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Fixes the missing and/or interrupted segment from Stanley, when leaving the shower after the heist
+
  [Status Bar Bug Fixes](https://www.nexusmods.com/cyberpunk2077/mods/4316) by [RMK](https://www.nexusmods.com/cyberpunk2077/users/84555803)
 
 Fixes 8 distinct bugs with the status/buff/debuff bar and weapon wheel
+
+[TV Adverts Fixes](https://www.nexusmods.com/cyberpunk2077/mods/13973) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+"Fixes" a general issue where adverts across all Channels could interrupt each other's playback
+
+[TV Audio Fixes](https://www.nexusmods.com/cyberpunk2077/mods/14014) by [Deceptious](https://www.nexusmods.com/cyberpunk2077/users/4035601)
+
+Fixes missing audio for 'regular' segments on N54 News and WNS News, all YBIMB episodes, and one quest/election related piece
 
 &#10240;
 
