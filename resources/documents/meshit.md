@@ -1,3 +1,121 @@
+### List of mods
+
+- [Bring Down The Sky Timer](https://www.nexusmods.com/masseffectlegendaryedition/mods/1314)
+
+- [Smoother GUI (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2121)
+
+- [Put Your Guns Down](https://www.nexusmods.com/masseffectlegendaryedition/mods/1936)
+
+- [Pistols For Combat Cutscenes (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2018)
+
+- [No Codex Flash Effect (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2259)
+
+- [Hot Labs Restored (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1708)
+
+- [Keepers Finders (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1043)
+
+- [A Little Help From My Friends (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1526)
+
+- [Private Message Terminal (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1525)
+
+- [LE1 Diversification Project](https://www.nexusmods.com/masseffectlegendaryedition/mods/1172)
+
+- [Remove Low Health Screen Effect](https://www.nexusmods.com/masseffectlegendaryedition/mods/2014)
+
+- [LE1 Community Patch](https://www.nexusmods.com/masseffectlegendaryedition/mods/23)
+
+- [Legendarily Clean Title Splash Screens](https://www.nexusmods.com/masseffectlegendaryedition/mods/2145)
+
+- [Smoother GUI (Launcher)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2120)
+
+- [Actual Effort Required (to save the Council)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2027)
+
+- [Faster Airlock (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/753)
+
+- [Casual Hubs for LE1](https://www.nexusmods.com/masseffectlegendaryedition/mods/574)
+
+- [Wrex Heavy Mercenary Armor Consistency](https://www.nexusmods.com/masseffectlegendaryedition/mods/1876)
+
+- [Galaxy Map Trackers (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/426)
+
+- [Storm Improvements LE1](https://www.nexusmods.com/masseffectlegendaryedition/mods/1971)
+
+- [Higher Credit Limit (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1972)
+
+- [Anderson Alliance Uniform Consistency](https://www.nexusmods.com/masseffectlegendaryedition/mods/1955)
+
+- [A Lot Of Videos (ALOV)](https://www.nexusmods.com/masseffectlegendaryedition/mods/3)
+
+- [Combat Communication (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1934)
+
+- [Unc Morality](https://www.nexusmods.com/masseffectlegendaryedition/mods/1394)
+
+- [Eclectic Emails (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1563)
+
+- [Saren Stages LE1](https://www.nexusmods.com/masseffectlegendaryedition/mods/666)
+
+- [Immersive Normandy Transmissions (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1728)
+
+- [LEUITM](https://www.nexusmods.com/masseffectlegendaryedition/mods/1825)
+
+- [MELLO](https://www.nexusmods.com/masseffectlegendaryedition/mods/1500)
+
+- [Alliance Uniform Consistency](https://www.nexusmods.com/masseffectlegendaryedition/mods/799)
+
+- [Unique Moons](https://www.nexusmods.com/masseffectlegendaryedition/mods/1735)
+
+- [Punch Charles Saracino](https://www.nexusmods.com/masseffectlegendaryedition/mods/1524)
+
+- [Black Market License (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/661)
+
+- [Disable Depth of Field while Aiming](https://www.nexusmods.com/masseffectlegendaryedition/mods/1663)
+
+- [Remove Intro Window Reflections](https://www.nexusmods.com/masseffectlegendaryedition/mods/1118)
+
+- [LE1 Definitive Audio Overhaul](https://www.nexusmods.com/masseffectlegendaryedition/mods/1560)
+
+- [Prothean Consistency Mod (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1538)
+
+- [Pinnacle Station DLC](https://www.nexusmods.com/masseffectlegendaryedition/mods/832)
+
+- [Instant Item Conversion](https://www.nexusmods.com/masseffectlegendaryedition/mods/1523)
+
+- [Mira Puzzle Be Gone](https://www.nexusmods.com/masseffectlegendaryedition/mods/1462)
+
+- [UNC squad dialogue on Asteroid X57](https://www.nexusmods.com/masseffectlegendaryedition/mods/1457)
+
+- [Easier Feros Persuasion Check (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1261)
+
+- [Liara Consistency Mod (ME1LE)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1183)
+
+- [Improved Wards Skybox (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1176)
+
+- [Advanced Weapon Models for LE1](https://www.nexusmods.com/masseffectlegendaryedition/mods/853)
+
+- [A Lot Of Textures (ALOT)](https://www.nexusmods.com/masseffectlegendaryedition/mods/363)
+
+- [Charted Worlds (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/524)
+
+- [Dr. Heart Experiments](https://www.nexusmods.com/masseffectlegendaryedition/mods/597)
+
+- [Mission Timings (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/754)
+
+- [Replenish Grenades LE1](https://www.nexusmods.com/masseffectlegendaryedition/mods/532)
+
+- [N7 MAKO (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/309)
+
+- [Halcyon Hairpack (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1497)
+
+- [Iconic Fashion Party (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/745)
+
+- [Elements of Comparative Weaponry (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/639)
+
+- [LE1 Real Infinite Sprint](https://www.nexusmods.com/masseffectlegendaryedition/mods/1732)
+
+- [Respecialization Console (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2226)
+
+- [Collection Assignment Tweaks](https://www.nexusmods.com/masseffectlegendaryedition/mods/1491)
+
 ### Script Mods
 
 Mods will be on the left but aren't "installed yet" once put in the mod manager
