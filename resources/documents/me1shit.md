@@ -1,7 +1,5 @@
 ### List of mods
 
-- [Bring Down The Sky Timer](https://www.nexusmods.com/masseffectlegendaryedition/mods/1314)
-
 - [Smoother GUI (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2121)
 
 - [Put Your Guns Down](https://www.nexusmods.com/masseffectlegendaryedition/mods/1936)
@@ -81,8 +79,6 @@
 - [Instant Item Conversion](https://www.nexusmods.com/masseffectlegendaryedition/mods/1523)
 
 - [Mira Puzzle Be Gone](https://www.nexusmods.com/masseffectlegendaryedition/mods/1462)
-
-- [UNC squad dialogue on Asteroid X57](https://www.nexusmods.com/masseffectlegendaryedition/mods/1457)
 
 - [Easier Feros Persuasion Check (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1261)
 
@@ -198,15 +194,6 @@ You apply them bottom right in the order after this image
 
 - black market license
 
-
-
-- squad dialogue on asteroid
-
-
-
-- bring down the sky timer restored
-
-![me12](https://i.imgur.com/OD0lZJc.png)
 
 - combat communications
 
