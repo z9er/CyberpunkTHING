@@ -359,6 +359,8 @@ Install
 
 - AndersonLEUITM
 
+- AsariLE1DPCompatLEUITM.mem
+
 - AshLEUITM.mem
 
 - AvinaLEUITM
