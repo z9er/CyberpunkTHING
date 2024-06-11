@@ -114,8 +114,6 @@
 
 - [Respecialization Console (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2226)
 
-- [Collection Assignment Tweaks](https://www.nexusmods.com/masseffectlegendaryedition/mods/1491)
-
 ### Script Mods
 
 Mods will be on the left but aren't "installed yet" once put in the mod manager
@@ -336,9 +334,6 @@ You apply them bottom right in the order after this image
 
 - real infinite sprint
 
-
-
-- Collection Assignment Tweaks
 
 ### Texture Mods
 
