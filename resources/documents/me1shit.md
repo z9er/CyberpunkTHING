@@ -26,8 +26,6 @@
 
 - [Smoother GUI (Launcher)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2120)
 
-- [Actual Effort Required (to save the Council)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2027)
-
 - [Faster Airlock (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/753)
 
 - [Casual Hubs for LE1](https://www.nexusmods.com/masseffectlegendaryedition/mods/574)
@@ -167,10 +165,6 @@ You apply them bottom right in the order after this image
 - immersive normandy transitions
 
 ![me7](https://i.imgur.com/IPAnfDB.png)
-
-- actual effort required to save council
-
-![me8](https://i.imgur.com/OJpGaCO.png)
 
 - advanced weapon models
 
