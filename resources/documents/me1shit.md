@@ -1,3 +1,7 @@
+### Potential Mods (Watching)
+
+- [Caleston Restored (LE1 - ALPHA)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2238)
+
 ### List of mods
 
 - [Smoother GUI (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2121)
