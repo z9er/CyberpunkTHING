@@ -190,4 +190,57 @@
 
 to install
 
+- unofficial LE2 Patch
+
+- le2 prologue framework
+
+- a lot of videos for le2
+
+- all vip club encounters
+
+![me1](https://i.imgur.com/qB2lRhS.png)
+
+- anderson and hackett consistency mod
+
+![me2](https://i.imgur.com/5Ht7vKx.png)
+
+- apollo spacesuit restoration
+
+- aria consistency mod
+
+- better crouch
+
+![me3](https://i.imgur.com/eoNq02n.png)
+
+- casual hubs for le2
+
+![me4](https://i.imgur.com/HyMJIzc.png)
+
+- cerberus daily news emails
+
+- reaper husks consistency mod
+
+![me5](https://i.imgur.com/hntJj75.png)
+
+- cerberus/alliance uniform consistency
+
+![me6](https://i.imgur.com/UB4fTr6.png)
+
+- classic armors le2
+
+![me7](https://i.imgur.com/NnItYLp.png)
+![me8](https://i.imgur.com/Rf6JokR.png)
+
+- classic weapons
+
+![me9](https://i.imgur.com/FL2XHXS.png)
+
+- combat evade maneuvers
+
+![me10](https://i.imgur.com/gmidcqT.png)
+
+- modern weapon pack
+
+![me11](https://i.imgur.com/su1uDeu.png)
+
 
