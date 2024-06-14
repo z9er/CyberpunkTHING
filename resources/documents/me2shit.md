@@ -142,8 +142,6 @@
 
 - [LE2 New Upgrades (unlocked hidden content)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1412)
 
-- [Conrad No Apology](https://www.nexusmods.com/masseffectlegendaryedition/mods/579)
-
 - [LE2 Changes for Import Credits from LE1 save ](https://www.nexusmods.com/masseffectlegendaryedition/mods/1396)
 
 - [LE2 Changes for Resources import bonus](https://www.nexusmods.com/masseffectlegendaryedition/mods/1397)
