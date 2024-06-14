@@ -59,7 +59,7 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 Place the `Wabbajack.exe` in a location like `C:\Wabbajack`
 
 ```
-Wabbajack can be installed to any folder as long as it is on the same hard drive as your Cyberpunk 2077 game directory
+Wabbajack can be installed to any folder as long as it is on the same hard drive as your Cyberpunk 2077 game directory. The actual mod list must also be on the same drive.
 ```
 
 ### Downloading and Installing
