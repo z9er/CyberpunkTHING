@@ -265,4 +265,197 @@ to install
 
 ![me15](https://i.imgur.com/rfpZ9zm.png)
 
+- egm armors for le2
+
+![me16](https://i.imgur.com/kwahf2F.png)
+
+- egm fix weapons in cutscenes le2
+
+- expanded armor colors le2
+
+- expanded squadmate armory ESA Addon LE2
+
+- faster normandy
+
+![me17](https://i.imgur.com/iPlJKJv.png)
+
+- fate of executor pallin
+
+- FISH minus kelly
+
+- full weapon recovery
+
+![me18](https://i.imgur.com/e1yopvQ.png)
+
+- garrus consistency le2
+
+![me19](https://i.imgur.com/WpY7QnY.png)
+
+- genesis intro dialogue undo mod LE
+
+![me20](https://i.imgur.com/o2HZoO2.png)
+
+- hugo gernsback consistency mod
+
+- immersive citizens LE2
+
+- instant shadow broker rewards
+
+![me21](https://i.imgur.com/19uJyV1.png)
+
+- justicar samara's armory le2
+
+![me22](https://i.imgur.com/EWMmw6P.png)
+
+- kasumi restored memories
+
+- kelly and kenson restoration
+
+![me23](https://i.imgur.com/jnnUh0B.png)
+
+- le2 changes for import credits
+
+- le2 changes for resources 2x
+
+- le2 crouch accuracy
+
+- le2 new upgrades both
+
+- le2 planet scanner speed increase
+
+![me24](https://i.imgur.com/7yc8IUa.png)
+
+- let me stay
+
+- optional flirting mod
+
+![me25](https://i.imgur.com/GAnUfXx.png)
+
+- liara consistency mod
+
+![me26](https://i.imgur.com/CXXERre.png)
+
+- liara's alternate le3 armor for lotsb le2
+
+![me27](https://i.imgur.com/VPr7lQr.png)
+
+- loyalty matters
+
+![me28](https://i.imgur.com/VXjCAls.png)
+
+- m-44 battle tank le2
+
+- miranda lawson's armory le2
+
+![me29](https://i.imgur.com/PB9vWhG.png)
+
+- new squadmate casuals le2
+
+![me30](https://i.imgur.com/b2kSv6G.png)
+
+![me31](https://i.imgur.com/6XHKTEe.png)
+
+- no depleted rich resources tags
+
+![me32](https://i.imgur.com/OqPWiNh.png)
+
+- no saving/loading text mod
+
+![me33](https://i.imgur.com/Whg84dr.png)
+
+- nos astra mineral exchange
+
+- oriana looks like miranda's twin ME2LE
+
+![me34](https://i.imgur.com/EV1GsEP.png)
+
+- overlord morality fix
+
+- permanent CIC holograms
+
+- phalanx holster animation
+
+- pilot in location on time
+
+- platonic post horizon emails
+
+![me35](https://i.imgur.com/zj6x7qU.png)
+
+- quarian admiralty board consistency mod MELE2
+
+![me36](https://i.imgur.com/EHlUCBW.png)
+
+- quiet interrupts le2
+
+![me37](https://i.imgur.com/09gv9c6.png)
+
+- recovered powers
+
+![me38](https://i.imgur.com/ZIuVNQI.png)
+
+- refund guy consistency mod
+
+- remove low screen health effect
+
+![me39](https://i.imgur.com/vYnkKjM.png)
+
+- restored laser death screams
+
+![me40](https://i.imgur.com/nzYT5Gt.png)
+
+- samara cut shadow broker dossiers restored
+
+- sheploo appearance consistency project
+
+- shoot elnora even faster
+
+![me41](https://i.imgur.com/EsnNbJw.png)
+
+- shorter notifications le2
+
+![me42](https://i.imgur.com/zn1CG9G.png)
+
+- shortest interrogation ever
+
+- skip kolyat trailing section
+
+- smaller notifications
+
+![me43](https://i.imgur.com/lzjHDu4.png)
+
+- smoother gui launcher no flickering
+
+- smoother gui le2
+
+![me44](https://i.imgur.com/DzJI0ER.png)
+
+- spectre expansion mod le2
+
+- stop auto equipping weapons
+
+![me45](https://i.imgur.com/rg1fH7A.png)
+
+- storm improvements
+
+- tactical camera le2
+
+- thane krios armory le2
+
+- the normandy project le2
+
+![me46](https://i.imgur.com/hXrqDJl.png)
+
+- true aim le2
+
+- unofficial le2 patch launcher video fix
+
+- updated codex images le2
+
+- wrex armor consistency le2
+
+- zaeed masani's armory le2
+
+ ![me47](https://i.imgur.com/qXWBGYO.png)
+
+- zaeed's wholesome revenge le2
 
