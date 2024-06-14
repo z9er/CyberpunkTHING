@@ -56,8 +56,6 @@
 
 - [Refund Guy Consistency Mod (ME2LE)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1064)
 
-- [Legendarily Clean Title Splash Screens](https://www.nexusmods.com/masseffectlegendaryedition/mods/2145)
-
 - [Smoother GUI (Launcher)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2120)
 
 - [Classic Armors](https://www.nexusmods.com/masseffectlegendaryedition/mods/581)
