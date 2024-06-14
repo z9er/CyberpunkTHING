@@ -78,8 +78,6 @@
 
 - [Pinnacle Station DLC](https://www.nexusmods.com/masseffectlegendaryedition/mods/832)
 
-- [Instant Item Conversion](https://www.nexusmods.com/masseffectlegendaryedition/mods/1523)
-
 - [Mira Puzzle Be Gone](https://www.nexusmods.com/masseffectlegendaryedition/mods/1462)
 
 - [Easier Feros Persuasion Check (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1261)
@@ -240,10 +238,6 @@ You apply them bottom right in the order after this image
 - improved wards skybox
 
 ![me15](https://i.imgur.com/TxCJpMh.png)
-
-- instant item conversion
-
-![me16](https://i.imgur.com/YgY2s9s.png)
 
 - keepers finders
 
