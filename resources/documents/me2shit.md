@@ -243,4 +243,26 @@ to install
 
 ![me11](https://i.imgur.com/su1uDeu.png)
 
+- combined ammo mod
+
+![me12](https://i.imgur.com/acCFaPj.png)
+
+- daddy issues
+
+- dlc bonus talent fix for me2 le
+
+- dlc timings mod
+
+![me13](https://i.imgur.com/pngIFGy.png)
+
+- dossiers reworked
+
+- early-ish
+
+![me14](https://i.imgur.com/vikpnOy.png)
+
+- expanded shepard armory ESA le2
+
+![me15](https://i.imgur.com/rfpZ9zm.png)
+
 
