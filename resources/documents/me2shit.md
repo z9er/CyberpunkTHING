@@ -150,8 +150,6 @@
 
 - [DLC Bonus Talent Fix for ME2 Legendary Edition](https://www.nexusmods.com/masseffectlegendaryedition/mods/1358)
 
-- [Assorted Bed Sheets (LE2)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1288)
-
 - [All VIP Club Encounters (LE2)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1039)
 
 - [F.I.S.H. Mod (LE2)](https://www.nexusmods.com/masseffectlegendaryedition/mods/1134)
