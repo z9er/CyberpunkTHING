@@ -185,3 +185,9 @@
 - [LE2 Crouching plus Better Accuracy](https://www.nexusmods.com/masseffectlegendaryedition/mods/1409)
 
 - [Skip Kolyat Trailing Section](https://www.nexusmods.com/masseffectlegendaryedition/mods/1701)
+
+### Script Mods
+
+to install
+
+
