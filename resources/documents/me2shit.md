@@ -66,8 +66,6 @@
 
 - [Justicar Samara's Armory (LE2)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2080)
 
-- [Classic Weapons](https://www.nexusmods.com/masseffectlegendaryedition/mods/1192)
-
 - [EGM Weapons in Cutscenes (LE2)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2059)
 
 - [Hugo Gernsback Consistency Mod](https://www.nexusmods.com/masseffectlegendaryedition/mods/1352)
@@ -230,10 +228,6 @@ to install
 
 ![me7](https://i.imgur.com/NnItYLp.png)
 ![me8](https://i.imgur.com/Rf6JokR.png)
-
-- classic weapons
-
-![me9](https://i.imgur.com/FL2XHXS.png)
 
 - combat evade maneuvers
 
