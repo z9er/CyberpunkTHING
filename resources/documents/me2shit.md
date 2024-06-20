@@ -453,3 +453,116 @@ to install
 
 - zaeed's wholesome revenge le2
 
+### Texture Mods
+
+This is the last thing to install
+
+You use this
+
+![me25](https://i.imgur.com/7paCUt8.png)
+
+Install Textures
+
+![me26](https://i.imgur.com/tIseXoa.png)
+
+Install 
+
+- ALOT_UPDATE_LE2_v1.4.mem
+
+- ISL_LE2.mem
+
+- AllianceUniformsLEUITM2.mem
+
+- AndersonLEUITM2.mem
+
+- AriaLEUITM2.mem
+
+- AshLEUITM2.mem
+
+- AsariSmoothLEUITM2.mem
+
+- BatarianLEUITM2.mem
+
+- BroshepLEUITM2.mem
+
+- CerberusUniformsLEUITM2.mem
+
+- ChakwasLEUITM2.mem
+
+- CollectorsLEUITM2.mem
+
+- EndBossLEUITM2.mem
+
+- EnvironmentFixesLEUITM2.mem
+
+- FemShepLEUITM2.mem
+
+- FeronLEUITM2.mem
+
+- GarrusFaceandArmorLEStyleLEUITM2.mem
+
+- GruntLEUITM2.mem
+
+- Human_Eyes_LEUITM2.mem
+
+- JackLEUITM2.mem
+
+- JacobLEUITM2.mem
+
+- KaidanLEUITM2.mem
+
+- KasumiLEUITM2.mem
+
+- KolyatLEUITM2.mem
+
+- KrogansLEUITM2.mem
+
+- LegionLEUITM2.mem
+
+- MIrandaLEUITM2.mem
+
+- MordinLEUITM2.mem
+
+- OverlordLEUITM2.mem
+
+- QuariansLEUITM2.mem
+
+- SalariansLEUITM2.mem
+
+- SamaraMorinthLEUITM2.mem
+
+- ScionLEUITM2.mem
+
+- ShadowBrokerLEUITM2.mem
+
+- SheplooLEUITM2.mem
+
+- TaliLEUITM2.mem
+
+- TelaVasirLEUITM2.mem
+
+- ThaneLEUITM2.mem
+
+- TIMLEUITM2.mem
+
+- TuriansLEUITM2.mem
+
+- VolusLEUITM2.mem
+
+- VorchaLEUITM2.mem
+
+- WrexBattleHardenedLEUITM2.mem
+
+- ZaeedLEUITM2.mem
+
+- hud_clean_LE2.mem
+
+- LE2_Liara_photo_LE3_face_C.mem
+
+- Liara's new doctorate.mem
+
+- missionend_black.mem
+
+- No Squadmate HUD Icons (LE2).mem
+
+
