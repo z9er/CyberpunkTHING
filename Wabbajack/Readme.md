@@ -134,14 +134,6 @@ will be deleted. Your downloads folder will not be touched! That means if you ha
 Updating is like installing. You only have to make sure that you select the same
 path and tick the _overwrite existing Modlist_ button
 
-### Reseting Night City Interactions
-
-After an update, go to V's original apartment and into the stash room to reset NCI
-
-![NCI Reset](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/nci.PNG)
-
-Then leave the apartment and reenter to complete the reset
-
 ### Removing the Modlist
 
 You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
