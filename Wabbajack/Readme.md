@@ -136,7 +136,7 @@ path and tick the _overwrite existing Modlist_ button
 
 ### Removing the Modlist
 
-You can just remove the MO2 folder, along with any Game Folder file mod you've installed and be done with it
+You can just remove the MO2 folder and be done with it
 
 # Frequently Asked Questions
 
