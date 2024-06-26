@@ -166,20 +166,6 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 </details>
 
 <details>
-  <summary>How do I reset Night City Interactions?</summary>
-  &#10240;
-  
-Go to V's original apartment and into the stash room to reset Night City Interactions
-
-![NCI Reset](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/nci.PNG)
-
-Leave the apartment and reenter to complete the reset
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>How do I name a save with Named Saves?</summary>
   &#10240;
   
@@ -258,18 +244,6 @@ In order for your [custom quickslots](https://www.nexusmods.com/cyberpunk2077/mo
   In this example, selecting for **"food"** and selecting **"9"** as the keybind
   
   ![faq 17](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2017.png)
-  
-  Press the key you chose to bind for the CET menu in order to open it, and go to **"Bindings"**
-  
-  ![faq 18](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2018.png)
-  
-  Will want to duplicate the keybind for the same slot, which was Slot 1
-  
-  ![faq 19](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2019.png)
-  
-  Then save the selection, and the quickslot you have chosen will now work
-  
-  ![faq 20](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2020.png)
   
   &#10240;
   
