@@ -8,7 +8,7 @@
 
 - [Put Your Guns Down](https://www.nexusmods.com/masseffectlegendaryedition/mods/1936)
 
-- [Pistols For Combat Cutscenes (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2018)
+- [Pistols For Combat Cutscenes (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2018) (install [Legendary Cutscenes (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2341) instead?)
 
 - [No Codex Flash Effect (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2259)
 
