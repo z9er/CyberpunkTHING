@@ -62,6 +62,8 @@
 
 - [Alliance Uniform Consistency](https://www.nexusmods.com/masseffectlegendaryedition/mods/799)
 
+- [Saleon Scene Revised (LE1)](https://www.nexusmods.com/masseffectlegendaryedition/mods/2349)
+
 - [Unique Moons](https://www.nexusmods.com/masseffectlegendaryedition/mods/1735)
 
 - [Punch Charles Saracino](https://www.nexusmods.com/masseffectlegendaryedition/mods/1524)
@@ -252,6 +254,9 @@ You apply them bottom right in the order after this image
 
 
 - mission timings
+
+
+- Saleon Scene Revised
 
 
 
