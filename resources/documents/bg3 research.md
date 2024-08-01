@@ -88,4 +88,8 @@
 
 - [Database Cleaner](https://www.nexusmods.com/baldursgate3/mods/5612)
 
+- [Loot From Chasms](https://www.nexusmods.com/baldursgate3/mods/10262) prob not
 
+- [Heart of Enver Gortash as a Consumable for The Dark Urge](https://www.nexusmods.com/baldursgate3/mods/11269)
+
+- [More Specific Cleric dialogue- Lathander for now](https://www.nexusmods.com/baldursgate3/mods/11229)
