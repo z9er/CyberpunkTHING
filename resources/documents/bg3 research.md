@@ -26,6 +26,8 @@
 
 # Spells
 
+- [PF2e Rebalanced](https://www.nexusmods.com/baldursgate3/mods/7897) prob not
+
 - [Immediate Cast Create Sorcerer Points and Create Spell Slots](https://www.nexusmods.com/baldursgate3/mods/8514)
 
 - [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405)
@@ -66,7 +68,7 @@
 
 - [UA Shillelagh](https://www.nexusmods.com/baldursgate3/mods/5761) prob not
 
-- [PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460)
+- [PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) prob not
 
 - [Better Enthrall Spell - Bard and Warlock Spell Rebalance](https://www.nexusmods.com/baldursgate3/mods/5542)
 
@@ -93,3 +95,43 @@
 - [Heart of Enver Gortash as a Consumable for The Dark Urge](https://www.nexusmods.com/baldursgate3/mods/11269)
 
 - [More Specific Cleric dialogue- Lathander for now](https://www.nexusmods.com/baldursgate3/mods/11229)
+
+- [Mol Stolen Belongings Bug Fix](https://www.nexusmods.com/baldursgate3/mods/1877)
+
+- [Mol Persuasion Bug Fix](https://www.nexusmods.com/baldursgate3/mods/1149)
+
+- [Arcane Ward Reaction Fixes](https://www.nexusmods.com/baldursgate3/mods/10121)
+
+- [StatueBlessFix](https://www.nexusmods.com/baldursgate3/mods/9808)
+
+- [Shadowheart Idol of Shar Kiss Bug Fix](https://www.nexusmods.com/baldursgate3/mods/7396)
+
+- [Minsc Dialogue Flow Fix](https://www.nexusmods.com/baldursgate3/mods/9061)
+
+- [Un-Deafening Silence - Silenced Status Fix](https://www.nexusmods.com/baldursgate3/mods/8961)
+
+- [Stackable Items](https://www.nexusmods.com/baldursgate3/mods/1668)
+
+- [Dialogue Edits](https://www.nexusmods.com/baldursgate3/mods/7862)
+
+- [Wyll Dialogue Fixes](https://www.nexusmods.com/baldursgate3/mods/8128)
+
+- [Halsin - Tell Me About Yourself - Additional Player Responses](https://www.nexusmods.com/baldursgate3/mods/8042)
+
+- [Change Gale's Mind (Gale Ending Fix) - ACT 3-ENDING SPOILERS](https://www.nexusmods.com/baldursgate3/mods/8439)
+
+- [Auntie Ethel - Dark Urge Dialogue Bug Fix (with Optional Astarion Priority)](https://www.nexusmods.com/baldursgate3/mods/8363)
+
+- [Minthara Romance Scene - Fixes and Changes](https://www.nexusmods.com/baldursgate3/mods/8411)
+
+- [Strange Ox - Dialogue Flow Fix](https://www.nexusmods.com/baldursgate3/mods/8346)
+
+- [Gortash Dialogue Fix](https://www.nexusmods.com/baldursgate3/mods/8074)
+
+- [Moonrise Towers Tadpole Cargo Dialogue Bug Fix](https://www.nexusmods.com/baldursgate3/mods/8015)
+
+- [Astarion Bugbear and Ogre Dialogue Priority](https://www.nexusmods.com/baldursgate3/mods/7721)
+
+- [Disable combat log for Silvanus Blessing](https://www.nexusmods.com/baldursgate3/mods/7612)
+
+- [No One Left Behind - Soldier Inspiration Bug Fix](https://www.nexusmods.com/baldursgate3/mods/7574)
