@@ -42,4 +42,12 @@
 
 - [UA8 Healing Buffs](https://www.nexusmods.com/baldursgate3/mods/5248)
 
+- [UA Shillelagh](https://www.nexusmods.com/baldursgate3/mods/5761) prob not
+
+- [PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460)
+
+- [Better Enthrall Spell - Bard and Warlock Spell Rebalance](https://www.nexusmods.com/baldursgate3/mods/5542)
+
+- [Undanse Macabre](https://www.nexusmods.com/baldursgate3/mods/5253)
+
 - 
