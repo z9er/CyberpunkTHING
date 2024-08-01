@@ -28,6 +28,24 @@
 
 - [Feats Extra](https://www.nexusmods.com/baldursgate3/mods/167)
 
+- [Enemy Stats - MCM](https://www.nexusmods.com/baldursgate3/mods/10895) prob not
+
+- [Reduce NPC Banter Repetitiveness](https://www.nexusmods.com/baldursgate3/mods/7034)
+
+- [Mark books as read](https://www.nexusmods.com/baldursgate3/mods/3682)
+
+- [Configurable movement speed - MCM compatible](https://www.nexusmods.com/baldursgate3/mods/2861)
+
+- [Multiclass Preferred Casting Ability Fix](https://www.nexusmods.com/baldursgate3/mods/10209)
+
+- [Encounters Overhaul - Additional Enemies and Encounters](https://www.nexusmods.com/baldursgate3/mods/7740)
+
+- [Scroll Casting Revised](https://www.nexusmods.com/baldursgate3/mods/10027) maybe
+
+- [Automated Summons](https://www.nexusmods.com/baldursgate3/mods/10922)
+
+- [Do Not Attack the Ground - Prevent accidental attacks on the ground](https://www.nexusmods.com/baldursgate3/mods/10445) maybe
+
 # Items 
 
 - [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
@@ -71,6 +89,8 @@
 - [5e Way of the Ascendant Dragon - Monk Subclass](https://www.nexusmods.com/baldursgate3/mods/10909)
 
 - [5e Path of the Ancestral Guardian - Barbarian Subclasss](https://www.nexusmods.com/baldursgate3/mods/11267)
+
+- [Genie Patron for Warlock](https://www.nexusmods.com/baldursgate3/mods/2895)
 
 # Spells
 
@@ -134,6 +154,8 @@
 
 - [Less Annoying Hex](https://www.nexusmods.com/baldursgate3/mods/2152)
 
+- [5e Spells](https://www.nexusmods.com/baldursgate3/mods/125)
+
 # Miscellaneous
 
 - [Database Cleaner](https://www.nexusmods.com/baldursgate3/mods/5612)
@@ -189,3 +211,5 @@
 - [Gortash Armpit Fix](https://www.nexusmods.com/baldursgate3/mods/7573)
 
 - [Flind - True Soul Dialogue Bug Fix](https://www.nexusmods.com/baldursgate3/mods/7307)
+
+- [Wyll Meets Minsc Fix](https://www.nexusmods.com/baldursgate3/mods/9998)
