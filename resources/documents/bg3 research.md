@@ -46,6 +46,10 @@
 
 - [Do Not Attack the Ground - Prevent accidental attacks on the ground](https://www.nexusmods.com/baldursgate3/mods/10445) maybe
 
+- [Auto Send Food To Camp](https://www.nexusmods.com/baldursgate3/mods/6086)
+
+- [Heavy Armor Impedes Movement (RAW)](https://www.nexusmods.com/baldursgate3/mods/10540) maybe
+
 # Items 
 
 - [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
@@ -213,3 +217,9 @@
 - [Flind - True Soul Dialogue Bug Fix](https://www.nexusmods.com/baldursgate3/mods/7307)
 
 - [Wyll Meets Minsc Fix](https://www.nexusmods.com/baldursgate3/mods/9998)
+
+- [AA and Karlach Can Fuck](https://www.nexusmods.com/baldursgate3/mods/10789) maybe
+
+- [Trader Clutter Begone](https://www.nexusmods.com/baldursgate3/mods/9602) maybe
+
+- [Fix - Gale's Tragic Romance Ending](https://www.nexusmods.com/baldursgate3/mods/10501)
