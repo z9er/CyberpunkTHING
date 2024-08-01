@@ -50,13 +50,39 @@
 
 - [Heavy Armor Impedes Movement (RAW)](https://www.nexusmods.com/baldursgate3/mods/10540) maybe
 
+- [Really Dominate Person](https://www.nexusmods.com/baldursgate3/mods/9606) maybe
+
+- [Auto Send Read Books To Camp](https://www.nexusmods.com/baldursgate3/mods/7035)
+
+- [Combat Extender](https://www.nexusmods.com/baldursgate3/mods/5207)
+
+- [Wild Magic D100 Table](https://www.nexusmods.com/baldursgate3/mods/2967)
+
+- [Wild Magic Barbarian - D100 Wild Magic Surges](https://www.nexusmods.com/baldursgate3/mods/9361)
+
+- [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087)
+
+- [Randomized Equipment Loot v3](https://www.nexusmods.com/baldursgate3/mods/6326)
+
+- [Soph's D20 Initiative](https://www.nexusmods.com/baldursgate3/mods/8812)
+
+- [Shadow Blade fix](https://www.nexusmods.com/baldursgate3/mods/6933)
+
+- [WASD Character Movement](https://www.nexusmods.com/baldursgate3/mods/781)
+
+- [Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945)
+
 # Items 
 
 - [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
 
+- [ARSENAL OVERHAUL -- Weapon Viability Enhanced](https://www.nexusmods.com/baldursgate3/mods/2370) prob not
+
 # Classes
 
 - [Fathomless Patron For Warlocks](https://www.nexusmods.com/baldursgate3/mods/2724)
+
+- [Patch for Fathomless Warlock](https://www.nexusmods.com/baldursgate3/mods/6907)
 
 - [UA7 Archfey Warlock](https://www.nexusmods.com/baldursgate3/mods/5703)
 
@@ -98,7 +124,11 @@
 
 - [Genie Patron for Warlock](https://www.nexusmods.com/baldursgate3/mods/2895)
 
+- [Mystic Class](https://www.nexusmods.com/baldursgate3/mods/2786)
+
 # Spells
+
+- [Mass Unsummon](https://www.nexusmods.com/baldursgate3/mods/5870)
 
 - [PF2e Rebalanced](https://www.nexusmods.com/baldursgate3/mods/7897) prob not
 
@@ -227,3 +257,25 @@
 - [Fix - Gale's Tragic Romance Ending](https://www.nexusmods.com/baldursgate3/mods/10501)
 
 - [Gale's High Hall Kiss Fix](https://www.nexusmods.com/baldursgate3/mods/9823)
+
+- [Epilogue Kisses For Wyll](https://www.nexusmods.com/baldursgate3/mods/9550)
+
+- [Auto Use Soap](https://www.nexusmods.com/baldursgate3/mods/6880)
+
+- [Preemptively Label Containers](https://www.nexusmods.com/baldursgate3/mods/6313) maybe
+
+- [Unofficial Bug Fixer](https://www.nexusmods.com/baldursgate3/mods/5595) maybe
+
+- [Universal Max Stack](https://www.nexusmods.com/baldursgate3/mods/4359) maybe
+
+- [Cloak of Elemental Absorption Fix](https://www.nexusmods.com/baldursgate3/mods/8845)
+
+- [Astarion Kiss Dialogue Fixed](https://www.nexusmods.com/baldursgate3/mods/8471)
+
+- [Better Elfsong Room Service](https://www.nexusmods.com/baldursgate3/mods/8513)
+
+- [JWL Fix for Cerys and Zevlor with Minthara in Act 2-3](https://www.nexusmods.com/baldursgate3/mods/8237)
+
+- [Sunwalker's Gift Fix - Darkvision Bugfix](https://www.nexusmods.com/baldursgate3/mods/5652)
+
+- [Barbarian - Wild Heart Rage Bug Fix](https://www.nexusmods.com/baldursgate3/mods/5567)
