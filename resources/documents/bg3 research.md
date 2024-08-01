@@ -4,11 +4,25 @@
 
 - [War Caster (2014 and UA2)](https://www.nexusmods.com/baldursgate3/mods/5822)
 
+- [Extra Attack Fix SE](https://www.nexusmods.com/baldursgate3/mods/5475)
+
+- [Object Character Support](https://www.nexusmods.com/baldursgate3/mods/3940)
+
+- [Vital Sacrifice Feat (Blood Magic)](https://www.nexusmods.com/baldursgate3/mods/2421)
+
+- [Universal Armour Fixer](https://www.nexusmods.com/baldursgate3/mods/2092)
+
+# Items 
+
 - 
 
 # Classes
 
 - [UA7 Archfey Warlock](https://www.nexusmods.com/baldursgate3/mods/5703)
+
+- [UA6 Invoke Duplicity](https://www.nexusmods.com/baldursgate3/mods/5311)
+
+- [Echo Knight Fighter Subclass](https://www.nexusmods.com/baldursgate3/mods/3939)
 
 # Spells
 
@@ -67,3 +81,11 @@
 - [OneDnD Warlock - Spell List Additions](https://www.nexusmods.com/baldursgate3/mods/3942)
 
 - [OneDnD Warlock - Patron Spells](https://www.nexusmods.com/baldursgate3/mods/5203)
+
+- [Less Annoying Hex](https://www.nexusmods.com/baldursgate3/mods/2152)
+
+# Miscellaneous
+
+- [Database Cleaner](https://www.nexusmods.com/baldursgate3/mods/5612)
+
+
