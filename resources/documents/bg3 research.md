@@ -14,9 +14,23 @@
 
 - [Valdacil's Idol Auras Enhanced (Silvanus-Selune-Shar)](https://www.nexusmods.com/baldursgate3/mods/6247)
 
+- [Smarter AI - MCM](https://www.nexusmods.com/baldursgate3/mods/11183)
+
+- [Regeneration - MCM](https://www.nexusmods.com/baldursgate3/mods/11184) prob not
+
+- [Exhaustion - MCM](https://www.nexusmods.com/baldursgate3/mods/11185) maybe not
+
+- [Enemy Spells - MCM](https://www.nexusmods.com/baldursgate3/mods/11051)
+
+- [Stronger Bosses and Enemies](https://www.nexusmods.com/baldursgate3/mods/782) prob not
+
+- [Absolute Wrath](https://www.nexusmods.com/baldursgate3/mods/5552) prob not
+
+- [Feats Extra](https://www.nexusmods.com/baldursgate3/mods/167)
+
 # Items 
 
-- 
+- [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
 
 # Classes
 
@@ -25,6 +39,38 @@
 - [UA6 Invoke Duplicity](https://www.nexusmods.com/baldursgate3/mods/5311)
 
 - [Echo Knight Fighter Subclass](https://www.nexusmods.com/baldursgate3/mods/3939)
+
+- [5e Arcane Archer - Fighter Subclasss](https://www.nexusmods.com/baldursgate3/mods/4769)
+
+- [5e Path of the Battlerager - Barbarian Subclass](https://www.nexusmods.com/baldursgate3/mods/5085)
+
+- [5e Banneret (Purple Dragon Knight) - Fighter Subclasss](https://www.nexusmods.com/baldursgate3/mods/5210)
+
+- [5e Horizon Walker - Ranger Subclasss](https://www.nexusmods.com/baldursgate3/mods/5442)
+
+- [5e Path of the Zealot - Barbarian Subclasss](https://www.nexusmods.com/baldursgate3/mods/5587)
+
+- [5e Monster Slayer - Ranger Subclasss (Plus New Spells)](https://www.nexusmods.com/baldursgate3/mods/5842)
+
+- [5e Path of the Beast - Barbarian Subclasss](https://www.nexusmods.com/baldursgate3/mods/6404)
+
+- [5e Rune Knight - Fighter Subclasss](https://www.nexusmods.com/baldursgate3/mods/6831)
+
+- [5e Samurai - Fighter Subclasss](https://www.nexusmods.com/baldursgate3/mods/7236)
+
+- [5e Path of the Giant - Barbarian Subclasss](https://www.nexusmods.com/baldursgate3/mods/8037)
+
+- [5e Path of the Storm Herald - Barbarian Subclasss](https://www.nexusmods.com/baldursgate3/mods/8419)
+
+- [5e Way of the Long Death - Monk Subclass](https://www.nexusmods.com/baldursgate3/mods/9715)
+
+- [5e Way of the Astral Self - Monk Subclass](https://www.nexusmods.com/baldursgate3/mods/10078)
+
+- [5e Way of the Sun Soul - Monk Subclass](https://www.nexusmods.com/baldursgate3/mods/10606)
+
+- [5e Way of the Ascendant Dragon - Monk Subclass](https://www.nexusmods.com/baldursgate3/mods/10909)
+
+- [5e Path of the Ancestral Guardian - Barbarian Subclasss](https://www.nexusmods.com/baldursgate3/mods/11267)
 
 # Spells
 
