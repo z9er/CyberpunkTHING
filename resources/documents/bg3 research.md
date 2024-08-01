@@ -56,6 +56,8 @@
 
 # Classes
 
+- [Fathomless Patron For Warlocks](https://www.nexusmods.com/baldursgate3/mods/2724)
+
 - [UA7 Archfey Warlock](https://www.nexusmods.com/baldursgate3/mods/5703)
 
 - [UA6 Invoke Duplicity](https://www.nexusmods.com/baldursgate3/mods/5311)
@@ -223,3 +225,5 @@
 - [Trader Clutter Begone](https://www.nexusmods.com/baldursgate3/mods/9602) maybe
 
 - [Fix - Gale's Tragic Romance Ending](https://www.nexusmods.com/baldursgate3/mods/10501)
+
+- [Gale's High Hall Kiss Fix](https://www.nexusmods.com/baldursgate3/mods/9823)
