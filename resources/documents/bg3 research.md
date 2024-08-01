@@ -50,4 +50,7 @@
 
 - [Undanse Macabre](https://www.nexusmods.com/baldursgate3/mods/5253)
 
-- 
+- [Chronurgy and Graviturgy Wizard 5e Spells Compatibility Patch](https://www.nexusmods.com/baldursgate3/mods/3547) prob not needed
+
+- [5e Spells Last Until Long Rest](https://www.nexusmods.com/baldursgate3/mods/1337)
+
