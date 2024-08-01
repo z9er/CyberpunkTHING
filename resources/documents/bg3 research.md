@@ -1,6 +1,14 @@
 # Gameplay
 
+- [Spell List Sorter](https://www.nexusmods.com/baldursgate3/mods/9608)
+
+- [War Caster (2014 and UA2)](https://www.nexusmods.com/baldursgate3/mods/5822)
+
+- 
+
 # Classes
+
+- [UA7 Archfey Warlock](https://www.nexusmods.com/baldursgate3/mods/5703)
 
 # Spells
 
@@ -54,3 +62,8 @@
 
 - [5e Spells Last Until Long Rest](https://www.nexusmods.com/baldursgate3/mods/1337)
 
+- [Familiar Casting and Fixes](https://www.nexusmods.com/baldursgate3/mods/6149)
+
+- [OneDnD Warlock - Spell List Additions](https://www.nexusmods.com/baldursgate3/mods/3942)
+
+- [OneDnD Warlock - Patron Spells](https://www.nexusmods.com/baldursgate3/mods/5203)
