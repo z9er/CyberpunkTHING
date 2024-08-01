@@ -1,4 +1,4 @@
-# Gameplay
+# Gameplaye
 
 - [Spell List Sorter](https://www.nexusmods.com/baldursgate3/mods/9608)
 
