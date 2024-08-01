@@ -12,6 +12,8 @@
 
 - [Universal Armour Fixer](https://www.nexusmods.com/baldursgate3/mods/2092)
 
+- [Valdacil's Idol Auras Enhanced (Silvanus-Selune-Shar)](https://www.nexusmods.com/baldursgate3/mods/6247)
+
 # Items 
 
 - 
@@ -135,3 +137,9 @@
 - [Disable combat log for Silvanus Blessing](https://www.nexusmods.com/baldursgate3/mods/7612)
 
 - [No One Left Behind - Soldier Inspiration Bug Fix](https://www.nexusmods.com/baldursgate3/mods/7574)
+
+- [Lae'zel Recruitment Bug Fix](https://www.nexusmods.com/baldursgate3/mods/7580)
+
+- [Gortash Armpit Fix](https://www.nexusmods.com/baldursgate3/mods/7573)
+
+- [Flind - True Soul Dialogue Bug Fix](https://www.nexusmods.com/baldursgate3/mods/7307)
