@@ -158,6 +158,14 @@ as a note, would never add something that didn't support all body types, because
 
 - [Elven Weaponry - Axes](https://www.nexusmods.com/baldursgate3/mods/10688) seems too strong, but they do have a need for dexterity and strength which not everyone has. not a fan of some of the appearances, but placement not totally insane, but not as sane as some
 
+- [Drow Weaponry - Greataxes](https://www.nexusmods.com/baldursgate3/mods/10595) much like with many of these, potentially too strong but pretty neat, placements ok, item models eh
+
+- [Drow Weaponry - Rapiers](https://www.nexusmods.com/baldursgate3/mods/5937) same deal as all the other ones this time, but like the models more, but could just be because I like rapiers
+
+- [Various Rings and Amulets](https://www.nexusmods.com/baldursgate3/mods/10406) way, way, way, way, way too fucking strong
+
+- [Druid Wildshape Items - Weapons Armor and more gear](https://www.nexusmods.com/baldursgate3/mods/4535) this is cool, combination of redoing items already there and new ones, placed well, prob conflicts with overall weapon rebalance things but considerin
+
 - 
 
 # Classes
