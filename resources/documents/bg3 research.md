@@ -86,6 +86,8 @@
 
 # Items 
 
+as a note, would never add something that didn't support all body types, because that's a bad idea
+
 - [Elven Weaponry - Blades](https://www.nexusmods.com/baldursgate3/mods/4073) probably way too strong just noting it
 
 - [Deathsong Set](https://www.nexusmods.com/baldursgate3/mods/4572) prob way too strong but fun implementation
@@ -123,6 +125,28 @@
 - [Gear Revised Shields](https://www.nexusmods.com/baldursgate3/mods/10984) interesting but prob conflicts with other stuff
 
 - [Better end game caster Robe](https://www.nexusmods.com/baldursgate3/mods/10963) not as insane but only in comparison to other stuff
+
+- [Ranger Kit](https://www.nexusmods.com/baldursgate3/mods/10593) probably too strong but looks nice, fits seemingly all body types and I've seen worse. I've seen nightmares
+
+- [Rat-Catcher's Flute](https://www.nexusmods.com/baldursgate3/mods/10939) maybe too strong with dominate person but, I like the way they're thinking. super interesting. more of this please
+
+- [Elven Weaponry - Glaives](https://www.nexusmods.com/baldursgate3/mods/6639) probably too strong, but not terrible (maybe) and at least placed in interesting locations. couple of the models... eh
+
+- [Legend of The Ten Rings](https://www.nexusmods.com/baldursgate3/mods/10915) this shouldn't be on this list, but it's so silly I just want people to experience my pain of looking at all this shit
+
+- [Order of the Kraken Trident](https://www.nexusmods.com/baldursgate3/mods/10914) fucking insane, again, this is me punishing you for reading this
+
+- [Order of the Kraken Cloak](https://www.nexusmods.com/baldursgate3/mods/10818) ditto. i mean sure, lets just give the player an item that gives resistance to every type of damage for a start, what could go wrong
+
+- [Darts](https://www.nexusmods.com/baldursgate3/mods/10866) alright here's what im lookin for, interesting, something larian thought about, pretty well implemented as well
+
+- [Umberlee's Wrath (returning weapon ver. available)](https://www.nexusmods.com/baldursgate3/mods/10844) these resistances are fucking nonsense
+
+- [Battleworn Shield](https://www.nexusmods.com/baldursgate3/mods/10857) - interesting, maybe too strong but looks neat, and 1-4 radiant damage to a weapon isn't insane from the equipped concentration spell for where you'd get it
+
+- [Bruenor Battlehammers Shield](https://www.nexusmods.com/baldursgate3/mods/10771) actually pretty interesting and well thought out, but not natively placed yet and may have clipping. keep an eye on it
+
+- [Monk - Way of the 4 Elements - Empower Equipment Set](https://www.nexusmods.com/baldursgate3/mods/10793) less insane than you'd think. 4 elements kind of sucks, it is extremely silly that the amulet is legendary though
 
 # Classes
 
