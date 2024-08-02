@@ -72,6 +72,8 @@
 
 - [Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945)
 
+- [Enemy Spells - MCM](https://www.nexusmods.com/baldursgate3/mods/11051)
+
 # Items 
 
 - [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
@@ -79,6 +81,8 @@
 - [ARSENAL OVERHAUL -- Weapon Viability Enhanced](https://www.nexusmods.com/baldursgate3/mods/2370) prob not
 
 # Classes
+
+- [Oath of Zeal - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/8329)
 
 - [Fathomless Patron For Warlocks](https://www.nexusmods.com/baldursgate3/mods/2724)
 
