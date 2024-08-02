@@ -86,9 +86,33 @@
 
 # Items 
 
+- [Elven Weaponry - Blades](https://www.nexusmods.com/baldursgate3/mods/4073) probably way too strong just noting it
+
+- [Deathsong Set](https://www.nexusmods.com/baldursgate3/mods/4572) prob way too strong but fun implementation
+
+- [Sword of the Emperor Enhanced](https://www.nexusmods.com/baldursgate3/mods/8700) pretty well done, turns a meh item into an interesting one
+
+- [Ketheric's Warhammer Enhanced](https://www.nexusmods.com/baldursgate3/mods/8632) ditto
+
 - [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
 
+- [Vanilla Equipment Overhaul](https://www.nexusmods.com/baldursgate3/mods/5312) probably far too strong
+
 - [ARSENAL OVERHAUL -- Weapon Viability Enhanced](https://www.nexusmods.com/baldursgate3/mods/2370) prob not
+
+- [Elven Weaponry - Rogue](https://www.nexusmods.com/baldursgate3/mods/8588) not all that interesting, skimpy
+
+- [Enchanted Threads](https://www.nexusmods.com/baldursgate3/mods/10580) kind of fucking ridiculously flouncy, prob aesthetics only without interesting itemization
+
+- [Faerun Colors ( Dye and color sets)](https://www.nexusmods.com/baldursgate3/mods/3661) nice colors but probably a poor implementation as far as acquiring
+
+- [Asymmetrical Shadowheart Concept Outfit](https://www.nexusmods.com/baldursgate3/mods/6578) kind of neat but absurd itemization
+
+- [Helm's Armory - Shield and Longsword for Paladin Cleric](https://www.nexusmods.com/baldursgate3/mods/6345) looks nice but, my itemization :(
+
+- [Faith and Fortitude - Cleric Equipment](https://www.nexusmods.com/baldursgate3/mods/9415) most insane itemization I've seen in a while, the fuck
+
+- [Hollow's Staff of Lucretious (Necromancy)](https://www.nexusmods.com/baldursgate3/mods/11173) prob too strong but at least not insane
 
 # Classes
 
