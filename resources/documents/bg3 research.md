@@ -120,6 +120,8 @@
 
 - [Grove and Growl - Druid Equipment](https://www.nexusmods.com/baldursgate3/mods/10304) finally a bit less silly itemization but maybe that's just in comparison
 
+- [Gear Revised Shields](https://www.nexusmods.com/baldursgate3/mods/10984) interesting but prob conflicts with other stuff
+
 # Classes
 
 - [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
