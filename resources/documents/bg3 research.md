@@ -148,6 +148,18 @@ as a note, would never add something that didn't support all body types, because
 
 - [Monk - Way of the 4 Elements - Empower Equipment Set](https://www.nexusmods.com/baldursgate3/mods/10793) less insane than you'd think. 4 elements kind of sucks, it is extremely silly that the amulet is legendary though
 
+- [Slightly Better Bow of the Banshee](https://www.nexusmods.com/baldursgate3/mods/10764) prob too strong, depends if you want this bow to be a bow or this bow to be a stat stick along lines of undermountain king but for frightened
+
+- [Magic Dagger Weapon Masteries](https://www.nexusmods.com/baldursgate3/mods/10736) interesting effect, includes a property from dnd2024 for daggers. not really very strong, but interesting
+
+- [Elven Weaponry - Wands](https://www.nexusmods.com/baldursgate3/mods/5458) not awful, has interesting effects, some placed in areas that might be problematic for how early and breaks if dual wielded with hand crossbows, so that ain't great
+
+- [Rogue Accessories Set - by RussWZ](https://www.nexusmods.com/baldursgate3/mods/10584) fuckin nuts, why so many "legendaries"
+
+- [Elven Weaponry - Axes](https://www.nexusmods.com/baldursgate3/mods/10688) seems too strong, but they do have a need for dexterity and strength which not everyone has. not a fan of some of the appearances, but placement not totally insane, but not as sane as some
+
+- 
+
 # Classes
 
 - [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
