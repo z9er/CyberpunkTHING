@@ -255,7 +255,37 @@ as a note, would never add something that didn't support all body types, because
 
 - [Flail of Ages Enhanced](https://www.nexusmods.com/baldursgate3/mods/7908) might be too strong but more like the way it was in the earlier game
 
-- 
+- [Legendary Equipment by Shivero](https://www.nexusmods.com/baldursgate3/mods/3673) as mentioned by the modder themselves, this is a "tad bit powerful". wouldn't use
+
+- [Longsword of Sharpness](https://www.nexusmods.com/baldursgate3/mods/7293) too strong and weirdly placed at two separate vendors, why?
+
+- [Pontifex's Staves (Staff) of Power](https://www.nexusmods.com/baldursgate3/mods/7065) it's wild this is an actual 5e item. absurd. wouldn't use
+
+- [Crossbow of Arcane Force Enhanced](https://www.nexusmods.com/baldursgate3/mods/6702) this is pretty neat
+
+- [Mace of Disruption PHB](https://www.nexusmods.com/baldursgate3/mods/6421) nothin too fancy, right out of phb, good placement
+
+- [Abyss's Dyes](https://www.nexusmods.com/baldursgate3/mods/3887) great if you want to look like a fucking clown. these are silly. what are you a fucking power ranger?
+
+- [Instruments of the Bard - 5e](https://www.nexusmods.com/baldursgate3/mods/4998) interesting, decently placed but unsure
+
+- [The Nimble Cloth](https://www.nexusmods.com/baldursgate3/mods/5166)
+
+- [Cloaks of Faerun](https://www.nexusmods.com/baldursgate3/mods/2811) i like cloaks of the master better
+
+- [Drunkard's Items](https://www.nexusmods.com/baldursgate3/mods/2030) sensible adjustments
+
+- [The Real Protecty Sparkswall](https://www.nexusmods.com/baldursgate3/mods/4116) certainly looks more fitting
+
+- [Grukkoh's Ring of Haste](https://www.nexusmods.com/baldursgate3/mods/3944) hilarious, interesting, cursed... that's a lot less AC
+
+- [The Elder Band](https://www.nexusmods.com/baldursgate3/mods/3997) interesting, but less cool than the last one
+
+- [Selune's Brilliance - Amulet of Selune's Chosen Replacement](https://www.nexusmods.com/baldursgate3/mods/4060) prob too strong, but cool
+
+- [Blackrazor - Legendary Soul-Devouring Greatsword](https://www.nexusmods.com/baldursgate3/mods/2799) decent placement, phb, neat
+
+- [Rings Expanded](https://www.nexusmods.com/baldursgate3/mods/1847) these are pretty boring, not a fan
 
 # Classes
 
@@ -456,6 +486,8 @@ as a note, would never add something that didn't support all body types, because
 - [Additional Fighting Styles](https://www.nexusmods.com/baldursgate3/mods/858)
 
 # Spells
+
+- [Blink Fixed](https://www.nexusmods.com/baldursgate3/mods/2963)
 
 - [UA6 Cunning Strike](https://www.nexusmods.com/baldursgate3/mods/507)
 
