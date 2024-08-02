@@ -142,6 +142,24 @@
 
 - [Mystic Class](https://www.nexusmods.com/baldursgate3/mods/2786)
 
+- [College of Cantors - Bard Subclass](https://www.nexusmods.com/baldursgate3/mods/11330)
+
+- [Amonkhet - Solidarity Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/8765) maybe
+
+- [Oath of Heroism - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/9233) maybe
+
+- [The Undying Light - Warlock Subclass](https://www.nexusmods.com/baldursgate3/mods/9245) maybe
+
+- [Necromancer Warlock - The Dread Overlord](https://www.nexusmods.com/baldursgate3/mods/394) maybe not 5e
+
+- [The Raven Queen Patron for Warlock](https://www.nexusmods.com/baldursgate3/mods/1895)
+
+- [Blackguard](https://www.nexusmods.com/baldursgate3/mods/6612) maybe not 5e
+
+- [Death Soul - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/5763) maybe not 5e
+
+- [Aberrant Mind Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/3901)
+
 # Spells
 
 - [Mass Unsummon](https://www.nexusmods.com/baldursgate3/mods/5870)
