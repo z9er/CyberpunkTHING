@@ -166,7 +166,15 @@ as a note, would never add something that didn't support all body types, because
 
 - [Druid Wildshape Items - Weapons Armor and more gear](https://www.nexusmods.com/baldursgate3/mods/4535) this is cool, combination of redoing items already there and new ones, placed well, prob conflicts with overall weapon rebalance things but considerin
 
-- 
+- [Useful Music Instruments and Deekin Scalesinger](https://www.nexusmods.com/baldursgate3/mods/3933) silly, incredibly over the top, everything legendary, turns everyone into a summoner... great
+
+- [Holy Avenger](https://www.nexusmods.com/baldursgate3/mods/10154) nsupposedly accurate to PHB, fuckin awful placement tho
+
+- [Xan's Moonblade](https://www.nexusmods.com/baldursgate3/mods/10303) ditto the above
+
+- [More Drow Gear](https://www.nexusmods.com/baldursgate3/mods/1939) too strong, not great placement
+
+- [Dragonborn Heirlooms](https://www.nexusmods.com/baldursgate3/mods/9775) weird comic book references, weird shit, not a fan
 
 # Classes
 
