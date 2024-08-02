@@ -176,6 +176,38 @@ as a note, would never add something that didn't support all body types, because
 
 - [Dragonborn Heirlooms](https://www.nexusmods.com/baldursgate3/mods/9775) weird comic book references, weird shit, not a fan
 
+- [Balanced Mourning Frost Staff Tweak](https://www.nexusmods.com/baldursgate3/mods/9955) love the staff, but prob too strong. 1 dc is a big deal
+
+- [Mourning Frost Legendarised -- Forked Version](https://www.nexusmods.com/baldursgate3/mods/9946) similarly prob too strong but in a different way
+
+- [Elven Weaponry - Longbows and Quivers](https://www.nexusmods.com/baldursgate3/mods/4246) same as all the other ones, strong but not bad, well placed
+
+- [Extra Dyes for the Fashionable Folk of Faerun](https://www.nexusmods.com/baldursgate3/mods/1774) pretty nice dyes
+
+- [JWL Discordant Instruments](https://www.nexusmods.com/baldursgate3/mods/9119) pretty neat and fun idea, trinket slot
+
+- [Holy Avenger PHB](https://www.nexusmods.com/baldursgate3/mods/7818) another holy avenger differently implemented, not as accurate as other in implementation but better placement?
+
+- [Hamarhraft Enhanced](https://www.nexusmods.com/baldursgate3/mods/9166) Hardly seems needed, isn't this broken on mario build already?
+
+- [Spectator Eyes and Burnished Ring Enhanced](https://www.nexusmods.com/baldursgate3/mods/9034) seems way, way too good
+
+- [Elven Weaponry - Daggers and Shortswords](https://www.nexusmods.com/baldursgate3/mods/6017) like all the other ones, gonna get tired of typing it prob
+
+- [Mourning Frost Rework](https://www.nexusmods.com/baldursgate3/mods/8417) more interesting than the other ones
+
+- [Elven Weaponry - Dryad](https://www.nexusmods.com/baldursgate3/mods/7405) same as the other ones, pretty good
+
+- [Sun Blade PHB](https://www.nexusmods.com/baldursgate3/mods/6359) pretty neat, well implemented
+
+- [Infernal Rapier Enhanced](https://www.nexusmods.com/baldursgate3/mods/8878) interesting, but unsure about it. prob fine, im being paranoid
+
+- [Loviatar's Claws](https://www.nexusmods.com/baldursgate3/mods/2097) fuck me this and hurt me that, seems like it's tryin a bit hard honestly. pretty interesting effects but man... why?
+
+- [Umberlee's Nets](https://www.nexusmods.com/baldursgate3/mods/3368) ditto
+
+- 
+
 # Classes
 
 - [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
