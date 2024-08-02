@@ -78,6 +78,12 @@
 
 - [Orin's True Bossfight](https://www.nexusmods.com/baldursgate3/mods/4107) maybe
 
+- [Feat - Dragon Fear](https://www.nexusmods.com/baldursgate3/mods/2510)
+
+- [Trident for Polearm Master](https://www.nexusmods.com/baldursgate3/mods/1930)
+
+- [The Slayer - Improved](https://www.nexusmods.com/baldursgate3/mods/8644)
+
 # Items 
 
 - [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
