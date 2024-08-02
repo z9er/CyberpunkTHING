@@ -84,6 +84,8 @@
 
 - [The Slayer - Improved](https://www.nexusmods.com/baldursgate3/mods/8644)
 
+- [Poor Adventurer (Economy Overhaul)](https://www.nexusmods.com/baldursgate3/mods/3728) would consider it for sure
+
 # Items 
 
 as a note, would never add something that didn't support all body types, because that's a bad idea
@@ -238,6 +240,20 @@ as a note, would never add something that didn't support all body types, because
 
 - [Ancient Jewelry](https://www.nexusmods.com/baldursgate3/mods/1425) ditto, clearly a lot of design thought went into these
 ![picture](https://i.imgur.com/8X048pp.png)
+
+- [Master's Cloaks](https://www.nexusmods.com/baldursgate3/mods/3537) ditto
+
+- [Ancient Weaponry](https://www.nexusmods.com/baldursgate3/mods/4584) again, ditto
+
+- [Randomized Equipment Loot v3](https://www.nexusmods.com/baldursgate3/mods/6326) love this
+
+- [Legendary Equipment - Class Armor Sets V2](https://www.nexusmods.com/baldursgate3/mods/2012) just putting this absurdity here so it's known i tortured myself. why would someone do this
+
+- [Penis Armor](https://www.nexusmods.com/baldursgate3/mods/8245) peak modding. WHY?
+
+- [Restored Content (WIP)](https://www.nexusmods.com/baldursgate3/mods/7443) would absolutely conflict with scleritas fel coffer
+
+- [Flail of Ages Enhanced](https://www.nexusmods.com/baldursgate3/mods/7908) might be too strong but more like the way it was in the earlier game
 
 - 
 
