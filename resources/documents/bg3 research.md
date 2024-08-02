@@ -74,6 +74,10 @@
 
 - [Enemy Spells - MCM](https://www.nexusmods.com/baldursgate3/mods/11051)
 
+- [Camp Event Notifications](https://www.nexusmods.com/baldursgate3/mods/1879)
+
+- [Orin's True Bossfight](https://www.nexusmods.com/baldursgate3/mods/4107) maybe
+
 # Items 
 
 - [Vanilla Weapon OverHaul - Crafting Compatible](https://www.nexusmods.com/baldursgate3/mods/3114) maybe
@@ -81,6 +85,8 @@
 - [ARSENAL OVERHAUL -- Weapon Viability Enhanced](https://www.nexusmods.com/baldursgate3/mods/2370) prob not
 
 # Classes
+
+- [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
 
 - [Oath of Zeal - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/8329)
 
