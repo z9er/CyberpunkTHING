@@ -266,7 +266,9 @@
 
 - [Succubus-new class](https://www.nexusmods.com/baldursgate3/mods/7235) not 5e, and ehhh... not a fan but well done I guess
 
-- 
+- [Circle of the Sea - Druid Subclass](https://www.nexusmods.com/baldursgate3/mods/7586) class icon eh
+
+- [Theurgy Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/6922)
 
 # Spells
 
