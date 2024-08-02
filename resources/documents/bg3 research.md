@@ -110,9 +110,15 @@
 
 - [Helm's Armory - Shield and Longsword for Paladin Cleric](https://www.nexusmods.com/baldursgate3/mods/6345) looks nice but, my itemization :(
 
-- [Faith and Fortitude - Cleric Equipment](https://www.nexusmods.com/baldursgate3/mods/9415) most insane itemization I've seen in a while, the fuck
+- [Faith and Fortitude - Cleric Equipment](https://www.nexusmods.com/baldursgate3/mods/9415) not as insane as i thought, strong
 
 - [Hollow's Staff of Lucretious (Necromancy)](https://www.nexusmods.com/baldursgate3/mods/11173) prob too strong but at least not insane
+
+- [Armaments of Bhaal's Chosen (Dark Urge)](https://www.nexusmods.com/baldursgate3/mods/10743) fucking nutso itemization, why is everything legendary
+
+- [Selunite Weaponry](https://www.nexusmods.com/baldursgate3/mods/10940) silly itemization
+
+- [Grove and Growl - Druid Equipment](https://www.nexusmods.com/baldursgate3/mods/10304) finally a bit less silly itemization but maybe that's just in comparison
 
 # Classes
 
