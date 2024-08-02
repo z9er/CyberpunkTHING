@@ -254,11 +254,25 @@
 
 - [Zeal Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/9089) not great class icon
 
-- [Favored Soul - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/9369)
+- [Favored Soul - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/9369) 
+
+- [Rogue Fencer Subclass](https://www.nexusmods.com/baldursgate3/mods/5170) def 5e inspired, unsure
+
+- [Circle of the Blighted Druid Subclass](https://www.nexusmods.com/baldursgate3/mods/8805)
+
+- [Oath of Redemption Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/7635)
+
+- [Rogues Extra](https://www.nexusmods.com/baldursgate3/mods/189)
+
+- [Succubus-new class](https://www.nexusmods.com/baldursgate3/mods/7235) not 5e, and ehhh... not a fan but well done I guess
 
 - 
 
 # Spells
+
+- [UA6 Cunning Strike](https://www.nexusmods.com/baldursgate3/mods/507)
+
+- [Command Undead - Necromancy Subclass Feature](https://www.nexusmods.com/baldursgate3/mods/6291)
 
 - [Mass Unsummon](https://www.nexusmods.com/baldursgate3/mods/5870)
 
