@@ -226,6 +226,19 @@ as a note, would never add something that didn't support all body types, because
 
 - [Elven Weaponry - Spears](https://www.nexusmods.com/baldursgate3/mods/4944) ah thank god im back home again, much better, same as the other ones. thank god
 
+- [Aether's Black Dye](https://www.nexusmods.com/baldursgate3/mods/1177) it's just one dye, but it's a legendary black one, so maybe it's special. looks nice. who doesn't like black?
+
+- [Venomous Stillmaker](https://www.nexusmods.com/baldursgate3/mods/8543) i dunno i like it, it's interesting
+
+- [Elven Weaponry - Katana](https://www.nexusmods.com/baldursgate3/mods/4145) pretty great sword, but is it worth giving up... so many good items from the main game? I like that kind of choice
+
+- [The Prison-Pocketknife](https://www.nexusmods.com/baldursgate3/mods/8523) i wish this didn't exist
+
+- [Ancient Armoury](https://www.nexusmods.com/baldursgate3/mods/7771) I really like these, they're well done and interesting
+
+- [Ancient Jewelry](https://www.nexusmods.com/baldursgate3/mods/1425) ditto, clearly a lot of design thought went into these
+![picture](https://i.imgur.com/8X048pp.png)
+
 - 
 
 # Classes
