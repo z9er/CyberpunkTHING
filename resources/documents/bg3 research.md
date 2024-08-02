@@ -232,6 +232,32 @@
 
 - [Chronurgy Magic Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/3323) no class icon
 
+- [Green Knight Fighter Subclass](https://www.nexusmods.com/baldursgate3/mods/10211) maybe not 5e, no class icon
+
+- [Witch Class](https://www.nexusmods.com/baldursgate3/mods/9118) homebrew but interesting
+
+- [Forge Domain Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/5685) not great icon
+
+- [Wretched Bloodline Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/10139) homebrew but interest, no class icon
+
+- [Mind Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/9887) prob no class icon
+
+- [Protection Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/9449) no class icon
+
+- [Strength Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/9054) not a great icon
+
+- [Ambition Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/8734) no class icon
+
+- [The Celestial Warlock Subclass](https://www.nexusmods.com/baldursgate3/mods/9933) prob better implementation than other one
+
+- [Clockwork Soul Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/9081) no class icon
+
+- [Zeal Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/9089) not great class icon
+
+- [Favored Soul - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/9369)
+
+- 
+
 # Spells
 
 - [Mass Unsummon](https://www.nexusmods.com/baldursgate3/mods/5870)
@@ -241,6 +267,8 @@
 - [Immediate Cast Create Sorcerer Points and Create Spell Slots](https://www.nexusmods.com/baldursgate3/mods/8514)
 
 - [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405)
+
+- [Metamagic Enhanced](https://www.nexusmods.com/baldursgate3/mods/9543) alternative to above
 
 - [5e Spells Compatibility Patch](https://www.nexusmods.com/baldursgate3/mods/7054)
 
