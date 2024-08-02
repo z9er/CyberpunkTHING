@@ -166,8 +166,6 @@
 
 - [PHOENIX SOUL - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/10926) not 5e but combo of 2 5e subclasses
 
-- [Hexcraft - Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/10196) laserllama prob not
-
 - [Death Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/9790) already in cleric subclasses, but newer??
 
 - [Shadow Sorcery](https://www.nexusmods.com/baldursgate3/mods/9420)
@@ -269,6 +267,26 @@
 - [Circle of the Sea - Druid Subclass](https://www.nexusmods.com/baldursgate3/mods/7586) class icon eh
 
 - [Theurgy Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/6922)
+
+- [Moon Domain Cleric](https://www.nexusmods.com/baldursgate3/mods/6758) option as opposed to the one from cleric subclasses
+
+- [Twilight Domain Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/5481) option as opposed to cleric subclasses
+
+- [More Battle Master Maneuvers](https://www.nexusmods.com/baldursgate3/mods/3387)
+
+- [Drakewarden (Ranger Subclass)](https://www.nexusmods.com/baldursgate3/mods/2838)
+
+- [Artificer class and all subclasses](https://www.nexusmods.com/baldursgate3/mods/1779)
+
+- [Harlequin Class Mod](https://www.nexusmods.com/baldursgate3/mods/2120) interesting but prob not, not 5e
+
+- [Sentinel Class](https://www.nexusmods.com/baldursgate3/mods/3013) interesting but prob not, not 5e
+
+- [Brute (UA) Subclass for Fighter](https://www.nexusmods.com/baldursgate3/mods/2177) no class icon
+
+- [Bard Subclass - College of Glamour](https://www.nexusmods.com/baldursgate3/mods/741) no class icon
+
+- [Additional Fighting Styles](https://www.nexusmods.com/baldursgate3/mods/858)
 
 # Spells
 
