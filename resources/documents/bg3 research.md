@@ -122,6 +122,8 @@
 
 - [Gear Revised Shields](https://www.nexusmods.com/baldursgate3/mods/10984) interesting but prob conflicts with other stuff
 
+- [Better end game caster Robe](https://www.nexusmods.com/baldursgate3/mods/10963) not as insane but only in comparison to other stuff
+
 # Classes
 
 - [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
