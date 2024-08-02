@@ -206,6 +206,26 @@ as a note, would never add something that didn't support all body types, because
 
 - [Umberlee's Nets](https://www.nexusmods.com/baldursgate3/mods/3368) ditto
 
+- [Elven Weaponry - Needle of the Outlaw Rogue](https://www.nexusmods.com/baldursgate3/mods/6117) this is fun, nice dos2 nostalgia
+
+- [Wand of Fireballs PHB](https://www.nexusmods.com/baldursgate3/mods/8873) interesting, nicely implemented, straight outta the phb
+
+- [Boring Pastel Dyes](https://www.nexusmods.com/baldursgate3/mods/3919) ah, that's the stuff, nice and boring after a rollercoaster of insane items, prob implemented at vendors like shit or something but ill take it
+
+- [Boring NPC Dyes](https://www.nexusmods.com/baldursgate3/mods/4408) even more boring (honestly I find these incredibly appealing aesthetically, these are nice)
+
+- [Dyeable Nails](https://www.nexusmods.com/baldursgate3/mods/8858) seems kind of complicated for what it is, i felt tired immediately
+
+- [Izzli's Pigments - A Dye Mod](https://www.nexusmods.com/baldursgate3/mods/4706) more nice dyes, I like em
+
+- [Elven Weaponry - Shortbows](https://www.nexusmods.com/baldursgate3/mods/5669) more of the same, all pretty good
+
+- [JWL Sceleritas Fel's Coffers of Forlorn Treasures (Lootboxes)](https://www.nexusmods.com/baldursgate3/mods/7938) fun, prob a bit much, but can't say it ain't fun
+
+- [Vestiges of Divergence Legendary Collection](https://www.nexusmods.com/baldursgate3/mods/8653) there we go, just a bunch of op shit. why, and goddamn EVERYTHING is legendary, WHY
+
+- [Elven Weaponry - Spears](https://www.nexusmods.com/baldursgate3/mods/4944) ah thank god im back home again, much better, same as the other ones. thank god
+
 - 
 
 # Classes
