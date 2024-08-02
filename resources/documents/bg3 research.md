@@ -160,6 +160,78 @@
 
 - [Aberrant Mind Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/3901)
 
+- [Compatibility Framework Subclass Patches](https://www.nexusmods.com/baldursgate3/mods/6996)
+
+- [Psionic Soul Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/11059)
+
+- [PHOENIX SOUL - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/10926) not 5e but combo of 2 5e subclasses
+
+- [Hexcraft - Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/10196) laserllama prob not
+
+- [Death Domain - Cleric Subclass](https://www.nexusmods.com/baldursgate3/mods/9790) already in cleric subclasses, but newer??
+
+- [Shadow Sorcery](https://www.nexusmods.com/baldursgate3/mods/9420)
+
+- [Skald](https://www.nexusmods.com/baldursgate3/mods/7340) maybe not 5e? confusing
+
+- [Psionics - Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/10014)
+
+- [Monk Subclass - Way of Mercy](https://www.nexusmods.com/baldursgate3/mods/1749)
+
+- [Monk Subclass - Way of No Mercy](https://www.nexusmods.com/baldursgate3/mods/5695)
+
+- [Stone Sorcery - Subclass for Sorcerer](https://www.nexusmods.com/baldursgate3/mods/8299) not a great icon
+
+- [Sea Sorcery - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/10402) not a great icon
+
+- [Giant Soul - Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/9960)
+
+- [Subclass Compatch - Compatibility Mod](https://www.nexusmods.com/baldursgate3/mods/6786)
+
+- [Bard Subclass - College of Creation](https://www.nexusmods.com/baldursgate3/mods/4519)
+
+- [Bard Subclass - College of Eloquence](https://www.nexusmods.com/baldursgate3/mods/4651)
+
+- [College of Spirits Bard Subclass](https://www.nexusmods.com/baldursgate3/mods/4309) no custom icon yet
+
+- [Circle of Dreams (Druid Subclass)](https://www.nexusmods.com/baldursgate3/mods/1844) old, not the best implementation
+
+- [Circle of Stars Druid Subclass](https://www.nexusmods.com/baldursgate3/mods/505) no custom icon yet
+
+- [Circle of the Shepherd Druid Subclass](https://www.nexusmods.com/baldursgate3/mods/8515) no custom icon yet
+
+- [Circle of Wildfire Druid Subclass (5e)](https://www.nexusmods.com/baldursgate3/mods/2855) no custom icon yet
+
+- [Fighter Subclass - Cavalier](https://www.nexusmods.com/baldursgate3/mods/4979)
+
+- [Psi Warrior](https://www.nexusmods.com/baldursgate3/mods/2859) old half done implementation, keep an eye on
+
+- [Oath of Conquest Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/477) no class icon
+
+- [Oath of Glory - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/3413) no class icon
+
+- [Oath of the Crown - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/5596) ok icon
+
+- [Oath of the Watchers - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/3634) no class icon
+
+- [Fey Wanderer](https://www.nexusmods.com/baldursgate3/mods/2463)
+
+- [Swarmkeeper Ranger Subclass](https://www.nexusmods.com/baldursgate3/mods/494) no class icon
+
+- [Sorcerer - Divine Soul (Revised)](https://www.nexusmods.com/baldursgate3/mods/4443)
+
+- [Lunar Sorcery Sorcerer Subclass](https://www.nexusmods.com/baldursgate3/mods/8218) no class icon
+
+- [Celestial Warlock](https://www.nexusmods.com/baldursgate3/mods/1567) old, no class icon, unsure on implementation, watch
+
+- [Hexblade Subclass](https://www.nexusmods.com/baldursgate3/mods/1100)
+
+- [Wizard - War Magic Tradtion](https://www.nexusmods.com/baldursgate3/mods/7932)
+
+- [Graviturgy Magic Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/484) no class icon
+
+- [Chronurgy Magic Wizard Subclass](https://www.nexusmods.com/baldursgate3/mods/3323) no class icon
+
 # Spells
 
 - [Mass Unsummon](https://www.nexusmods.com/baldursgate3/mods/5870)
