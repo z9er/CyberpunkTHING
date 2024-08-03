@@ -94,9 +94,67 @@
 
 - [Add Unarmed Attacks to Savage Attacker and Savage Attacks](https://www.nexusmods.com/baldursgate3/mods/2473)
 
-# Aesthetics
+- [Always Show Approvals](https://www.nexusmods.com/baldursgate3/mods/4675) prob not
+
+- [Auto Lockpicking](https://www.nexusmods.com/baldursgate3/mods/6188)
+
+- [Compatibility Framework](https://www.nexusmods.com/baldursgate3/mods/1933)
+
+- [Dr. Kekyll's Grappling Framework](https://www.nexusmods.com/baldursgate3/mods/3382)
+
+- [Fix Stragglers](https://www.nexusmods.com/baldursgate3/mods/10795) maybe
+
+- [Grappler Feat](https://www.nexusmods.com/baldursgate3/mods/3455) maybe
+
+- [More Reactive Companions](https://www.nexusmods.com/baldursgate3/mods/5447)
+
+- [Myshka Comes To Camp](https://www.nexusmods.com/baldursgate3/mods/6126)
+
+- [Norbyte's Baldur's Gate 3 Script Extender](https://www.nexusmods.com/baldursgate3/mods/2172)
+
+- [Short Rest Cooldown](https://www.nexusmods.com/baldursgate3/mods/10744) maybe
+
+- [Smaller Boo](https://www.nexusmods.com/baldursgate3/mods/6762)
+
+# UI
 
 - [Aether's Better Loading Screens](https://www.nexusmods.com/baldursgate3/mods/757)
+
+- [Slightly Better Split Item Menu](https://www.nexusmods.com/baldursgate3/mods/1722)
+
+- [Slightly Better Trade Menu](https://www.nexusmods.com/baldursgate3/mods/1893)
+
+- [ReactionPointsOnUI](https://www.nexusmods.com/baldursgate3/mods/3345)
+
+- [No Press Any Key Menu](https://www.nexusmods.com/baldursgate3/mods/745)
+
+- [No Intro](https://www.nexusmods.com/baldursgate3/mods/680)
+
+- [ImprovedUI ReleaseReady](https://www.nexusmods.com/baldursgate3/mods/366)
+
+- [Mod Configuration Menu (MCM)](https://www.nexusmods.com/baldursgate3/mods/9162)
+
+- [Improved World Tooltips](https://www.nexusmods.com/baldursgate3/mods/5342) maybe
+
+- [Dynamic Sidebar](https://www.nexusmods.com/baldursgate3/mods/2668)
+
+- [Druid Quality of Life - Hotbar Restore](https://www.nexusmods.com/baldursgate3/mods/5877)
+
+- [Better Hex Icons](https://www.nexusmods.com/baldursgate3/mods/7816)
+
+- [Better Target Info](https://www.nexusmods.com/baldursgate3/mods/3269)
+
+- [Better Tooltips](https://www.nexusmods.com/baldursgate3/mods/6324)
+
+- [Better Topbar](https://www.nexusmods.com/baldursgate3/mods/2790)
+
+- [Better Various Widgets](https://www.nexusmods.com/baldursgate3/mods/5291)
+
+- [Icons for Modded Subclasses](https://www.nexusmods.com/baldursgate3/mods/4216)
+
+- [Customized Subclass Icons](https://www.nexusmods.com/baldursgate3/mods/8807)
+
+- [Distinctive Dyes](https://www.nexusmods.com/baldursgate3/mods/4003)
 
 # Items 
 
