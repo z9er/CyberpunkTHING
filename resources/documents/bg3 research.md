@@ -86,6 +86,18 @@
 
 - [Poor Adventurer (Economy Overhaul)](https://www.nexusmods.com/baldursgate3/mods/3728) would consider it for sure
 
+- [OneDnD Barbarian - Short Rest Rage Recovery](https://www.nexusmods.com/baldursgate3/mods/6197)
+
+- [Warlock - Pact of the Chain - Winged Horror](https://www.nexusmods.com/baldursgate3/mods/10916)
+
+- [(See) Invisibility Rework](https://www.nexusmods.com/baldursgate3/mods/3902)
+
+- [Add Unarmed Attacks to Savage Attacker and Savage Attacks](https://www.nexusmods.com/baldursgate3/mods/2473)
+
+# Aesthetics
+
+- [Aether's Better Loading Screens](https://www.nexusmods.com/baldursgate3/mods/757)
+
 # Items 
 
 as a note, would never add something that didn't support all body types, because that's a bad idea
@@ -490,6 +502,8 @@ as a note, would never add something that didn't support all body types, because
 # Spells
 
 - [Blink Fixed](https://www.nexusmods.com/baldursgate3/mods/2963)
+
+- [5e Spells and Homebrew spells - duration and effect changes](https://www.nexusmods.com/baldursgate3/mods/1590)
 
 - [Arms of Hadar Enhanced](https://www.nexusmods.com/baldursgate3/mods/11390) maybe
 
