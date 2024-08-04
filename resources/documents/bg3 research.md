@@ -363,6 +363,8 @@ as a note, would never add something that didn't support all body types, because
 
 - [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
 
+- [Path of Fundamental Chaos - Barbarian Subclass](https://www.nexusmods.com/baldursgate3/mods/4086)
+
 - [Oath of Zeal - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/8329)
 
 - [Fathomless Patron For Warlocks](https://www.nexusmods.com/baldursgate3/mods/2724)
