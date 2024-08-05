@@ -116,6 +116,8 @@
 
 - [Smaller Boo](https://www.nexusmods.com/baldursgate3/mods/6762)
 
+- [Metamagic Compatibility Patch](https://www.nexusmods.com/baldursgate3/mods/5674)
+
 # UI
 
 - [Aether's Better Loading Screens](https://www.nexusmods.com/baldursgate3/mods/757)
