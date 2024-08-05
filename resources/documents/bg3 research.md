@@ -363,6 +363,8 @@ as a note, would never add something that didn't support all body types, because
 
 - [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
 
+- [5e Psi Warrior - Fighter Subclasss](https://www.nexusmods.com/baldursgate3/mods/11413)
+
 - [Path of Fundamental Chaos - Barbarian Subclass](https://www.nexusmods.com/baldursgate3/mods/4086) prob not, some critical role shit
 
 - [Oath of Zeal - Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/8329)
@@ -472,8 +474,6 @@ as a note, would never add something that didn't support all body types, because
 - [Circle of Wildfire Druid Subclass (5e)](https://www.nexusmods.com/baldursgate3/mods/2855) no custom icon yet
 
 - [Fighter Subclass - Cavalier](https://www.nexusmods.com/baldursgate3/mods/4979)
-
-- [Psi Warrior](https://www.nexusmods.com/baldursgate3/mods/2859) old half done implementation, keep an eye on
 
 - [Oath of Conquest Paladin Subclass](https://www.nexusmods.com/baldursgate3/mods/477) no class icon
 
