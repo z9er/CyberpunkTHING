@@ -58,8 +58,6 @@
 
 # Updated Mods
 
-### NPC Interactions
-
 ### Gameplay Mechanics
 
 - [Buttslinger Quickmelee 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/10556)
