@@ -726,3 +726,5 @@ as a note, would never add something that didn't support all body types, because
 - [Sunwalker's Gift Fix - Darkvision Bugfix](https://www.nexusmods.com/baldursgate3/mods/5652)
 
 - [Barbarian - Wild Heart Rage Bug Fix](https://www.nexusmods.com/baldursgate3/mods/5567)
+
+- [Infinite Turn Fix](https://www.nexusmods.com/baldursgate3/mods/11440)
