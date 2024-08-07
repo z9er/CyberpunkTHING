@@ -1,5 +1,9 @@
 # Added Mods
 
+### Gameplay Mechanics
+
+- [Reflex is Cool 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15963)
+
 ### Enemies and Difficulty
 
 - [No shooting delay 1.0](https://www.nexusmods.com/cyberpunk2077/mods/15559)
@@ -116,9 +120,7 @@
 
 - [Enhanced Craft 4.0.3](https://www.nexusmods.com/cyberpunk2077/mods/4378)
 
-- [Equipment-EX 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/6945)
-
-### UI
+- [Equipment-EX 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
 ### Quality of Life
 
@@ -138,7 +140,7 @@
 
 ### Utility
 
-- [ArchiveXL 1.16.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
+- [ArchiveXL 1.16.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
 - [Codeware 1.12.3](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
