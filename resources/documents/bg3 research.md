@@ -365,6 +365,8 @@ as a note, would never add something that didn't support all body types, because
 
 - [Warlock - The Undead subclass](https://www.nexusmods.com/baldursgate3/mods/3045)
 
+- [Fighter Subclass - Cavalier](https://www.nexusmods.com/baldursgate3/mods/4979)
+
 - [5e Psi Warrior - Fighter Subclasss](https://www.nexusmods.com/baldursgate3/mods/11413)
 
 - [Path of Fundamental Chaos - Barbarian Subclass](https://www.nexusmods.com/baldursgate3/mods/4086) prob not, some critical role shit
