@@ -158,6 +158,8 @@
 
 - [Distinctive Dyes](https://www.nexusmods.com/baldursgate3/mods/4003)
 
+- [Randomised Equipment Loot- Script Extender plugin](https://www.nexusmods.com/baldursgate3/mods/9262)
+
 # Items 
 
 as a note, would never add something that didn't support all body types, because that's a bad idea
