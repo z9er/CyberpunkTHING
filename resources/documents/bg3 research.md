@@ -242,6 +242,8 @@ as a note, would never add something that didn't support all body types, because
 
 - [Various Rings and Amulets](https://www.nexusmods.com/baldursgate3/mods/10406) way, way, way, way, way too fucking strong
 
+- [Gifts of the Absolute - Branded Equipment](https://www.nexusmods.com/baldursgate3/mods/11487)
+
 - [Druid Wildshape Items - Weapons Armor and more gear](https://www.nexusmods.com/baldursgate3/mods/4535) this is cool, combination of redoing items already there and new ones, placed well, prob conflicts with overall weapon rebalance things but considerin
 
 - [Useful Music Instruments and Deekin Scalesinger](https://www.nexusmods.com/baldursgate3/mods/3933) silly, incredibly over the top, everything legendary, turns everyone into a summoner... great
