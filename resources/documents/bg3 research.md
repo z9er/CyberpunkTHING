@@ -168,7 +168,9 @@ as a note, would never add something that didn't support all body types, because
 
 - [Elven Weaponry - Blades](https://www.nexusmods.com/baldursgate3/mods/4073) probably way too strong just noting it (note from after i went through all the items. this is actually fine and perfect and good, I was so wrong)
 
-- [Dwarven Weaponry - Hammers](https://www.nexusmods.com/baldursgate3/mods/11379) 
+- [Dwarven Weaponry - Hammers](https://www.nexusmods.com/baldursgate3/mods/11379)
+
+- [Drow Weaponry - Hand Crossbows](https://www.nexusmods.com/baldursgate3/mods/11486)
 
 - [Deathsong Set](https://www.nexusmods.com/baldursgate3/mods/4572) prob way too strong but fun implementation
 
