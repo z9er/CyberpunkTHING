@@ -118,6 +118,8 @@
 
 - [Metamagic Compatibility Patch](https://www.nexusmods.com/baldursgate3/mods/5674)
 
+- [Longstrider AoE](https://www.nexusmods.com/baldursgate3/mods/624)
+
 # UI
 
 - [Aether's Better Loading Screens](https://www.nexusmods.com/baldursgate3/mods/757)
