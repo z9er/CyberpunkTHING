@@ -170,6 +170,8 @@ as a note, would never add something that didn't support all body types, because
 
 - [Dwarven Weaponry - Hammers](https://www.nexusmods.com/baldursgate3/mods/11379)
 
+- [Restored Content (WIP)](https://www.nexusmods.com/baldursgate3/mods/7443)
+
 - [Drow Weaponry - Hand Crossbows](https://www.nexusmods.com/baldursgate3/mods/11486)
 
 - [Deathsong Set](https://www.nexusmods.com/baldursgate3/mods/4572) prob way too strong but fun implementation
