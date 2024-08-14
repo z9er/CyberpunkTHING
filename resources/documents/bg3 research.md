@@ -746,3 +746,5 @@ as a note, would never add something that didn't support all body types, because
 - [Vanilla Missing Icons](https://www.nexusmods.com/baldursgate3/mods/7640)
 
 - [Camp Caster Helper](https://www.nexusmods.com/baldursgate3/mods/11512)
+
+- [Gortash's Matching Boots - Fix The Clown-Red Faux Pas](https://www.nexusmods.com/baldursgate3/mods/11563)
