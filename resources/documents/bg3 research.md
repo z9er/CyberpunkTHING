@@ -120,6 +120,10 @@
 
 - [Longstrider AoE](https://www.nexusmods.com/baldursgate3/mods/624)
 
+- [Sprint Hotkey](https://www.nexusmods.com/baldursgate3/mods/11574)
+
+- [Champions of Faerun](https://www.nexusmods.com/baldursgate3/mods/11485)
+
 # UI
 
 - [Aether's Better Loading Screens](https://www.nexusmods.com/baldursgate3/mods/757)
@@ -169,6 +173,8 @@ as a note, would never add something that didn't support all body types, because
 - [Elven Weaponry - Blades](https://www.nexusmods.com/baldursgate3/mods/4073) probably way too strong just noting it (note from after i went through all the items. this is actually fine and perfect and good, I was so wrong)
 
 - [Dwarven Weaponry - Hammers](https://www.nexusmods.com/baldursgate3/mods/11379)
+
+- [Starting Equipment PHB](https://www.nexusmods.com/baldursgate3/mods/6373)
 
 - [Dwarven Weaponry - Drakefire Flintlock](https://www.nexusmods.com/baldursgate3/mods/8797)
 
