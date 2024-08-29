@@ -206,6 +206,6 @@ breach access point yes
 
 Locked down
 
-breach person
+breach person yes
 
 breach access point yes
