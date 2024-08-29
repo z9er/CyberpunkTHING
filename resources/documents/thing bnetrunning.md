@@ -88,4 +88,13 @@ Breach person (isn't one)
 
 breach access point no (same to breaching dead mox)
 
+### Gig: Hippocratic Oath 
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+
 
