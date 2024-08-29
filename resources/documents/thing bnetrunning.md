@@ -139,3 +139,13 @@ unsure
 ### Gig: Small Man, Big Evil 
 
 unsure
+
+# Westbrook
+
+### Family Heirloom 
+
+Locked down
+
+breach person yes
+
+breach access point yes
