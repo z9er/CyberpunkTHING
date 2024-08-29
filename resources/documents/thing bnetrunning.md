@@ -281,3 +281,21 @@ Locked down
 breach person yes
 
 breach access point yes? (takes a while to unlock then does on enemies?)
+
+# City Center
+
+### The Frolics of Councilwoman Cole
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Guinea Pigs
+
+Locked down
+
+breach person yes
+
+breach access point yes
