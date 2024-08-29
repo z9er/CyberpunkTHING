@@ -342,6 +342,43 @@ breach person yes
 
 breach access point no (can't find one other than top and it doesn't)
 
-### 
+### Gig: Going Up or Down?
+
+Not locked down
+
+### Gig: Eye for an Eye
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Gig: Psychofan
+
+Not relevant
+
+### Fifth Column
+
+Not locked down
+
+### Gig: Life's Work
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Gig: Jeopardy
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+
+
 
 
