@@ -220,4 +220,32 @@ breach person not relevant (only one person)
 
 breach access point yes
 
+### Trevor's Last Ride
+
+Locked down
+
+breach person yes
+
+breach access point yes (one on roof maybe or side of main building can't tell)
+
+### Big Pete's Got Big Problems
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Goodbye, Night City
+
+Not locked down
+
+### Sparring Partner
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
 
