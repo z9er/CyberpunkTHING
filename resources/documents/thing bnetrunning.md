@@ -158,7 +158,7 @@ breach person yes
 
 breach access point yes (the one at the end or from other entrance)
 
-### Until Death Do Us Part 
+### [Until Death Do Us Part](https://cyberpunk.fandom.com/wiki/Gig:_Until_Death_Do_Us_Part)
 
 Locked down
 
@@ -260,7 +260,7 @@ breach person yes
 
 breach access point yes (weird one not on top) 
 
-### Radar Love 
+### [Radar Love](https://cyberpunk.fandom.com/wiki/Gig:_Radar_Love) 
 
 Locked down
 
