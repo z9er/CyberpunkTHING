@@ -274,7 +274,7 @@ Not locked down
 
 # Pacifica
 
-### Two Wrongs Makes Us Right
+### [Two Wrongs Makes Us Right](https://cyberpunk.fandom.com/wiki/Gig:_Two_Wrongs_Makes_Us_Right)
 
 Locked down
 
