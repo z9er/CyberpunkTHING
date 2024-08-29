@@ -8,7 +8,7 @@ Breach Person yes
 
 Breach access point yes
 
-### Gig: Bloodsport
+### [Gig: Bloodsport](https://cyberpunk.fandom.com/wiki/Gig:_Bloodsport)
 
 Locked down
 
@@ -60,7 +60,7 @@ breach person yes
 
 breach access point yes
 
-### Many Ways to Skin a Cat
+### [Many Ways to Skin a Cat](https://cyberpunk.fandom.com/wiki/Gig:_Many_Ways_to_Skin_a_Cat)
 
 Locked down
 
@@ -80,7 +80,7 @@ breach person yes
 
 breach access point yes
 
-### Gig: Occupational Hazard 
+### [Gig: Occupational Hazard](https://cyberpunk.fandom.com/wiki/Gig:_Occupational_Hazard)
 
 Locked down
 
@@ -112,7 +112,7 @@ Not locked down
 
 Not locked down
 
-### Rite of Passage
+### [Rite of Passage](https://cyberpunk.fandom.com/wiki/Gig:_Rite_of_Passage)
 
 Locked down
 
