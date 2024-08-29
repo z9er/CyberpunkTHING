@@ -80,3 +80,12 @@ breach person yes
 
 breach access point yes
 
+### Gig: Occupational Hazard 
+
+Locked down
+
+Breach person (isn't one)
+
+breach access point no (same to breaching dead mox)
+
+
