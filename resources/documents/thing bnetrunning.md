@@ -299,3 +299,11 @@ Locked down
 breach person yes
 
 breach access point yes
+
+### An Inconvenient Killer
+
+Locked down
+
+breach person yes
+
+breach access point yes (back room pretty hidden)
