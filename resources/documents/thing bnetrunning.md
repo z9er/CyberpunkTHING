@@ -248,4 +248,28 @@ breach person yes
 
 breach access point yes
 
+### Flying Drugs 
+
+Not locked down
+
+### No Fixers
+
+Locked down
+
+breach person yes
+
+breach access point yes (weird one not on top) 
+
+### Radar Love 
+
+Locked down
+
+breach person yes
+
+breach access point no 
+
+### Dancing on a Minefield
+
+Not locked down
+
 
