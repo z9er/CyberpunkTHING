@@ -209,3 +209,15 @@ Locked down
 breach person yes
 
 breach access point yes
+
+# Badlands
+
+### MIA
+
+Locked down
+
+breach person not relevant (only one person) 
+
+breach access point yes
+
+
