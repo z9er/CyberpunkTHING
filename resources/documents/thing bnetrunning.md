@@ -36,5 +36,47 @@ breach person yes
 
 breach access point yes
 
+### Gig: Troublesome Neighbors 
 
+Not locked down
+
+### Gig: Shark in the Water
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Gig: Woman of La Mancha
+
+Not locked down
+
+### Gig: Catch a Tyger's Toe
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Many Ways to Skin a Cat
+
+Locked down
+
+breach person yes
+
+breach access point no
+
+### Gig: Freedom of the Press 
+
+Unsure
+
+### Flight of the Cheetah
+
+Locked down
+
+breach person yes
+
+breach access point yes
 
