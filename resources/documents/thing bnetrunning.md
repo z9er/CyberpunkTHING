@@ -120,4 +120,22 @@ Breach person yes
 
 breach access point no
 
+### Concrete Cage Trap
 
+unsure
+
+### Fixer, Merc, Soldier, Spy
+
+unsure
+
+### Gig: Last Login
+
+unsure
+
+### Gig: Welcome to America, Comrade
+
+unsure
+
+### Gig: Small Man, Big Evil 
+
+unsure
