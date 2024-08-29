@@ -320,4 +320,28 @@ breach person yes
 
 breach access point yes (one sorta in back)
 
+# Heywood
+
+### Gig: The Lord Giveth and Taketh Away
+
+Locked down
+
+breach person yes 
+
+breach access point yes
+
+### Hot Merchandise
+
+Not locked down
+
+### On a Tight Leash
+
+Locked down
+
+breach person yes
+
+breach access point no (can't find one other than top and it doesn't)
+
+### 
+
 
