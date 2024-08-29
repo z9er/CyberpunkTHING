@@ -177,3 +177,35 @@ breach access point yes (for device hacks)
 ### Olive Branch 
 
 Not relevant
+
+### Greed Never Pays
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Getting Warmer...
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### We Have Your Wife
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### A Shrine Defiled
+
+Locked down
+
+breach person
+
+breach access point yes
