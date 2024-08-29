@@ -378,6 +378,14 @@ breach person yes
 
 breach access point yes
 
+### Gig: Old Friends
+
+Not locked down
+
+### Gig: Sr. Ladrillo's Private Collection
+
+Locked down
+
 
 
 
