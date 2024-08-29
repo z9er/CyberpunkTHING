@@ -96,5 +96,28 @@ breach person yes
 
 breach access point yes
 
+### Gig: Scrolls before Swine
+
+Locked down
+
+breach person yes
+
+breach access point yes (one on roof)
+
+### Gig: Dirty Biz 
+
+Not locked down
+
+### Gig: Lousy Kleppers
+
+Not locked down
+
+### Rite of Passage
+
+Locked down
+
+Breach person yes
+
+breach access point no
 
 
