@@ -149,3 +149,31 @@ Locked down
 breach person yes
 
 breach access point yes
+
+### Tyger and Vulture
+
+Locked down
+
+breach person yes
+
+breach access point yes (the one at the end or from other entrance)
+
+### Until Death Do Us Part 
+
+Locked down
+
+breach person no (it's all robots)
+
+breach access point no (can't find one, maybe because it's all robots)
+
+### Wakako's Favorite
+
+Locked down
+
+breach person not relevant
+
+breach access point yes (for device hacks)
+
+### Olive Branch 
+
+Not relevant
