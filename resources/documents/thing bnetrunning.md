@@ -307,3 +307,17 @@ Locked down
 breach person yes
 
 breach access point yes (back room pretty hidden)
+
+### A Lack of Empathy
+
+Not locked down
+
+### Serial Suicide 
+
+Locked down
+
+breach person yes
+
+breach access point yes (one sorta in back)
+
+
