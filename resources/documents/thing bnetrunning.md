@@ -398,6 +398,33 @@ breach person yes
 
 breach access point yes (near end) 
 
+### Desperate Measures
+
+Not relevent or locked down
+
+### Severance Package
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Nasty Hangover
+
+Not locked down
+
+### Serious Side Effects 
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### 
+
+
 
 
 
