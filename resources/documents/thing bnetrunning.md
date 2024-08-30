@@ -340,7 +340,7 @@ Locked down
 
 breach person yes
 
-breach access point no (can't find one other than top and it doesn't)
+breach access point yes (the one in the middle of nowhere ground level on the side outside)
 
 ### Gig: Going Up or Down?
 
