@@ -334,7 +334,7 @@ breach access point yes
 
 Not locked down
 
-### On a Tight Leash
+### [On a Tight Leash](https://cyberpunk.fandom.com/wiki/Gig:_On_a_Tight_Leash)
 
 Locked down
 
