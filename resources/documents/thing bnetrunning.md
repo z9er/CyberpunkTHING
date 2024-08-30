@@ -8,13 +8,13 @@ Breach Person yes
 
 Breach access point yes
 
-### [Gig: Bloodsport](https://cyberpunk.fandom.com/wiki/Gig:_Bloodsport)
+### Gig: Bloodsport
 
 Locked down
 
 breach person yes
 
-Breach access point no to top, yes to bottom
+Breach access yes (bottom one)
 
 ### Gig: The Heisenberg Principle
 
@@ -80,13 +80,13 @@ breach person yes
 
 breach access point yes
 
-### [Gig: Occupational Hazard](https://cyberpunk.fandom.com/wiki/Gig:_Occupational_Hazard)
+### Gig: Occupational Hazard
 
 Locked down
 
 Breach person (isn't one)
 
-breach access point no (same to breaching dead mox)
+breach access point yes (one on roof)
 
 ### Gig: Hippocratic Oath 
 
