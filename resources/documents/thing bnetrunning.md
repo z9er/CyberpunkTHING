@@ -450,7 +450,7 @@ Locked down
 
 breach person yes
 
-breach access point no (doesn't work on right access point)
+breach access point no (both roof access points have personnel option, but it doesn't work on either to unlock for enemies)
 
 ### Family Matters 
 
