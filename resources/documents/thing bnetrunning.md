@@ -444,7 +444,7 @@ breach person yes
 
 breach access point yes
 
-### Breaking News
+### [Breaking News](https://cyberpunk.fandom.com/wiki/Gig:_Breaking_News)
 
 Locked down
 
