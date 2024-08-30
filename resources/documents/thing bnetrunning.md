@@ -118,7 +118,7 @@ Locked down
 
 Breach person yes
 
-breach access point no
+breach access point no (both bottom floor ones and one on top have option to breach personnel but it doesn't work)
 
 ### Concrete Cage Trap
 
