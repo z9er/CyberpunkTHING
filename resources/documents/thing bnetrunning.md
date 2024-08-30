@@ -386,6 +386,18 @@ Not locked down
 
 Locked down
 
+breach person yes
+
+breach access point yes
+
+### Gig: Bring Me the Head of Gustavo Orta
+
+Locked down
+
+breach person yes
+
+breach access point yes (near end) 
+
 
 
 
