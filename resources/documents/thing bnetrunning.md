@@ -398,11 +398,11 @@ breach person yes
 
 breach access point yes (near end) 
 
+# Santo Domingo
+
 ### Desperate Measures
 
 Not relevent or locked down
-
-# Santo Domingo
 
 ### Severance Package
 
