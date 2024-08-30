@@ -266,7 +266,7 @@ Locked down
 
 breach person yes
 
-breach access point no 
+breach access point no (one on roof has breach personnel option, but it doesn't work)
 
 ### Dancing on a Minefield
 
