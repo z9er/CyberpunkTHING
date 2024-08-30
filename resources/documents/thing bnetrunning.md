@@ -60,13 +60,13 @@ breach person yes
 
 breach access point yes
 
-### [Many Ways to Skin a Cat](https://cyberpunk.fandom.com/wiki/Gig:_Many_Ways_to_Skin_a_Cat)
+### Many Ways to Skin a Cat
 
 Locked down
 
 breach person yes
 
-breach access point no
+breach access point yes (one on roof)
 
 ### Gig: Freedom of the Press 
 
