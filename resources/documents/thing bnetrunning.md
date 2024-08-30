@@ -462,7 +462,25 @@ breach person yes
 
 breach access point yes
 
+### Error 404
 
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Going-away Party
+
+Locked down
+
+breach person yes
+
+breach access point yes
+
+### Cuckoo's Nest
+
+Not locked down
 
 
 
