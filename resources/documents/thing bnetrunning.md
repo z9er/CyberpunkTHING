@@ -60,13 +60,13 @@ breach person yes
 
 breach access point yes
 
-### Many Ways to Skin a Cat
+### [Many Ways to Skin a Cat](https://cyberpunk.fandom.com/wiki/Gig:_Many_Ways_to_Skin_a_Cat)
 
 Locked down
 
 breach person yes
 
-breach access point yes (one on roof)
+breach access point yes (one on roof, but the other panels have breach personnel as an option and it won't work on those)
 
 ### Gig: Freedom of the Press 
 
