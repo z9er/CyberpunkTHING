@@ -2,7 +2,7 @@
 
 - razor freezes before his big hit (ENC)
   
-- sasquatch freezes sometimes doesn't do anything (ENC)
+- s boss freezes sometimes doesn't do anything (ENC)
   
 - balls to the wall netrunner archetype issue (ENC)
   
@@ -58,17 +58,17 @@ maybe (MM)~
 
 - ~stealth execute at stadium love npcs don't react (stealth takedowns, report made)~
 
-- ~sasquatch not enough health (enc)~
+- ~s boss not enough health (enc)~
 
-- ~chimera not enough health (enc)~
+- ~c boss not enough health (enc)~
 
 - synapse burnout too much damage/ too fast upload
 
 - transmission part before end fight hard (enc)
 
-- ~chimera machine gun~
+- ~c boss machine gun~
 
-- oda got bugged in 3 grenades stage on platform (enc)
+- o boss got bugged in 3 grenades stage on platform (enc)
 
 - potential crash in nomad intro car chase if dying (unlikely but check)
 
@@ -176,16 +176,15 @@ the "right" one/ones
 
 - ~set scripted vehicle damage to 1 flashback fixer~
 
-- ~increase chimera health~
+- ~increase c boss health~
 
-- ~increase sasquatch health, slight decrease to weakspot health~
+- ~increase s boss health, slight decrease to weakspot health~
 
-- ~increase oda health probably to 1.3~
+- ~increase o boss health probably to 1.3~
 
 - ~decrease security turret health with tougher security turret by half~
 
-- ~change sasquatch enc sliders~
-![sasquatch](https://i.imgur.com/pDpLbAW.png)
+- ~change s boss enc sliders~
 
 # Wishlist
 
