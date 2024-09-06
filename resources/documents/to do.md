@@ -64,7 +64,7 @@ maybe (MM)~
 
 - synapse burnout too much damage/ too fast upload
 
-- transmission part before end fight hard (enc)
+- transmission part netrunners fight hard (enc)
 
 - ~c boss machine gun~
 
