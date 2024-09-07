@@ -74,6 +74,8 @@ maybe (MM)~
 
 - equipment ex wardrobe, exit out, click on head clothing from inventory crash (unlikely but check, eq ex)
 
+- ~report stand after sliding bug~
+
 # Better Netrunning 
 
 ## Personnel Subsystem 
