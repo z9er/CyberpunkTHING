@@ -207,3 +207,5 @@ the "right" one/ones
 # Other QA
 
 ~test mod for demon9ne loot mod~
+
+test d gun mod 
