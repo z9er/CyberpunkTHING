@@ -76,6 +76,12 @@ maybe (MM)~
 
 - ~report stand after sliding bug~
 
+- robot 2 miniboss in pl gig is hard
+
+- ~dynamic grafitti issue (reported to cheddar)~
+
+- ~ambient audio fixer issue (reported to cheddar)~
+
 # Better Netrunning 
 
 ## Personnel Subsystem 
@@ -188,6 +194,10 @@ the "right" one/ones
 
 - ~change s boss enc sliders~
 
+- add section to main page about immersive settings (numbers off, etc) and to video showcase
+
+- add sasquatch hammer mod
+
 # Wishlist
 
 - Sliders for quickhack/melee damage (and maybe throwing) against bosses
@@ -203,6 +213,8 @@ the "right" one/ones
 - slider for tech damage
 
 - Sasquatch faster netwatch hack or slider for speed of it
+
+- on or off for ranged berserks for thing (seijax)
 
 # Other QA
 
