@@ -196,7 +196,11 @@ the "right" one/ones
 
 - add section to main page about immersive settings (numbers off, etc) and to video showcase
 
-- add sasquatch hammer mod
+- ~add sasquatch hammer mod~
+
+- watch audioware, add when fixed
+
+- watch audioware, add slaughtomatic platinum jackpot when fixed
 
 # Wishlist
 
