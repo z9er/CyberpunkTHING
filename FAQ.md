@@ -17,7 +17,8 @@
 
 <details>
   <summary>My game crashes on startup/loading save/I have a script error, what is the ultimate fix that will solve all my problems most of the time?</summary>
-  &#10240;
+
+![blue line](https://i.imgur.com/zRMDA4a.png)
   
 Go side of Vortex and on the grey bar and click on **"Settings"**
 
@@ -59,7 +60,7 @@ Now make sure you go and verify your game files through **Steam**, **GOG** or **
 
 It will now install using the archives you had previously, so it won't need to download anything.
   
-  &#10240;
+![blue line](https://i.imgur.com/zRMDA4a.png)
   
 </details>
 
