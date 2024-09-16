@@ -202,6 +202,8 @@ the "right" one/ones
 
 - watch audioware, add slaughtomatic platinum jackpot when fixed
 
+- remove no more out leveling vendor items
+
 # Wishlist
 
 - Sliders for quickhack/melee damage (and maybe throwing) against bosses
