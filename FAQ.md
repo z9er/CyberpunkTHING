@@ -138,7 +138,8 @@ If you do have/use the option while in conversation with NPCs just be aware that
 
 <details>
   <summary>How do I use the Limited Hud global toggles?</summary>
-  &#10240;
+
+![blue line](https://i.imgur.com/zRMDA4a.png)
   
 The mods adds two additional in-game hotkeys which you can use to toggle widgets visibility:
 
@@ -146,7 +147,7 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 
 **Minimap Toggle:** a separate hotkey to toggle minimap visibility (**F6** by default)
   
-  &#10240;
+![blue line](https://i.imgur.com/zRMDA4a.png)
   
 </details>
 
