@@ -4,8 +4,6 @@
 
 # Frequently Asked Questions
 
-&#10240;
-
 - [Crashes](#crashes)
 - [Mod Functionality](#mod-functionality)
 - [General Troubleshooting](#general-troubleshooting)
