@@ -176,34 +176,6 @@ The mods adds two additional in-game hotkeys which you can use to toggle widgets
 </details>
 
 <details>
-  <summary>I have a PS5 controller, how do I get Enhanced Dualsense Support to work?</summary>
-  &#10240;
-
-This mod is defaulted off to avoid a pop-up for non-PS5 controller players. You will need to turn it on in-game by going to the **Mods** menu
-
-![dualsense 1](https://i.imgur.com/OXOlX5C.png)
-
-Go to **Enhanced Dualsense Control** and turn on the options
-
-![dualsense 2](https://i.imgur.com/xwX2TZP.png)
-
-![dualsense 3](https://i.imgur.com/Ksl7aUF.png)
-  
-You need the accessory application **DualSenseX** which you can get through the new paid app [on steam](https://store.steampowered.com/app/1812620/DSX/) or by using the old free version from [github.](https://github.com/Paliverse/DualSenseX/releases/tag/1.4.9)
-
-If you downloaded the new version, follow this guide
-
-[With Steam DualSenseX](https://www.youtube.com/watch?v=rR54G_GS2Xc)
-
-If you are using the old version from github, follow this guide
-
-[With Older DualSenseX from Github](https://www.youtube.com/watch?v=PAXKJR2crT4)
-  
-  &#10240;
-  
-</details>
-
-<details>
   <summary>What are Quickhack Loadouts all about?</summary>
   &#10240;
 
@@ -218,30 +190,6 @@ When you click the "Save" button, the currently equipped quickhacks are saved to
 When you click the "Load" button, the quickhacks stored in that loadout are equipped. If there are no quickhacks stored in the loadout, then the Load button will be disabled. When you hover over a Load button, a tooltip displays the quickhacks in the loadout.
 
 ![loading image](https://i.imgur.com/c0rF9qF.png)
-  
-  &#10240;
-  
-</details>
-
-<details>
-  <summary>Why won't my Custom Quickslots work?</summary>
-  &#10240;
-
-In order for your [custom quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096) options to work, your choices that you bind in the **"Mods"** menu will need to be duplicated in CET. As an example of this, you would first choose a keybind and action for a quickslot by going to **"Mods"** on the left side of the main menu
-  
-  ![faq 14](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2014.png)
-  
-  At the top, select **"QSLOTS"**
-  
-  ![faq 15](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2015.png)
-  
-  Adjust **"Number of Custom Quickslots"** to be 1 or more
-  
-  ![faq 16](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2016.png)
-  
-  In this example, selecting for **"food"** and selecting **"9"** as the keybind
-  
-  ![faq 17](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/FAQ/faq%2017.png)
   
   &#10240;
   
