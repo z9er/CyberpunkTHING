@@ -83,7 +83,8 @@ It will now install using the archives you had previously, so it won't need to d
 
 <details>
   <summary>How does Equipment-EX work?</summary>
-  &#10240;
+
+![blue line](https://i.imgur.com/zRMDA4a.png)
 
 ### Overview
   
@@ -108,9 +109,8 @@ It will now install using the archives you had previously, so it won't need to d
 - To disable the outfit mode, you can select "No outfit" or unequip the outfit from the Inventory menu
 - In photo mode, you will find the option to change outfits on the fly in the pose section
 
-  
-  &#10240;
-  
+![blue line](https://i.imgur.com/zRMDA4a.png)
+
 </details>
 
 <details>
