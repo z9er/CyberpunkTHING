@@ -82,6 +82,8 @@ maybe (MM)~
 
 - ~ambient audio fixer issue (reported to cheddar)~
 
+- the damned quest issue with the vents to shoot, too strong to anything but melee/tech
+
 # Better Netrunning 
 
 ## Personnel Subsystem 
