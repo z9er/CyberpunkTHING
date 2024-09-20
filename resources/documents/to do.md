@@ -224,6 +224,8 @@ the "right" one/ones
 
 - on or off for ranged berserks for thing (seijax)
 
+<spoiler>hidden</spoiler>
+
 # Other QA
 
 ~test mod for d loot mod~
