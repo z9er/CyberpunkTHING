@@ -224,7 +224,7 @@ the "right" one/ones
 
 - on or off for ranged berserks for thing (seijax)
 
-<spoiler>hidden</spoiler>
+<span style="filter: blur(5px);">This content will be blurred</span>
 
 # Other QA
 
