@@ -136,7 +136,7 @@ maybe (MM)~
 | Two Wrongs Makes Us Right  | Locked Down  | Yes  | Unsure  |
 | The Frolics of Councilwoman Cole | Locked Down  | Yes  | Yes  |
 | Guinea Pigs  | Locked Down  | Yes | Yes  |
-| An Inconvenient Killer  | Locked Down  | Content Cell  | Content Cell  |
+| An Inconvenient Killer  | Locked Down  | Yes  | Yes  |
 | A Lack of Empathy  | Not Locked Down  | NA  | NA  |
 | Serial Suicide  | Locked Down  | Yes  | Yes (the one in back)  |
 | The Lord Giveth and Taketh Away  | Locked Down  | Yes  | Yes  |
