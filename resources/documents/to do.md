@@ -84,6 +84,8 @@ maybe (MM)~
 
 - the damned quest issue with the vents to shoot, too strong to anything but melee/tech
 
+- jumpy cops, why
+
 # Better Netrunning 
 
 ## Personnel Subsystem 
