@@ -86,6 +86,8 @@ maybe (MM)~
 
 - jumpy cops, why
 
+- potential issue with radioport while in combat
+
 # Better Netrunning 
 
 ## Personnel Subsystem 
