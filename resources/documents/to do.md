@@ -210,6 +210,8 @@ the "right" one/ones
 
 - remove no more out leveling vendor items
 
+- add about %localappdata% to instructions
+
 # Wishlist
 
 - Sliders for quickhack/melee damage (and maybe throwing) against bosses
