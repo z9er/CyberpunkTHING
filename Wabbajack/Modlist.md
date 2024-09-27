@@ -738,7 +738,7 @@ Fixes that bug where, if bounced against the ground, enemies will be attracted t
 
 Fixes a bug introduced in patch 2.11 causing Synaptic Accelerator's effect to keep triggering as long as an enemy is detecting you over 50%
 
-[Senkoh LX Bolt Fix](https://www.nexusmods.com/cyberpunk2077/mods/14053) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
+[Bug Fix - Full-Auto Tech Weapons Bolt Duration](https://www.nexusmods.com/cyberpunk2077/mods/14053) by [Metool](https://www.nexusmods.com/cyberpunk2077/users/4159805)
 
 Extends the Bolt buff duration from the Technical Ability Perk tree from 2s to 4s
 
