@@ -1,9 +1,3 @@
-[![Discord Link](https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/thing%20newer%20hotness.png)](https://discord.gg/eJdMQKnQVt "Discord for Support and Feedback")
-
-[logo image]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/thing%20newer%20hotness.png
-
-&#10240;
-
 Load Order Library links for [Welcome to Night City](https://loadorderlibrary.com/lists/welcome-to-night-city) and [Cyberpunk THING](https://loadorderlibrary.com/lists/cyberpunk-thing)
 
 ### What's in the modlist and why
