@@ -61,11 +61,11 @@ It will now install using the archives you had previously, so it won't need to d
 </details>
 
 <details>
- <summary>Red4EXT is giving me an error, how do I fix it?</summary><a id="red4ext-error">
+ <summary>Red4EXT is giving me an error, how do I fix it?</summary>
   
   ![blue line](https://i.imgur.com/zRMDA4a.png)
   
-test
+test <a id="red4ext-error">
 
   ![blue line](https://i.imgur.com/zRMDA4a.png)
   
