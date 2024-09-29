@@ -88,7 +88,7 @@ maybe (MM)~
 
 - potential issue with radioport while in combat
 
-- counter parries can lead to a sort of death cycle, how can it break? (enc)
+- ~counter parries can lead to a sort of death cycle, how can it break? (enc)~ vanilla thing
 
 # Better Netrunning 
 
