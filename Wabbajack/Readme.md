@@ -38,8 +38,6 @@ If you've ever modded Cyberpunk before, it's important to ensure you have a clea
 
 5️⃣ Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
 
-6️⃣ Ensure the drive you wish to install the list to supports hard links
-
 ## Premium vs Non-Premium
 
 For premium Nexus users installing this Wabbajack is a one click process
@@ -57,10 +55,6 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 [wjack readme 5 p2]: https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20readme/wjack%20readme%205.png
 
 Place the `Wabbajack.exe` in a location like `C:\Wabbajack`
-
-```
-Wabbajack can be installed to any folder as long as it is on the same hard drive as your Cyberpunk 2077 game directory. The actual mod list must also be on the same drive.
-```
 
 ### Downloading and Installing
 
