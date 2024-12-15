@@ -112,7 +112,7 @@
 
 - [Artistic 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/13066)
 
-- [Car Modification Shop 2.1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/18318)
+- [Car Modification Shop 2.1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/4034)
 
 - [Delamain No. 22 1.3](https://www.nexusmods.com/cyberpunk2077/mods/14405)
 
