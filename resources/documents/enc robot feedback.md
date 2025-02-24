@@ -152,3 +152,288 @@ end
 ```
 
 Would you like me to elaborate on any of these solutions or focus on specific implementation details? I can also suggest additional enhancements or alternative approaches to any of these issues.
+
+I'll provide some specific technical suggestions based on the code I've reviewed. Let me break this down by key combat systems:
+
+1. Attack Coordination and Spacing:
+```lua
+-- Example implementation for melee spacing coordination
+local NearestMeleeAttacker = Vector2:new()
+NearestMeleeAttacker.X = -1
+NearestMeleeAttacker.Y = 5 -- 5m spacing between attackers
+
+createSpatialCond("NearestMeleeAttackerSpacingCOND", 
+    NearestMeleeAttacker, 
+    "AIActionTarget.NearestSquadmate", 
+    "AIActionTarget.CombatTarget", 
+    false, 
+    -1, 
+    false)
+```
+This would help prevent melee NPCs from clustering too tightly.
+
+2. Enhanced Block/Parry System:
+```lua
+-- Add variable parry windows based on weapon type
+createStatusEffect("WeaponSpecificParryWindow", 
+    "BaseStatusEffect.ParryWindow", 
+    {}, 
+    {}, 
+    -- Shorter window for fast weapons, longer for heavy
+    weapon_type == "heavy" and 2.0 or 1.5,
+    {}, 
+    {})
+```
+
+3. Improved Combo System:
+```lua
+-- Example of conditional combo selection
+TweakDB:SetFlat("MeleeKatanaActions.MeleeLightCombo01Definition.actions", {
+    "MovementActions.MeleeWalkToCloseAttackRange",
+    target_blocking and "MeleeKatanaActions.GuardBreakCombo" 
+    or target_staggered and "MeleeKatanaActions.FinisherCombo"
+    or "MeleeKatanaActions.StandardCombo"
+})
+```
+
+4. Group Tactics Enhancement:
+```lua
+-- Create flanking positions
+createPositionalBehavior("MeleeFlanking", {
+    preferredAngle = 45, -- degrees offset from main attacker
+    minDistance = 3,
+    maxDistance = 6,
+    updateInterval = 0.5
+})
+```
+
+5. Stamina System Implementation:
+```lua
+-- Add stamina management for NPCs
+createStatusEffect("MeleeStaminaSystem", 
+    "BaseStatusEffect.StaminaPool",
+    {"melee_stamina_active"},
+    {},
+    -- Configure values
+    {
+        maxStamina = 100,
+        blockCost = 15,
+        attackCost = 20,
+        regenRate = 10
+    })
+```
+
+6. Defensive Behavior Improvements:
+```lua
+-- Add reactive dodge based on attack type
+createConditionAction("ReactiveDefense", {
+    "Condition.IncomingHeavyAttack",
+    "Condition.StaminaAbove30Perc",
+    "Condition.NotRecentlyDodged"
+}, false, {
+    "DodgeBackAction",
+    "PrepareCounterAction"
+})
+```
+
+7. State Management Enhancement:
+```lua
+-- Better state transitions
+TweakDB:SetFlat("CombatStateManager.transitions", {
+    {
+        from = "Attacking",
+        to = "Defensive",
+        condition = "Condition.WasHit or Condition.LowStamina"
+    },
+    {
+        from = "Defensive",
+        to = "Aggressive",
+        condition = "Condition.TargetVulnerable and Condition.StaminaAbove70Perc"
+    }
+})
+```
+
+8. Performance Optimization:
+```lua
+-- Cache pathfinding results
+createCacheSystem("MeleePathCache", {
+    maxEntries = 10,
+    timeToLive = 0.5,
+    updateCondition = "TargetMovedSignificantly"
+})
+```
+
+Key Recommendations:
+
+1. **Pattern Variety**: Your current combo system is good, but could benefit from more situational awareness. Add conditions that check target state, distance, and stamina before selecting combos.
+
+2. **Group Coordination**: Implement a token system where NPCs can "reserve" attack positions to prevent overcrowding.
+
+3. **Recovery States**: Add more granular recovery states after attacks or when interrupted. This prevents NPCs from instantly transitioning between states.
+
+4. **Distance Management**: Your current system handles basic distance checks, but could benefit from more dynamic spacing based on weapon type and group size.
+
+5. **Performance**: Consider adding condition caching for frequently checked conditions, especially for pathfinding and spatial awareness checks.
+
+Would you like me to elaborate on any of these systems or provide more specific implementation details?
+
+I'll analyze this third part which appears to focus on defensive/reactive AI behaviors and special abilities. Here are the key areas and potential improvements I notice:
+Defense and Counters:
+
+Strong improvements to parry mechanics with removal of status effect delays
+Smart addition of block sounds based on weapon type (katana vs blunt)
+Good balance of NPCs switching between blocking and parrying
+Good protection against status effects while blocking/parrying
+Intelligent use of unstoppable hit reactions during key defensive moves
+
+Suggestions:
+
+Consider adding "perfect block" mechanics with timing windows for NPCs
+Could add visual/audio tells when NPCs are about to parry
+Consider adding stance changes after successful parries
+
+Special Abilities Implementation:
+
+Berserk Mechanics:
+
+
+Well-implemented resistance buffs
+Smart immunity handling
+Good audio/visual feedback
+Thoughtful cooldown management
+
+
+Sandevistan/Kerenzikov:
+
+
+Nice tiered implementation with different power levels
+Good interaction with player time dilation
+Smart use of visual effects
+
+
+Optical Camo:
+
+
+Good activation/deactivation logic
+Smart cooldown management
+Nice integration with other systems
+
+Quality of Life Improvements:
+
+Faster startup animations for shooting actions
+Better handling of hit reactions
+Improved grenade throwing logic
+Smart management of status effect immunities
+
+Suggestions for Further Enhancement:
+
+Berserk Enhancement:
+
+
+Add "rage" mechanics where damage taken increases damage output
+Consider adding area-of-effect intimidation
+Add special finisher moves while berserk is active
+
+
+Time Dilation Abilities:
+
+
+Add combo chains specific to time-dilated state
+Consider adding "counter-dilation" when both player and NPC have active abilities
+Add special animations for time-dilated states
+
+
+Stealth/Camo Integration:
+
+
+Add ambush attacks from camo
+Consider adding group coordination with camo
+Add special takedown moves from camo state
+
+
+General Combat:
+
+
+Consider adding stance-based combat variations
+Implement morale system affecting aggression
+Add environmental awareness for special moves
+
+The changes show good understanding of ability integration and combat flow. Would you like me to elaborate on any of these points or focus on specific aspects?
+Also, I notice some potential areas for optimization and bug fixes you've noted at the end. Would you like me to analyze those specific issues and propose solutions?
+
+I'll analyze the second part you've shared which appears to focus heavily on melee combat behaviors and AI patterns. Here are the key areas and potential improvements I notice:
+
+Melee Combat Flow Improvements:
+
+
+Good changes to strafe/dodge behaviors by removing restrictive conditions like NotAbilityIsReckless
+Smart modification of parry/block timing (increased to 3s duration)
+Improved block ticket distribution (max 2 for close combat, unlimited for support)
+Combat spacing management via ticket limits (3 attackers max)
+
+Suggestions:
+
+Consider implementing a "melee stamina" system for NPCs to prevent infinite blocking
+Add positional awareness to prevent melee attackers from blocking each other
+Consider adding "interrupt" states when NPCs are hit while attempting attacks
+
+
+Movement and Positioning:
+
+
+Good work removing restricted area checks that were limiting NPC positioning
+Smart addition of dynamic update timers for melee movement (0.3s)
+Improved obstacle avoidance
+
+Suggestions:
+
+Add group coordination for melee attacks (flanking behavior)
+Implement "space control" logic so NPCs maintain optimal fighting distances
+Consider adding retreat behaviors when heavily damaged
+
+
+Attack Pattern Improvements:
+
+
+Good expansion of combo variety for different weapon types
+Smart addition of infinite combo patterns
+Added time dilation effects for certain attacks
+
+Suggestions:
+
+Add conditional attacks based on target state (stunned, blocking, etc.)
+Implement combo variation based on distance to target
+Consider adding "feint" attacks to bait player responses
+
+
+Technical Optimizations:
+
+
+Consider caching path calculations to reduce performance impact
+Add fail-safes for interrupted animations
+Implement proper state cleanup when NPCs are staggered/interrupted
+
+The changes show good understanding of melee combat flow. The main areas for potential improvement revolve around group coordination and positional awareness between multiple melee attackers.
+Would you like me to elaborate on any of these points or focus on specific aspects as we look at the third part?
+
+I'll help analyze this first file. It appears to be Lua code focused on AI combat behavior. I see this is part of an "AI Overhaul" mod, specifically looking at core combat behavior trees and movement policies. Let me know when you share the other parts, and I'll wait to provide comprehensive feedback until I can see the full context. A few initial observations:
+
+The code appears to be heavily commented, suggesting you're documenting different AI behavior patterns for analysis and modification
+There's significant focus on movement behaviors like:
+
+Ring-based positioning
+Cover usage
+Strafe mechanics
+Sprint/harass behaviors
+
+
+I notice several key systems being modified:
+
+Netrunner AI behaviors
+MaxTac AI patterns
+Combat timing and cooldowns
+Weapon handling states
+
+
+
+Please share the other files when ready and let me know if you'd like me to focus on any particular aspects in my analysis.
