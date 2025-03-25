@@ -222,5 +222,38 @@ Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a tre
 \
 ![uninstall blue](https://i.imgur.com/zjgXeAq.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\
-![acknowledge yellow](https://i.imgur.com/SGTyk02.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![acknowledge yellow](https://i.imgur.com/SGTyk02.png)
+
+This collection is managed and curated by the [Cyberpunk](https://www.nexusmods.com/users/147471503) [THING](https://www.nexusmods.com/cyberpunk2077/users/3534466) [team](https://www.nexusmods.com/cyberpunk2077/users/144799768). We stand on the shoulders of giants.
+
+A special thanks to [TeslaCoiled](https://www.nexusmods.com/cyberpunk2077/users/3534466), without whom this crazy experiment would never have gotten off the ground.
+
+Many thanks to [Gwyn21](https://www.nexusmods.com/users/7846251) for paving the way with [Welcome to Night City](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe) and inspiring us to follow our passion.
+
+This could not have been done without the Cyberpunk modding scene at large. They have taken what could have been a forgettable game and turned it into an unforgettable experience.
+
+Additional thanks and credits to:
+
+- TimTa for his tireless shepherding on our [discord server](https://discord.gg/eJdMQKnQVt)
+- Deristat for playtesting, QA and feedback
+- [Seijax](https://www.nexusmods.com/cyberpunk2077/users/53009476?tab=user+files) for collaborating, consulting and being a partner in invention and innovation
+- [viperc48](https://www.nexusmods.com/cyberpunk2077/users/27730170?tab=user+files) for huge amounts of work on tying in to the modlist and always being willing to do more for new features
+- [destinybu](https://www.nexusmods.com/cyberpunk2077/users/162970258?tab=user+files) for assistance on the collection, making new skins for weapons, and creating amazing thumbnails
+- The [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) [Me](https://www.nexusmods.com/cyberpunk2077/users/82100978?tab=user+files)[rch](https://www.nexusmods.com/cyberpunk2077/users/53009476?tab=user+files)[an](https://www.nexusmods.com/users/21089089?tab=user+files)[ts](https://www.nexusmods.com/users/21279544?tab=user+files) [of](https://www.nexusmods.com/cyberpunk2077/users/162970258?tab=user+files) [Dea](https://www.nexusmods.com/users/29053425?tab=user+files)[th](https://www.nexusmods.com/cyberpunk2077/users/98630928?tab=user+files) for their willingness to collaborate, learn, and create the best weapon mods ever seen in Cyberpunk
+- [Freykun](https://www.nexusmods.com/users/104283928) for the beautiful Collection page art and WTNC logo
+- moLy, hs0003, [Busy Oscar,](https://www.nexusmods.com/cyberpunk2077/users/44887292) and the rest of the [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) Palace of the Mind for suggestions, ideas, and vision
+- Bioskop for UI/UX assistance, consulting, and ideas
+- [walrus420](https://www.nexusmods.com/cyberpunk2077/users/4076520) for the incredible [Cyberpunk THING](https://discord.gg/eJdMQKnQVt) logo!
+- General namedrops for specific help and utilities: [psiberx](https://www.nexusmods.com/cyberpunk2077/users/108159138), [KeanuWheeze/Nexusguy999](https://www.nexusmods.com/cyberpunk2077/users/77476393), [scissors](https://www.nexusmods.com/cyberpunk2077/users/78269633), [rfuzzo](https://www.nexusmods.com/users/16300749), [KiroCobra](https://www.nexusmods.com/cyberpunk2077/users/40108180), [Exoclyps](https://www.nexusmods.com/fallout4/users/697340?tab=about+me), and the Cyberpunk 2077 modding Discord!
+- Can't forget the [WolvenKit](https://www.nexusmods.com/cyberpunk2077/mods/2201) Team, the [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) team, and the [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511) team for making the tools all modders use, and the modding Discords in general for being a font of information!
+- JTK from the Wabbajack team, as well as Xanza, Delta, and Crit for making MO2 for Cyberpunk a reality
+
+If you would like to support our modlists and mod development you can donate to our [KO-FI](https://ko-fi.com/cyberpunkthing)
+
+[![ko-fi](https://i.imgur.com/2WJuTUH.png)](https://ko-fi.com/cyberpunkthing)
+
+***Remember to endorse the mods in this that you enjoy: the people who made these mods are the only reason this exists.***
+
+For support or to give feedback you can reach us at the [modlist discord link below:](https://discord.gg/eJdMQKnQVt)
+
+[![Discord Link](https://i.imgur.com/sM89PIK.gif)](https://discord.gg/eJdMQKnQVt)
