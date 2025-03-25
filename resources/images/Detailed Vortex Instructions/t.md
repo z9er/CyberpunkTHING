@@ -159,8 +159,15 @@ If you've ever modded Cyberpunk before, it's important to ensure you have a clea
 </details>
 
 
-\
-![amber premium](https://i.imgur.com/MiqUdnt.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![amber premium](https://i.imgur.com/MiqUdnt.png)
+
+For premium Nexus users installing this collection is a one click process as below
+
+![A GIF showing how with nexus premium the collection can be installed with one click](https://i.imgur.com/EvI4fBg.png)
+
+For non-premium users, the installation process is still simple. You just have to click **"Download"** followed by **"Slow Download"** as Vortex brings up buttons for every mod in the collection.
+
+![A GIF showing how downloading the collection without nexus premium works, 2 clicks per mod in the list](https://i.imgur.com/6WSFDH2.png)
 
 \
 ![green experience](https://i.imgur.com/HuYEqyy.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
