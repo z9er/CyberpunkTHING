@@ -16,7 +16,7 @@
   ![netrunning](https://i.imgur.com/po0qgYr.png)
 **Lethal New Weapons:** Guns, knives, bats, the occasional dildo. You name it we got it\
   ![weapons](https://i.imgur.com/YCQYnlT.png)
-**Meaningful Connections: **Chill out in your apartment listening to Johnny jam, enjoy additional quality of life features with retooled character romance features, and see improvements to vanilla functionality with mods like Romance Hangouts Enhanced\
+**Meaningful Connections:** Chill out in your apartment listening to Johnny jam, enjoy additional quality of life features with retooled character romance features, and see improvements to vanilla functionality with mods like Romance Hangouts Enhanced\
   ![npc interactions](https://i.imgur.com/HyxeR3Y.png)
 **New Quests:** additional adventures reveal more about your friends or lovers\
   ![new quest picture](https://i.imgur.com/jAWLqC4.png)
