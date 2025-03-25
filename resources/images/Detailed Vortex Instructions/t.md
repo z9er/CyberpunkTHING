@@ -172,8 +172,21 @@ For non-premium users, the installation process is still simple. You just have t
 \
 ![green experience](https://i.imgur.com/HuYEqyy.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\
-![orange switch](https://i.imgur.com/IeUXu49.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![orange switch](https://i.imgur.com/IeUXu49.png)
+
+It's incredibly easy to switch between **Welcome to Night City** and **Cyberpunk THING**
+
+<details><summary>How to change between Welcome to Night City and Cyberpunk THING</summary>
+
+&#10240;
+
+1️⃣ In the Mods section of Vortex, right click **WTNC Config** and choose **Reinstall**
+
+2️⃣ Choose **Replace Existing Mod** and click **Continue**
+
+3️⃣ Choose between **Welcome to Night City** and **Cyberpunk THING** in the popup and click **Finish**
+
+</details>
 
 \
 ![purple upgrade](https://i.imgur.com/F4jHNO1.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
