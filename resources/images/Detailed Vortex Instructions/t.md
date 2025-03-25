@@ -14,7 +14,7 @@
   ![new stealth gifs](https://i.imgur.com/ENECMJH.png)
 **Netrunners Get an Upgrade:** New rewards for network breaching, additional random netrunners, hack tracing with more nuance than you've encountered\
   ![netrunning](https://i.imgur.com/po0qgYr.png)
-**Lethal New Weapons: **Guns, knives, bats, the occasional dildo. You name it we got it\
+**Lethal New Weapons:** Guns, knives, bats, the occasional dildo. You name it we got it\
   ![weapons](https://i.imgur.com/YCQYnlT.png)
 **Meaningful Connections: **Chill out in your apartment listening to Johnny jam, enjoy additional quality of life features with retooled character romance features, and see improvements to vanilla functionality with mods like Romance Hangouts Enhanced\
   ![npc interactions](https://i.imgur.com/HyxeR3Y.png)
