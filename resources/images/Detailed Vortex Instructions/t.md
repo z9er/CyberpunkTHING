@@ -14,7 +14,151 @@
 
 ### AND MORE!
 
-![blue install](https://i.imgur.com/kycrJIe.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![blue install](https://i.imgur.com/kycrJIe.png)
+![install header](https://i.imgur.com/Meeh2xb.png)
+
+This video includes all the info you need for the installation, switching your experience, and updating the collection. If you would prefer written guides you can find them below.
+
+[Welcome to Night City Install Guide](https://www.youtube.com/watch?v=1jwFdlfgIkg)
+
+These short guides will have you ready to go in no time at all. Please only choose **Never Installed Mods for Cyberpunk** or **Installed Mods for Cyberpunk Previously** as both are self-contained, just use one or the other 
+
+<details>
+  
+  <summary>Never Installed Mods for Cyberpunk</summary>
+  &#10240;
+  
+# Installing Vortex
+
+1️⃣ Ensure that you have installed Vortex if you haven't, which can be obtained [the link below](https://www.nexusmods.com/site/mods/1?tab=files)
+
+[![Vortex](https://i.imgur.com/xXhkzvj.png)](https://www.nexusmods.com/site/mods/1?tab=files "Vortex download")
+
+# Managing Cyberpunk
+
+1️⃣ In the main Vortex Window, click on **"Select a game to manage"**
+
+![Vortex First Steps 5](https://i.imgur.com/MQG9vBR.png)
+
+2️⃣ On the next screen scroll down to the **"Cyberpunk 2077"** icon and, when mousing over it, click on **"Manage"** in orange
+
+![Vortex First Steps 6](https://i.imgur.com/n9HwYPW.png)
+
+3️⃣ On the popup that appears, click on **"Download"** on the bottom right in orange, after this Vortex will restart
+
+![Vortex First Steps 7](https://i.imgur.com/C9vRW9M.png)
+
+4️⃣ After Vortex restarts, a **"Game not discovered"** popup will appear, click **"Continue"** at the bottom right of the popup in orange
+
+![Vortex First Steps 8](https://i.imgur.com/mBvyPrd.png)
+
+5️⃣ A window will now pop up where you should choose the folder for your main **"Cyberpunk 2077"** install directory
+
+6️⃣ Vortex will pop up a window titled **"REDmod DLC missing"** on which you should click **"Ignore"**
+
+![REDmod first BS popup](https://i.imgur.com/mY9T3Aw.png)
+
+7️⃣ Go to **"Settings"** on the left, then go to **"V2077 Settings"** and ensure that **"Automically convert old style 'archive' mods to REDmods on install"** is turned off
+
+```
+This setting is defaulted to off by default unless you had changed it
+```
+
+![redmod bullshit](https://i.imgur.com/rTip1CM.png)
+
+8️⃣ Go to **"Settings""** on the left, then go to the **"Mods"** section and ensure the deployment method is **"Hardlink Deployment"**
+
+```
+If you are on a drive that does not allow hard links due to the formatting, you may need to reformat your drive. This can happen with FAT or XFAT formatting and the only solution is changing the drive format
+```
+
+![hardlink thing](https://i.imgur.com/iSMkrcz.png)
+
+# Installing Collection
+
+1️⃣ On the **[collection page](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** click on **"ADD TO VORTEX,"** then click **"Install Now"** when that pops up in Vortex
+
+![vortex add to](https://i.imgur.com/j0C9Jxd.png)
+
+![install now](https://i.imgur.com/uaAB5uG.png)
+
+2️⃣ Vortex will guide you through installing the collection, when it is completed you can play the game by clicking the play button top left
+
+![installed](https://i.imgur.com/e47fs2a.png)
+
+![play button](https://i.imgur.com/4NE5ZHv.png)
+  
+  &#10240;
+  
+</details>
+
+<details>
+  
+  <summary>Installed Mods for Cyberpunk Previously</summary>
+  &#10240;
+
+# Cleaning Vortex
+
+1️⃣ Go to **"Settings"** on the left, then go to **"V2077 Settings"** and ensure that **"Automically convert old style 'archive' mods to REDmods on install"** is turned off
+
+```
+This setting is defaulted to off by default unless you had changed it
+```
+
+![redmod bullshit](https://i.imgur.com/rTip1CM.png)
+
+2️⃣ Go to **"Settings""** on the left, then go to the **"Mods"** section and ensure the deployment method is **"Hardlink Deployment"**
+
+```
+If you are on a drive that does not allow hard links due to the formatting, you may need to reformat your drive. This can happen with FAT or XFAT formatting and the only solution is changing the drive format
+```
+
+![hardlink thing](https://i.imgur.com/iSMkrcz.png)
+
+3️⃣ Ensure that you have removed any old mods that may be hardlinked into your main game folder from the **"Mods"** section of Vortex, and check if you have any additional Cyberpunk 2077 profiles that have mods that were hardlinked into your maingame folder. Any of this could interfere with the collection working properly due to redundant/old mods
+
+# Ensuring Clean Game Install
+
+1️⃣ Go to your **"appdata"** folder by searching windows typing **%appdata%**
+
+![appdata](https://i.imgur.com/ViAyUOX.png)
+
+2️⃣ In **"AppData"** folder go to **"Local,"** and in this folder delete the **"CD Projekt Red"** and **"Red Engine"** folders
+
+![appdata delete](https://i.imgur.com/egu0d8A.png)
+
+3️⃣ Go to your main Cyberpunk 2077 directory and delete the **all** folders except for **"archive"**
+
+```
+If you've ever modded Cyberpunk before, it's important to ensure you have a clean game folder
+```
+
+![Clean Install 1](https://i.imgur.com/AXG7U40.png)
+
+4️⃣ Additionally delete the **"mod"** folder in **"Cyberpunk 2077/archive/pc/"**
+
+![Clean Install 2](https://i.imgur.com/YW0s73X.png)
+
+5️⃣ Now make sure you go and verify your game files through **Steam**, **GOG** or **Epic**
+
+# Installing Collection
+
+1️⃣ On the **[collection page](https://next.nexusmods.com/cyberpunk2077/collections/iszwwe)** click on **"ADD TO VORTEX,"** then click **"Install Now"** when that pops up in Vortex
+
+![vortex add to](https://i.imgur.com/j0C9Jxd.png)
+
+![install now](https://i.imgur.com/uaAB5uG.png)
+
+2️⃣ Vortex will guide you through installing the collection, when it is completed you can play the game by clicking the play button top left
+
+![installed](https://i.imgur.com/e47fs2a.png)
+
+![play button](https://i.imgur.com/4NE5ZHv.png)
+  
+  &#10240;
+  
+</details>
+
 
 \
 ![amber premium](https://i.imgur.com/MiqUdnt.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
