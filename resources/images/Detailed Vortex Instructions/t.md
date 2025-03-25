@@ -214,8 +214,10 @@ Do not update any of the mods in the collection individually in Vortex! The phil
 ```
 </details>
 
-\
-![asked red](https://i.imgur.com/oyK4HTF.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![asked red](https://i.imgur.com/oyK4HTF.png)
+
+Our [FAQ page](https://github.com/z9er/CyberpunkTHING/blob/main/FAQ.md) is a treasure trove of information that we’ve gathered from answering users' questions over time. You can find how to use specific mods, potentially get answers if you are having a problem, and learn about some of the vanilla quirks that aren't associated with our modlist. And if not, you can always find us on our [Discord server](https://discord.gg/eJdMQKnQVt) :)
 
 \
 ![uninstall blue](https://i.imgur.com/zjgXeAq.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
