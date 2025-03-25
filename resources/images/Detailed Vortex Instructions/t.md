@@ -15,7 +15,6 @@
 ### AND MORE!
 
 ![blue install](https://i.imgur.com/kycrJIe.png)
-![install header](https://i.imgur.com/Meeh2xb.png)
 
 This video includes all the info you need for the installation, switching your experience, and updating the collection. If you would prefer written guides you can find them below.
 
