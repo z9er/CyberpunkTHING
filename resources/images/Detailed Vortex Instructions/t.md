@@ -1,4 +1,4 @@
-![broader features](https://i.imgur.com/pjMsRY0.png)
+![broader features](https://i.imgur.com/ImHStZI.png)
 ![magenta features](https://i.imgur.com/vGEWTAw.png)**Killer Cyberware:** Become the new Sasquatch with the Juice Tank circulatory system implant, poison your foes with noxious gases using the Skunk nervous system implant, or rain death from on high using the Megingjord hover legs cyberware and Jarngreipr lightning projectile launcher\
 ![cyberware gif](https://i.imgur.com/WqJIZUQ.png)**More Romances:** Discover unexpected opportunities with characters you didn't give a second glance before\
 ![romances picture](https://i.imgur.com/tqMlbEN.png)**Combat Evolved:** Be the gunslinger with enhanced ricochet abilities and new guns to use it with, frighteningly enhanced melee attacks, grappling enemies during combat\
