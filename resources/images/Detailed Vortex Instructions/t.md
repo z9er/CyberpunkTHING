@@ -10,7 +10,7 @@
 ![weapons](https://i.imgur.com/YCQYnlT.png)**Meaningful Connections:** Chill out in your apartment listening to Johnny jam, enjoy additional quality of life features with retooled character romance features, and see improvements to vanilla functionality with mods like Romance Hangouts Enhanced\
 ![npc interactions](https://i.imgur.com/HyxeR3Y.png)**New Quests:** Additional adventures reveal more about your friends or lovers\
 ![new quest picture](https://i.imgur.com/jAWLqC4.png)**Quality of Life Features:** Watch the time change [Koyaanisqatsi style](https://youtu.be/QI2IlA3ztIo?t=124) while waiting, attain keyboard serenity while netrunning with numbered quickhacks, bind your different cyberware to hotkeys rather than desperately cycling through a weapon wheel\
-![quality of life](https://i.imgur.com/uAqVNDp.png)A Plethora of Bug Fixes
+![quality of life](https://i.imgur.com/uAqVNDp.png) A Plethora of Bug Fixes
 
 ### AND MORE!
 
