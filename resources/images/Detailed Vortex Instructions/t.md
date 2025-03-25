@@ -24,4 +24,4 @@
   ![quality of life](https://i.imgur.com/uAqVNDp.png)
 - A Plethora of Bug Fixes
 
-### AND MORE!
+### AND MUCH MORE!
