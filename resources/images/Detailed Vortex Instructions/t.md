@@ -189,7 +189,30 @@ It's incredibly easy to switch between **Welcome to Night City** and **Cyberpunk
 </details>
 
 \
-![purple upgrade](https://i.imgur.com/F4jHNO1.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![purple upgrade](https://i.imgur.com/F4jHNO1.png)
+
+It is very important that when upgrading the collection you do it correctly. Very simple to do and here's a step-by-step guide
+
+<details><summary>How to Upgrade the Collection to a New Revision</summary>
+
+&#10240;
+
+1️⃣ Updating the collection is as easy as clicking the **"Update"** button (Pretend all the pictures say "WTNC")
+
+![Update](https://i.imgur.com/8UDf7uP.png)
+
+2️⃣ When prompted to **"Remove mods from old revision"** make sure to click the **"Remove All"** button
+
+![Update Removing Old Mods](https://i.imgur.com/8RzrQPh.png)
+
+3️⃣ The uninstalled mod archives are left in the **"Mods"** list in bright blue, which you should delete
+
+![Update Removing Old Mods step 2](https://i.imgur.com/OdfLQcO.png)
+
+```
+Do not update any of the mods in the collection individually in Vortex! The philosophy of this collection is that when a mod updates, we update a full revision in order to keep everything up to date and interfacing correctly; when you see a new revision, update to it. If anything special is needed we will mention it in the changelog
+```
+</details>
 
 \
 ![asked red](https://i.imgur.com/oyK4HTF.png)Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
