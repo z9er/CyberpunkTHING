@@ -18,7 +18,7 @@
 
 This video includes all the info you need for the installation, switching your experience, and updating the collection. If you would prefer written guides you can find them below.
 
-[Welcome to Night City Install Guide](https://www.youtube.com/watch?v=1jwFdlfgIkg)
+![Welcome to Night City Install Guide](https://i.imgur.com/m3rJB20.png)
 
 These short guides will have you ready to go in no time at all. Please only choose **Never Installed Mods for Cyberpunk** or **Installed Mods for Cyberpunk Previously** as both are self-contained, just use one or the other 
 
