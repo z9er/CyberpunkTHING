@@ -189,7 +189,7 @@ An unholy amalgamation of Deus Ex Realistic, Ghost of Tsushima Lethal, and Shado
 
 ```This is an evolving project. Many of the advanced features are still in testing and will be implemented gradually. Think of the current version as a preview of our larger ambitions.```
 
-The future is coming 
+The future is coming. Will you help shape it?
 
 ![orange switch](https://i.imgur.com/IeUXu49.png)
 
