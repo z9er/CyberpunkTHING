@@ -187,7 +187,7 @@ An unholy amalgamation of Deus Ex Realistic, Ghost of Tsushima Lethal, and Shado
 - Your choices in loadout and approach have meaningful consequences
 - Encounters are intense, visceral, and desperate
 
-```This is an evolving project. Many of the advanced features are still in testing and will be implemented gradually. Think of the current version as a preview of our larger ambitions.```
+```This is an evolving project. Many of the advanced features are still in testing and will be implemented gradually. Think of the current version as a preview of our larger ambitions. If you want to be part of our test version, come by our discord```
 
 The future is coming. Will you help shape it?
 
