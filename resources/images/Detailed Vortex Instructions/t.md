@@ -169,7 +169,7 @@ For non-premium users, the installation process is still simple. You just have t
 
 ![A GIF showing how downloading the collection without nexus premium works, 2 clicks per mod in the list](https://i.imgur.com/6WSFDH2.png)
 
-![green experience](https://i.imgur.com/HuYEqyy.png)
+![green experience](https://i.imgur.com/JIJl5l2.png)
 
 Tired of the day-to-day in WTNC? Looking for more of a challenge? Give our **Cyberpunk THING** experience a try. It offers a glimpse into our brutal vision of Cyberpunk 2077. While currently in development with many features still being tested, even in its current state you're in for an engaging and challenging game. 
 
