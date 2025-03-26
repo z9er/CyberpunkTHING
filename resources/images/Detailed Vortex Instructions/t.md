@@ -191,6 +191,8 @@ An unholy amalgamation of Deus Ex Realistic, Ghost of Tsushima Lethal, and Shado
 
 The future is coming. Will you help shape it?
 
+![thing combat](https://i.imgur.com/cokmgwS.png)
+
 ![orange switch](https://i.imgur.com/IeUXu49.png)
 
 It's incredibly easy to switch between **Welcome to Night City** and **Cyberpunk THING**
