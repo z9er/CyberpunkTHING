@@ -16,4 +16,4 @@ An unholy amalgamation of Deus Ex Realistic, Ghost of Tsushima Lethal, and Shado
 
 ```This is an evolving project. Many of the advanced features are still in testing and will be implemented gradually. Think of the current version as a preview of our larger ambitions.```
 
-Want to help shape this hardcore Night City experience? Your feedback could influence how **Cyberpunk THING** develops.
+The future is coming. Will you help shape it?
