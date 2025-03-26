@@ -6,6 +6,7 @@ Tired of the day-to-day in WTNC? Looking for more of a challenge? Give our **Cyb
 - The first steps toward our larger vision
 
 **Our Vision for the Future:**
+
 An unholy amalgamation of Deus Ex Realistic, Ghost of Tsushima Lethal, and Shadow of War Brutal difficulties. We're building a Night City with real stakes in combat
 - Every bullet counts and health bloat is a thing of the past
 - Combat requires strategy, not just better stats
