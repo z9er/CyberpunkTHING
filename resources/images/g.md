@@ -190,7 +190,7 @@ The future is coming. Will you help shape it?
 3️⃣ Choose between **Welcome to Night City** and **Cyberpunk THING** in the popup and click **Finish**
 </details>
 
-![test tepew](https://i.imgur.com/VA8VExF.png)\
+![test tepew](https://i.imgur.com/yzNLMCu.png)\
 ![purple upgrade](https://i.imgur.com/F4jHNO1.png)It is very important that when upgrading the collection you do it correctly. Very simple to do and here's a step-by-step guide
 
 <details><summary>How to Upgrade the Collection to a New Revision</summary>
