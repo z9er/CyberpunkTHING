@@ -1,7 +1,7 @@
 ![broader features](https://i.imgur.com/5xnHXgU.png)\
 ![magenta features](https://github.com/z9er/CyberpunkTHING/raw/refs/heads/main/resources/images/ezgif-83776a8f56a046.avifs)**Killer Cyberware:** Become the new Sasquatch with the Juice Tank circulatory system implant, poison your foes with noxious gases using the Skunk nervous system implant, or rain death from on high using the Megingjord hover legs cyberware and Jarngreipr lightning projectile launcher\
 ![cyberware gif](https://github.com/z9er/CyberpunkTHING/raw/refs/heads/main/resources/images/Sequence%2001_1-fastflix-0258.avif)**More Romances:** Discover unexpected opportunities with characters you didn't give a second glance before\
-![romances picture](https://i.imgur.com/tqMlbEN.png)**Combat Evolved:** Be the gunslinger with enhanced ricochet abilities and new guns to use it with, frighteningly enhanced melee attacks, grappling enemies during combat\
+![romances picture](https://i.imgur.com/hpxoa5J.png)**Combat Evolved:** Be the gunslinger with enhanced ricochet abilities and new guns to use it with, frighteningly enhanced melee attacks, grappling enemies during combat\
 ![combat](https://i.imgur.com/6RS5jlq.png)**Night City Alive:** Night City Alive: Grab a beer at the bar with your friend or get a quick procedure from a more immersive ripperdoc, hit it big at roulette then lose it all at the blackjack table. Just another day in the city of dreams\
 ![world interactions](https://i.imgur.com/9fs0vOZ.png)**To Game from Tabletop:** Classic pen-and-paper abilities translated into dangerous but powerful chipware and implants for your character\
 ![chipware gif](https://i.imgur.com/72XquCp.png)**Overhauled Stealth:** Special stealth objectives for missions and an entirely new perk tree\
