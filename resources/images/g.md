@@ -7,7 +7,7 @@
 ![chipware gif](https://i.imgur.com/72XquCp.png)**Overhauled Stealth:** Special stealth objectives for missions and an entirely new perk tree\
 ![new stealth gifs](https://i.imgur.com/ENECMJH.png)**Netrunners Get an Upgrade:** New rewards for network breaching, additional random netrunners, hack tracing with more nuance than you've encountered\
 ![netrunning](https://i.imgur.com/po0qgYr.png)**Lethal New Weapons:** Guns, knives, bats, the occasional dildo. You name it we got it\
-![weapons](https://i.imgur.com/ELa6HBH.png)**Meaningful Connections:** Chill out in your apartment listening to Johnny jam, enjoy additional quality of life features with retooled character romance features, and see improvements to vanilla functionality with mods like Romance Hangouts Enhanced\
+![weapons](https://i.imgur.com/2L4Mfbk.png)**Meaningful Connections:** Chill out in your apartment listening to Johnny jam, enjoy additional quality of life features with retooled character romance features, and see improvements to vanilla functionality with mods like Romance Hangouts Enhanced\
 ![npc interactions](https://i.imgur.com/HyxeR3Y.png)**New Quests:** Additional adventures reveal more about your friends or lovers\
 ![new quest picture](https://i.imgur.com/jAWLqC4.png)**Quality of Life Features:** Watch the time change [Koyaanisqatsi style](https://youtu.be/QI2IlA3ztIo?t=124) while waiting, attain keyboard serenity while netrunning with numbered quickhacks, bind your different cyberware to hotkeys rather than desperately cycling through a weapon wheel\
 ![quality of life](https://i.imgur.com/uAqVNDp.png) A Plethora of Bug Fixes
