@@ -1,3 +1,5 @@
+![streamer combat new](https://github.com/z9er/CyberpunkTHING/raw/refs/heads/main/resources/documents/streamer_combat-fastflix-06b6.avif)
+
 ![oni equip](https://github.com/z9er/CyberpunkTHING/raw/refs/heads/main/resources/documents/t%20oni%20equip.avif)
 
 ![oni combat](https://github.com/z9er/CyberpunkTHING/raw/refs/heads/main/resources/documents/t%20oni%20combat.avif)
