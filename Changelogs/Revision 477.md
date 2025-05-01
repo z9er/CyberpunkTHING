@@ -10,10 +10,6 @@
 
 - [Radial Breach 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21077)
 
-- [Keep Drawing The Line 3.4.1](https://www.nexusmods.com/cyberpunk2077/mods/7198)
-
-- [Keep Drawing The Line - Invisible Standby Line alt](https://www.nexusmods.com/cyberpunk2077/mods/7198)
-
 ### NPC Interactions
 
 - [Gone Away - Better Partner Suspended Behaviour 0.9.0](https://www.nexusmods.com/cyberpunk2077/mods/19412)
@@ -95,6 +91,10 @@
 ### Gameplay Mechanics
 
 - [Buttslinger Quickmelee 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10556)
+
+- [Keep Drawing The Line 3.4.1](https://www.nexusmods.com/cyberpunk2077/mods/7198)
+
+- [Keep Drawing The Line - Invisible Standby Line alt](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 
 - [Melee Attacks Fixes And Enhancements 0.37](https://www.nexusmods.com/cyberpunk2077/mods/16921)
 
