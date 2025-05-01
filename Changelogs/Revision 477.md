@@ -56,8 +56,6 @@
 
 - [Better Quality Sort 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/20267)
 
-- [Inventory Adjustments Hub 1.1](https://www.nexusmods.com/cyberpunk2077/mods/19632)
-
 - [Quickhacks sort by slot 0.0.0.3](https://www.nexusmods.com/cyberpunk2077/mods/11425)
 
 ### Quality of Life
@@ -194,6 +192,8 @@
 ### UI
 
 - [Fading Crosshairs 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/16092)
+
+- [Inventory Adjustments Hub 1.1](https://www.nexusmods.com/cyberpunk2077/mods/19632)
 
 - [Limited HUD 2.18.0](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
