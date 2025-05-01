@@ -14,8 +14,6 @@
 
 - [Gone Away - Better Partner Suspended Behaviour 0.9.0](https://www.nexusmods.com/cyberpunk2077/mods/19412)
 
-- [Judy Romanced Enhanced 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/4508)
-
 ### World Interactions
 
 - [Immersive Bartenders 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7203)
@@ -133,6 +131,9 @@
 - [I Really Want To Stay At Your House - Panam 3.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8775)
 
 - [I Really Want To Stay At Your House - River 3.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8826)
+
+
+- [Judy Romanced Enhanced 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 
 - [Panam Romanced Enhanced 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4626)
 
