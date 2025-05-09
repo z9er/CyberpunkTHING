@@ -24,7 +24,7 @@ I'm also looking forward to writing more mods that expand on difficulty/complexi
 
 **b:** It's just as important to bring life to the city, and that's where [Deceptious](https://next.nexusmods.com/profile/deceptious/mods?gameId=3333) comes in. His mods tie in naturally to the world and feel like they could have been part of the game, whether [it's going to a bar](https://www.nexusmods.com/cyberpunk2077/mods/5519) or [out dancing](https://www.nexusmods.com/cyberpunk2077/mods/10615) with an important NPC, hanging out in the apartment with [Johnny playing guitar,](https://www.nexusmods.com/cyberpunk2077/mods/13779) or adding [new](https://www.nexusmods.com/cyberpunk2077/mods/7834) [quests](https://www.nexusmods.com/cyberpunk2077/mods/7833) to bring you closer to NPCs. 
 
-Deceptious, how do you approach creating mods that make Night City feel more alive and 
+Deceptious, how do you approach creating mods that make Night City more alive while still considering compatibility with other mods that are made along those lines. 
 
 **Deceptious:** Since I got started I wanted to make mods that felt like they were just a natural part of the game/world. But I also want to make mods that all work together, to complement each other! That extends to other modders' creations; it's always a shame if one mod has to be picked over another, especially if they actually offer more/different things to the player.
 
