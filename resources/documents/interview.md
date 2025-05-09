@@ -1,6 +1,6 @@
 ### What’s your top gameplay priority when choosing mods - immersion, challenge, story depth, vibes?
 
-**z9r:** A lot of our priority is determined by availability, and if it isn't, we're working with modders to assist with what they're developing. Our modder liaison can shed some light on that. 
+**z9r:** A lot of our priority is determined by availability, and if it isn't, we're working with modders to assist with what they're developing. Our modder liaison, b, can shed some light on that. 
 
 **b:** [Seijax,](https://next.nexusmods.com/profile/Seijax/mods?sortBy=endorsements) a founding member of our Merchants of Death weapon modding group, has transformed how combat feels through his new weapon mods and system overhauls. The way he's [reworked ricochet mechanics](https://www.nexusmods.com/cyberpunk2077/mods/7197) and added depth to existing systems like [overclock](https://www.nexusmods.com/cyberpunk2077/mods/14255) is incredible. Seijax, what drives your approach to enhancing these core gameplay systems while keeping them feeling authentic to the game?
 
