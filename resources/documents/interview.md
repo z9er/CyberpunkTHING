@@ -10,7 +10,7 @@ When I try to play using game mechanics of which I like the concept but I'm unde
 
 I may have started from the most obvious example, but over time I've tried to experience all the options offered by the game and found several others that could have used some enrichment (or streamlining) and went to see what I could do about them. It helps that the collection maintains an open dialogue on feedback and suggestions, as many people notice more than a few things and sometimes inspiration strikes in unexpected ways.
 
-**b:** Seijax's comprehensive overhauls of core mechanics from ricochets to cyberware have fundamentally changed how combat feels. In a similar vein, Phoenicia has created fantastic systems that add new dimensions to character builds. Phoenicia, can you talk about how you approach designing mods that work across different gameplay styles and how our collaboration has affected your work?
+**b:** In a similar vein to Seijax's approach, Phoenicia has created fantastic systems that add new dimensions to character builds. Phoenicia, can you talk about how you approach designing mods that work across different gameplay styles and how our collaboration has affected your work?
 
 **Phoenicia:** I fell in love with Cyberpunk since watching those first gameplay trailers. Like probably many other people, I was a bit disappointed after lots of what they promised ended up being undelivered, and at some point decided to just take matters into my own hands, writing mods with stuff that I would personally feel like had been missing, or would want to play with.
 
