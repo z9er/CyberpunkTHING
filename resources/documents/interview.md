@@ -1,3 +1,19 @@
+### Vanilla+ means working with the game, not against it – what does that look like in practice when you're building a list like this?
+
+**z9r:** We don't have the same definition of vanilla plus that most people do. "Vanilla plus" is what we think about when we consider the aesthetics of mods: do they fit into the game seamlessly and look like they belong, do they feel like they're natural in the world. We want the form of "vanilla plus" but the function could be anything, it can be quite radical, and as long as it looks like it belongs in the game people will think it does.
+
+**TimTA:** A lot of the mods we have in the list are mods that people would not necessarily peg as mods, and that's one of our favorite things. We started out with a focus on immersion and challenge, ripping up the usual sort of action RPG trappings that all of these games fall into and trying to make it feel "real," still clearly a game, but to give it a feeling of stakes in combat.
+
+**z9r:** We've combined these two things in one, with both a Welcome to Night City experience for those wanting to enjoy an experience very similar to the vanilla game, but with all the fixin's, and Cyberpunk THING, which is for the sickos who want challenge and stakes. THING is going to become more and more extreme and involved over time as more mods develop for it, but Welcome to Night City is always going to have that warm, friendly, vanilla game feel.
+
+**b:** Even right now, THING is just a shadow of what it will be in the future, and what it already is on our pretty widely played test version we have available in our discord. It'll develop into an experience that's more like the original Deus Ex's realistic difficulty, or the more modern Shadow of War brutal or Ghost of Tsushima lethal difficulties.
+
+**TimTA:** So our attentions are split, we're keeping an eye out for mods that would improve the gameplay experience of anyone, and for the mods that are geared for THING, we tune the settings up in comparison. Mods can play completely differently with different settings.
+
+**z9r:** What working with the game and not against it means in practice, in working on this list, is that we have a lot of modders partner with us when it comes to implementation. We talk with them about what would fit into the game, what would make sense, and keep our conversations aimed at rationalizing the weirder shit we want to do and making it fit into Cyberpunk 2077.
+
+**b:** We wanted to see weapon mods with new iconics that would be less about being overpowered, and were more like "gun but different, not gun but better". We were proud to start a modding club for weapon modders and people who wanted to learn about it, the Merchants of Death, and from pooling that knowledge we've seen incredible things flow from it. There's now full resources like a top to bottom guide for making interesting new iconic weapons that we can see as the fruits of that.
+
 ### What’s your top gameplay priority when choosing mods - immersion, challenge, story depth, vibes?
 
 **z9r:** Our priority is determined by which mods get made, and we're always working with modders to assist with what they're coming up with. Our modder liaison, b, can shed some light on that. 
