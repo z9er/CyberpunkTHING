@@ -2,7 +2,7 @@
 
 **z9r:** Our priority is determined by which mods get made, and we're always working with modders to assist with what they're coming up with. Our modder liaison, b, can shed some light on that. 
 
-**b:** [Seijax,](https://next.nexusmods.com/profile/Seijax/mods?sortBy=endorsements) a founding member of our Merchants of Death weapon modding group, aside from making really cool iconic weapons, has added a lot of depth to existing gameplay features like [ricochet](https://www.nexusmods.com/cyberpunk2077/mods/7197) and [overclock.](https://www.nexusmods.com/cyberpunk2077/mods/14255) 
+**b:** [Seijax,](https://next.nexusmods.com/profile/Seijax/mods?sortBy=endorsements) a founding member of our Merchants of Death weapon modding group, aside from making really cool new iconic weapons, has added a lot of depth to existing gameplay features like [ricochet](https://www.nexusmods.com/cyberpunk2077/mods/7197) and [overclock.](https://www.nexusmods.com/cyberpunk2077/mods/14255) 
 
 Seijax, what shapes your approach when adding nuance to these gameplay systems while making sure they still feel like they belong in the game?
 
