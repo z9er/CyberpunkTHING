@@ -6,6 +6,8 @@
 
 **TimTA:** I joined a bit later to handle support and planning. Once the collection started gaining traction, we needed someone to help players troubleshoot, to organize our testers, and to make sure our growing list of mods remained cohesive and accessible.
 
+[Special thanks to our friend Kulma for the amazing portraits]
+
 ### Vanilla+ means working with the game, not against it – what does that look like in practice when you’re building a list like this?
 
 **z9r:** We don’t have the same definition of vanilla plus that most people do. Vanilla plus to us is seamless integration and belonging. First time players should have no clue if what they’re seeing is from a mod or not. 
