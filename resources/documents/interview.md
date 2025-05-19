@@ -1,3 +1,11 @@
+### Quick intro for us - who are you and how did this project get started?
+
+**z9r:** I lead the project. It started as conversations b and I had about game design and how we would improve Cyberpunk after playing it at launch. We met a modder, Teslacoiled, and we all got along so well it made sense to start a modlist. There was an incredible potential with the game we thought we could realize.
+
+**b:** I'm basically the modder liaison. z9r and I had this vision of bringing together the best mods in a way where they complemented each other, which meant building relationships with the creators themselves rather than just displaying their work.
+
+**TimTA:** I joined a bit later to handle support and planning. Once the collection started gaining traction, we needed someone to help players troubleshoot, to organize our testers, and to make sure our growing list of mods remained cohesive and accessible.
+
 ### What’s your top gameplay priority when choosing mods - immersion, challenge, story depth, vibes?
 
 **z9r:** Our priority is determined by which mods get made, and we're always working with modders to assist with what they're coming up with. Our modder liaison, b, can shed some light on that. 
