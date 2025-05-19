@@ -16,6 +16,20 @@
 
 **z9r:** Yeah, we really do have two completely different setups in one collection. 
 
+### Sounds interesting. Can you tell us a little more about THING, how is it different?
+
+**z9r:** Unfortunately it isn’t finished yet, but we do have a test version that many players are helping us perfect. We were heavily inspired by some of the other games we’ve played that got it right; Ghosts of Tsushima on LETHAL difficulty and Shadow of War on BRUTAL as an example. When you raise the stakes and remove the hand-holding, what you’re left with is lethal, desperate and visceral.
+
+**TimTA:** By adding mods like Better Netrunning by finley we are able to add more nuance, and features that were part of the game in the E3 showcase, locking down networks and adding realistic steps before you can hack every enemy to death through a camera. 
+
+**b:** And we’ve been working with viperc48 for a long time now completely reworking enemy ai to be faster, smarter, and capable of challenging the player in a low time to kill (TTK) setup. 
+
+Would you mind expanding a little bit on that, viper?
+
+**viperc48:** Yeah i think the main reason for ENC and the test version of Cyberpunk THING is because most of us weren't satisfied with the gameplay in vanilla cyberpunk. Combat was way too easy, enemy variety was a downgrade from Witcher 3, and enemy AI was noticeably worse. I've always felt that the factions should have been more distinct and different in terms of abilities, strengths and weaknesses etc. Enemy abilities like sandevistan, camo and netrunning were criminally underused, and I've discovered plenty of cut content around enemy AI. It seems to me that the devs lacked the freedom to develop enemy AI and factions to their fullest potential, perhaps so as to not intrude upon the power fantasy envisioned by their management. 
+
+While ENC was originally designed with a vanilla plus approach(meaning the same damage scaling and ttk as vanilla game), the collaboration with b for the test version of THING gave me a lot of perspective on balance and has certainly challenged me to up my game so that enemies are not only able to survive but also thrive in the low ttk environment. Enemies being able to react quickly, dodge, and even responding differently to player's actions such as activating berserk. Thanks to b, I've also received a lot of inspiration from other games such as Ghost of Tsushima and TLOU2, which are known to have a brutal combat system, and this is the new philosophy behind ENC - levelling the playing field. The constant flow of feedback from test players has been invaluable and it's been a pleasure watching experimental/WIP mods like Chipware and Better Netrunning coming together to form a fun cohesive experience that never stops challenging the player.
+
 ### What’s your top gameplay priority when choosing mods - immersion, challenge, story depth, vibes?
 
 **z9r:** Our priority is determined by which mods get made, and we're always working with modders to assist with what they're coming up with. Our modder liaison, b, can shed some light on that. 
