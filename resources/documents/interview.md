@@ -85,3 +85,7 @@ And a quick shoutout to my personal favorite: Trailblazer from Nomad Cache. I wo
 **z9r:** Another thing we've learned is to not try and be everything to everyone. By leaving aesthetics up to the player and only adding mods that impact gameplay, our list remains highly compatible. We're always thinking about the install experience without Nexus premium and keeping clicks to a minimum.
 
 **TimTA:** We have a version of our list on Wabbajack that works through Mod Organizer 2 if people don’t want to use the collection through Vortex. Our list even works through Nexus Mod App, and we’ll have instructions on how to use that specifically as soon as it has beta support for Cyberpunk.
+
+### Lastly, would you like to say anything to the community?
+
+
