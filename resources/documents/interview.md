@@ -75,3 +75,13 @@ For gameplay, I wanted to recreate the feel of an honorable samurai duel, like s
 And a quick shoutout to my personal favorite: Trailblazer from Nomad Cache. I won't spill too much other than to say it shoots fire and lightning, blows up your enemies, and sports some preem racing stripes.
 
 **z9r:** This is just a small slice of what's happening in the Cyberpunk gameplay modding scene. We do our best to work with modders and find synergies between their mods so that our list isn't just a bunch of stuff thrown together.
+
+### Collections can be chaotic beasts. How do you keep things compatible without turning it into a tech support nightmare? 
+
+**b:** cyberpunk isn’t a bethesda game and our hands are pretty tied when it comes to fixing compatibility issues, but we’ve had a lot of success working with modders individually to tweak their code to play nice with other mods. 
+
+**TimTA:** we do a lot of testing and QA for mods, even before they’re released on nexus, on our test version. 
+
+**z9r:** Another thing we've learned is to not try and be everything to everyone. By leaving aesthetics up to the player and only adding mods that impact gameplay, our list remains highly compatible. We're always thinking about the install experience without Nexus premium and keeping clicks to a minimum.
+
+**TimTA:** We have a version of our list on Wabbajack that works through Mod Organizer 2 if people don’t want to use the collection through Vortex. Our list even works through Nexus Mod App, and we’ll have instructions on how to use that as soon as it has beta support for Cyberpunk.
