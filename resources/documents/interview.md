@@ -78,10 +78,10 @@ And a quick shoutout to my personal favorite: Trailblazer from Nomad Cache. I wo
 
 ### Collections can be chaotic beasts. How do you keep things compatible without turning it into a tech support nightmare? 
 
-**b:** cyberpunk isn’t a bethesda game and our hands are pretty tied when it comes to fixing compatibility issues, but we’ve had a lot of success working with modders individually to tweak their code to play nice with other mods. 
+**b:** Cyberpunk isn't a Bethesda game modding wise and our hands are pretty tied when it comes to fixing compatibility issues, but we've had a lot of success working with modders individually to tweak their mods to play nice with others.
 
-**TimTA:** we do a lot of testing and QA for mods, even before they’re released on nexus, on our test version. 
+**TimTA:** We do a lot of QA for mods on our test version even before they're released on Nexus. Helps us catch problems early.  
 
 **z9r:** Another thing we've learned is to not try and be everything to everyone. By leaving aesthetics up to the player and only adding mods that impact gameplay, our list remains highly compatible. We're always thinking about the install experience without Nexus premium and keeping clicks to a minimum.
 
-**TimTA:** We have a version of our list on Wabbajack that works through Mod Organizer 2 if people don’t want to use the collection through Vortex. Our list even works through Nexus Mod App, and we’ll have instructions on how to use that as soon as it has beta support for Cyberpunk.
+**TimTA:** We have a version of our list on Wabbajack that works through Mod Organizer 2 if people don’t want to use the collection through Vortex. Our list even works through Nexus Mod App, and we’ll have instructions on how to use that specifically as soon as it has beta support for Cyberpunk.
