@@ -6,6 +6,16 @@
 
 **TimTA:** I joined a bit later to handle support and planning. Once the collection started gaining traction, we needed someone to help players troubleshoot, to organize our testers, and to make sure our growing list of mods remained cohesive and accessible.
 
+### Vanilla+ means working with the game, not against it – what does that look like in practice when you’re building a list like this?
+
+**z9r:** We don’t have the same definition of vanilla plus that most people do. Vanilla plus to us is seamless integration and belonging. First time players should have no clue if what they’re seeing is the result of a mod or not. 
+
+**Brahma:** We like to have our cake and eat it too. When you install the collection you’re given a choice at the very end: You can pick ‘Welcome to Night City’ if you’d prefer a more familiar experience, or you can pick ‘Cyberpunk THING’ if you’re ready for a challenge and want to truly see what Cyberpunk modding has to offer.
+
+**TimTA:** WTNC still includes some pretty radical mods, but with THING it feels like there’s a lot more freedom to make even bigger changes. The game is definitely more difficult but it’s also way more immersive and way more fun. 
+
+**z9r:** Yeah, we really do have two completely different setups in one collection. 
+
 ### What’s your top gameplay priority when choosing mods - immersion, challenge, story depth, vibes?
 
 **z9r:** Our priority is determined by which mods get made, and we're always working with modders to assist with what they're coming up with. Our modder liaison, b, can shed some light on that. 
