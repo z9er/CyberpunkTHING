@@ -42,4 +42,4 @@ For gameplay, I wanted to recreate the feel of an honorable samurai duel, like s
 
 And a quick shoutout to my personal favorite: Trailblazer from Nomad Cache. I won't spill too much other than to say it shoots fire and lightning, blows up your enemies, and sports some preem racing stripes.
 
-**z9r:** Cyberpunk mods wouldn't be the same without the incredible effort and thought that modders put into making interesting gameplay mods. And these are just a few aspects of a much larger gameplay modding scene that does some of the most innovative and well-implemented work anywhere. What makes this community special is the collaborative ecosystem where modders build upon and complement each other's work. This is why we're committed to supporting these creative visions through Welcome to Night City and Cyberpunk THING.
+**z9r:** This is just a small slice of what's happening in the Cyberpunk gameplay modding scene. We do our best to work with modders and find synergies between their mods so that our list isn't just a bunch of stuff thrown together.
