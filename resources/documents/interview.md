@@ -14,7 +14,7 @@
 
 **TimTA:** WTNC still includes some pretty radical mods, but with THING it feels like there’s a lot more freedom to make even bigger changes. The game is definitely more difficult but it’s also way more immersive and way more fun. 
 
-**z9r:** Yeah, we really do have two completely different setups in one collection. 
+**z9r:** Yeah, some people think we're crazy but we really do have two completely different setups in one collection.
 
 ### Sounds interesting. Can you tell us a little more about THING, how is it different?
 
