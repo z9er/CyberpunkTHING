@@ -88,4 +88,6 @@ And a quick shoutout to my personal favorite: Trailblazer from Nomad Cache. I wo
 
 ### Lastly, would you like to say anything to the community?
 
+**b:** We really appreciate all of the modders who've worked with us to make this modlist a reality. It's crazy to try to do two lists in one, so their support has been invaluable.
+
 
