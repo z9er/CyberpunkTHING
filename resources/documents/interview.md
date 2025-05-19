@@ -90,4 +90,8 @@ And a quick shoutout to my personal favorite: Trailblazer from Nomad Cache. I wo
 
 **b:** We really appreciate all of the modders who've worked with us to make this modlist a reality. It's crazy to try to do two lists in one, so their support has been invaluable.
 
+**TimTA:** We owe a lot to our users. They've helped with play testing and pointed out improvements. Some started modding after using our list, others had ideas that turned into actual mods, and many just gave useful feedback. Couldn't have done it without them.
+
+**z9r:** The list of people to thank is way too long, so I'll just say a huge thanks to everyone who's helped us over the last 3 years. Special shoutout to TeslaCoiled though - without him this project wouldn't have gotten off the ground.
+
 
