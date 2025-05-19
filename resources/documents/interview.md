@@ -8,7 +8,7 @@
 
 ### Vanilla+ means working with the game, not against it – what does that look like in practice when you’re building a list like this?
 
-**z9r:** We don’t have the same definition of vanilla plus that most people do. Vanilla plus to us is seamless integration and belonging. First time players should have no clue if what they’re seeing is the result of a mod or not. 
+**z9r:** We don’t have the same definition of vanilla plus that most people do. Vanilla plus to us is seamless integration and belonging. First time players should have no clue if what they’re seeing is from a mod or not. 
 
 **Brahma:** We like to have our cake and eat it too. When you install the collection you’re given a choice at the very end: You can pick ‘Welcome to Night City’ if you’d prefer a more familiar experience, or you can pick ‘Cyberpunk THING’ if you’re ready for a challenge and want to truly see what Cyberpunk modding has to offer.
 
