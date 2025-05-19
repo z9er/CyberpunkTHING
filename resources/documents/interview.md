@@ -1,6 +1,6 @@
 ### Quick intro for us - who are you and how did this project get started?
 
-**z9r:** I lead the project. It started as conversations b and I had about game design and how we would improve Cyberpunk after playing it at launch. We met a modder, Teslacoiled, and we all got along so well it made sense to start a modlist. 
+**z9r:** I lead the project. It started as conversations b and I had about game design and how we would improve Cyberpunk after playing it at launch. We met a modder, TeslaCoiled, and we all got along so well it made sense to start a modlist. 
 
 **b:** I'm basically the modder liaison. z9r and I had this vision of bringing together the best mods in a way where they complemented each other, which meant building relationships with the creators themselves rather than just displaying their work.
 
