@@ -10,7 +10,7 @@
 
 **z9r:** We don’t have the same definition of vanilla plus that most people do. Vanilla plus to us is seamless integration and belonging. First time players should have no clue if what they’re seeing is from a mod or not. 
 
-**Brahma:** We like to have our cake and eat it too. When you install the collection you’re given a choice at the very end: You can pick ‘Welcome to Night City’ if you’d prefer a more familiar experience, or you can pick ‘Cyberpunk THING’ if you’re ready for a challenge and want to truly see what Cyberpunk modding has to offer.
+**b:** We like to have our cake and eat it too. When you install the collection you’re given a choice at the very end: You can pick ‘Welcome to Night City’ if you’d prefer a more familiar experience, or you can pick ‘Cyberpunk THING’ if you’re ready for a challenge and want to truly see what Cyberpunk modding has to offer.
 
 **TimTA:** WTNC still includes some pretty radical mods, but with THING it feels like there’s a lot more freedom to make even bigger changes. The game is definitely more difficult but it’s also way more immersive and way more fun. 
 
