@@ -92,6 +92,6 @@ And a quick shoutout to my personal favorite: Trailblazer from Nomad Cache. I wo
 
 **TimTA:** We owe a lot to our users. They've helped with play testing and pointed out improvements. Some started modding after using our list, others had ideas that turned into actual mods, and many just gave useful feedback. Couldn't have done it without them.
 
-**z9r:** The list of people to thank is way too long, so I'll just say a huge thanks to everyone who's helped us over the last 3 years. Special shoutout to TeslaCoiled though - without him this project wouldn't have gotten off the ground.
+**z9r:** The list of people to thank is way too long, so I'll just say a huge thanks to everyone who's helped us over the last 3 years. Special shoutout to TeslaCoiled though - without him this project would never have gotten off the ground.
 
 
