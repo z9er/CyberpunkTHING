@@ -1,3 +1,5 @@
+#### Revision 446 - September 29, 2023
+
 Compatible with and updated for version **2.0** and **Phantom Liberty**. If you are coming with a modded save or one from **revision 445 or earlier** you will need to start a new save, otherwise, if it is a vanilla save or a new game you are free to add this to your game at anytime.
 
 # Added
