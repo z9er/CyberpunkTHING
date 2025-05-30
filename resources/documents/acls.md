@@ -1,421 +1,16 @@
-#### Revision 478 - May 28, 2025
-
-# Added
-
-### Gameplay Mechanics
-
-- [Hold to Overclock while scanning 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21656)
-
-### Vehicles and Driving
-
-- [Courier Jobs - Feature Settings 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21707)
-- [Maelstrom Crystal Coat 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21351)
-- [Matrix Crystal Coat 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/21319)
-- [Mizutani Shion horn fix 1.01](https://www.nexusmods.com/cyberpunk2077/mods/21518)
-
-### Bug Fixes
-
-- [Psycho Killer Reward - Restored 1.0](https://www.nexusmods.com/cyberpunk2077/mods/15497)
-
-# Updated Mods
-
-### Gameplay Mechanics
-
-- [Movement And Camera Tweaks 1.4](https://www.nexusmods.com/cyberpunk2077/mods/4039)
-- [Neuralware - Chipware Expansion 1.1.9](https://www.nexusmods.com/cyberpunk2077/mods/19798)
-- [Stealthrunner 1.8.2](https://www.nexusmods.com/cyberpunk2077/mods/7616)
-
-### NPC Interactions
-
-- [Rita Wheeler Romanced 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
-- [River Romanced Enhanced 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/4870)
-
-### World Interactions
-
-- [Immersive Rippers 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/7064)
-- [NCI Addon - Badlands and Pacifica 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/15138)
-- [NCI Addon - Heywood 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/14806)
-- [Night City Interactions - Core 3.5.0](https://www.nexusmods.com/cyberpunk2077/mods/5519)
-
-### Vehicles and Driving
-
-- [TwinTone Stores 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/19992)
-
-### Weapons
-
-- [Trigger Mode Control 2.7.3](https://www.nexusmods.com/cyberpunk2077/mods/13077)
-
-### Aesthetics
-
-- [Enhanced Craft 4.0.5](https://www.nexusmods.com/cyberpunk2077/mods/4378)
-- [Immersive Timeskip 2.1.4](https://www.nexusmods.com/cyberpunk2077/mods/5115)
-
-### UI
-
-- [Muted Markers 2.3.2](https://www.nexusmods.com/cyberpunk2077/mods/1727)
-- [Native Settings UI Side Menu Add-on 1.3.8](https://www.nexusmods.com/cyberpunk2077/mods/16218)
-- [Revised Backpack 0.9.9](https://www.nexusmods.com/cyberpunk2077/mods/17642)
-- [Untrack Quest Ultimate 3.1.0](https://www.nexusmods.com/cyberpunk2077/mods/6328)
-
-### Quality of Life
-
-- [Custom Quickslots 5.1.6](https://www.nexusmods.com/cyberpunk2077/mods/3096)
-- [Metro Pocket Guide 1.2.8](https://www.nexusmods.com/cyberpunk2077/mods/11882)
-
-### Bug Fixes
-
-- [Deceptious Bug Fixes 1.1.11](https://www.nexusmods.com/cyberpunk2077/mods/18318)
-- [Judy Identity Privacy 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17486)
-- [Quickhack Fixes 1.2.16](https://www.nexusmods.com/cyberpunk2077/mods/18290)
-
-### Utility
-
-- [ArchiveXL 1.23.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
-- [Codeware 1.16.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
-- [TweakXL 1.10.10](https://www.nexusmods.com/cyberpunk2077/mods/4197)
-
-#### Revision 477 - May 1, 2025
-
-# Added Mods
-
-### Gameplay Mechanics
-
-- [Better Movement - QOL Jog 1.0](https://www.nexusmods.com/cyberpunk2077/mods/20234)
-
-- [Neuralware - Chipware Expansion 1.1.6](https://www.nexusmods.com/cyberpunk2077/mods/19798)
-
-- [Pyromania Unchained 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/19517)
-
-- [Radial Breach 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21077)
-
-### NPC Interactions
-
-- [Gone Away - Better Partner Suspended Behaviour 0.9.0](https://www.nexusmods.com/cyberpunk2077/mods/19412)
-
-### World Interactions
-
-- [Immersive Bartenders 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7203)
-
-- [Immersive Bartenders - Dogtown 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10372)
-
-- [NCI Addon - City Center 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21018)
-
-- [Pachinko Button - Gambling System 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/19889)
-
-- [Playable Blackjack - Gambling System 1.0.7](https://www.nexusmods.com/cyberpunk2077/mods/19575)
-
-### Vehicles and Driving
-
-- [Fixed NPC Vehicle Reactions 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/19530)
-
-- [TwinTone Stores 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/19992)
-
-### Weapons
-
-- [Gold Machetes for Valentinos 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19377)
-
-- [Jackie's Machete 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/19608)
-
-- [Mox Cache - New Iconic Weapons 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/20073)
-
-- [Tyger Cache - New Iconic Weapons 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/20827)
-
-### Cyberware
-
-- [Alternative Berserk 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/20393)
-
-- [Berserk Unchained - Remove tunnelvision from VFX 0](https://www.nexusmods.com/cyberpunk2077/mods/14203)
-
-### Aesthetics
-
-- [Cutscene Weapon Swapper 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/20743)
-
-### UI
-
-- [Better Quality Sort 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/20267)
-
-- [Quickhacks sort by slot 0.0.0.3](https://www.nexusmods.com/cyberpunk2077/mods/11425)
-
-### Quality of Life
-
-- [Mute Menu Humming - Mute Menu Inventory and Scan Humming 1.2](https://www.nexusmods.com/cyberpunk2077/mods/18781)
-
-### Bug Fixes
-
-- [Bolt Shot FX Reset Fix 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/19036)
-
-- [Bug Fix - Base Fists and Arm Cyberware Attack Speed Fix 2.12.2024.04.09](https://www.nexusmods.com/cyberpunk2077/mods/14130)
-
-- [Disappearing Enemy Health Bar Fix LHUD 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19815)
-
-- [Disappearing Enemy Health Bar Fix - Show Player Health Bar When Scanning 1.1](https://www.nexusmods.com/cyberpunk2077/mods/19815)
-
-- [Disappearing NPC and Vehicle Fix - Ultra Light 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19628)
-
-- [Hammers are not bats 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/20217)
-
-- [Mod Settings - Gallery Patch 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21169)
-
-### Utility
-
-- [VendorsXL 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/19679)
-
-# Updated Mods
-
-### Gameplay Mechanics
-
-- [Buttslinger Quickmelee 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/10556)
-
-- [Keep Drawing The Line 3.4.1](https://www.nexusmods.com/cyberpunk2077/mods/7198)
-
-- [Keep Drawing The Line - Invisible Standby Line alt](https://www.nexusmods.com/cyberpunk2077/mods/7198)
-
-- [Melee Attacks Fixes And Enhancements 0.37](https://www.nexusmods.com/cyberpunk2077/mods/16921)
-
-- [Overclock Overheat 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/14255)
-
-- [Ricochet Redux 4.1.1](https://www.nexusmods.com/cyberpunk2077/mods/7197)
-
-- [Stealthrunner 1.8.1](https://www.nexusmods.com/cyberpunk2077/mods/7616)
-
-- [Trace Position Overhaul 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/12445)
-
-- [SynthDose 1.3.9](https://www.nexusmods.com/cyberpunk2077/mods/14094)
-
-### Enemies and Difficulty
-
-- [Random Netrunners 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/16475)
-
-### NPC Interactions
-
-- [Apartment Cats - Corpo Plaza 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/6329)
-
-- [Apartment Cats - Custom Cats 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/6837)
-
-- [Apartment Cats - Japantown 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/6493)
-
-- [Apartment Cats - Northside Motel 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/6379)
-
-- [Apartment Cats - The Glen 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/6276)
-
-- [Flaming Crotch Man Romanced 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/9573)
-
-- [I Really Want To Stay At Your House - Judy 3.4.0](https://www.nexusmods.com/cyberpunk2077/mods/8753)
-
-- [I Really Want To Stay At Your House - Kerry 3.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8806)
-
-- [I Really Want To Stay At Your House - Panam 3.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8775)
-
-- [I Really Want To Stay At Your House - River 3.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8826)
-
-
-- [Judy Romanced Enhanced 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/4508)
-
-- [Panam Romanced Enhanced 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4626)
-
-- [Pet Your Cat 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/6198)
-
-- [River Romanced Enhanced 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/4870)
-
-- [Romance Hangouts Enhanced 2.1.2](https://www.nexusmods.com/cyberpunk2077/mods/11590)
-
-### World Interactions
-
-- [Immersive Food Vendors 1.1.1h](https://www.nexusmods.com/cyberpunk2077/mods/7322)
-
-- [Immersive Food Vendors - Dogtown 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/10393)
-
-- [Immersive Rippers 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/7064)
-
-- [NCI Addon - Heywood 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/14806)
-
-- [NCI Addon - Santo Domingo 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/19005)
-
-- [Night City Interactions - Core 3.4.0](https://www.nexusmods.com/cyberpunk2077/mods/5519)
-
-### Weapons
-
-- [Better Chimera Mods 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/18209)
-
-- [Extra Iconics 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/15889)
-
-- [Nomad Cache - New Iconic Weapons 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/19234)
-
-- [Ronin 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/18595)
-
-- [Trigger Mode Control 2.7.2](https://www.nexusmods.com/cyberpunk2077/mods/13077)
-
-### Cyberware
-
-- [Berserk Unchained 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/14203)
-
-- [Berserk Unchained - Partial CD cd-2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/14203)
-
-- [Black Chrome 1.1.8](https://www.nexusmods.com/cyberpunk2077/mods/16031)
-
-- [Extra Berserks 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/14236)
-
-- [Extra Hands 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/12325)
-
-- [Jarngreipr 1.3.2](https://www.nexusmods.com/cyberpunk2077/mods/12591)
-
-- [Optical Camo Realism and Utility - Camo Partial CD cd-2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15308)
-
-### Aesthetics
-
-- [Immersive Timeskip 2.1.3](https://www.nexusmods.com/cyberpunk2077/mods/5115)
-
-- [Preem Scopes 0.17.2](https://www.nexusmods.com/cyberpunk2077/mods/10021)
-
-### UI
-
-- [Fading Crosshairs 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/16092)
-
-- [Inventory Adjustments Hub 1.1](https://www.nexusmods.com/cyberpunk2077/mods/19632)
-
-- [Limited HUD 2.18.0](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-
-- [Native Settings UI Side Menu Add-on 1.3.7](https://www.nexusmods.com/cyberpunk2077/mods/16218)
-
-- [Quickhack Loadouts 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/11682)
-
-- [Revised Backpack 0.9.8](https://www.nexusmods.com/cyberpunk2077/mods/17642)
-
-### Quality of Life
-
-- [Custom Quickslots 5.1.5](https://www.nexusmods.com/cyberpunk2077/mods/3096)
-
-- [Smarter Scrapper 2.3.5](https://www.nexusmods.com/cyberpunk2077/mods/2687)
-
-### Bug Fixes
-
-- [Deceptious Bug Fixes 1.1.10](https://www.nexusmods.com/cyberpunk2077/mods/18318)
-
-- [Fix Advert Animations 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17726)
-
-- [Quickhack Fixes 1.2.10](https://www.nexusmods.com/cyberpunk2077/mods/18290)
-
-### Utility
-
-- [ArchiveXL 1.22.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
-
-- [redscript 0.5.28](https://www.nexusmods.com/cyberpunk2077/mods/1511)
-
-- [Reflex is Cool 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/15963)
-
-- [TweakXL 1.10.9](https://www.nexusmods.com/cyberpunk2077/mods/4197)
-
-# Removed Mods
-
-- [Artistic 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/13066)
-
-- [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
-
-- [Optical Camo Realism and Utility - Stealthrunner Compatibility](https://www.nexusmods.com/cyberpunk2077/mods/15308)
-
-#### Revision 476 - January 25, 2025
-
-# Added Mods
-
-### Gameplay Mechanics
-
-- [Fighting Gangs Allowed - Reasonable Police 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19189)
-
-### World Interactions
-
-- [NCI Addon - Santo Domingo 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/19005)
-
-### Weapons
-
-- [Nomad Cache - New Iconic Weapons 1.0](https://www.nexusmods.com/cyberpunk2077/mods/19234)
-
-# Updated Mods
-
-### Gameplay Mechanics
-
-- [Keep Drawing The Line 3.3.4](https://www.nexusmods.com/cyberpunk2077/mods/7198)
-
-- [Ricochet Redux 4.0.5](https://www.nexusmods.com/cyberpunk2077/mods/7197)
-
-### Quests
-
-- [Artistic 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/13066)
-
-### NPC Interactions
-
-- [I Really Want To Stay At Your House - Judy 3.3.1](https://www.nexusmods.com/cyberpunk2077/mods/8753)
-
-- [I Really Want To Stay At Your House - Kerry 3.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8806)
-
-- [I Really Want To Stay At Your House - Panam 3.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8775)
-
-- [I Really Want To Stay At Your House - River 3.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8826)
-
-- [Panam Romanced Enhanced 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/4626)
-
-- [Romance Hangouts Enhanced 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11590)
-
-### World Interactions
-
-- [Immersive Rippers 2.2.5](https://www.nexusmods.com/cyberpunk2077/mods/7064)
-
-- [Immersive Rippers - Dogtown 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/10255)
-
-- [NCI Addon - Badlands and Pacifica 1.3.3](https://www.nexusmods.com/cyberpunk2077/mods/15138)
-
-- [NCI Addon - Heywood 1.1.3](https://www.nexusmods.com/cyberpunk2077/mods/14806)
-
-- [Night City Interactions - Core 3.3.5](https://www.nexusmods.com/cyberpunk2077/mods/5519)
-
-- [Parking Spots Enhanced 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/15708)
-
-### Weapons
-
-- [Extra Iconics 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15889)
-
-- [Trigger Mode Control 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/13077)
-
-### Aesthetics
-
-- [Equipment-EX 1.2.8](https://www.nexusmods.com/cyberpunk2077/mods/6945)
-
-### UI
-
-- [Cleaner Main Menu and Pause Menu 2.2](https://www.nexusmods.com/cyberpunk2077/mods/10285)
-
-- [Limited HUD 2.16.2](https://www.nexusmods.com/cyberpunk2077/mods/2592)
-
-- [Revised Backpack 0.9.6](https://www.nexusmods.com/cyberpunk2077/mods/17642)
-
-### Bug Fixes
-
-- [Deceptious Bug Fixes 1.1.5](https://www.nexusmods.com/cyberpunk2077/mods/18318)
-
-- [Quickhack Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/18290)
-
-### Utility
-
-- [ArchiveXL 1.21.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
-
-- [Codeware 1.15.0](https://www.nexusmods.com/cyberpunk2077/mods/7780)
-
-- [Cyber Engine Tweaks 1.35.0](https://www.nexusmods.com/cyberpunk2077/mods/107)
-
-- [RED4ext 1.27.0](https://www.nexusmods.com/cyberpunk2077/mods/2380)
-
 #### Revision 475 - January 5, 2025
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Movement And Camera Tweaks 1.35](https://www.nexusmods.com/cyberpunk2077/mods/4039)
 
-### Quests
+**Quests**
 
 - [Artistic 1.3.3](https://www.nexusmods.com/cyberpunk2077/mods/13066)
 
-### Weapons
+**Weapons**
 
 - [DR-10 Wormhole Smart Revolver 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/10541)
 
@@ -423,61 +18,61 @@
 
 - [Ronin 1.0b-MAIN](https://www.nexusmods.com/cyberpunk2077/mods/18595)
 
-### Cyberware
+**Cyberware**
 
 - [Optical Camo Realism and Utility - Free Perk activations perks-1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15308)
 
-### Quality of Life
+**Quality of Life**
 
 - [The Passenger - Feature Settings 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/18380)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Quickhack Fixes 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/18290)
 
 - [Slow Firing Rate on Longer Saves Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/18768)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stealthrunner 1.8.0](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 
 - [SynthDose 1.3.6](https://www.nexusmods.com/cyberpunk2077/mods/14094)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [No shooting delay 1.1](https://www.nexusmods.com/cyberpunk2077/mods/15559)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Judy Romanced Enhanced 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 
 - [Romance Hangouts Enhanced 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/11590)
 
-### World Interactions
+**World Interactions**
 
 - [Dance Off 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/10615)
 
 - [Immersive Rippers 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
-### Weapons
+**Weapons**
 
 - [Extra Iconics 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/15889)
 
 - [Modular Kyubi Revamp 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/14662)
 
-### Cyberware
+**Cyberware**
 
 - [Heat Converter 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/11820)
 
 - [Jarngreipr 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/12591)
 
-### Aesthetics
+**Aesthetics**
 
 - [Immersive Timeskip 2.1.2](https://www.nexusmods.com/cyberpunk2077/mods/5115)
 
-### UI
+**UI**
 
 - [Filter Saves by Lifepath and Type 1.5.0](https://www.nexusmods.com/cyberpunk2077/mods/3400)
 
@@ -485,17 +80,17 @@
 
 - [Untrack Quest Ultimate 2.7.4](https://www.nexusmods.com/cyberpunk2077/mods/6328)
 
-### Quality of Life
+**Quality of Life**
 
 - [Flashback Fixer 1.2](https://www.nexusmods.com/cyberpunk2077/mods/16236)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Deceptious Bug Fixes 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/18318)
 
 - [Status Bar Bug Fixes 1.7](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.19.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -503,33 +98,33 @@
 
 - [TweakXL 1.10.7](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Named Saves 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 
 #### Revision 474 - December 14, 2024
 
-# Added Mods
+### Added Mods
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [All Vehicles Can Steer 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/18210)
 
-### Weapons
+**Weapons**
 
 - [Better Chimera Mods 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/18209)
 
 - [Masamune and Nowaki Revamp 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/18208)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Deceptious Bug Fixes 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/18318)
 
 - [Enemies Dodging Fix 0.11](https://www.nexusmods.com/cyberpunk2077/mods/17923)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Melee Attacks Fixes And Enhancements 0.31](https://www.nexusmods.com/cyberpunk2077/mods/16921)
 
@@ -545,15 +140,15 @@
 
 - [Trace Position Overhaul 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12445)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Random Netrunners 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/16475)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Panam Romanced Enhanced 2.3.2](https://www.nexusmods.com/cyberpunk2077/mods/4626)
 
-### World Interactions
+**World Interactions**
 
 - [Gambling System - Roulette 1.0.13](https://www.nexusmods.com/cyberpunk2077/mods/15450)
 
@@ -571,25 +166,25 @@
 
 - [Parking Spots Enhanced 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/15708)
 
-### Weapons
+**Weapons**
 
 - [Extra Iconics 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/15889)
 
 - [Trigger Mode Control 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Black Chrome 1.1.6](https://www.nexusmods.com/cyberpunk2077/mods/16031)
 
 - [Extra Hands 2.0.3](https://www.nexusmods.com/cyberpunk2077/mods/12325)
 
-### Aesthetics
+**Aesthetics**
 
 - [Enhanced Craft 4.0.4](https://www.nexusmods.com/cyberpunk2077/mods/4378)
 
 - [Equipment-EX 1.2.7](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
 - [Limited HUD 2.15.6](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
@@ -601,13 +196,13 @@
 
 - [Untrack Quest Ultimate 2.7.3](https://www.nexusmods.com/cyberpunk2077/mods/6328)
 
-### Quality of Life
+**Quality of Life**
 
 - [Faster Checkpoints 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/9724)
 
 - [Throttled Activity Log 1.1](https://www.nexusmods.com/cyberpunk2077/mods/17674)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.18.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -617,7 +212,7 @@
 
 - [RED4ext 1.26.1](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 
-# Removed Mods
+### Removed Mods
 
 - [Appearance Change Unlocker 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
@@ -673,31 +268,31 @@
 
 #### Revision 473 - November 18, 2024
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Melee Attacks Fixes And Enhancements 0.2](https://www.nexusmods.com/cyberpunk2077/mods/16921)
 
-### World Interactions
+**World Interactions**
 
 - [React To Horn - Get out of my way NPC 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/16965)
 
-### Weapons
+**Weapons**
 
 - [Divided Faster Projectiles 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16950)
 
-### Cyberware
+**Cyberware**
 
 - [Intuitive Projectile Launcher System 1.0](https://www.nexusmods.com/cyberpunk2077/mods/13928)
 
-### Aesthetics
+**Aesthetics**
 
 - [Delete -A Few Weeks Tops- Vik Voiceline 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16932)
 
 - [Judy Identity Privacy- for Male V 1.0](https://www.nexusmods.com/cyberpunk2077/mods/17486)
 
-### UI
+**UI**
 
 - [Improved NCPD Map Filters 2.0](https://www.nexusmods.com/cyberpunk2077/mods/17488)
 
@@ -711,7 +306,7 @@
 
 - [Throttled Activity Log 1.0](https://www.nexusmods.com/cyberpunk2077/mods/17674)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Fix Advert Animations 1.0](https://www.nexusmods.com/cyberpunk2077/mods/17726)
 
@@ -719,9 +314,9 @@
 
 - [Missing Lipsync Bug Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/17707)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stealth Remote Control Cars and Turrets 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/9939)
 
@@ -729,19 +324,19 @@
 
 - [Weapon Handling Control 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/11474)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Judy Romanced Enhanced 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 
-### World Interactions
+**World Interactions**
 
 - [Gambling System - Roulette 1.0.10](https://www.nexusmods.com/cyberpunk2077/mods/15450)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Virtual Car Dealer 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-### Weapons
+**Weapons**
 
 - [Borg Malorian Restored 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/9213)
 
@@ -749,7 +344,7 @@
 
 - [Trigger Mode Control 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Black Chrome 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/16031)
 
@@ -759,11 +354,11 @@
 
 - [Megingjord 1.3.2](https://www.nexusmods.com/cyberpunk2077/mods/12664)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.2.6](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
 - [Limited HUD 2.15.5](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
@@ -777,17 +372,17 @@
 
 - [Untrack Quest Ultimate 2.7.2](https://www.nexusmods.com/cyberpunk2077/mods/6328)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 5.1.4](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
 - [Metro Pocket Guide 1.2.7](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [In Cold Blood - NPC Execution Fix 1.2](https://www.nexusmods.com/cyberpunk2077/mods/14880)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.17.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -795,7 +390,7 @@
 
 - [Deceptious Quest Core 3.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
-# Removed Mods
+### Removed Mods
 
 - [Arcade Anywhere 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/12378)
 
@@ -821,58 +416,58 @@
 
 #### Revision 472 - October 2, 2024
 
-# Added Mods
+### Added Mods
 
-### UI
+**UI**
 
 - [Vehicle Durability Display ](https://www.nexusmods.com/cyberpunk2077/mods/16559)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Car Dodge Stutter Fix 0.1](https://www.nexusmods.com/cyberpunk2077/mods/16720)
 - [Decals Flickering Fix 0.12](https://www.nexusmods.com/cyberpunk2077/mods/16579)
 - [Rasetsu screens bug fix ](https://www.nexusmods.com/cyberpunk2077/mods/16896)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stealthrunner 1.5.5](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 
-### World Interactions
+**World Interactions**
 
 - [Night City Interactions - Core 3.3.2](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 - [NCI Addon - Watson 1.3.2](https://www.nexusmods.com/cyberpunk2077/mods/14804)
 
-### Weapons
+**Weapons**
 
 - [Extra Iconics 1.1.5](https://www.nexusmods.com/cyberpunk2077/mods/15889)
 - [Trigger Mode Control 2.2.7](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Gorilla Grapple 1.1](https://www.nexusmods.com/cyberpunk2077/mods/14183)
 - [Megingjord 1.3](https://www.nexusmods.com/cyberpunk2077/mods/12664)
 
-### UI
+**UI**
 
 - [Native Settings UI Side Menu Add-on 1.3.3](https://www.nexusmods.com/cyberpunk2077/mods/16218)
 
-### Quality of Life
+**Quality of Life**
 
 - [Looting QoL 1.6](https://www.nexusmods.com/cyberpunk2077/mods/14730)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Cop Killer - NCPD Fixes ncpdf-1.3](https://www.nexusmods.com/cyberpunk2077/mods/14652)
 - [Passenger Targeting Fix 1.1](https://www.nexusmods.com/cyberpunk2077/mods/16541)
 
-### Utility
+**Utility**
 
 - [Codeware 1.12.8](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 - [TweakXL 1.10.5](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [No More Out-Leveling Vendor Items 0.9](https://www.nexusmods.com/cyberpunk2077/mods/12500)
 
@@ -880,19 +475,19 @@
 
 Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news/50818/patch-2-13)
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Dash Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/16272)
 
 - [Stand After Sliding 0.1.1](https://www.nexusmods.com/cyberpunk2077/mods/16311) 
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Random Netrunners 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/16475) 
 
-### Aesthetics
+**Aesthetics**
 
 - [Dynamic Grafitti 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16414)
 
@@ -902,23 +497,23 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Preem Scopes 0.17.1](https://www.nexusmods.com/cyberpunk2077/mods/10021) 
 
-### UI
+**UI**
 
 - [Native Settings UI Side Menu Add-on 1.3.2](https://www.nexusmods.com/cyberpunk2077/mods/16218)
 
-### Quality of Life
+**Quality of Life**
 
 - [Flashback Fixer 1.1](https://www.nexusmods.com/cyberpunk2077/mods/16236) 
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Eddies Notification Fix 1.01](https://www.nexusmods.com/cyberpunk2077/mods/16420)
 
 - [Passenger Targeting Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16541) 
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Berserk Unchained 2.1](https://www.nexusmods.com/cyberpunk2077/mods/14203)
 
@@ -928,11 +523,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Trace Position Overhaul 1.4.4](https://www.nexusmods.com/cyberpunk2077/mods/12445)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Challenging Breach Minigame 1.3.3](https://www.nexusmods.com/cyberpunk2077/mods/3661)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [I Really Want To Stay At Your House - Judy 3.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8753)
 
@@ -946,7 +541,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Romance Hangouts Enhanced 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/11590)
 
-### World Interactions
+**World Interactions**
 
 - [Immersive Rippers 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
@@ -960,35 +555,35 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Parking Spots Enhanced 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/15708)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Virtual Car Dealer 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-### Weapons
+**Weapons**
 
 - [Extra Iconics 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/15889)
 
 - [Trigger Mode Control 2.2.5](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Black Chrome 1.0.4](https://www.nexusmods.com/cyberpunk2077/mods/16031)
 
 - [Extra Berserks 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/14236)
 
-### Aesthetics
+**Aesthetics**
 
 - [Cleaner Main Menu and Pause Menu 2.13](https://www.nexusmods.com/cyberpunk2077/mods/10285)
 
 - [Equipment-EX 1.2.4](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
 - [Fading Crosshairs 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/16092)
 
 - [Stash Filters 2.1.2](https://www.nexusmods.com/cyberpunk2077/mods/5298)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 5.1.2](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
@@ -1000,11 +595,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Replace Weapon Mods 1.2](https://www.nexusmods.com/cyberpunk2077/mods/15409)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [In Cold Blood 1.1](https://www.nexusmods.com/cyberpunk2077/mods/14880)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.16.9](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -1016,7 +611,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [redscript 0.5.27](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 
-# Removed Mods
+### Removed Mods
 
 - [Kanetsugu Short Scope Enhancement 2.12](https://www.nexusmods.com/cyberpunk2077/mods/14146)
 
@@ -1024,17 +619,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 469 - August 7, 2024
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Reflex is Cool 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15963)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [No shooting delay 1.0](https://www.nexusmods.com/cyberpunk2077/mods/15559)
 
-### World Interactions
+**World Interactions**
 
 - [Gambling System - Roulette 1.0.9](https://www.nexusmods.com/cyberpunk2077/mods/15450)
 
@@ -1044,7 +639,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Wilson's Range 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7367)
 
-### Weapons
+**Weapons**
 
 - [Extra Iconics 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/15889)
 
@@ -1052,11 +647,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Modular Kyubi Revamp - Precision Rifle 1.0](https://www.nexusmods.com/cyberpunk2077/mods/14662)
 
-### Cyberware
+**Cyberware**
 
 - [Black Chrome 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/16031)
 
-### Aesthetics
+**Aesthetics**
 
 - [Dynamic Cherry Blossoms 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16071)
 
@@ -1064,17 +659,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Gambling Props - Poker Chips and Playing Cards 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15229)
 
-### Quality of Life
+**Quality of Life**
 
 - [Crosshair Fade 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/16092)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [V's Apartment TV Volume Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15893)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Body Shield 1.2](https://www.nexusmods.com/cyberpunk2077/mods/10533)
 
@@ -1090,11 +685,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Weapon Handling Control 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11474)
 
-### Quests
+**Quests**
 
 - [Encore 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8413)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Flaming Crotch Man Romanced 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/9573)
 
@@ -1106,7 +701,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [River Romanced Enhanced 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Japantown 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/6493)
 
@@ -1124,17 +719,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [QoL - Interactive Judy's Apartment Devices 3.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8099)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Delamain No. 22 1.3](https://www.nexusmods.com/cyberpunk2077/mods/14405)
 
-### Weapons
+**Weapons**
 
 - [Borg Malorian Restored 1.5](https://www.nexusmods.com/cyberpunk2077/mods/9213)
 
 - [Trigger Mode Control 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Megingjord 1.2](https://www.nexusmods.com/cyberpunk2077/mods/12664)
 
@@ -1142,13 +737,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Optical Camo Realism and Utility - Stealthrunner Compatibility 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/15308)
 
-### Aesthetics
+**Aesthetics**
 
 - [Enhanced Craft 4.0.3](https://www.nexusmods.com/cyberpunk2077/mods/4378)
 
 - [Equipment-EX 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### Quality of Life
+**Quality of Life**
 
 - [Computer Anywhere 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/12520)
 
@@ -1158,13 +753,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TV Anywhere 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Cop Killer - NCPD Fixes ncpdf-1.2](https://www.nexusmods.com/cyberpunk2077/mods/14652)
 
 - [TV Audio Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/14014)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.16.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -1174,7 +769,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TweakXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Buttslinger Quickmelee - Synergy Patch for Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 
@@ -1204,13 +799,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 468 - August 5, 2024
 
-# Added Mods
+### Added Mods
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [No shooting delay 1.0](https://www.nexusmods.com/cyberpunk2077/mods/15559)
 
-### World Interactions
+**World Interactions**
 
 - [Gambling System - Roulette 1.0.9](https://www.nexusmods.com/cyberpunk2077/mods/15450)
 
@@ -1220,7 +815,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Wilson's Range 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7367)
 
-### Weapons
+**Weapons**
 
 - [Extra Iconics 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/15889)
 
@@ -1228,11 +823,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Modular Kyubi Revamp - Precision Rifle 1.0](https://www.nexusmods.com/cyberpunk2077/mods/14662)
 
-### Cyberware
+**Cyberware**
 
 - [Black Chrome 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/16031)
 
-### Aesthetics
+**Aesthetics**
 
 - [Dynamic Cherry Blossoms 1.0](https://www.nexusmods.com/cyberpunk2077/mods/16071)
 
@@ -1240,17 +835,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Gambling Props - Poker Chips and Playing Cards 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/15229)
 
-### Quality of Life
+**Quality of Life**
 
 - [Crosshair Fade 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/16092)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [V's Apartment TV Volume Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15893)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Body Shield 1.2](https://www.nexusmods.com/cyberpunk2077/mods/10533)
 
@@ -1266,11 +861,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Weapon Handling Control 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11474)
 
-### Quests
+**Quests**
 
 - [Encore 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8413)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Flaming Crotch Man Romanced 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/9573)
 
@@ -1282,7 +877,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [River Romanced Enhanced 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Japantown 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/6493)
 
@@ -1300,17 +895,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [QoL - Interactive Judy's Apartment Devices 3.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8099)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Delamain No. 22 1.3](https://www.nexusmods.com/cyberpunk2077/mods/14405)
 
-### Weapons
+**Weapons**
 
 - [Borg Malorian Restored 1.5](https://www.nexusmods.com/cyberpunk2077/mods/9213)
 
 - [Trigger Mode Control 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Megingjord 1.2](https://www.nexusmods.com/cyberpunk2077/mods/12664)
 
@@ -1318,15 +913,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Optical Camo Realism and Utility - Stealthrunner Compatibility 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/15308)
 
-### Aesthetics
+**Aesthetics**
 
 - [Enhanced Craft 4.0.3](https://www.nexusmods.com/cyberpunk2077/mods/4378)
 
 - [Equipment-EX 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
-### Quality of Life
+**Quality of Life**
 
 - [Computer Anywhere 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/12520)
 
@@ -1336,13 +931,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TV Anywhere 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Cop Killer - NCPD Fixes ncpdf-1.2](https://www.nexusmods.com/cyberpunk2077/mods/14652)
 
 - [TV Audio Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/14014)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.16.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -1352,7 +947,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TweakXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Buttslinger Quickmelee - Synergy Patch for Stealth Finishers](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 
@@ -1382,15 +977,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 467 - June 23, 2024
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Slaughterhouse Bleed Affect Throwable 1.0](https://www.nexusmods.com/cyberpunk2077/mods/15162)
 
 - [SynthDose - More Drugs 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/14094)
 
-### World Interactions
+**World Interactions**
 
 - [NCI Addon - Badlands and Pacifica 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15138)
 
@@ -1402,11 +997,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Roller Coaster Enhanced 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/14617)
 
-### Weapons
+**Weapons**
 
 - [Desert Snake 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/15310)
 
-### Cyberware
+**Cyberware**
 
 - [Berserk Retain Unspent Charge 1.1](https://www.nexusmods.com/cyberpunk2077/mods/14203)
 
@@ -1414,17 +1009,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Optical Camo Realism and Utility Stealthrunner Patch 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15308)
 
-### Aesthetics
+**Aesthetics**
 
 - [Stencil Text Enhanced 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/15154)
 
-### UI
+**UI**
 
 - [Adaptive Sliders 2024-06-10](https://www.nexusmods.com/cyberpunk2077/mods/5075)
 
 - [Backpack Search 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/14264)
 
-### Quality of Life
+**Quality of Life**
 
 - [Looting QoL 1.4](https://www.nexusmods.com/cyberpunk2077/mods/14730)
 
@@ -1432,7 +1027,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Stay Hydrated - Stay Nourished - Stay Healthy 1.1](https://www.nexusmods.com/cyberpunk2077/mods/15220)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Cop Killer NCPD Fixes ncpdf-1.1](https://www.nexusmods.com/cyberpunk2077/mods/14652)
 
@@ -1440,9 +1035,9 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [In Cold Blood - NPC Execution Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/14880)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Buttslinger Quickmelee 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/10556)
 
@@ -1452,11 +1047,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Ricochet Redux 4.0.3](https://www.nexusmods.com/cyberpunk2077/mods/7197)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Damage Scaling and Balance 4.2.0](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 
-### Quests
+**Quests**
 
 - [Artistic 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/13066)
 
@@ -1468,7 +1063,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [One More Light 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7834)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Aurore Romanced 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/11097)
 
@@ -1476,7 +1071,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Rita Wheeler Romanced 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 
-### World Interactions
+**World Interactions**
 
 - [Here's Johnny 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/13779)
 
@@ -1490,7 +1085,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [The Passenger 1.5.0](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 
-### Weapons
+**Weapons**
 
 - [Firestorm 1.3](https://www.nexusmods.com/cyberpunk2077/mods/13101)
 
@@ -1500,7 +1095,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Trigger Mode Control 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Berserk Unchained 2.0](https://www.nexusmods.com/cyberpunk2077/mods/14203)
 
@@ -1512,13 +1107,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Megingjord 1.1](https://www.nexusmods.com/cyberpunk2077/mods/12664)
 
-### UI
+**UI**
 
 - [Muted Markers 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/1727)
 
 - [Stash Search 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/14264)
 
-### Quality of Life
+**Quality of Life**
 
 - [Computer Anywhere 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/12520)
 
@@ -1530,11 +1125,11 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TV Mute Control 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/14149)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [TV Adverts Fixes 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/13973)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.15.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -1548,25 +1143,25 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TweakXL 1.10.1](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Japantown Cleaver Fix 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/14166)
 
 #### Revision 466 - May 4, 2024
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Overclock Overheat 1.1](https://www.nexusmods.com/cyberpunk2077/mods/14255)
 
 - [Renaissance Punk - Perk Scaling 2.12.1](https://www.nexusmods.com/cyberpunk2077/mods/14037)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Delamain No. 22 1.2](https://www.nexusmods.com/cyberpunk2077/mods/14405)
 
-### Weapons
+**Weapons**
 
 - [Kanetsugu Short Scope Enhancement 2,12](https://www.nexusmods.com/cyberpunk2077/mods/14146)
 
@@ -1580,7 +1175,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Slaught-O-Matic QoL 1.0](https://www.nexusmods.com/cyberpunk2077/mods/14125)
 
-### Cyberware
+**Cyberware**
 
 - [Actual Chrome Compression 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/14044)
 
@@ -1592,7 +1187,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Jenkins Tendons Cyberware Can Recharge While Airborne 2.12](https://www.nexusmods.com/cyberpunk2077/mods/14223)
 
-### Quality of Life
+**Quality of Life**
 
 - [Retrothrusters QoL 1.2](https://www.nexusmods.com/cyberpunk2077/mods/14320)
 
@@ -1600,7 +1195,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Untrack Quest Ultimate 2.6.3](https://www.nexusmods.com/cyberpunk2077/mods/6328)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Base Fists and Arm Cyberware Attack Speed Fix 2.12.2024.04.09](https://www.nexusmods.com/cyberpunk2077/mods/14130)
 
@@ -1620,17 +1215,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TV Mute Control 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/14149)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stealthrunner 1.4.3](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 
-### Quests
+**Quests**
 
 - [Artistic 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/13066)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [I Really Want To Stay At Your House - Judy 3.1.0](https://www.nexusmods.com/cyberpunk2077/mods/8753)
 
@@ -1648,33 +1243,33 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [The Passenger 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 
-### World Interactions
+**World Interactions**
 
 - [Immersive Rippers 2.0.9](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
-### Weapons
+**Weapons**
 
 - [Trigger Mode Control 1.0.5](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Aesthetics
+**Aesthetics**
 
 - [Enhanced Craft 4.0.2](https://www.nexusmods.com/cyberpunk2077/mods/4378)
 
 - [Equipment-EX 1.1.19](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
 - [Cleaner Main Menu and Pause Menu 2.12](https://www.nexusmods.com/cyberpunk2077/mods/10285)
 
 - [Limited HUD 2.15.4](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 4.4.4](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
 - [Metro Pocket Guide 1.2.5](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.14.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -1686,7 +1281,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TweakXL 1.8.5](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Always First Equip 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/2557)
 
@@ -1698,79 +1293,79 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 465 - March 24, 2024
 
-# Updated Mods
+### Updated Mods
 
-### World Interactions
+**World Interactions**
 
 - [Kabuki Gun Range Enhanced 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/13466)
 
-### Aesthetics
+**Aesthetics**
 
 - [Diverse Death Screens 2024-03-24](https://www.nexusmods.com/cyberpunk2077/mods/12673)
 
 - [Equipment-EX 1.1.17](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### Utility
+**Utility**
 
 - [Codeware 1.8.2](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
 #### Revision 464 - March 21, 2024
 
-# Added Mods
+### Added Mods
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Here's Johnny 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/13779)
 
-### World Interactions
+**World Interactions**
 
 - [Kabuki Gun Range Enhanced 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/13466)
 
 - [Lean Anywhere 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9938)
 
-### Weapons
+**Weapons**
 
 - [Cronos 1.0](https://www.nexusmods.com/cyberpunk2077/mods/13462)
 
-### Cyberware
+**Cyberware**
 
 - [Nano Drone 1.6](https://www.nexusmods.com/cyberpunk2077/mods/3419)
 
-### Aesthetics
+**Aesthetics**
 
 - [Clean Computer Wallpaper 1.0](https://www.nexusmods.com/cyberpunk2077/mods/13657)
 
 - [Enable Advert Animations 2.11](https://www.nexusmods.com/cyberpunk2077/mods/13014)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Fix Adrenaline Decay 1.5](https://www.nexusmods.com/cyberpunk2077/mods/9921)
 
 - [News Audio Fix 1.01](https://www.nexusmods.com/cyberpunk2077/mods/13756)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stealthrunner 1.4.2](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 
 - [Trace Position Overhaul 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/12445)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Damage Scaling 4.1.0](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 
-### Quests
+**Quests**
 
 - [Californication 2.2.1hf](https://www.nexusmods.com/cyberpunk2077/mods/7833)
 
 - [Hot Fuzz 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/7832)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Romance Hangouts Enhanced 1.3.2](https://www.nexusmods.com/cyberpunk2077/mods/11590)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Corpo Plaza 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6329)
 
@@ -1786,15 +1381,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Sit Anywhere 1.3](https://www.nexusmods.com/cyberpunk2077/mods/7299)
 
-### Weapons
+**Weapons**
 
 - [Trigger Mode Control 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Cyberware
+**Cyberware**
 
 - [Kiroshi Optics Night Vision 1.7](https://www.nexusmods.com/cyberpunk2077/mods/8326)
 
-### UI
+**UI**
 
 - [Filter Saves by Lifepath and Type 1.3.2](https://www.nexusmods.com/cyberpunk2077/mods/3400)
 
@@ -1802,15 +1397,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Mark to Sell 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4725)
 
-### Quality of Life
+**Quality of Life**
 
 - [Appearance Change Unlocker 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [The Hunt quest missing audio restore 2.0.3](https://www.nexusmods.com/cyberpunk2077/mods/7413)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.12.2](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -1826,17 +1421,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 463 - March 4, 2024
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stock Market and News System 1.4](https://www.nexusmods.com/cyberpunk2077/mods/6319)
 
-### Quests
+**Quests**
 
 - [Artistic 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/13066)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [I Really Want To Stay At Your House - Judy 3.0.1](https://www.nexusmods.com/cyberpunk2077/mods/8753)
   
@@ -1848,15 +1443,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Panam Romanced Enhanced - Privacy 2.1.4](https://www.nexusmods.com/cyberpunk2077/mods/4626)
 
-### World Interactions
+**World Interactions**
 
 - [E3 Smart Windows 1.1](https://www.nexusmods.com/cyberpunk2077/mods/7026)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Car Modification Shop 2.1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/4034)
 
-### Weapons
+**Weapons**
 
 - [Firestorm 1.1](https://www.nexusmods.com/cyberpunk2077/mods/13101)
   
@@ -1864,27 +1459,27 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Trigger Mode Control 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/13077)
 
-### Aesthetics
+**Aesthetics**
 
 - [Higher TV Quality 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/13090)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Only Smartweapon Crosshairs - Deadeye Perk Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/13421)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Sonic Shock Prevents Trace 1.2](https://www.nexusmods.com/cyberpunk2077/mods/11438)
 
-### Quests
+**Quests**
 
 - [Encore 2.1.4](https://www.nexusmods.com/cyberpunk2077/mods/8413)
   
 - [TV Anywhere 2.1.4](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Flaming Crotch Man Romanced 1.0.4](https://www.nexusmods.com/cyberpunk2077/mods/9573)
   
@@ -1898,7 +1493,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Romance Hangouts Enhanced 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/11590)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Corpo Plaza 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/6329)
   
@@ -1916,13 +1511,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Night City Interactions 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 
-### Weapons
+**Weapons**
 
 - [High Doom 1.3](https://www.nexusmods.com/cyberpunk2077/mods/11790)
   
 - [PS-11A Plasma Gun 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/11663)
 
-### Aesthetics
+**Aesthetics**
 
 - [Diverse Death Screens 2024-02-17](https://www.nexusmods.com/cyberpunk2077/mods/12673)
   
@@ -1930,13 +1525,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Playable Arcade Machines 1.4](https://www.nexusmods.com/cyberpunk2077/mods/4213)
 
-### UI
+**UI**
 
 - [Limited HUD 2.14.0](https://www.nexusmods.com/cyberpunk2077/mods/2592)
   
 - [Named Saves 2.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 
-### Quality of Life
+**Quality of Life**
 
 - [Computer Anywhere 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/12520)
   
@@ -1948,7 +1543,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Smarter Scrapper 2.3.3](https://www.nexusmods.com/cyberpunk2077/mods/2687)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.12.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
   
@@ -1964,73 +1559,73 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [TweakXL 1.8.1](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Brendan - No Skill Check 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12046)
 
 #### Revision 462 - February 12, 2024
 
-# Added Mods
+### Added Mods
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Pet Your Cat 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/6198)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
 
-### Weapons
+**Weapons**
 
 - [Slice and Dice 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12948)
 
-### Cyberware
+**Cyberware**
 
 - [Kiroshi Optics Night Vision Mod 1.5](https://www.nexusmods.com/cyberpunk2077/mods/8326)
 
-### Aesthetics
+**Aesthetics**
 
 - [Diverse Death Screens 2024-02-10](https://www.nexusmods.com/cyberpunk2077/mods/12673)
 
 - [Playable Arcade Machines 1.3](https://www.nexusmods.com/cyberpunk2077/mods/4213)
 
-### Quality of Life
+**Quality of Life**
 
 - [Deadeye Sound Remover 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12787)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Repeating Synaptic Accelerator Bug Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12850)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stealthrunner 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Virtual Car Dealer 2.1.3](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-### Weapons
+**Weapons**
 
 - [Midas Collection 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/11800)
 
 - [PS-11A Plasma Gun 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11663)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.1.15](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
 - [Cleaner Main Menu and Pause Menu 2.11](https://www.nexusmods.com/cyberpunk2077/mods/10285)
 
-### Quality of Life
+**Quality of Life**
 
 - [Only Smartweapon Crosshairs 1.3](https://www.nexusmods.com/cyberpunk2077/mods/5434)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.11.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -2038,23 +1633,23 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 461 - February 1, 2024
 
-# Added Mods
+### Added Mods
 
-### Weapons
+**Weapons**
 
 - [Mjolnir 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12695)
 
-# Updated Mods
+### Updated Mods
 
-### Quests
+**Quests**
 
 - [Encore 2.1.3](https://www.nexusmods.com/cyberpunk2077/mods/8413)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Flaming Crotch Man Romanced 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/9573)
 
-### World Interactions
+**World Interactions**
 
 - [Immersive Rippers 2.0.6](https://www.nexusmods.com/cyberpunk2077/mods/7064)
   
@@ -2064,17 +1659,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Night City Interactions 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 
-### Cyberware
+**Cyberware**
 
 - [Heat Converter 1.1](https://www.nexusmods.com/cyberpunk2077/mods/11820)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.1.14](https://www.nexusmods.com/cyberpunk2077/mods/6945)
   
 - [Immersive Timeskip 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/5115)
 
-### UI
+**UI**
 
 - [Mark To Sell 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/4725)
   
@@ -2084,13 +1679,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Stash Filters 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/5298)
 
-### Quality of Life
+**Quality of Life**
 
 - [Faster Checkpoints 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/9724)
   
 - [Quickhack Loadouts 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/11682)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.11.2](https://www.nexusmods.com/cyberpunk2077/mods/4198)
   
@@ -2104,7 +1699,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [TweakXL 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
   
@@ -2134,17 +1729,17 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 460 - January 29, 2024
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Trace Position Overhaul 1.4](https://www.nexusmods.com/cyberpunk2077/mods/12445)
 
-### World Interactions
+**World Interactions**
 
 - [DLC Liberation Protocol 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12322)
 
-### Cyberware
+**Cyberware**
 
 - [Extra Hands 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/12325)
 
@@ -2152,15 +1747,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Megingjord 1.0](https://www.nexusmods.com/cyberpunk2077/mods/12664)
 
-### Aesthetics
+**Aesthetics**
 
 - [Light Beams Fix 0.1](https://www.nexusmods.com/cyberpunk2077/mods/12381)
 
-### UI
+**UI**
 
 - [Smarter Scrapper 2.3.2](https://www.nexusmods.com/cyberpunk2077/mods/2687)
 
-### Quality of Life
+**Quality of Life**
 
 - [Arcade Anywhere 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/12378)
 
@@ -2168,9 +1763,9 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [No More Out-Leveling Vendor Items 0.9](https://www.nexusmods.com/cyberpunk2077/mods/12500)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Body Shield 1.1](https://www.nexusmods.com/cyberpunk2077/mods/10533)
 
@@ -2178,13 +1773,13 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Stealthrunner 1.3.5](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 
-### Quests
+**Quests**
 
 - [One More Light 2.0.3](https://www.nexusmods.com/cyberpunk2077/mods/7834)
 
 - [TV Anywhere 2.1.3](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Aurore Romanced 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/11097)
 
@@ -2198,7 +1793,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [The Passenger 1.2.4](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 
-### World Interactions
+**World Interactions**
 
 - [Immersive Rippers 2.0.5](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
@@ -2206,33 +1801,33 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [QoL - Interactive Judy's Apartment Devices 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/8099)
 
-### Weapons
+**Weapons**
 
 - [Tzijimura 1.3](https://www.nexusmods.com/cyberpunk2077/mods/11539)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.1.11](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
 - [Ragdoll Physics Overhaul 2.0](https://www.nexusmods.com/cyberpunk2077/mods/3858)
 
-### UI
+**UI**
 
 - [Muted Markers 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/1727)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 4.4.3](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
 - [Metro Pocket Guide 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-### Utility Mods
+**Utility** Mods
   
 - [ArchiveXL 1.10.4](https://www.nexusmods.com/cyberpunk2077/mods/4198)
   
 - [TweakXL 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Ambush Compiler](https://www.nexusmods.com/cyberpunk2077/mods/11500)
 
@@ -2250,21 +1845,21 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 459 - January 9, 2024
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Stealthrunner 1.3.4](https://www.nexusmods.com/cyberpunk2077/mods/7616)
 
-### Quests
+**Quests**
 
 - [Brendan - No Skill Check 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/12046)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
 
-### Weapons
+**Weapons**
 
 - [MaxTac Silencer 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11979)
 
@@ -2272,57 +1867,57 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Rostovic Koplje Smart Precision Rifle 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/10830)
 
-### Cyberware
+**Cyberware**
 
 - [Nano Drone 1.5](https://www.nexusmods.com/cyberpunk2077/mods/3419)
 
-### UI
+**UI**
 
 - [Crafting Recipe Owned Labels 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/11261)
 
-# Updated Mods
+### Updated Mods
 
-### NPC Interactions
+**NPC Interactions**
 
 - [The Passenger 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Set Bonuses 2.1u2](https://www.nexusmods.com/cyberpunk2077/mods/8103)
 
 - [Sonic Shock Prevents Trace 1.1](https://www.nexusmods.com/cyberpunk2077/mods/11438)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Pet Your Cat 2.2.2](https://www.nexusmods.com/cyberpunk2077/mods/6198)
 
 - [Romance Hangouts Enhanced 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/11590)
 
-### Weapons
+**Weapons**
 
 - [High Doom 1.2](https://www.nexusmods.com/cyberpunk2077/mods/11790)
 
 - [Tzijimura 1.2](https://www.nexusmods.com/cyberpunk2077/mods/11539)
 
-### UI
+**UI**
 
 - [Limited HUD 2.13.3](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
 - [Stash Filters 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/5298)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 4.4.2](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
 - [Metro Pocket Guide 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/11882)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.10.3](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
 - [Native Settings UI 1.96](https://www.nexusmods.com/cyberpunk2077/mods/3518)
 
-# Removed Mods
+### Removed Mods
 
 - [E3 Smart Windows 1.0](https://www.nexusmods.com/cyberpunk2077/mods/7026)
 
@@ -2332,19 +1927,19 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 #### Revision 457 - December 30, 2023
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Heat Converter 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11820)
 
 - [Second Heart Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11100)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Car Modification Shop 2.1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/4034)
 
-### Weapons
+**Weapons**
 
 - [High Doom Option B 1.1](https://www.nexusmods.com/cyberpunk2077/mods/11790)
 
@@ -2352,7 +1947,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [PS-11A Plasma Gun 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11663)
 
-### Quality of Life
+**Quality of Life**
 
 - [Immersion patch - No crowd panic from stealth activity 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7360)
 
@@ -2364,15 +1959,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
   
 - [Quickhack Loadouts - CET Hotkeys 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/11682)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Radio Port Vehicle Fix 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/11757)
 
 - [Kusanagi Neon Rims Bug Fix 2.3](https://www.nexusmods.com/cyberpunk2077/mods/11508)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Keep Drawing The Line 3.3.2](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 
@@ -2380,15 +1975,15 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Set Bonuses 2.1u1](https://www.nexusmods.com/cyberpunk2077/mods/8103)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Damage Scaling 4.0.0](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Romance Hangouts Enhanced 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/11590)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Northside Motel 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/6379)
 
@@ -2398,27 +1993,27 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [Night City Interactions 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Virtual Car Dealer 2.1.2](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-### Weapons
+**Weapons**
 
 - [Tzijimura 1.2](https://www.nexusmods.com/cyberpunk2077/mods/11539)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.1.10](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
 - [Limited HUD 2.13.1](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
-### Quality of Life
+**Quality of Life**
 
 - [Quickhacks sort by slot 0.0.0.2](https://www.nexusmods.com/cyberpunk2077/mods/11425)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.10.2](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -2430,7 +2025,7 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 - [TweakXL 1.6.1](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [No Intro Videos 0.4](https://www.nexusmods.com/cyberpunk2077/mods/533)
   
@@ -2440,9 +2035,9 @@ Updated for and compatible with [version 2.13](https://www.cyberpunk.net/en/news
 
 Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news/49597/update-2-1-patch-notes) We have also now integrated the [**Cyberpunk THING**](https://next.nexusmods.com/cyberpunk2077/collections/yzoj3d) collection into **Welcome to Night City**, where both distinct collections will now reside. Instructions for install are on the main page.
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Ambush Compiler 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11500)
 
@@ -2450,33 +2045,33 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Weapon Handling Control 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11474)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Romance Hangouts Enhanced 0.7.5](https://www.nexusmods.com/cyberpunk2077/mods/11590)
 
-### Weapons
+**Weapons**
 
 - [DR-10 Wormhole Smart Revolver Rebalance 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11600)
 
 - [Tzijimura 1.1](https://www.nexusmods.com/cyberpunk2077/mods/11539)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Authentic Shift 2.12.39](https://www.nexusmods.com/cyberpunk2077/mods/6823)
 
-### Quality of Life
+**Quality of Life**
 
 - [Quickhacks sort by slot 0.0.0.2](https://www.nexusmods.com/cyberpunk2077/mods/11425)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Allow Unbound Actions 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11429)
 
 - [Patch 2.1 Finisher Fix 1.0](https://www.nexusmods.com/cyberpunk2077/mods/11453)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Ricochet Redux 3.3.1](https://www.nexusmods.com/cyberpunk2077/mods/7197)
 
@@ -2484,7 +2079,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Silent Silencers and Throwing Knives 1.6.2](https://www.nexusmods.com/cyberpunk2077/mods/4070)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Challenging Breach Minigame 1.3.2](https://www.nexusmods.com/cyberpunk2077/mods/3661)
 
@@ -2492,7 +2087,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Damage Scaling 3.5.1](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 
-### Quests
+**Quests**
 
 - [Californication 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/7833)
 
@@ -2504,7 +2099,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [TV Anywhere 2.02](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Aurore Romanced 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/11097)
 
@@ -2520,7 +2115,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [The Passenger 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Corpo Plaza 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/6329)
 
@@ -2536,11 +2131,11 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Night City Interactions 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 
-### Weapons
+**Weapons**
 
 - [DR-10 Wormhole Smart Revolver 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/10541)
 
-### Aesthetics
+**Aesthetics**
 
 - [Always First Equip 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/2557)
 
@@ -2548,7 +2143,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Weather Probability Rebalance 2.7](https://www.nexusmods.com/cyberpunk2077/mods/3196)
 
-### UI
+**UI**
 
 - [Cleaner Main Menu and Pause Menu 2.1](https://www.nexusmods.com/cyberpunk2077/mods/10285)
 
@@ -2564,7 +2159,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Simple XP Multiplier 2.4](https://www.nexusmods.com/cyberpunk2077/mods/3136)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 4.4.0](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
@@ -2578,7 +2173,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Zoomable Scopes 1.4](https://www.nexusmods.com/cyberpunk2077/mods/3543)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Database Fixes 1.04](https://www.nexusmods.com/cyberpunk2077/mods/10636)
 
@@ -2588,7 +2183,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [Status Bar Bug Fixes 1.6](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.10.1](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -2606,7 +2201,7 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 - [TweakXL 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-# Removed Mods
+### Removed Mods
 
 - [Adaptive Sliders 2023-10-12](https://www.nexusmods.com/cyberpunk2077/mods/5075)
 
@@ -2648,13 +2243,13 @@ Updated for and Compatible with [version 2.1.](https://www.cyberpunk.net/en/news
 
 As this revision removes [Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319) due to a performance issue, you might want to sell any stocks you have before updating to this revision.
 
-# Added Mods
+### Added Mods
 
 ### World and NPC Interactions
 
 - [Aurore Romanced 0.9.1](https://www.nexusmods.com/cyberpunk2077/mods/11097)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Database Fixes 1.02](https://www.nexusmods.com/cyberpunk2077/mods/10636)
 
@@ -2662,7 +2257,7 @@ As this revision removes [Stock Market and News System](https://www.nexusmods.co
 
 - [QuickSlot and Consumables Bug Fix 2.02](https://www.nexusmods.com/cyberpunk2077/mods/10811)
 
-# Updated Mods
+### Updated Mods
 
 ### Utilities
 
@@ -2670,7 +2265,7 @@ As this revision removes [Stock Market and News System](https://www.nexusmods.co
 
 - [TweakXL 1.5.2](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### UI
+**UI**
 
 - [Limited Hud 2.11.5](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
@@ -2700,11 +2295,11 @@ As this revision removes [Stock Market and News System](https://www.nexusmods.co
 
 - [The Passenger 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [No Camera Auto Centering 0.9](https://www.nexusmods.com/cyberpunk2077/mods/2169)
 
-### Weapons
+**Weapons**
 
 - [Borg Malorian Restored 1.4](https://www.nexusmods.com/cyberpunk2077/mods/9213)
 
@@ -2714,13 +2309,13 @@ As this revision removes [Stock Market and News System](https://www.nexusmods.co
 
 - [Weapons Reclassified 1.2a](https://www.nexusmods.com/cyberpunk2077/mods/10312)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 4.2.2](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
 - [Quick Message Exit 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/9377)
 
-# Removed Mods
+### Removed Mods
 
 - [Stock Market and News System 1.3h](https://www.nexusmods.com/cyberpunk2077/mods/6319)
 
@@ -2728,9 +2323,9 @@ As this revision removes [Stock Market and News System](https://www.nexusmods.co
 
 Updated for and Compatible with version **2.02**
 
-# Added Mods
+### Added Mods
 
-### UI
+**UI**
 
 - [Browser Extension 0.9.2](https://www.nexusmods.com/cyberpunk2077/mods/10038)
 
@@ -2773,7 +2368,7 @@ Updated for and Compatible with version **2.02**
 - [The Passenger 1.1.1](https://www.nexusmods.com/cyberpunk2077/mods/10731)
 
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Vehicle Summon Tweaks - Favorites 2.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4658)
 
@@ -2781,7 +2376,7 @@ Updated for and Compatible with version **2.02**
 
 - [Virtual Car Dealer - Browser Extension 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-### Weapons
+**Weapons**
 
 - [Borg Malorian Restored 1.3](https://www.nexusmods.com/cyberpunk2077/mods/9213)
 
@@ -2793,7 +2388,7 @@ Updated for and Compatible with version **2.02**
 
 - [Weapons Reclassified 1.1](https://www.nexusmods.com/cyberpunk2077/mods/10312)
 
-### Quality of Life
+**Quality of Life**
 
 - [DualSense Controller Support 3.10](https://www.nexusmods.com/cyberpunk2077/mods/4156)
 
@@ -2807,13 +2402,13 @@ Updated for and Compatible with version **2.02**
 
 - [Scan Mode - Default to Data Tab 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9730)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Disable W-S Keys To Select Dialogue Options 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9799)
 
 - [Fix Max Cyberware Capacity 1.0](https://www.nexusmods.com/cyberpunk2077/mods/10354)
 
-# Updated Mods
+### Updated Mods
 
 ### Utilities
 
@@ -2829,7 +2424,7 @@ Updated for and Compatible with version **2.02**
 
 - [TweakXL 1.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 
-### UI
+**UI**
 
 - [Custom Quickslots 4.2.1](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
@@ -2867,7 +2462,7 @@ Updated for and Compatible with version **2.02**
 
 - [Rita Wheeler Romanced 2.2.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 
-### Quests
+**Quests**
 
 - [Deceptious Quest Core 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7831)
 
@@ -2875,13 +2470,13 @@ Updated for and Compatible with version **2.02**
 
 - [Flaming Crotch Man Romanced 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/9573)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [No Camera Auto Centering 0.8](https://www.nexusmods.com/cyberpunk2077/mods/2169)
 
 - [Virtual Car Dealer 2.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
-### Quality of Life
+**Quality of Life**
 
 - [Faster Iguana Hatch 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/5112)
 
@@ -2891,11 +2486,11 @@ Updated for and Compatible with version **2.02**
 
 - [Smarter Scrapper 2.2.3](https://www.nexusmods.com/cyberpunk2077/mods/2687)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.1.8](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-# Removed Mods
+### Removed Mods
 
 - [Cyberpunk 2077 HD Reworked Project 2.0](https://www.nexusmods.com/cyberpunk2077/mods/7652)
 
@@ -2907,9 +2502,9 @@ Updated for and Compatible with version **2.02**
 
 #### Revision 449 - October 17, 2023
 
-# Added Mods
+### Added Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Keep Drawing the Line 1.7](https://www.nexusmods.com/cyberpunk2077/mods/7198)
 
@@ -2917,15 +2512,15 @@ Updated for and Compatible with version **2.02**
 
 - [Stealth Remote Control Cars and Turrets 1.1](https://www.nexusmods.com/cyberpunk2077/mods/9939)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Immersive Vik 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/6794)
 
-### Aesthetics
+**Aesthetics**
 
 - [Playable Arcade Machines 1.3](https://www.nexusmods.com/cyberpunk2077/mods/4213)
 
-### UI
+**UI**
 
 - [Adaptive Sliders 2023-10-12](https://www.nexusmods.com/cyberpunk2077/mods/5075)
 
@@ -2933,7 +2528,7 @@ Updated for and Compatible with version **2.02**
 
 - [Named Saves 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/4521)
 
-### Quality of Life
+**Quality of Life**
 
 - [Faster Checkpoints 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9724)
   
@@ -2947,7 +2542,7 @@ Updated for and Compatible with version **2.02**
 
 - [Unfair Car Delivery Timers 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9735)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Better Armor Tooltip 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9706)
 
@@ -2959,17 +2554,17 @@ Updated for and Compatible with version **2.02**
 
 - [Sprint Fix 1.2](https://www.nexusmods.com/cyberpunk2077/mods/9753)
 
-### Utility
+**Utility**
 
 - [Mod Settings 0.2.1](https://www.nexusmods.com/cyberpunk2077/mods/4885)
 
-# Updated Mods
+### Updated Mods
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
-### Quests
+**Quests**
 
 - [Californication 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7833)
 
@@ -2977,7 +2572,7 @@ Updated for and Compatible with version **2.02**
 
 - [Hot Fuzz 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/7832)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [I Really Want to Stay at Your House - Judy 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/8753)
   
@@ -2989,7 +2584,7 @@ Updated for and Compatible with version **2.02**
 
 - [Panam Romanced Enhanced 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/4626)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Corpo Plaza 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/6329)
 
@@ -2997,15 +2592,15 @@ Updated for and Compatible with version **2.02**
 
 - [Night City Interactions 2.0.4](https://www.nexusmods.com/cyberpunk2077/mods/5519)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
-### Weapons
+**Weapons**
 
-### Cyberware
+**Cyberware**
 
 - [Kiroshi Optics Night Vision Mod 1.4](https://www.nexusmods.com/cyberpunk2077/mods/8326)
 
-### Aesthetics
+**Aesthetics**
 
 - [Cyberpunk 2077 HD Reworked Project 2.0](https://www.nexusmods.com/cyberpunk2077/mods/7652)
 
@@ -3013,21 +2608,21 @@ Updated for and Compatible with version **2.02**
 
 - [Equipment-EX 1.1.6](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### UI
+**UI**
 
 - [Limited Hud 2.8.1](https://www.nexusmods.com/cyberpunk2077/mods/2592)
 
 - [Quickhack Hotkeys 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/7238)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 4.0.2](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Status Bar Bug Fixes 1.5](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-### Utility
+**Utility**
 
 - [Codeware 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/7780)
 
@@ -3037,17 +2632,17 @@ Updated for and Compatible with version **2.02**
 
 # Added
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [No uncrouching when melee attacking from stealth 1.01](https://www.nexusmods.com/cyberpunk2077/mods/4470)
 
 - [Stealth Finishers 2.0.4](https://www.nexusmods.com/cyberpunk2077/mods/9360)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Flaming Crotch Man Romanced 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9573)
 
-### Vehicles and Driving
+**Vehicles and Driving**
 
 - [Vehicle Pack - Basic 1.9.0](https://www.nexusmods.com/cyberpunk2077/mods/4625)
   
@@ -3057,11 +2652,11 @@ Updated for and Compatible with version **2.02**
   
 - [Vehicle Summon Tweaks 2.01](https://www.nexusmods.com/cyberpunk2077/mods/4658)
 
-### Cyberware
+**Cyberware**
 
 - [Kiroshi Optics Night Vision Mod 1.2](https://www.nexusmods.com/cyberpunk2077/mods/8326)
 
-### Aesthetics
+**Aesthetics**
 
 - [Enable Finisher Ragdolls 0.1](https://www.nexusmods.com/cyberpunk2077/mods/9496)
 
@@ -3069,7 +2664,7 @@ Updated for and Compatible with version **2.02**
 
 - [Stock Market and News System 1.3h](https://www.nexusmods.com/cyberpunk2077/mods/6319)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 4.01](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
@@ -3079,21 +2674,21 @@ Updated for and Compatible with version **2.02**
 
 - [Quickhack Hotkeys 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/7238)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [QoL - Fix for holotext shadows with RT or PT 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8663)
 
 # Updated
 
-### Quests
+**Quests**
 
 - [Encore 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/8413)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [River Romanced Enhanced 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 
-### World Interactions
+**World Interactions**
 
 - [Night City Interactions 2.0.3](https://www.nexusmods.com/cyberpunk2077/mods/5519)
   
@@ -3101,7 +2696,7 @@ Updated for and Compatible with version **2.02**
   
 - [Sit Anywhere 1.2](https://www.nexusmods.com/cyberpunk2077/mods/7299)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.1.2](https://www.nexusmods.com/cyberpunk2077/mods/6945)
   
@@ -3109,15 +2704,15 @@ Updated for and Compatible with version **2.02**
 
 - [Immersive Timeskip 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/5115)
 
-### UI
+**UI**
 
 - [Kill Phantom Liberty Banner 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/8623)
 
-### Quality of Life
+**Quality of Life**
 
 - [Simple Flashlight 2.5](https://www.nexusmods.com/cyberpunk2077/mods/2913)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.7.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
   
@@ -3149,7 +2744,7 @@ Highly advise that you update to this if you just installed revision 446. It fix
 
 - [No Camera Auto Centering 0.7](https://www.nexusmods.com/cyberpunk2077/mods/2169)
 
-### Aesthetics
+**Aesthetics**
 
 - [E3 Smart Windows 1.0](https://www.nexusmods.com/cyberpunk2077/mods/7026)
 
@@ -3159,11 +2754,11 @@ Highly advise that you update to this if you just installed revision 446. It fix
 
 - [Windswept - V hair blowing while driving bikes 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9060)
 
-### UI
+**UI**
 
 - [Real Vendor Names 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/4941)
 
-### Quality of Life
+**Quality of Life**
 
 - [Faster Vehicle Knockback Animation 1.0](https://www.nexusmods.com/cyberpunk2077/mods/5431)
 
@@ -3173,17 +2768,17 @@ Highly advise that you update to this if you just installed revision 446. It fix
 
 - [Zoomable Scopes 1.3](https://www.nexusmods.com/cyberpunk2077/mods/3543)
 
-### Bug Fixes 
+**Bug Fixes** 
 
 - [Don't Hide Stamina Bar on Holster (Bug Fix) 1.0](https://www.nexusmods.com/cyberpunk2077/mods/9448)
 
 # Updated
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Rita Wheeler Romanced 2.1.0](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 
-### Utility
+**Utility**
 
 - [Input Loader 0.1.1](https://www.nexusmods.com/cyberpunk2077/mods/4575)
 
@@ -3197,25 +2792,25 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 # Added
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Rita Wheeler Romanced 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/9191)
 
 # Updated
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Level Scaling and Balance - Damage Scaling 3.5.0](https://www.nexusmods.com/cyberpunk2077/mods/1712)
 
 - [Silent Silencers and Throwing Knives 1.5.0](https://www.nexusmods.com/cyberpunk2077/mods/4070)
 
-### Enemies and Difficulty
+**Enemies and Difficulty**
 
 - [Challenging Breach Minigame 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/3661)
 
 - [Convo Skill Check Scaling 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/2886)
 
-### Quests 
+**Quests** 
 
 - [Californication 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/7833)
 
@@ -3227,7 +2822,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 - [TV Anywhere 2.0.2](https://www.nexusmods.com/cyberpunk2077/mods/8162)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [I Really Want To Stay At Your House - Judy 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/8753)
   
@@ -3247,7 +2842,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 - [River Romanced Enhanced 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Corpo Plaza 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/6329)
   
@@ -3261,7 +2856,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 - [QoL - Interactive Judy's Apartment Devices 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8099)
 
-### Aesthetics
+**Aesthetics**
 
 - [Always First Equip 2.0.1](https://www.nexusmods.com/cyberpunk2077/mods/2557)
 
@@ -3271,7 +2866,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 - [Weather Probability Rebalance 2.6](https://www.nexusmods.com/cyberpunk2077/mods/3196)
 
-### UI
+**UI**
 
 - [(entering new area) be gone 2.0](https://www.nexusmods.com/cyberpunk2077/mods/4361)
 
@@ -3289,7 +2884,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 - [Stash Filters 2.0.0](https://www.nexusmods.com/cyberpunk2077/mods/5298)
 
-### Quality of Life
+**Quality of Life**
 
 - [Appearance Change Unlocker 2.3.0](https://www.nexusmods.com/cyberpunk2077/mods/3850)
 
@@ -3303,11 +2898,11 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 - [Stop spammers 1.2.3](https://www.nexusmods.com/cyberpunk2077/mods/3801)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Status Bar Bug Fixes 1.4](https://www.nexusmods.com/cyberpunk2077/mods/4316)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.6.0](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 
@@ -3329,13 +2924,13 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 # Added
 
-### Aesthetics
+**Aesthetics**
 
 - [QoL - Fix for the Arasaka nuke being on the 21st 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/9004)
 
 # Updated
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Kerry Interactions Enhanced 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/4990)
   
@@ -3343,29 +2938,29 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
   
 - [River Romanced Enhanced 1.4.1](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Custom Cats 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/6837)
 
 - [Immersive Rippers 1.1.5](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 1.0.3](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
 - [Improved (Or Is It) Rain Effect 2.0](https://www.nexusmods.com/cyberpunk2077/mods/8076)
 
-### Quality of Life
+**Quality of Life**
 
 - [Custom Quickslots 3.8.0](https://www.nexusmods.com/cyberpunk2077/mods/3096)
 
 - [Stop spammers 1.2.2](https://www.nexusmods.com/cyberpunk2077/mods/3801)
 
-### Bug Fixes
+**Bug Fixes**
 
 - [Hacking Bug Fixes 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/7000)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.5.10](https://www.nexusmods.com/cyberpunk2077/mods/4198)
   
@@ -3381,13 +2976,13 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 # Added
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Custom Cats 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/6837)
 
 # Upgraded
 
-### NPC Interactions
+**NPC Interactions**
 
 - [I Really Want To Stay At Your House - Judy 1.2.1](https://www.nexusmods.com/cyberpunk2077/mods/8753)
   
@@ -3397,7 +2992,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
   
 - [I Really Want To Stay At Your House - River 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/8826)
 
-### World Interactions
+**World Interactions**
 
 - [Apartment Cats - Corpo Plaza 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/6329)
   
@@ -3405,11 +3000,11 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
   
 - [Apartment Cats - The Glen 1.3.1](https://www.nexusmods.com/cyberpunk2077/mods/6276)
 
-### Aesthetics
+**Aesthetics**
 
 - [Equipment-EX 0.9.9](https://www.nexusmods.com/cyberpunk2077/mods/6945)
 
-### Utility
+**Utility**
 
 - [ArchiveXL 1.4.9](https://www.nexusmods.com/cyberpunk2077/mods/4198)
   
@@ -3423,7 +3018,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 # Added
 
-### NPC Interactions
+**NPC Interactions**
 
 - [I Really Want To Stay At Your House - Judy 0.9.6](https://www.nexusmods.com/cyberpunk2077/mods/8753)
   
@@ -3435,13 +3030,13 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 # Updated
 
-### Gameplay Mechanics
+**Gameplay Mechanics**
 
 - [Projectile Launcher Rework 2.01](https://www.nexusmods.com/cyberpunk2077/mods/6925)
   
 - [System-EX 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/3158)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Pet Your Cat 1.2.0](https://www.nexusmods.com/cyberpunk2077/mods/6198)
 
@@ -3454,7 +3049,7 @@ Compatible with and updated for version **2.0** and **Phantom Liberty**. If you 
 
 # Updated
 
-### Utility
+**Utility**
 
 - [Native Settings UI 1.94](https://www.nexusmods.com/cyberpunk2077/mods/3518)
 
@@ -3470,21 +3065,21 @@ Fully compatible with and updated for version 1.63 Hotfix 1
 
 # Added
 
-### Quality of Life
+**Quality of Life**
 
 - [Show Item level on crafting and upgrading 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8701)
 
 # Updated
 
-### Quests
+**Quests**
 
 - [Californication 1.1.0](https://www.nexusmods.com/cyberpunk2077/mods/7833)
 
-### NPC Interactions
+**NPC Interactions**
 
 - [Judy Romanced Enhanced 1.8.4](https://www.nexusmods.com/cyberpunk2077/mods/4508)
 
-### World Interactions
+**World Interactions**
 
 - [Idle Anywhere 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/8038)
   
@@ -3492,7 +3087,7 @@ Fully compatible with and updated for version 1.63 Hotfix 1
   
 - [Immersive Rippers 1.1.4](https://www.nexusmods.com/cyberpunk2077/mods/7064)
 
-### UI
+**UI**
 
 - [Improved Minimap Zoom 1.7.7](https://www.nexusmods.com/cyberpunk2077/mods/2959)
 
