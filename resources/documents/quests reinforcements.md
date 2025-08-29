@@ -41,24 +41,24 @@
 | Path of Glory  | No  | exposition quest | 
 | All Along the Watchtower  | No  | exposition quest | 
 | New Dawn Fades | No  | exposition quest | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
+| Phantom Liberty  | No  |  exposition quest | 
+| Dog Eat Dog | No  | There's honestly already plenty of enemies | 
+| Hole in the Sky  | No  | Plenty of enemies/hard enough already | 
+| Spider and the Fly  | Maybe?  |  Might be not worthwhile, but maybe in the reaching the building basement through the city to get to the spider boss, I guess it could make sense to have reinforcements callable then, but probably a pain | 
+| Lucretia My Reflection  | No  |  This is a mission with a ridealong with Reed, would probably screw it up | 
+| The Damned  | No  | All interior voodoo boys stuff, I don't think it's worth it | 
+| Get It Together  | No  |  exposition quest | 
+| You Know My Name  | No  | Interior companion quest with Reed | 
+| Bird with Broken Wings  | No  |  exposition quest | 
+| I've Seen That Face Before  | No  |  exposition quest | 
+| Firestarter  | No  | All inside club, mostly exposition | 
+| The Killing Moon  | No  | Already crazy enough | 
+| Unfinished Sympathy  | No  |  exposition quest | 
+| From Her to Eternity  | No  |  exposition quest | 
+| Through Pain to Heaven  | No  | exposition quest | 
+| Who Wants to Live Forever  | No  | exposition quest | 
+| Black Steel in The Hour of Chaos  | No  | Boss fight with maxtac | 
+| Somewhat Damaged  | No  | Stealth hide and seek thing | 
 | 1  | 2  |  3 | 
 | 1  | 2  |  3 | 
 | 1  | 2  |  3 | 
