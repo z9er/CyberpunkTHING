@@ -24,7 +24,16 @@
 | Ghost Town  | Maybe?  | I'm going to come down more on the no side for this. The cave... wouldn't make sense I think. The town itself, we're talking about a sort of scouting force of wraiths. Potentially might make sense for them to call reinforcements but it would probably be difficult to do, and maybe this should just be ghost style taking them out. Could be a fun incentive not to fuck up though if they called reinforcements. Unsure, probably not | 
 |  Lightning Breaks | No  | Only thing you fight is some drones from the back of the truck, not worth it   | 
 | Life During Wartime  | No  | I would lean towards no. Kang Tao is in the middle of nowhere, I doubt they could get reinforcements (I don't remember if this is mentioned during the quest, but if they had reinforcements, I would think it'd be via AV, not driving in) | 
-|  1 | 2  |3   | 
+| Down on the Street | No  | Exposition quest  | 
+| Gimme Danger  | Yes  | Fuck yeah, screw the player | 
+|  Play it Safe | No  | Would think not, considering the setting being way above the streets I don't think reinforcements would even work. Everyone is kinda cloistered with snipers  | 
 | 1  | 2  |  3 | 
-|  1 | 2  |3   | 
 | 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+
