@@ -22,7 +22,7 @@
 | I Walk the Line  | Maybe?  | This is another situation like disasterpiece. Maybe it would make sense for the enemies outside to call, but once it's in the mall I see it being a huge mess. Unless it can be limited to just those enemies, I don't necessarily think it's worthwhile | 
 |  Transmission (Never Fade Away) | No  | This is all interior (and maybe also a johnny flashback). Doesn't seem worth while at all and would probably cause problems   | 
 | Ghost Town  | Maybe?  | I'm going to come down more on the no side for this. The cave... wouldn't make sense I think. The town itself, we're talking about a sort of scouting force of wraiths. Potentially might make sense for them to call reinforcements but it would probably be difficult to do, and maybe this should just be ghost style taking them out. Could be a fun incentive not to fuck up though if they called reinforcements. Unsure, probably not | 
-|  1 | 2  |3   | 
+|  Lightning Breaks | No  | Only thing you fight is some drones from the back of the truck, not worth it   | 
 | 1  | 2  |  3 | 
 |  1 | 2  |3   | 
 | 1  | 2  |  3 | 
