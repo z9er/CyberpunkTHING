@@ -18,9 +18,9 @@
 |  The Space in Between | No  | Runaround quest finding fingers. Only encounter is those dudes outside the clinic (maybe). Not worth it   | 
 | Disasterpiece  | Maybe?  | This probably isn't worth it. Majority of the quest takes place in a multilevel going down building, and the only part that might make sense is the enemies outside the building calling reinforcements (and not after once they died). Probably difficult to implement well and better to not bother | 
 |  Double Life | No  | Exposition quest  |  
-|  1 | 2  |3   | 
-| 1  | 2  |  3 | 
-|  1 | 2  |3   | 
+|  M'ap Tann Pèlen | No  | Exposition Quest | 
+| I Walk the Line  | Maybe?  | This is another situation like disasterpiece. Maybe it would make sense for the enemies outside to call, but once it's in the mall I see it being a huge mess. Unless it can be limited to just those enemies, I don't necessarily think it's worthwhile | 
+|  Transmission (Never Fade Away) | No  | This is all interior (and maybe also a johnny flashback). Doesn't seem worth while at all and would probably cause problems   | 
 | 1  | 2  |  3 | 
 |  1 | 2  |3   | 
 | 1  | 2  |  3 | 
