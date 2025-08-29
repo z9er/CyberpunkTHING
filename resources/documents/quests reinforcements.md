@@ -27,13 +27,19 @@
 | Down on the Street | No  | Exposition quest  | 
 | Gimme Danger  | Yes  | Fuck yeah, screw the player | 
 |  Play it Safe | No  | Would think not, considering the setting being way above the streets I don't think reinforcements would even work. Everyone is kinda cloistered with snipers  | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
+| Search and Destroy  | No  | All inside an apartment, mostly exposition then escape from Arasaka. Not worth it | 
+| Last Caress  | Maybe?  | Only part it would make sense at is at the estate, but if Arasaka reinforcements did come, might make more sense for it to be through AV not driven in. Probably not worth it | 
+| Totalimmortal  | No  |  All inside Arasaka tower, not a good idea | 
+| For Whom the Bell Tolls  | No  | All inside Arasaka Tower | 
+| Knockin' on Heaven's Door  | No  |  All inside Arasaka Tower | 
+| Changes  | No  | Exposition quest | 
+| We Gotta Live Together  | No  | Exposition quest | 
+| Forward to Death | No  | Potentially you could have reinforcements when you're holding people off while drilling the door, but I'm foreseeing a thing where it'd be an endless chain and wouldn't be very fun | 
+| Belly of the Beast  | No  |  All inside arasaka tower | 
+| (Don't Fear) The Reaper  | No  | All inside arasaka tower | 
+| Where is My Mind?  | No  |  exposition quest | 
+| Path of Glory  | No  | exposition quest | 
+| All Along the Watchtower  | No  | exposition quest | 
+| New Dawn Fades | No  | exposition quest | 
 | 1  | 2  |  3 | 
 
