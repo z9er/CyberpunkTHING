@@ -9,8 +9,8 @@
 |  The Ripperdoc | No  | Introductory mission, doesn't really have combat   | 
 | The Ride  | No  | Exposition mission, you just sit in a car, no combat | 
 |  The Pickup | No  | Lots of combat, but it's all inside a building, and something tells me that it would screw stuff up. Probably have em showing up outside fighting with militech, would be nuts  |  
-|  1 | 2  |3   | 
-| 1  | 2  |  3 | 
+|  The Information | No  | Exposition quest + braindances, all inside lizzie's, no point   | 
+| The Heist  | No |  All inside the hotel, no point, would probably screw stuff up | 
 |  1 | 2  | 3  |  
 |  1 | 2  |3   | 
 | 1  | 2  |  3 | 
