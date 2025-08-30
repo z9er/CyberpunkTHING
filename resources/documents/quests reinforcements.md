@@ -155,3 +155,121 @@
 | Wakako's Favorite | No  | Just one guy in a building no enemies | 
 | A Shrine Defiled  | Maybe?  | If they tyger claw reinforcements could get into the shrine area, why not | 
 | Professional Widow  | No  | Fixer reward gig | 
+
+## Side Quests
+
+| Quest  | Reinforcements   | Notes   |
+|---|---|---|
+| The Ballad of Buck Ravers  | No  | Walk around quest no enemies | 
+| Chippin' In  | No  | Don't think it makes sense for Grayson to have reinforcements, would just cause problems | 
+| Blistering Love  | No  | exposition quest | 
+| Holdin' On  | No  | exposition quest | 
+| Second Conflict  | No  | All inside club Totentaz | 
+| A Like Supreme  | No  | exposition quest | 
+| Both Sides, Now  | No  | exposition quest | 
+| Ex-Factor | No  | exposition quest | 
+| Talkin' 'bout a Revolution  | No  | exposition quest | 
+| Pisces  | No  | All inside Clouds | 
+| Pyramid Song  | No  | Swim exposition quest | 
+| Riders on the Storm  | Maybe?  | Hell yeah, fuck you V, bring in the wraiths... maybe, does that make sense with the contextual reinforcements as you drive away at the end? Are those the only "reinforcements?" | 
+| With a Little Help from My Friends  | No  | I think these enemies should be isolated when you steal the basilisk | 
+| Queen of the Highway  | No  | Wouldn't make sense, you just mow stuff down in the basilisk | 
+| I Fought the Law  | No  | Big investigation quest with River, most encounters are inside buildings | 
+| The Hunt  | No  | Big investigation quest with river | 
+| Following the River  | No  | Big investigation quest with river | 
+| Rebel! Rebel!  | No  | Fun quest with River, shouldn't have more cop reinforcements it's bad enough as is | 
+| I Don't Wanna Hear It  | No  | exposition quest mostly | 
+| Off the Leash  | No  | exposition quest | 
+| Boat Drinks  | No  | exposition quest | 
+| These Boots Are Made for Walkin'  | No  | It's that stupid nomad car quest, no point | 
+| Small Man, Big Mouth  | No  | Small fight, could see reinforcements causing issues | 
+| War Pigs  | No  | small exposition quest, one small fight with one dude | 
+| I'll Fly Away  | No  | no enemies, exposition quest | 
+| Gun Music  | No  | It's the nomad drug deal confrontation quest, reinforcements wouldn't make sense | 
+| Fortunate Son  | No  | Police reinforcements would be obnoxious | 
+| I Can See Clearly Now  | No  | brendan quest, no enemies | 
+| Spray Paint  | No  | Brenda quest, exposition | 
+| Coin Operated Boy  | No  | Brendan quest, exposition | 
+| The Beast In Me  | No  | Race quest | 
+| The Distance  | No  | Repeatable race quest | 
+| The Beast in Me: City Center  | No  | Race quest | 
+| The Beast in Me: Badlands  | No  | Race quest | 
+| The Beast in Me: Santo Domingo  | No  | Race quest | 
+| The Beast in Me: The Big Race  | No  | Race quest | 
+| Beat on the Brat | No  | Boxing quest | 
+| Beat on the Brat: Arroyo  | No  | Boxing quest | 
+| Beat on the Brat: Kabuki  | No  | Boxing quest | 
+| Beat on the Brat: The Glen  | No  | Boxing quest | 
+| Beat on the Brat: Rancho Coronado  | No  | Boxing quest | 
+| Beat on the Brat: Pacifica  | No  | Boxing quest | 
+| Human Nature  | No  | Delamain quest | 
+| Tune Up  | No  | Delamain quest | 
+| Epistrophy  | No  | Delamain quest | 
+| Epistrophy: Wellsprings  | No  | Delamain quest | 
+| Epistrophy: Northside  | No  | Delamain quest | 
+| Epistrophy: North Oak  | No  | Delamain quest | 
+| Epistrophy: Rancho Coronado  | No  | Delamain quest | 
+| Epistrophy: Badlands  | No  | Delamain quest | 
+| Epistrophy: The Glen  | No  | Delamain quest | 
+| Epistrophy: Coastview  | No  | Delamain quest | 
+| Don't Lose Your Mind  | No  | Delamain quest | 
+| I Fought the Law  | No  | Inside a club | 
+| Dream On  | Maybe?  | For the stealing the data from the van part, might make sense if it doesn't cause problems. Obviously nothing happens at the Peralez place | 
+| Sinnerman  | No  | mostly exposition quest | 
+| There Is A Light That Never Goes Out  | No  | mostly exposition quest | 
+| They Won't Go When I Go  | No  | mostly exposition quest | 
+| Spellbound  | No  | It's just one unaffiliated guy you kill (if you're me, fuck talking) | 
+| KOLD MIRAGE  | No  | mostly exposition, but hacky, quest | 
+| Psycho Killer  | No  | General cyberpsycho quest, don't have em | 
+| Machine Gun  | No  | Skippy exposition quest | 
+| The Gun  | No  | exposition quest | 
+| Shoot To Thrill  | No  | Shooting range exposition quest | 
+| Paid in Full  | No  | Exposition quest | 
+| Upgrade U  | No  | Exposition quest | 
+| Imagine  | No  | Exposition quest | 
+| Stairway To Heaven  | No  | Exposition quest | 
+| Poem Of The Atoms | No  | Exposition quest | 
+| Meetings Along The Edge  | No  | Exposition quest | 
+| Dressed to Kill  | No  | Exposition quest where you get a car | 
+| I'm in Love with My Car  | No  | Exposition quest where you get a car  | 
+| Murk Man Returns Again Once More Forever  | No  | Exposition quest where you get a car | 
+| Sex On Wheels  | Maybe?  | If you failed the quest Life's Work there can be scavs around it, maybe they should call reinforcements | 
+| Shape of a Pony | Yes  | It's a few wraiths around a car in the open, why not | 
+| A Day In The Life  | No  | Small, you scare or kill two thugs in public | 
+| Big in Japan | No  | Reinforcements would be Very frustrating in this quest | 
+| Bullets  | No  | Nah, there's already a shitload of cops if you decide to try and kill maxtac | 
+| Burning Desire / Night Moves  | No  | exposition quest | 
+| Career Opportunities  | No  | Reward quest | 
+| Every Breath You Take  | No  | It's just tracking down the stalker | 
+| Ezekiel Saw the Wheel  | No  | Simple confrontation in a diner | 
+| Fool on the Hill  | No  | It's just finding the glitchy things on walls quest | 
+| Full Disclosure  | No  | Really just interactions with Sandra Dorsett | 
+| Happy Together  | No  | Suicidal cop quest, no real enemies | 
+| Heroes  | No  | exposition quest | 
+| I Really Want to Stay at Your House  | No  | Exposition quest | 
+| Killing In The Name  | Maybe?  | In the wraith area and scav area, I think reinforcements would make sense | 
+| Love Rollercoaster  | No  | Exposition quest | 
+| Only Pain | No  | Only a few cops, wouldn't make sense. They're dirty | 
+| Over the Edge | No  | Exposition quest | 
+| Raymond Chandler Evening  | No  | Only one small fight that's optional, not worthwhile, might fuck things up | 
+| Sacrum Profanum / Losing My Religion  | No  | With how the building is, I can only see maelstrom reinforcements screwing things up | 
+| Send in the Clowns  | No  | Has a forced companion, turn off reinforcements to avoid issues | 
+| Space Oddity  | Yes  | I think militech reinforcements in their area would be fine | 
+| Stadium Love  | Yes  | Why not, if you decide to piss off 6th street. There's a bunch of them in their territory | 
+| Sweet Dreams  | No  | All inside a building | 
+| The Gift  | No  | Exposition quest | 
+| The Gig  | No  | Exposition quest | 
+| The Highwayman  | No  | Mostly exposition quest to get a vehicle | 
+| The Prophet's Song  | No  | Exposition quest | 
+| Venus in Furs  | No  | Exposition quest | 
+| Violence  | No  | All interiors, club etc | 
+| Push It to the Limit  | No  | Vehicle obtaining quest, has vehicle enemies, reinforcements would probably be annoying | 
+| Just Another Story  | Maybe?  | I'd side on no, I can see reinforcements during vehicle pursuit quests being very annoying | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
