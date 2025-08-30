@@ -265,11 +265,21 @@
 | Violence  | No  | All interiors, club etc | 
 | Push It to the Limit  | No  | Vehicle obtaining quest, has vehicle enemies, reinforcements would probably be annoying | 
 | Just Another Story  | Maybe?  | I'd side on no, I can see reinforcements during vehicle pursuit quests being very annoying | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
+| Baby Let Me Take You  | No  | Has a few guards on boat, would keep off to avoid issues | 
+| Dazed and Confused  | No  | All in an interior | 
+| Dirty Second Hands  | No  | Exposition quest | 
+| Go Your Own Way  | No  | Exposition quest | 
+| Shot by Both Sides  | No  | All in interiors | 
+| Run This Town  | No  | Reinforcements would probably screw this up | 
+| Addicted To Chaos  | No  | You just get a gun, no enemies | 
+| Balls to the Wall  | No  | Flashback quest, reinforcements would screw it up | 
+| Corpo of the Month  | No  | You just get the location of a stash, no enemies | 
+| Money For Nothing  | No  | You just get the location of a stash, no enemies | 
+| Moving Heat  | No  | Bunch of enemies in a garage, would cause issues to have reinforcements | 
+| New Person, Same Old Mistakes  | No  | You just get the location of a stash, no enemies | 
+| No Easy Way Out  | No  | Reinforcements would screw this one up | 
+| One Way or Another  | No  | Small ambush by Biotechnica, not worthwhile, reinforcements would screw it up | 
+| The Show Must Go On  | No  | Exposition quest, you get a reward | 
+| This Corrosion  | No  | Exposition quest, you get a reward | 
+| Tomorrow Never Knows  | No  | Exposition quest, murals | 
+| Voodoo Treasure  | No  | You just get a cache, nothing else | 
