@@ -67,6 +67,29 @@
 
 | Quest  | Reinforcements   | Notes   |
 |---|---|---|
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
+| Dancing on a Minefield  | No  | Vehicle escape mission, reinforcements would probably just be annoying in this case, there already are vehicle attackers | 
+| Flying Drugs  | Yes  | It's a radar station full of wraiths guarding it, why not | 
+| Big Pete's Got Big Problems  | Yes  | It's a junkyard full of wraiths, why not | 
+| No Fixers  | Yes  | Wraith holding area, can't see how it would hurt, doesn't seem like there's any enemy opposition once you actually rescue the person and head to the fixer | 
+| Trevor's Last Ride | Yes  | The classic wraith area, makes sense there'd be reinforcements | 
+| MIA  | No  | There's only one enemy and he isn't affiliated with any gangs | 
+| Sparring Partner  | No  | Only enemies are guards and there's only 3 of them | 
+| Goodbye, Night City  | Yes  | Place full of Militech troops you're supposed to sneak in, I'd think so | 
+| Radar Love | Yes  | Bunch of Militech holed up here, makes sense to have em' | 
+| Every Grain of Sand  | No  | Just a wrap up fixer quest where you get a car | 
+| A Lack of Empathy  | No  | All inside the Empathy club, I foresee fuckups if reinforcements came | 
+| An Inconvenient Killer  | No  | All inside the 7th Hell club, ditto, fuckups if reinforcements were on | 
+| Serial Suicide  | No  | All interior train station, there's a tiny start top of the steps outside, but foreseeing a clusterfuck with reinforcements | 
+| Guinea Pigs  | No  | All inside the biotechnica hotel | 
+| The Frolics of Councilwoman Cole  | Yes  | Mostly outside at docks, full of militech, militech reinforcements make sense | 
+| Gas Gas Gas  | No  | Finished all gigs quest where you get a car | 
+| Two Wrongs Makes Us Right  | No  | Bunch of stairs leading down and down on a construction site full of animals, I'd expect problems if reinforcements showed up | 
+| Downtown Saints  | Maybe?  | It starts outside of a church with a few enemies outside, the only place it makes sense for there to be reinforcements called is from the people outside, so if they could, that'd work, but anyone inside the church would lead to issues. It's full of scavs | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
