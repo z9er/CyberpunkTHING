@@ -106,17 +106,52 @@
 | For My Son  | No  | All inside the animals boxing club | 
 | Going-away Party  | Yes  | Lotta 6th streeters outside of a house, while some takes place inside, I can only see reinforcements making things more lively | 
 | Ride Captain Ride  | No  | Finished all fixers gigs quest where you get a car | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
-| 1  | 2  | 3 | 
+| Hippocratic Oath  | Yes  | I think the maelstrom calling reinforcements would only be more interesting | 
+| Many Ways to Skin a Cat  | Yes  | It's an inside/outside garage, so more tyger claws seems fine long as they can get through or at least shoot through the gate, which I believe they can | 
+| Monster Hunt  | No | Id' side with no, it's in a multi story club, there's already some automatic reinforcements at the end of the quest. Probably not worth fuckups | 
+| Playing for Keeps  | Yes  | If you went guns blazing, I'd think the claws would be calling on you and it'd get interesting | 
+| Rite of Passage  | Maybe?  | While this is mostly inside a building, I could see it being interesting if reinforcements were called. They might come in, but even if they were waiting outside, pretty cool | 
+| Dirty Biz  | Yes  | More Maelstrom is fun, they might come in or might not, but they'd enliven things | 
+| Troublesome Neighbors  | No  | It's all some windy path bullshit to even get there, not worth it | 
+| Welcome to America, Comrade  | Yes  | They might get hooked on the gate, but I think reinforcements would be cool here if they spawn right | 
+| Backs Against the Wall  | No  | All inside a building, it's just one unaffiliated dude | 
+| Catch a Tyger's Toe  | No  | All inside the basement of a building | 
+| Woman of La Mancha  | Yes  | As long as the tygers could get there from outside at the kabuki ring thing, I think it's fine. I imagine it'd work | 
+| Flight of the Cheetah  | Yes  | If they tygers can get into the motel area ok generally, this seems fine | 
+| Shark in the Water  | No  | All in a building, and there's already some reinforcements built in | 
+| Last Login  | No  | All inside a building | 
+| Small Man, Big Evil  | No  | This is all on rooftops, can foresee nothing but trouble | 
+| Bloodsport | No  | Small gated area and in a building, foreseeing issues | 
+| Scrolls before Swine  | Yes  | I think the maelstromers would make things interesting enough, most of this is outside a small warehouse | 
+| Freedom of the Press  | No  | All inside, it's just turrets | 
+| Lousy Kleppers  | Yes  | All outside a warehouse, why not more maelstrom | 
+| Fixer, Merc, Soldier, Spy  | No  | Almost all at the top of a building | 
+| The Heisenberg Principle  | No  | Almost all inside a multi floor basement thing interior, has built in reinforcement at the end | 
+| Occupational Hazard | No  | It's one cyberpsycho in an interior | 
+| Concrete Cage Trap | Yes  | Buncha militech, probably makes it more interesting | 
+| Last Call  | No  | Fixer reward gig | 
+| Family Heirloom | No  | All inside a parking garage | 
+| Hot Merchandise  | No  | All inside a store | 
+| Nasty Hangover  | Maybe?  | Lotta 6th street outside a warehouse with a big entrance, I think it would work. Wouldn't let the small group of Kang Tao at the end call reinforcements though | 
+| The Union Strikes Back  | No  | Big building | 
+| Fifth Column  | No  | All inside a building | 
+| Jeopardy  | No  | All inside a funeral home | 
+| Life's Work  | Yes  | Big garage opening, I think 6th street would find their way in fine | 
+| On a Tight Leash  | Yes  | Giant entrance to bus depot, I'd think valentino reinforcements would work | 
+| Bring Me the Head of Gustavo Orta  | No  | inside an apartment | 
+| Old Friends  | No  | All inside a small bar | 
+| Psychofan  | No  | All inside an apartment | 
+| Eye for an Eye  | No  | All inside a multi story building | 
+| Sr. Ladrillo's Private Collection  | No  | All inside a very large bar | 
+| The Lord Giveth and Taketh Away  | Yes  | Open area around a small garage, easy entrance, easy for the valentino reinforcements to play | 
+| Going Up or Down?  | No  | It's just one dude | 
+| God Bless This Mess  | No  | Fixer reward gig | 
+| Tyger and Vulture  | No  | all inside a casino | 
+| We Have Your Wife  | No | While there is an outside the warehouse, most takes place inside and in a basement. Might cause fuckups | 
+| Greed Never Pays | No  | All inside an apartment block and then night club | 
+| Olive Branch  | No  | Very simple gig, very few enemies, wouldn't make sense | 
+| Until Death Do Us Part  | No  | It's all robots at someone's house | 
+| Getting Warmer...  | No  | All inside an apartment | 
+| Wakako's Favorite | No  | Just one guy in a building no enemies | 
+| A Shrine Defiled  | Maybe?  | If they tyger claw reinforcements could get into the shrine area, why not | 
+| Professional Widow  | No  | Fixer reward gig | 
