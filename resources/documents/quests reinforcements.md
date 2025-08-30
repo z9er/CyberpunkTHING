@@ -85,6 +85,33 @@
 | Gas Gas Gas  | No  | Finished all gigs quest where you get a car | 
 | Two Wrongs Makes Us Right  | No  | Bunch of stairs leading down and down on a construction site full of animals, I'd expect problems if reinforcements showed up | 
 | Downtown Saints  | Maybe?  | It starts outside of a church with a few enemies outside, the only place it makes sense for there to be reinforcements called is from the people outside, so if they could, that'd work, but anyone inside the church would lead to issues. It's full of scavs | 
+| Prototype in the Scraper  | No  | Giant skyscraper framework quest, not a good idea to have them | 
+| Treating Symptoms  | Maybe?  | Vast majority of this takes place inside a voodoo boys infested spa. There's a few outside where it might make sense for them to call reinforcements, but past that, anything else would cause fuckups | 
+| Waiting for Dodger  | No  | All takes place inside a police station, would just cause fuckups | 
+| The Man Who Killed Jason Foreman  | No  | All takes place in a hotel, there's only one dude outside at the front door and he's just going to die. Reinforcements wouldn't work, even the opening is under a parking garage thing | 
+| Spy in the Jungle  | No  | All inside a dilapidated museum | 
+| Talent Academy  | No  | All insidea building | 
+| Heaviest of Hearts  | No  | All inside a club | 
+| Roads to Redemption  | No  | All an interior stadium thing | 
+| Hi Ho Silver Lining  | No  | Finished all fixers gigs quest where you get a car | 
+| Error 404  | Maybe?  | As long as the 6th street guys can actually navigate into this storage area which is open, I'd say yes. If any navigation issues then no | 
+| Race to the Top  | Maybe?  | It's an open area surrounding a small factory that they should be able to navigate into easy enough, but only if the guards can do reinforcements. It's the guard faction | 
+| Serious Side Effects  | No  | All inside a motel | 
+| Breaking News  | Maybe?  | There's a small garage with an outside area that looks to be patrolled by 6th street. I think it probably works for reinforcements to be on here, as the mission incentivizes stealth... so maybe don't fuck up, v | 
+| Family Matters  | No  | All inside a house, and basement | 
+| Hacking the Hacker  | No  | All inside a building | 
+| Cuckoo's Nest  | No  | All inside a hospital except a small section at the very end in parking lot, not worth it | 
+| Severance Package  | No  | While it starts outside with like 2 people guarding, most is inside, I don't think worthwhile | 
+| Desperate Measures  | No  | Quest is inside, then has vehicle pursuit scripted, probably not worth messing with | 
+| For My Son  | No  | All inside the animals boxing club | 
+| Going-away Party  | Yes  | Lotta 6th streeters outside of a house, while some takes place inside, I can only see reinforcements making things more lively | 
+| Ride Captain Ride  | No  | Finished all fixers gigs quest where you get a car | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
+| 1  | 2  | 3 | 
 | 1  | 2  | 3 | 
 | 1  | 2  | 3 | 
 | 1  | 2  | 3 | 
