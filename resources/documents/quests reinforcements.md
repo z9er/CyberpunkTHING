@@ -59,10 +59,14 @@
 | Who Wants to Live Forever  | No  | exposition quest | 
 | Black Steel in The Hour of Chaos  | No  | Boss fight with maxtac | 
 | Somewhat Damaged  | No  | Stealth hide and seek thing | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
-| 1  | 2  |  3 | 
+| Leave in Silence  | No  | Epilogue quest | 
+| Four Score and Seven  | No  | Epilogue quest | 
+| Things Done Changed  | No  | Epilogue quest | 
 
+## Gigs
+
+| Quest  | Reinforcements   | Notes   |
+|---|---|---|
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
+| 1  | 2  |  3 | 
