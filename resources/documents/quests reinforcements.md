@@ -190,12 +190,12 @@
 | I Can See Clearly Now  | N/A  | brendan quest, no enemies | 
 | Spray Paint  | N/A  | Brenda quest, exposition | 
 | Coin Operated Boy  | N/A  | Brendan quest, exposition | 
-| The Beast In Me  | N/A  | Race quest | 
-| The Distance  | N/A  | Repeatable race quest | 
-| The Beast in Me: City Center  | N/A  | Race quest | 
-| The Beast in Me: Badlands  | N/A  | Race quest | 
-| The Beast in Me: Santo Domingo  | N/A  | Race quest | 
-| The Beast in Me: The Big Race  | N/A  | Race quest | 
+| The Beast In Me  | Turn off  | Race quest | 
+| The Distance  | Turn off  | Repeatable race quest | 
+| The Beast in Me: City Center  | Turn off  | Race quest | 
+| The Beast in Me: Badlands  | Turn off  | Race quest | 
+| The Beast in Me: Santo Domingo  | Turn off  | Race quest | 
+| The Beast in Me: The Big Race  | Turn off  | Race quest | 
 | Beat on the Brat | N/A | Boxing quest | 
 | Beat on the Brat: Arroyo  | N/A  | Boxing quest | 
 | Beat on the Brat: Kabuki  | N/A  | Boxing quest | 
