@@ -1,3 +1,7 @@
+### So what's the point of this list?
+
+Try to make things a little more challenging, a bit more dynamic in how NPCs react, and to make the combat more fun to do with less strictures on targeting (with the addition of still being able to lock on fine) and have the game "work" without having to disable a mod or some dumb shit like that at some part of the game, and to have it all work in hardcore mode (which I love)
+
 ### Actual Mods for the Thing
 
 | Mod Name  | What It Does   | Notes   |
@@ -86,6 +90,4 @@ Similar to the economy mods, it feels like it just jumbles stuff up more. Remind
 
 [Realish Weapons and Armor](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1237)
 
-#### So what's the point of this list?
 
-Try to make things a little more challenging, a bit more dynamic in how NPCs react, and to make the combat more fun to do with less strictures on targeting (with the addition of still being able to lock on fine) and have the game "work" without having to disable a mod or some dumb shit like that at some part of the game, and to have it all work in hardcore mode (which I love)
