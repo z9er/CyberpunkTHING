@@ -38,7 +38,7 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [The KCD2 Nutrition Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1903) | More consequences around properly managing a reasonably balanced medieval diet. Maintain your fruits, vegetables, protein, and hydration  |  Unsure what combination of the files to use  |
 |  [Explorer Perk Removed 2.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2398) | Perk that actively makes the game worse, fuck it  |   |
 
-### Mods I'm Thinking About Generally
+### Mods I'm Thinking About Generally but Unsure On
 
 | Mod Name  | What It Does   | Notes   |
 |---|---|---|
