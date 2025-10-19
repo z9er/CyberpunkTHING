@@ -36,6 +36,8 @@
 
 ### Mods I'm Thinking About Generally
 
+| Mod Name  | What It Does   | Notes   |
+|---|---|---|
 |  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
 |  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
 
