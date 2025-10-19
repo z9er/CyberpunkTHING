@@ -16,7 +16,7 @@
 |  [Realish Hunting 4.00](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1593) | Different animal spawning, behavior, wound system, more challenge to hunting, how they react to sightlines, smell, etc  |  Working on newest version?  | 
 | [Realish Tournaments ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2062)  | Overhaul of the tournament and during the quest, makes other fighters better equipped, more varied equipment, etc |   | 
 |  [Realish Speed 2.23](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1432) | Removes slo-mo, changes to attack speed with nuance between Henry and opponents  | Does this break anything?  |  
-|  The Information | N/A  |    | 
+|  [Realish Techniques 1.51](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2346) | Gives an actual reason to use polearms or longsword  |  "There is a rare knockout event that can occur when Henry is knocked out, revived, then speaks to guards, then tries to fight again, and if he's knocked out again (from a weapon), there could be an endless loading screen." How common? Worth it?  | 
 | The Heist  | Turn off |   | 
 |  The Information | N/A  |    | 
 | The Heist  | Turn off |   | 
