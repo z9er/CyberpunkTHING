@@ -6,6 +6,15 @@
 |  [Smooth Cutscenes 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/425) | Matches cutscene fps to your ingame fps settings  | Does this work on current version of the game?  |  
 |  [Easy To See Herbs II 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/457) | Makes a few plants easier to distinguish, it's night and day, made by a UI obsessive designer dude  |  Work on latest version? Seems like it would  | 
 | [Better Rain 2.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1711)  | Makes rain at night have less of that white out effect like the GTA remasters  | Does it work well and fix the issue or is it superfluous? I know the issue can occur in vanilla in latest version of game rarely | 
+|  [Realish Horse Armor 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1449) | Makes horse armor more effective, buffs a niche playstyle which you get dehorsed at the drop off a hat even at high courage for the horse, use the vanilla scaling one  |  Does it work on latest version? |  
+|  [Realish Prostitution 1.0.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2290) | Differentiates the bath houses offering prostitution depending on location and how "official" they are, makes sense, makes for it being more nuanced than all providing the same services/buff  |  Does this work on latest version of game?  | 
+| The Heist  | Turn off |   | 
+|  The Pickup | Turn off  |   |  
+|  The Information | N/A  |    | 
+| The Heist  | Turn off |   | 
+|  The Pickup | Turn off  |   |  
+|  The Information | N/A  |    | 
+| The Heist  | Turn off |   | 
 |  The Pickup | Turn off  |   |  
 |  The Information | N/A  |    | 
 | The Heist  | Turn off |   | 
