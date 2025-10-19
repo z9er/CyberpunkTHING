@@ -29,6 +29,7 @@
 |  [Immersive Faster Animations 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/902) | Alchemy animations are sped up by 50% where applicable, mainly while interacting with ingredients. The finishing animations are sped up by 25%.  | Any issues from this? Is it janky? Does it cause problems with fast cooking or doing shortcuts?   | 
 |  [Pebbles and Herring Perk Nerf Half 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2384) | Nerfs the Good Ole Pebbles and Red Herring perks so you might wind up using a different horse instead of the first one all game  |    |
 |  [Stolen Sort 1.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1262) | Adds a new button to sort items by stolen status  |    |
+|  [The KCD2 Nutrition Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1903) | More consequences around properly managing a reasonably balanced medieval diet. Maintain your fruits, vegetables, protein, and hydration  |  Unsure what combination of the files to use  |
 
 ### Why Some Stuff Isn't Included
 
