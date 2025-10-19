@@ -92,4 +92,4 @@ Similar to the economy mods, it feels like it just jumbles stuff up more. Remind
 
 [Realish Weapons and Armor](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1237)
 
-![picture](https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/kcd2%20thing%20resized.png)
+![picture](https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/kcd2%20resized%20again.png)
