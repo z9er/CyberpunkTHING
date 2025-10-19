@@ -29,5 +29,32 @@
 
 ### Why Some Stuff Isn't Included
 
+#### Economy shit:
 
+The economy mods I see are not cohesively implemented and it's such a massive game it doesn't seem like there's much point to adjusting that when you could just adjust the ways of accumulating stuff to be more difficult (stealth, combat) instead. Even the comments on the pages from the modders show that it is a terrible effort to try to go to for "realism" and honestly, it just isn't worth touching imo
 
+[Realish Economy](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1646)
+[Inflation - Increased Buy Price (PTF)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/804)
+[Reduced Sell Price (PTF)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/586)
+
+#### Camping
+
+Feels redundant when there's already many campsites around, and it takes away from the "home" feeling of rented inns or beds you've earned that you can save at
+
+[The KCD2 Camping Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1927)
+
+#### Food Stuff
+
+This would be a pretty obvious add but it seems like it isn't working with the newest version of the game
+
+[The KCD2 Nutrition Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1903)
+
+#### Weapon and Armor Changes
+
+Similar to the economy mods, it feels like it just jumbles stuff up more. Reminds me of adjustments made for "lore" or "realism" in skyrim where some mods would try to shift tiers of weapons around to be more appropriate, where the more logical thing is to just role with the way the game is and not try to go against the current so much
+
+[Realish Weapons and Armor](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1237)
+
+#### So what's the point of this list?
+
+Try to make things a little more challenging, a bit more dynamic in how NPCs react, and to make the combat more fun to do with less strictures on targeting (with the addition of still being able to lock on fine) and have the game "work" without having to disable a mod or some dumb shit like that at some part of the game, and to have it all work in hardcore mode (which I love)
