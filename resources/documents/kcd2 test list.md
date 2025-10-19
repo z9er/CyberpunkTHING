@@ -4,7 +4,7 @@
 |  [Alternate Combat 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2497) | Removes the limitations for targeting in group combat when not locked on, made by Mordhau's gameplay designer guy  | It is very finnicky for minor movements translating to sword direction in hardcore mode. This is a new mod, now is the time to give any feedback to the mod author   | 
 | [Matt's Longer Books](https://www.nexusmods.com/kingdomcomedeliverance2/mods/866)  | Makes books take longer to study, can increase xp gained from doing so if it's much (5x) longer  | Idea is good, but does it work on newest version of game, and which version to go with, does it make sense to increase xp the same amount as the duration to study is increased? Scholarship is a relatively hard thing to level but... is it too easy then? | 
 |  [Smooth Cutscenes 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/425) | Matches cutscene fps to your ingame fps settings  | Does this work on current version of the game?  |  
-|  The Ripperdoc | N/A  |    | 
+|  [Easy To See Herbs II 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/457) | Makes a few plants easier to distinguish, it's night and day, made by a UI obsessive designer dude  |  Work on latest version? Seems like it would  | 
 | The Ride  | N/A  |  | 
 |  The Pickup | Turn off  |   |  
 |  The Information | N/A  |    | 
