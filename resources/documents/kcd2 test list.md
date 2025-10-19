@@ -65,8 +65,8 @@ Would only bother with these if they were able to add in even if the perk list w
 |  [Cheetah New Perk Halved 1.0b](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1776) | Running is faster now  |  May be too fast, check. Does it work on latest version of game?  |
 |  [Colleague Perk 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1616) | All books are cheaper in shops  |  Does it work on latest version of game?  |
 |  [Crouching Chameleon Perk -50% version 1.0b](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1638) | When crouching without movement you get a 30% (15%) Stealth bonus  |  Does it work on latest version of game?  |
-|  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
-|  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
+|  [Fast Striker Perk 1.4](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1985) | Your attacks will demand 30% less stamina, but will also cause 20% less injury. Applies only to weapons that are based on agility.  |  Is this too strong or ok? Does it work on latest version of game?  |
+|  [Headcracker Perk Halved 1.02c](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1576) | You have a 5% greater chance of knocking out an opponent with a blow to the head.﻿ ﻿Applies to unarmed and to every kind of weapon, equally  |  Does it work on latest version of game?  |
 
 ### Why Some Stuff Isn't Included
 
