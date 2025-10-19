@@ -1,3 +1,5 @@
+### Actual Mods for the Thing
+
 | Mod Name  | What It Does   | Notes   |
 |---|---|---|
 |  [Bad Reputation](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1859)| Sets the starting reputation of all locations lower when you're at the beginning of game, makes sense in context and should help things feel a bit less like you immediately becoming rich and beloved sans perks  | Should it be bad or very bad for the file? Get feedback  |  
@@ -30,6 +32,12 @@
 |  [Pebbles and Herring Perk Nerf Half 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2384) | Nerfs the Good Ole Pebbles and Red Herring perks so you might wind up using a different horse instead of the first one all game  |    |
 |  [Stolen Sort 1.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1262) | Adds a new button to sort items by stolen status  |    |
 |  [The KCD2 Nutrition Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1903) | More consequences around properly managing a reasonably balanced medieval diet. Maintain your fruits, vegetables, protein, and hydration  |  Unsure what combination of the files to use  |
+|  [Explorer Perk Removed 2.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2398) | Perk that actively makes the game worse, fuck it  |   |
+
+### Mods I'm Thinking About Generally
+
+|  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
+|  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
 
 ### Why Some Stuff Isn't Included
 
@@ -46,12 +54,6 @@ The economy mods I see are not cohesively implemented and it's such a massive ga
 Feels redundant when there's already many campsites around, and it takes away from the "home" feeling of rented inns or beds you've earned that you can save at
 
 [The KCD2 Camping Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1927)
-
-#### Food Stuff
-
-This would be a pretty obvious add but it seems like it isn't working with the newest version of the game
-
-[The KCD2 Nutrition Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1903)
 
 #### Weapon and Armor Changes
 
