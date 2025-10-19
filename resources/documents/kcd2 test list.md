@@ -25,6 +25,5 @@
 | [Maniac Mutt 1.22](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2432)  | Overhauls Mutt's morale system, stats, abilities, and greatly improves his combat effectiveness |   | 
 |  [Realish Warhorses 1.15](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1594) | With this mod, mounted combat can be devastatingly effective. Horse courage and stamina now scales better with rider skill, enemies have difficulty unseating rider, horses shy less around enemies or canines, and melee attacks from horseback deal significantly more damage  |    | 
 | [Better Allies ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2524)  | Greatly increases the individual combat effectiveness of Henry's core allies |   | 
-|  The Pickup | Turn off  |   |  
-|  The Information | N/A  |    | 
-| The Heist  | Turn off |   | 
+|  [The KCD2 Cooking Mod 1.5](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1578) | complex recipe system, complete with 50+ unique new recipes, cooking items and immersive roleplay elements  |   |  
+
