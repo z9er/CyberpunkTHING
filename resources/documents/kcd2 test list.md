@@ -5,7 +5,7 @@
 | [Matt's Longer Books](https://www.nexusmods.com/kingdomcomedeliverance2/mods/866)  | Makes books take longer to study, can increase xp gained from doing so if it's much (5x) longer  | Idea is good, but does it work on newest version of game, and which version to go with, does it make sense to increase xp the same amount as the duration to study is increased? Scholarship is a relatively hard thing to level but... is it too easy then? | 
 |  [Smooth Cutscenes 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/425) | Matches cutscene fps to your ingame fps settings  | Does this work on current version of the game?  |  
 |  [Easy To See Herbs II 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/457) | Makes a few plants easier to distinguish, it's night and day, made by a UI obsessive designer dude  |  Work on latest version? Seems like it would  | 
-| The Ride  | N/A  |  | 
+| [Better Rain 2.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1711)  | Makes rain at night have less of that white out effect like the GTA remasters  | Does it work well and fix the issue or is it superfluous? I know the issue can occur in vanilla in latest version of game rarely | 
 |  The Pickup | Turn off  |   |  
 |  The Information | N/A  |    | 
 | The Heist  | Turn off |   | 
