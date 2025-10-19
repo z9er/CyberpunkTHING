@@ -19,12 +19,12 @@
 |  [Realish Techniques 1.51](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2346) | Gives an actual reason to use polearms or longsword  |  "There is a rare knockout event that can occur when Henry is knocked out, revived, then speaks to guards, then tries to fight again, and if he's knocked out again (from a weapon), there could be an endless loading screen." How common? Worth it?  | 
 | [Polearm Clinch Attacks ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/582)  | Allows polearms to be used in a clinch | Does the animation look buggy as shit since it uses mace anims? Can you still do the Tomcat master strike quest? Does it interfere with master strikes or combos with other weapons? Does it work on newest version of game?  | 
 |  [Polearm Recipes - PTF 1.4](https://www.nexusmods.com/kingdomcomedeliverance2/mods/419) | Adds formerly not existing polearm schematics to some vendors  |  Does this still work? Any downside?  | 
-| The Heist  | Turn off |   | 
-|  The Pickup | Turn off  |   |  
-|  The Information | N/A  |    | 
-| The Heist  | Turn off |   | 
-|  The Information | N/A  |    | 
-| The Heist  | Turn off |   | 
+| [Miscellaneous Mods - BetterHeadshot 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2233)  | Increases head-shot multiplier from 1.5x to 2x |  Does this still work on newest version of the game? | 
+| [Miscellaneous Mods - Boomstick 1.01](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2233)  | Change to guns |  Is this working? They mention Handgonne Overhaul but it isn't listed anywhere |
+| [Miscellaneous Mods - ImmersiveBoltArrow 1.01](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2233)  | RWA like system without RWA, scaled up for vanilla damage |  Does this still work on newest version of the game? | 
+| [Maniac Mutt 1.22](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2432)  | Overhauls Mutt's morale system, stats, abilities, and greatly improves his combat effectiveness |   | 
+|  [Realish Warhorses 1.15](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1594) | With this mod, mounted combat can be devastatingly effective. Horse courage and stamina now scales better with rider skill, enemies have difficulty unseating rider, horses shy less around enemies or canines, and melee attacks from horseback deal significantly more damage  |    | 
+| [Better Allies ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2524)  | Greatly increases the individual combat effectiveness of Henry's core allies |   | 
 |  The Pickup | Turn off  |   |  
 |  The Information | N/A  |    | 
 | The Heist  | Turn off |   | 
