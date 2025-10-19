@@ -15,7 +15,7 @@
 |  [Realish Wounds 2.60](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1393) | Changes to injuries, bleeding, recoverty times, healing  |  Work on latest version? |  
 |  [Realish Hunting 4.00](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1593) | Different animal spawning, behavior, wound system, more challenge to hunting, how they react to sightlines, smell, etc  |  Working on newest version?  | 
 | [Realish Tournaments ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2062)  | Overhaul of the tournament and during the quest, makes other fighters better equipped, more varied equipment, etc |   | 
-|  The Pickup | Turn off  |   |  
+|  [Realish Speed 2.23](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1432) | Removes slo-mo, changes to attack speed with nuance between Henry and opponents  | Does this break anything?  |  
 |  The Information | N/A  |    | 
 | The Heist  | Turn off |   | 
 |  The Information | N/A  |    | 
