@@ -52,7 +52,8 @@ Would only bother with these if they were able to add in even if the perk list w
 | Mod Name  | What It Does   | Notes   |
 |---|---|---|
 |  [Riders on the Storm Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1836) | Your horse will be more agile and run faster in storms.  |  Does it work on latest version of game?  |
-|  [In Vino Virilitas Perk 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1197) | Stamina regen +%1~50 regards to alcohol intoxication. Maximum value is %50﻿  |  Does it work on latest version of game?  |
+|  [Spiritual Guidance and In Vino Virilitas to Drinking Branch 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1736) | XP gain for Scholarship and Speech skills are boosted.
+Boost rate multiplies by alcohol intoxication. Stamina regen +%1~50 regards to alcohol intoxication. Maximum value is %50﻿  |  Is this boring? Does it work on latest version of game?  |
 |  [Firm Grip Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1686) | Blocking an opponent's strikes with your shield will cost them %15 more stamina  |  Does it work on latest version of game?   |
 |  [Drinking Habit Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1698) | Under the influence of alcohol, your hand will shake 25% less and your Bow skill is higher by +2, but when sober your hand will shake 25% more  |  Does it work on latest version of game?  |
 |  [Tenacity Perk 1.01a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1726) | Your ferocious tenacity in while bleeding allows you to sprint faster (x0.25)  |  Does it work on latest version of game?  |
@@ -61,9 +62,9 @@ Would only bother with these if they were able to add in even if the perk list w
 |  [Bacchus Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2070) | You'll never drink yourself to oblivion, but the negative effects of your hangover will be 30% stronger  |  Does it work on latest version of game?  |
 |  [Bibber Perk 1.4](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1716) | You can drink more. Also, your experience gain in this branch is increased  |  Is this too boring? Does it work on latest version of game?  |
 |  [Bloodletter Perk 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1667) | You have a greater chance of drawing your opponent's blood  |  Does it work on latest version of game?  |
-|  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
-|  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
-|  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
+|  [Boar Perk 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1586) | You can deplete an opponent's Stamina and Health by bumping into him/her at a sprint. The effect is increased if your Armour is heavier than his/hers  |  Does it work on latest version of game?  |
+|  [Cheetah New Perk Halved 1.0b](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1776) | Running is faster now  |  May be too fast, check. Does it work on latest version of game?  |
+|  [Colleague Perk 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1616) | All books are cheaper in shops  |  Does it work on latest version of game?  |
 |  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
 |  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
 |  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
