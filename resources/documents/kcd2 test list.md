@@ -26,6 +26,7 @@
 |  [Realish Warhorses 1.15](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1594) | With this mod, mounted combat can be devastatingly effective. Horse courage and stamina now scales better with rider skill, enemies have difficulty unseating rider, horses shy less around enemies or canines, and melee attacks from horseback deal significantly more damage  |    | 
 | [Better Allies ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2524)  | Greatly increases the individual combat effectiveness of Henry's core allies |   | 
 |  [The KCD2 Cooking Mod 1.5](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1578) | complex recipe system, complete with 50+ unique new recipes, cooking items and immersive roleplay elements  |   |  
+|  [Immersive Faster Animations 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/902) | Alchemy animations are sped up by 50% where applicable, mainly while interacting with ingredients. The finishing animations are sped up by 25%.  | Any issues from this? Is it janky? Does it cause problems with fast cooking or doing shortcuts?   | 
 
 ### Why Some Stuff Isn't Included
 
