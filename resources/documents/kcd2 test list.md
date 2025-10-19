@@ -64,7 +64,7 @@ Would only bother with these if they were able to add in even if the perk list w
 |  [Boar Perk 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1586) | You can deplete an opponent's Stamina and Health by bumping into him/her at a sprint. The effect is increased if your Armour is heavier than his/hers  |  Does it work on latest version of game?  |
 |  [Cheetah New Perk Halved 1.0b](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1776) | Running is faster now  |  May be too fast, check. Does it work on latest version of game?  |
 |  [Colleague Perk 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1616) | All books are cheaper in shops  |  Does it work on latest version of game?  |
-|  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
+|  [Crouching Chameleon Perk -50% version 1.0b](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1638) | When crouching without movement you get a 30% (15%) Stealth bonus  |  Does it work on latest version of game?  |
 |  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
 |  [High FPS FX ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
 
