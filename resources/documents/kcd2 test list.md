@@ -27,3 +27,7 @@
 | [Better Allies ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2524)  | Greatly increases the individual combat effectiveness of Henry's core allies |   | 
 |  [The KCD2 Cooking Mod 1.5](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1578) | complex recipe system, complete with 50+ unique new recipes, cooking items and immersive roleplay elements  |   |  
 
+### Why Some Stuff Isn't Included
+
+
+
