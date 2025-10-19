@@ -18,7 +18,7 @@
 |  [Realish Speed 2.23](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1432) | Removes slo-mo, changes to attack speed with nuance between Henry and opponents  | Does this break anything?  |  
 |  [Realish Techniques 1.51](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2346) | Gives an actual reason to use polearms or longsword  |  "There is a rare knockout event that can occur when Henry is knocked out, revived, then speaks to guards, then tries to fight again, and if he's knocked out again (from a weapon), there could be an endless loading screen." How common? Worth it?  | 
 | [Polearm Clinch Attacks ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/582)  | Allows polearms to be used in a clinch | Does the animation look buggy as shit since it uses mace anims? Can you still do the Tomcat master strike quest? Does it interfere with master strikes or combos with other weapons? Does it work on newest version of game?  | 
-|  The Information | N/A  |    | 
+|  [Polearm Recipes - PTF 1.4](https://www.nexusmods.com/kingdomcomedeliverance2/mods/419) | Adds formerly not existing polearm schematics to some vendors  |  Does this still work? Any downside?  | 
 | The Heist  | Turn off |   | 
 |  The Pickup | Turn off  |   |  
 |  The Information | N/A  |    | 
