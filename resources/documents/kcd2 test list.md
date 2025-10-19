@@ -11,7 +11,7 @@
 | [Realish Poisons 1.20](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1830)  | Addes downsides and upsides to some of the poisons, particularly bane. Instead of being an instant kill, it frenzies enemies so as they're dying (if you inject it rather than them digesting the poison) they go ape mode and try even harder to murder you on their way out. Fun balance idea honestly, I like it a lot |  Does it work on newest version of the game? | 
 |  [Realish Stealth 2.00](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1970) | Makes NPCs more wary and makes stealth more difficult in ways that make sense and don't feel gamey, also removes about half the stealth perks which were "RPG" bullshit, per author: "Many perks really are trash RPG band-aids that lose their modicum of value after Henry hits about 20 in that skill. That or they're functionally 'cheats'. Why even use a mod that makes Stealth challenging if you're just gonna select a bunch of perks that make Stealth easy? I'm sorry, but I just don't understand your line of reasoning."  | Work on newest version of game?  |  
 |  [Realish NPCs 1.50](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1778) | NPCs have increased reactivity to Henry's behavior, other adjustments like them always praying outloud to help in stealth, better at gambling, changes to reputation on haggling, changes to crime threshholds, less tolerance to tresspass and whatnot  |  Work on latest version of game?  | 
-| The Heist  | Turn off |   | 
+| [Realish Enemies 1.80](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1631)  | General combat changes for NPCs, makes them behave differently  |   | 
 |  The Pickup | Turn off  |   |  
 |  The Information | N/A  |    | 
 | The Heist  | Turn off |   | 
