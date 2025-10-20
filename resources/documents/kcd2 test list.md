@@ -38,6 +38,9 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [The KCD2 Nutrition Mod](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1903) | More consequences around properly managing a reasonably balanced medieval diet. Maintain your fruits, vegetables, protein, and hydration  |  Unsure what combination of the files to use  |
 |  [Explorer Perk Removed 2.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2398) | Perk that actively makes the game worse, fuck it  |   |
 |  [Faster Hard-Working Lad Tweak 1.02](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1926) | Tweaks the Hard-Working Lad perk to also add faster movement speed  |    |
+|  [Gymkhinda's Nighthawk 1.4.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1869) | This mod adds the ability to wash away Nighthawk potion effects at a water trough  |    |
+|  [No horse speed limits in towns 1.3.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1583) | Removes zones limiting your speed on horse  |    |
+|  [Vertical Light Fix 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/517) | Fixes lighting activation based on the player character's vertical position  |    |
 
 ### Mods I'm Thinking About Generally but Unsure On
 
@@ -71,14 +74,6 @@ Would only bother with these if they were able to add in even if the perk list w
 |  [Light Armour Perk 1.5](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1875) | If you're not wearing any plate﻿ armour, it will be 50% easier for you to dodge strikes in combat  |  Does it work on latest version of game?  |
 
 ### Why Some Stuff Isn't Included
-
-#### Economy shit:
-
-The economy mods I see are not cohesively implemented and it's such a massive game it doesn't seem like there's much point to adjusting that when you could just adjust the ways of accumulating stuff to be more difficult (stealth, combat) instead. Even the comments on the pages from the modders show that it is a terrible effort to try to go to for "realism" and honestly, it just isn't worth touching imo
-
-[Realish Economy](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1646)
-[Inflation - Increased Buy Price (PTF)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/804)
-[Reduced Sell Price (PTF)](https://www.nexusmods.com/kingdomcomedeliverance2/mods/586)
 
 #### Camping
 
