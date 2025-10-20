@@ -63,7 +63,6 @@ Would only bother with these if they were able to add in even if the perk list w
 
 | Mod Name  | What It Does   | Notes   |
 |---|---|---|
-|  [Riders on the Storm Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1836) | Your horse will be more agile and run faster in storms.  |  Does it work on latest version of game?  |
 |  [Spiritual Guidance and In Vino Virilitas to Drinking Branch 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1736) | XP gain for Scholarship and Speech skills are boosted. Boost rate multiplies by alcohol intoxication. Stamina regen +%1~50 regards to alcohol intoxication. Maximum value is %50﻿  |  Is this boring? Does it work on latest version of game?  |
 |  [Firm Grip Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1686) | Blocking an opponent's strikes with your shield will cost them %15 more stamina  |  Does it work on latest version of game?   |
 |  [Drinking Habit Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1698) | Under the influence of alcohol, your hand will shake 25% less and your Bow skill is higher by +2, but when sober your hand will shake 25% more  |  Does it work on latest version of game?  |
