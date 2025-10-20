@@ -51,7 +51,6 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |---|---|---|
 |  [High FPS FX 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
 |  [Timed Quest Markers Log Marker 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579) | Adds markers to quests that have timed portions  |    |
-|  [Easy To See Bird Nests - Realistic 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/815) | Makes bird nests easier to see  | Is this still working?   |
 |  [Rain Cleans 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/907) | This mod will "gradually" (well as much as game allows) clean player, dog, wolfs, and NPCs blood and dirt when it rains  | Is this still working?   |
 |  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Reduces equipment selling prices by 75%  | Is this still working? Should it be this one or should it be the next one?   |
 |  [Reduced Sell Price (PTF) - Reduced Sell Price 0.25 1.1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/586) | Reduces all selling prices by 75%  | Is this still working? Should it be this one or should it be the one above  |
