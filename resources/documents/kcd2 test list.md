@@ -45,7 +45,7 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [Wash 'em All 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1549) | Author | Bathhouse laundry service now washes all outfits  |    |
 |  [No Letterbox 1.9](https://www.nexusmods.com/kingdomcomedeliverance2/mods/34) | Author | Removes letterboxing in cutscenes  |    |
 |  [High FPS FX 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Author | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
-|  [Timed Quest Markers Log Marker 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579) | Adds markers to quests that have timed portions  |    |
+|  [Timed Quest Markers Log Marker 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579) | Author | Adds markers to quests that have timed portions  |    |
 |  [Rain Cleans 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/907) | Author | This mod will "gradually" (well as much as game allows) clean player, dog, wolfs, and NPCs blood and dirt when it rains  | Is this still working?   |
 |  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Author | Reduces equipment selling prices by 75%  | Is this still working?   |
 
