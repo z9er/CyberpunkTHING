@@ -49,7 +49,6 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 
 | Mod Name  | What It Does   | Notes   |
 |---|---|---|
-|  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
 |  [High FPS FX 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
 |  [Timed Quest Markers Log Marker 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579) | Adds markers to quests that have timed portions  |    |
 |  [Easy To See Bird Nests - Realistic 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/815) | Makes bird nests easier to see  | Is this still working?   |
