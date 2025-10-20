@@ -20,7 +20,7 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 | [Realish Enemies 1.80](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1631)  | General combat changes for NPCs, makes them behave differently, sprint to reposition in combat, react faster, flank more, etc etc  |   | 
 |  [Realish Wounds 2.60](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1393) | Changes to injuries, bleeding, recoverty times, healing  |   |  
 |  [Realish Hunting 4.00](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1593) | Different animal spawning, behavior, wound system, more challenge to hunting, how they react to sightlines, smell, etc  |    | 
-| [Realish Tournaments ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2062)  | Overhaul of the tournament and during the quest, makes other fighters better equipped, more varied equipment, etc |   | 
+| [Realish Tournaments 1.40](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2062)  | Overhaul of the tournament and during the quest, makes other fighters better equipped, more varied equipment, etc |   | 
 |  [Realish Speed 2.23](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1432) | Removes slo-mo, changes to attack speed with nuance between Henry and opponents  | Does this break anything?  |  
 |  [Realish Techniques 1.51](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2346) | Gives an actual reason to use polearms or longsword  |  "There is a rare knockout event that can occur when Henry is knocked out, revived, then speaks to guards, then tries to fight again, and if he's knocked out again (from a weapon), there could be an endless loading screen." How common? Worth it?  | 
 | [Polearm Clinch Attacks ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/582)  | Allows polearms to be used in a clinch | Does the animation look buggy as shit since it uses mace anims? Can you still do the Tomcat master strike quest? Does it interfere with master strikes or combos with other weapons? Does it work on newest version of game?  | 
@@ -41,6 +41,8 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [Gymkhinda's Nighthawk 1.4.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1869) | This mod adds the ability to wash away Nighthawk potion effects at a water trough  |    |
 |  [No horse speed limits in towns 1.3.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1583) | Removes zones limiting your speed on horse  |    |
 |  [Vertical Light Fix 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/517) | Fixes lighting activation based on the player character's vertical position  |    |
+|  [Phantom Horse Name Fix 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2163) | Gives the horse a name rather than an ephitet style thing  |    |
+|  [Wash 'em All 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1549) | Bathhouse laundry service now washes all outfits  |    |
 
 ### Mods I'm Thinking About Generally but Unsure On
 
@@ -48,6 +50,11 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |---|---|---|
 |  [Immersive talk 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1809) | Hides the notification about the result of the skill check, the notification about the player's reputation and the skills in the dialog  |  Probably too hardcore, shouldn't bother  |
 |  [High FPS FX 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  |
+|  [Timed Quest Markers Log Marker 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579) | Adds markers to quests that have timed portions  |    |
+|  [Easy To See Bird Nests - Realistic 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/815) | Makes bird nests easier to see  | Is this still working?   |
+|  [Rain Cleans 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/907) | This mod will "gradually" (well as much as game allows) clean player, dog, wolfs, and NPCs blood and dirt when it rains  | Is this still working?   |
+|  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Reduces equipment selling prices by 75%  | Is this still working? Should it be this one or should it be the next one?   |
+|  [Reduced Sell Price (PTF) - Reduced Sell Price 0.25 1.1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/586) | Reduces all selling prices by 75%  | Is this still working? Should it be this one or should it be the one above  |
 
 ### Interesting Perk Mods 
 
