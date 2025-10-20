@@ -1,3 +1,9 @@
+# Combat
+
+Removes targeting stickiness and camera assistance in group fights. Your manual lock-on remains available
+
+_side-by-side comparison GIF_
+
 # New Perks
 
 We introduce new perks to Kingdom Come: Deliverance II. Some favorites from the first game return focused on specific styles of play and meaningful trade-offs
