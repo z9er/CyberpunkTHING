@@ -43,6 +43,7 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [Vertical Light Fix 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/517) | Fixes lighting activation based on the player character's vertical position  |    |
 |  [Phantom Horse Name Fix 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2163) | Gives the horse a name rather than an ephitet style thing  |    |
 |  [Wash 'em All 1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1549) | Bathhouse laundry service now washes all outfits  |    |
+|  [No Letterbox 1.9](https://www.nexusmods.com/kingdomcomedeliverance2/mods/34) | Removes letterboxing in cutscenes  |    |
 
 ### Mods I'm Thinking About Generally but Unsure On
 
@@ -55,6 +56,7 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [Rain Cleans 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/907) | This mod will "gradually" (well as much as game allows) clean player, dog, wolfs, and NPCs blood and dirt when it rains  | Is this still working?   |
 |  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Reduces equipment selling prices by 75%  | Is this still working? Should it be this one or should it be the next one?   |
 |  [Reduced Sell Price (PTF) - Reduced Sell Price 0.25 1.1.1](https://www.nexusmods.com/kingdomcomedeliverance2/mods/586) | Reduces all selling prices by 75%  | Is this still working? Should it be this one or should it be the one above  |
+|  [First Person Overhaul 1.6](https://www.nexusmods.com/kingdomcomedeliverance2/mods/269) | onverts actions that move the camera into third person to stay in first person  | Wish I could just do this for the flower picking  |
 
 ### Interesting Perk Mods 
 
