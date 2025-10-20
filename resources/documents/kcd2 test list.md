@@ -92,4 +92,8 @@ Still unsure about them. Still pondering. It's so difficult to implement such a 
 
 [Realish Weapons and Armor](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1237)
 
+#### Economy Changes
+
+Still thinking through, it's so hard to cohesively implement, there's a million items. Real economy looks good, but... decisions decisions
+
 ![picture](https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/kcd2%20resized%20again.png)
