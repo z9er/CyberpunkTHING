@@ -47,19 +47,21 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [High FPS FX 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Saul0097 | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  | No |
 |  [Timed Quest Markers Log Marker 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579) | Czbuendel | Adds markers to quests that have timed portions  |    | No |
 |  [Rain Cleans 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/907) | WinterElfeas | This mod will "gradually" (well as much as game allows) clean player, dog, wolfs, and NPCs blood and dirt when it rains  | Is this still working?   | No |
+|  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Yeffreitor   | Reduces equipment selling prices by 75%  | Is this still working?   | Yes   |
 
 ### Mods I'm Thinking About Generally but Unsure On
 
-| Mod Name  | What It Does   | Notes   |
-|---|---|---|
-|  [First Person Overhaul 1.6](https://www.nexusmods.com/kingdomcomedeliverance2/mods/269) | onverts actions that move the camera into third person to stay in first person  | Wish I could just do this for the flower picking  |
+| Mod Name  | Author   |  What It Does   | Notes   | PTF   | 
+|---|---|---|---|---|
+|  [First Person Overhaul 1.6](https://www.nexusmods.com/kingdomcomedeliverance2/mods/269) | name  | onverts actions that move the camera into third person to stay in first person  | Wish I could just do this for the flower picking  | NA  |
 |  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Reduces equipment selling prices by 75%  | Is this still working?   |
+|  [Realish Economy ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1646) | Actalo | Other Economy mod  |  | Yes |
 
 ### Interesting Perk Mods 
 
 Would only bother with these if they were able to add in even if the perk list was already adjusted (like by real stealth or something). Also, it would be nice if a level could be added to them for use. Maybe not though, they're mostly pro with con perks
 
-| Mod Name  | What It Does   | Notes   |
+| Mod Name  |  What It Does   | Notes   | 
 |---|---|---|
 |  [Spiritual Guidance and In Vino Virilitas to Drinking Branch 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1736) | XP gain for Scholarship and Speech skills are boosted. Boost rate multiplies by alcohol intoxication. Stamina regen +%1~50 regards to alcohol intoxication. Maximum value is %50﻿  |  Is this boring? Does it work on latest version of game?  |
 |  [Firm Grip Perk 1.0a](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1686) | Blocking an opponent's strikes with your shield will cost them %15 more stamina  |  Does it work on latest version of game?   |
