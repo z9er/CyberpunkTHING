@@ -54,7 +54,6 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 | Mod Name  | Author   |  What It Does   | Notes   | PTF   | 
 |---|---|---|---|---|
 |  [First Person Overhaul 1.6](https://www.nexusmods.com/kingdomcomedeliverance2/mods/269) | name  | onverts actions that move the camera into third person to stay in first person  | Wish I could just do this for the flower picking  | NA  |
-|  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Reduces equipment selling prices by 75%  | Is this still working?   |
 |  [Realish Economy ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1646) | Actalo | Other Economy mod  |  | Yes |
 
 ### Interesting Perk Mods 
