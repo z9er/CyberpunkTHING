@@ -47,14 +47,15 @@ Just adjusting to something I'd like playing. Trying to make things a little mor
 |  [High FPS FX 1.2](https://www.nexusmods.com/kingdomcomedeliverance2/mods/2404) | Saul0097 | Frame rates for all particle effects are increased with a 60 FPS cap  |  Might be causing an issue with smoke, from one of the comments. Unsure  | No |
 |  [Timed Quest Markers Log Marker 3.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1579) | Czbuendel | Adds markers to quests that have timed portions  |    | No |
 |  [Rain Cleans 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/907) | WinterElfeas | This mod will "gradually" (well as much as game allows) clean player, dog, wolfs, and NPCs blood and dirt when it rains  | Is this still working?   | No |
-|  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Yeffreitor   | Reduces equipment selling prices by 75%  | Is this still working?   | Yes   |
+|  [Realish Economy ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1646) | Actalo | Other Economy mod  |  | Yes |
 
 ### Mods I'm Thinking About Generally but Unsure On
 
 | Mod Name  | Author   |  What It Does   | Notes   | PTF   | 
 |---|---|---|---|---|
 |  [First Person Overhaul 1.6](https://www.nexusmods.com/kingdomcomedeliverance2/mods/269) | name  | onverts actions that move the camera into third person to stay in first person  | Wish I could just do this for the flower picking  | NA  |
-|  [Realish Economy ](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1646) | Actalo | Other Economy mod  |  | Yes |
+|  [Discoverable Shell Hunting Sword Sketch 1.0](https://www.nexusmods.com/kingdomcomedeliverance2/mods/1794) | QuillSpirit | Seems like it would work fine  |  | Yes |
+|  [Tougher Economy x0.25 1.0.3](https://www.nexusmods.com/kingdomcomedeliverance2/mods/281) | Yeffreitor   | Reduces equipment selling prices by 75%  | Is this still working?   | Yes   |
 
 ### Interesting Perk Mods 
 
