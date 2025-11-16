@@ -1,16 +1,10 @@
 ## Combat
 
-The combat crosshair is now centered on the screen instead of being tied to the enemy. Moving your mouse/camera is how you switch targets if you are not locked on
-
-Enemies attack more often and are less defensive, especially when Henry is outnumbered. Grouped enemies attack more often and may now attack Henry all at once. They will also surround Henry faster and can sprint to reposition during a fight.
-
-Enemies will prioritize the Normal Block and Dodge maneuvers, and use Perfect Block and Riposte less
-
-Enemies will react more quickly to feints or in the clinch
-
-Enemies will change their stance and weapon position more often
-
-You can now build up to being a truly powerful knight with changes to horse armor 
+* **Free-Flow Targeting:** The combat crosshair is now **centered on the screen**, not tied to the enemy. Moving your mouse/camera is how you switch targets if you are not locked on.
+* **Aggressive AI:** Enemies attack **more often** and are less defensive. Grouped enemies attack more often and may now **attack Henry all at once**, surrounding him faster, and sprinting to reposition.
+* **Defensive Focus:** Enemies prioritize the **Normal Block and Dodge** maneuvers, using Perfect Block and Riposte less often.
+* **Faster Reactions:** Enemies react **more quickly** to your Feints and in the Clinch. They will also change their stance and weapon position more often.
+* **Horse Armor:** You can now build up to being a truly powerful knight with changes to horse armor.
 
 ## Weapons
 
