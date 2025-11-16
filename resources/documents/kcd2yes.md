@@ -78,6 +78,8 @@ Weapons are more different from eachother
 
 - **Weapon Durability:** Parrying, or **Perfect Block**, is necessary to prevent damage. Attempting to **Block with your weapon** will result in **significant damage**. Swords generally have higher durability than Heavy weapons or Polearms. Shields may now break, carry spares
 - **Stamina Costs (Base):**
+  - Base cost for Attack is **20**
+  - Base cost for Dodge is **10**
 
 ## Injuries
 
@@ -90,5 +92,3 @@ When Henry takes an injury there are additional negative effects
 * **Right Leg Injury:** **Run and Sprint are disabled**. Bleed interval reduced by -1
 * **Left Leg Injury:** **Sprint is disabled**. Bleed interval reduced by -1
 
-  - Base cost for Attack is **20**
-  - Base cost for Dodge is **10**
