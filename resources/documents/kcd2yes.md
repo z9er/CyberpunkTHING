@@ -147,4 +147,4 @@ A few new perks:
 
 ## Credits
 
-Thank you to all of the modders, who are the only reason this list exists. A particular thank you to [feedthetrolls](https://www.curseforge.com/members/campersinc/projects) who has some fantastic gameplay mods that are the base of the list
+Thank you to all of the modders, who are the only reason this list exists. A particular thank you to [feedthetrolls](https://www.curseforge.com/members/campersinc/projects) who has some fantastic gameplay mods that are the base of the list, his mods are not hosted on Nexus but would encourage you reading through their pages if you have questions. They make incredible gameplay mods
