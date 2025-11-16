@@ -78,5 +78,17 @@ Weapons are more different from eachother
 
 - **Weapon Durability:** Parrying, or **Perfect Block**, is necessary to prevent damage. Attempting to **Block with your weapon** will result in **significant damage**. Swords generally have higher durability than Heavy weapons or Polearms. Shields may now break, carry spares
 - **Stamina Costs (Base):**
+
+## Injuries
+
+When Henry takes an injury there are additional negative effects
+
+* **Head Injury:** Results in **'Concussion'** (Dodge is disabled) and reduced perception. Bleed interval reduced by -2
+* **Torso Injury:** Results in **Exhaustion**, reduced stamina regeneration, and reduced courage. Bleed interval reduced by -2
+* **Right Arm Injury:** Results in reduced Strength and **Master-Strike is disabled**. Bleed interval reduced by -0.5
+* **Left Arm Injury:** Results in reduced attack speed and **Perfect Block is disabled**. Bleed interval reduced by -0.5
+* **Right Leg Injury:** **Run and Sprint are disabled**. Bleed interval reduced by -1
+* **Left Leg Injury:** **Sprint is disabled**. Bleed interval reduced by -1
+
   - Base cost for Attack is **20**
   - Base cost for Dodge is **10**
