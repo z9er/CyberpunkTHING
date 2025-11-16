@@ -12,7 +12,7 @@ Enemies will change their stance and weapon position more often
 
 ## Weapons
 
-Weapons are more different from eachother
+Weapons are more different from each other
 
 ### Technique Rules and Changes
 
