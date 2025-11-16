@@ -92,3 +92,13 @@ When Henry takes an injury there are additional negative effects
 * **Right Leg Injury:** **Run and Sprint are disabled**. Bleed interval reduced by -1
 * **Left Leg Injury:** **Sprint is disabled**. Bleed interval reduced by -1
 
+## Perks
+
+Superfluous perks in the Vitality, Stealth, and Thievery trees were removed and replaced with new options for more interesting gameplay.
+
+A few new perks:
+
+* **Boar:** You can deplete an opponent's Stamina and Health by **bumping into them at a sprint**. The effect is increased if your armour is heavier than theirs.
+* **Tin Opener:** A weapon you've sharpened yourself will cause **15% greater damage to your opponent's armour and equipment**. (Requires sharpening your own weapon.)
+* **Night Person:** Your Stamina will regenerate **20% faster at night**, but **10% slower during the day**.
+* **Tenacity:** Your ferocious tenacity allows you to **sprint faster while bleeding**.
