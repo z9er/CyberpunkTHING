@@ -144,3 +144,7 @@ A few new perks:
 - **Tin Opener:** A weapon you've sharpened yourself will cause **15% greater damage to your opponent's armor and equipment**. (Requires sharpening your own weapon.)
 - **Night Person:** Your Stamina will regenerate **20% faster at night**, but **10% slower during the day**.
 - **Tenacity:** Your ferocious tenacity allows you to **sprint faster while bleeding**.
+
+## Credits
+
+Thank you to all of the modders, who are the only reason this list exists. A particular thank you to [feedthetrolls](https://www.curseforge.com/members/campersinc/projects) who has some fantastic gameplay mods that are the base of the list
