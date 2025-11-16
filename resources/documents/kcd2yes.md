@@ -1,4 +1,4 @@
-I am very interested in your feedback on this list, and you will be able to discuss the list, suggestions you have, or anything else in this discord. Install is nothing fancy, you just do it through Vortex, there's no finicky load order or anything needed 
+I am very interested in your feedback on this list, and you will be able to discuss the list, suggestions you have, or anything else in [this discord.](https://discord.gg/p7sHdvpcec) Install is nothing fancy, you just do it through Vortex, there's no finicky load order or anything needed
 
 I hate having some long diatribe for a modlist page, so here is the bare minimum you need to know about this list before playing. There's some pretty drastic changes. I want you to have to read as little as possible, believe me
 
@@ -131,7 +131,9 @@ Poisons can apply significant status effects to NPCs or Henry
 - **Application Chance (Weapon):** Low quality (25%), Medium Quality (50%), High Quality (75%), Superb Quality (95%)
 - **Dollmaker:** Mild muscle relaxant (low quality); causes **temporary Paralysis and Dumbness** (higher quality)
 - **Lullaby:** Mild sleep remedy (low quality); causes temporary exhaustion, **Stupor, Blindness, and loss of consciousness** (higher quality)
-- **Bane:**- **Ingested:** Slow-acting **Muscle Weakness** and eventual death- **Injected:** Kills much quicker but induces a **Frenzied state**, whereby the victim loses all regard to self-preservation
+- **Bane:**\
+  **If ingested:** Slow-acting **Muscle Weakness** and eventual death\
+  **If injected:** Kills much quicker but induces a **Frenzied state**, whereby the victim loses all regard to self-preservation
 - **Nighthawk Cleansing:** You can now wash away the effects of the **Nighthawk potion** at any water trough.
 
 ## Perks
@@ -147,4 +149,6 @@ A few new perks:
 
 ## Credits
 
-Thank you to all of the modders, who are the only reason this list exists. A particular thank you to [feedthetrolls](https://www.curseforge.com/members/campersinc/projects) who has some fantastic gameplay mods that are the base of the list, his mods are not hosted on Nexus but would encourage you reading through their pages if you have questions. They make incredible gameplay mods
+Thank you to all of the modders, who are the only reason this list exists. A particular thank you to [feedthetrolls](https://www.curseforge.com/members/campersinc/projects) who has some fantastic gameplay mods that are the base of the list, his mods are not hosted on Nexus but would encourage you reading through their pages if you have questions. They make incredible gameplay mods\
+\
+If you want to discuss this list, which we would love, go to the discord [here](https://discord.gg/p7sHdvpcec)
