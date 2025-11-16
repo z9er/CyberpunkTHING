@@ -10,6 +10,8 @@ Enemies will react more quickly to feints or in the clinch
 
 Enemies will change their stance and weapon position more often
 
+You can now build up to being a truly powerful knight with changes to horse armor 
+
 ## Weapons
 
 Weapons are more different from each other
