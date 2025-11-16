@@ -1,3 +1,5 @@
+This is updated for version 1.51
+
 I am very interested in your feedback on this list, and you will be able to discuss the list, suggestions you have, or anything else in [this discord.](https://discord.gg/p7sHdvpcec) Install is nothing fancy, you just do it through Vortex, there's no finicky load order or anything needed
 
 I hate having some long diatribe for a modlist page, so here is the bare minimum you need to know about this list before playing. There's some pretty drastic changes. I want you to have to read as little as possible, believe me
