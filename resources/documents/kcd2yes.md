@@ -96,7 +96,11 @@ When Henry takes an injury there are additional negative effects
 
 ## Stealth 
 
+## 🥷 Stealth, Thievery & Poison Overhaul
+
 The stealth and crime systems have been significantly revamped to make illicit activities more challenging, require greater planning, and ensure more realistic consequences.
+
+---
 
 ### NPC Alertness and Consequences
 
@@ -113,28 +117,31 @@ NPCs are now far more perceptive and aggressive in enforcing laws and investigat
 * **Security Updates:** NPCs **replace locks much sooner** after a break-in.
 * **Conspicuousness:** Henry's **conspicuousness and visibility are slightly increased** across the board.
 
+---
+
 ### New Poison Effects
 
 Poisons are no longer simple damage-over-time effects. They now apply significant, unique status effects to NPCs (and Henry if ingested).
 
-| Poison Effect | Impact on Victim (NPCs/Henry) |
-| :--- | :--- |
-| **Stupor** | Drunk with all side-effects (Henry: drunken teleport at high quality). |
-| **Blindness** | Reduced vision (NPCs are effectively blind). |
-| **Dumbness** | NPCs cannot speak or call for alarm. |
-| **Paralysis** | Reduces strength, agility, attack speed, and prevents running. |
-| **Muscle Weakness** | Prevents sprinting. |
-| **Frenzy** | Greatly increases aggression, stats, courage, and stamina regen. **Disables Perfect Block, Dodge, and Master-Strikes.** |
+#### Effect List:
+* **Stupor:** Victim is **Drunk** with all side-effects (Henry: drunken teleport at high quality).
+* **Blindness:** Reduced vision (**NPCs are effectively blind**).
+* **Dumbness:** **NPCs cannot speak or call for alarm.**
+* **Paralysis:** Reduces strength, agility, attack speed, and **prevents running**.
+* **Muscle Weakness:** **Prevents sprinting.**
+* **Frenzy:** Greatly increases aggression, stats, courage, and stamina regen. **Disables Perfect Block, Dodge, and Master-Strikes.**
 
-**Poison Quality and Application:**
+#### Application and Specific Poisons:
+* **Application Chance (Weapon):** Low quality (25%), Medium Quality (50%), High Quality (75%), Superb Quality (95%).
+* **Dollmaker:** Mild muscle relaxant (low quality); causes **temporary Paralysis and Dumbness** (higher quality).
+* **Lullaby:** Mild sleep remedy (low quality); causes temporary exhaustion, **Stupor, Blindness, and loss of consciousness** (higher quality).
+* **Bane:**
+    * **Ingested:** Slow-acting **Muscle Weakness** and eventual death.
+    * **Injected:** Kills much quicker but induces a **Frenzied state**, whereby the victim loses all regard to self-preservation.
 
-* **Application Chance:** Low quality (25%), Medium Quality (50%), High Quality (75%), Superb Quality (95%).
-* **Dollmaker:** Mild muscle relaxant (low quality); temporary Paralysis and Dumbness (higher quality).
-* **Lullaby:** Mild sleep remedy (low quality); temporary exhaustion, Stupor, Blindness, and loss of consciousness (higher quality).
-* **Bane:** Slow-acting Muscle Weakness and eventual death (ingested). Kills much quicker but induces a **Frenzied state** (injected, victim loses all regard to self-preservation).
+---
 
 ### Hygiene and Alchemy Quality of Life
-
 * **Nighthawk Cleansing:** You can now wash away the effects of the **Nighthawk potion** at any water trough.
 * **Full Laundry Service:** Bathhouse laundry service now washes **all your outfits** (currently worn, armor, horse inventory).
 
