@@ -94,6 +94,50 @@ When Henry takes an injury there are additional negative effects
 * **Right Leg Injury:** **Run and Sprint are disabled**. Bleed interval reduced by -1
 * **Left Leg Injury:** **Sprint is disabled**. Bleed interval reduced by -1
 
+## Stealth 
+
+The stealth and crime systems have been significantly revamped to make illicit activities more challenging, require greater planning, and ensure more realistic consequences.
+
+### NPC Alertness and Consequences
+
+NPCs are now far more perceptive and aggressive in enforcing laws and investigating crimes.
+
+* **Heightened Senses:** NPCs are more alert to **sounds and smells**. Their **perception is increased** both indoors and outdoors, day and night. Weather has less effect on their ability to spot you.
+* **Realistic Vision:** NPCs have a **more realistic Field of View range**.
+* **Investigating Crime:** NPCs react **much stronger** to theft, lock-picking, and unlocked doors that should have been secured.
+* **Corpse and KO Reaction:** NPC reaction to **unconscious NPCs or NPC corpses is much stronger** and prompts deeper investigation.
+* **Alarm Response:** **Calls for alarm and dog alarms** now result in significantly more attention. Missing NPCs will also garner more attention.
+* **Spreading Nervousness:** NPCs will **grow nervous quicker, and that nervousness will spread** to nearby guards and citizens.
+* **Trespassing Limit:** NPCs will not tolerate trespassing. Henry has a **strict 10-second limit** before they call the guard.
+* **Longer Memory:** NPCs won't forget crimes easily. The memory duration is extended from 3 days to **up to 28 days**, depending on the severity of the crime.
+* **Security Updates:** NPCs **replace locks much sooner** after a break-in.
+* **Conspicuousness:** Henry's **conspicuousness and visibility are slightly increased** across the board.
+
+### New Poison Effects
+
+Poisons are no longer simple damage-over-time effects. They now apply significant, unique status effects to NPCs (and Henry if ingested).
+
+| Poison Effect | Impact on Victim (NPCs/Henry) |
+| :--- | :--- |
+| **Stupor** | Drunk with all side-effects (Henry: drunken teleport at high quality). |
+| **Blindness** | Reduced vision (NPCs are effectively blind). |
+| **Dumbness** | NPCs cannot speak or call for alarm. |
+| **Paralysis** | Reduces strength, agility, attack speed, and prevents running. |
+| **Muscle Weakness** | Prevents sprinting. |
+| **Frenzy** | Greatly increases aggression, stats, courage, and stamina regen. **Disables Perfect Block, Dodge, and Master-Strikes.** |
+
+**Poison Quality and Application:**
+
+* **Application Chance:** Low quality (25%), Medium Quality (50%), High Quality (75%), Superb Quality (95%).
+* **Dollmaker:** Mild muscle relaxant (low quality); temporary Paralysis and Dumbness (higher quality).
+* **Lullaby:** Mild sleep remedy (low quality); temporary exhaustion, Stupor, Blindness, and loss of consciousness (higher quality).
+* **Bane:** Slow-acting Muscle Weakness and eventual death (ingested). Kills much quicker but induces a **Frenzied state** (injected, victim loses all regard to self-preservation).
+
+### Hygiene and Alchemy Quality of Life
+
+* **Nighthawk Cleansing:** You can now wash away the effects of the **Nighthawk potion** at any water trough.
+* **Full Laundry Service:** Bathhouse laundry service now washes **all your outfits** (currently worn, armor, horse inventory).
+
 ## Perks
 
 Superfluous perks in the Vitality, Stealth, and Thievery trees were removed and replaced with new options for more interesting gameplay.
