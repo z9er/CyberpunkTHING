@@ -29,3 +29,7 @@ third watson crime
 ![watson crime 3](https://i.imgur.com/1dyPq5R.jpeg)
 
 ### Random
+
+some random tyger claws hanging around that are locked down for testing
+![random watson tclaws](https://i.imgur.com/0Y5I8B9.jpeg)
+![random watson tclaws non map](https://i.imgur.com/1JQPfX2.jpeg)
