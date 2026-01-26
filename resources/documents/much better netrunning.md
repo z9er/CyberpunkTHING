@@ -35,3 +35,33 @@ third watson crime
 some random tyger claws hanging around that are locked down for testing
 ![random watson tclaws](https://i.imgur.com/0Y5I8B9.jpeg)
 ![random watson tclaws non map](https://i.imgur.com/1JQPfX2.jpeg)
+
+## Japantown
+
+### NCPD
+
+first japantown ncpd
+![japantown ncpd 1](https://i.imgur.com/OktiMdx.png)
+
+second japantown ncpd
+![japantown ncpd 2](https://i.imgur.com/fJ1bEY9.png)
+
+third japantown ncpd
+![japantown ncpd 3](https://i.imgur.com/jrm9RXc.png)
+
+fourth japantown ncpd
+![japantown ncpd 4](https://i.imgur.com/ku6Qu66.png)
+
+fifth japantown ncpd
+![japantown ncpd 5](https://i.imgur.com/EJLxa8A.png)
+
+### Reported Crime
+
+first japantown crime
+![japantown crime 1](https://i.imgur.com/Dmbv4MO.jpeg)
+
+second japantown crime
+![japantown crime 2](https://i.imgur.com/BJuScqj.png)
+
+third japantown crime
+![japantown crime 3](https://i.imgur.com/uP5rCv6.png)
