@@ -65,3 +65,57 @@ second japantown crime
 
 third japantown crime
 ![japantown crime 3](https://i.imgur.com/uP5rCv6.png)
+
+## Badlands
+
+### NCPD
+
+first badlands ncpd
+![badlands ncpd 1](https://i.imgur.com/KlbVtKJ.png)
+
+second badlands ncpd
+![badlands ncpd 2](https://i.imgur.com/61mHfVZ.png)
+
+third badlands ncpd
+![badlands ncpd 3](https://i.imgur.com/QivoBVM.png)
+
+fourth badlands ncpd
+![badlands ncpd 4](https://i.imgur.com/7RQtXAU.png)
+
+fifth badlands ncpd
+![badlands ncpd 5](https://i.imgur.com/HdnJahZ.png)
+
+sixth badlands ncpd
+![badlands ncpd 6](https://i.imgur.com/hA6OqNN.png)
+
+seventh badlands ncpd
+![badlands ncpd 7](https://i.imgur.com/BZwAUu5.png)
+
+eighth badlands ncpd
+![badlands ncpd 8](https://i.imgur.com/idjQxQq.png)
+
+ninth badlands ncpd
+![badlands ncpd 9](https://i.imgur.com/KLZ3IDs.png)
+
+tenth badlands ncpd
+![badlands ncpd 10](https://i.imgur.com/hIvHIHw.png)
+
+eleventh badlands ncpd
+![badlands ncpd 11](https://i.imgur.com/8BvFruq.png)
+
+twelfth badlands ncpd
+![badlands ncpd 12](https://i.imgur.com/5l7ivSJ.png)
+
+thirteenth badlands ncpd
+![badlands ncpd 13](https://i.imgur.com/bXktezz.png)
+
+fourteenth badlands ncpd
+![badlands ncpd 14](https://i.imgur.com/MdVfv0p.png)
+
+fifthteenth badlands ncpd
+![badlands ncpd 15](https://i.imgur.com/pOy6tlL.png)
+
+### Reported Crime
+
+first badlands reported crime
+![badlands crime 1](https://i.imgur.com/lRtHNKD.png)
