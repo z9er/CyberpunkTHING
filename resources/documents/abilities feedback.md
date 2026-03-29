@@ -165,7 +165,7 @@ does what it says, puts down a turret
 ```
 i don't really have any notes on this, are they putting it down when im not looking? seems pretty seamless. this is very cool. im surprised it works this well. i was on the old version, one turret was just sitting there and not firing at me, rest sure as shit were tho
 
-voodoo original description
+**voodoo original description**
 ```
 When, low on hp, and close to player (friendly npc are far away), can become target of psychosi. 
 (red eyes FX effect). Can attack friendlies, but gains massive buffs. 
@@ -175,7 +175,7 @@ Their health gets regenrated once when effect is activated. Is supposed to simua
 seems to work, ill be curious how this works in actual combat since im just in the scav haunt, seems interesting tho. it
 is difficult hudless probably to tell what's happening with the enemy. i didn't really see the red eyes on the old version
 
-bomb ability original description
+**bomb ability original description**
 ```
 Explodes on death, or when Close to player. Used on Bombus drones, and husk enemies
 ```
