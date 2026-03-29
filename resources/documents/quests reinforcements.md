@@ -283,3 +283,18 @@
 | This Corrosion  | N/A  | Exposition quest, you get a reward | 
 | Tomorrow Never Knows  | N/A  | Exposition quest, murals | 
 | Voodoo Treasure  | N/A  | You just get a cache, nothing else | 
+
+quests/minor_quest/mq025_02_kabuki 
+quests/minor_quest/mq025_03_arroyo
+quests/minor_quest/mq025_05_glen
+quests/minor_quest/mq025_06_pacifica
+quests/minor_quest/mq025_07_fight_club
+quests/minor_quest/mq025_psycho_brawl
+
+[MinorQuest] quests/minor_quest/mq025_02_kabuki = Beat on the Brat: Kabuki
+[MinorQuest] quests/minor_quest/mq025_03_arroyo = Beat on the Brat: Arroyo
+[MinorQuest] quests/minor_quest/mq025_05_glen = Beat on the Brat: The Glen
+[MinorQuest] quests/minor_quest/mq025_06_pacifica = Beat on the Brat: Pacifica
+[MinorQuest] quests/minor_quest/mq025_07_fight_club = Beat on the Brat: Rancho Coronado
+[MinorQuest] quests/minor_quest/mq025_psycho_brawl = Beat on the Brat
+
