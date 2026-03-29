@@ -104,6 +104,14 @@ Infinite second heart, that also repairs up to 50% of armor over 10 seconds. arm
 ```
 definitely works. im assuming this is very rare. much like the other more health ones, i don't know how i feel about it. trying to think about what's fun to play against or interesting and how to kind of have that niche. more thought required by me, or a sharper mind, or something
 
+**radar original description**
+```
+When player is in range, they will see the 'trace bar' 
+(different from hacking one), that will force player into combat, after 10 seconds. 
+Optical camo slows down this by 50%
+```
+does what it says. is the orange effect highlighting the dude from this? makes sense since he's trying to radar you. would have a slider for distance but i know you have a bigger badder radar later
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
