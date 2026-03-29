@@ -154,9 +154,16 @@ seems to work. crashed the game on the old version, but im still unsure how i fe
 
 **threat detector original description**
 ```
-When player is looking at them directly, and they are faced, player, they will enter in combat with player.
+When player is looking at them directly, and they are faced, player,
+they will enter in combat with player.
 ```
 I couldn't really get this to work, because often they would have detected me anwyays. im unsure on concept on if it's redundant with the usual stealth detection, obviously this would come into play at range. I still kind of like the idea of threat detector = if you ads with a gun at that enemy from any direction or range, combat. incentivizes some scouting and can fuck you if not, kind of functioning as a "break hold" but for guns when it comes to stealth, so you have to be wary. would think about it
+
+**can spawn turret original description**
+```
+does what it says, puts down a turret
+```
+i don't really have any notes on this, are they putting it down when im not looking? seems pretty seamless. this is very cool. im surprised it works this well. i was on the old version, one turret was just sitting there and not firing at me, rest sure as shit were tho
 
 ```
 Cyber Enemies:
