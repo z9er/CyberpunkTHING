@@ -112,6 +112,12 @@ Optical camo slows down this by 50%
 ```
 does what it says. is the orange effect highlighting the dude from this? makes sense since he's trying to radar you. would have a slider for distance but i know you have a bigger badder radar later
 
+**radar fucker original description**
+```
+Makes radar / minimap unusable, when within 40meters range
+```
+i don't have any notes. this is cool and it works. nice effect btw, is that from something?
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
