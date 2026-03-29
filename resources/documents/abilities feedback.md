@@ -120,6 +120,18 @@ Makes radar / minimap unusable, when within 40meters range
 ```
 i don't have any notes. this is cool and it works. nice effect btw, is that from something?
 
+AWACS original description
+```
+"Bigger range of Radar. 40 meters combat support. All enemies gain 50% bullet dodging. (smart). 
+When in combat, player in range, gets progress bar for 'tagged' status. When tagged, enemies gets huge bonus 
+to accuracy, tracking (chance to hit when player is moving), and smart weapons hit chance. 
+Player also loses are bonuses from being invisible / in smoke 32 meters stealth awacs - 
+when player enters while stealthed, after 5 seconds, trace beginins. 
+I already tracing, progress tracing by extra 10%. (Radar lock warning)
+Enemies in range - increased accuracy (with my shooting ai mod)"
+```
+alright so, i like this, i find it interesting, my only thought is that i would make this outside only. wouldn't apply to interiors (or be an ability on enemies who are in interiors). these guys are priority target fuck immmediately or die folks
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
