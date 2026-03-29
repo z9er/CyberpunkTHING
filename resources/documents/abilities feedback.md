@@ -70,6 +70,13 @@ range depended / drains ram
 ```
 im not sure i really have any notes on this. i love the red eye effect, it drains ram. i mean... pretty cool shit. i wouldn't put it on a metric ton of people but this is fun to sprinkle in. the "camera lock" is less annoying than i thought it'd be, but it's definitely like oh shit im being fucked with and make you prioritize those fuckers
 
+husk original description
+```
+Enemies, with red eyes. They spawn lying on ground. 
+And when player enters combat with boss, t hey come after player. 
+```
+i should probably test this in the area with the actual dude. didn't seem to work in scav haunt which isn't surprising. will try on new version
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
