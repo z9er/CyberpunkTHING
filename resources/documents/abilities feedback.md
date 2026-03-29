@@ -136,7 +136,7 @@ alright so, i like this, i find it interesting, my only thought is that i would 
 ```
 Cannot get any info on enemy when scanning. This stops when player has high enough level of kiroshi implant (mamybe verry bad version for scavs)
 ```
-this is interesting, i like it. makes some areas riskier early in the game in a less you're not high enough level way and more of a i can't see what's going on way, for some enemies. has counterplay. cool
+this is interesting, i like it. makes some areas riskier early in the game in a less you're not high enough level way and more of a i can't see what's going on way, for some enemies. has counterplay. cool. maybe have it say blocked or something, as is it's just empty and i guess theoretically a player could take it as a bug.
 
 ```
 Cyber Enemies:
