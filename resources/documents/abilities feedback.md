@@ -16,7 +16,7 @@ Using CC on enemy can disable this ability too. Mostly used on Drones and by net
 "
 ```
 
-aegis - great effect, i think the idea is fun but there's a couple things that'll probably be a good change. rather than a longer cd that goes on, id rather have enemies use this more often for a shorter amount of time, because it's like a buffed up kerenzikov with a downside of smart weapons going through it. so in a menu for it, sort of like how viper used to do, would have a slider about the cd for ability and how long it lasts right, so you could do like lasts for 5 seconds then would be on a 5 second cd. this also brings to mind the thing about how do we tell players about these abilities, i know you had thought about tooltips but let's think about that later :)
+aegis - great effect, i think the idea is fun but there's a couple things that'll probably be a good change. rather than a longer cd that goes on, id rather have enemies use this more often for a shorter amount of time, because it's like a buffed up kerenzikov with a downside of smart weapons going through it. so in a menu for it, sort of like how viper used to do, would have a slider about the cd for ability and how long it lasts right, so you could do like lasts for 5 seconds then would be on a 5 second cd. i also think this might be an ability that just... happens for the enemy, even if not in combat, eg, it's like this permanent thing they've implanted in themselves so even from afar they're doing something with the weird effect pre combat, this also helps signpost to the player hey... what does this mean? this also brings to mind the thing about how do we tell players about these abilities, i know you had thought about tooltips but let's think about that later :)
 
 ```
 Cyber Enemies:
