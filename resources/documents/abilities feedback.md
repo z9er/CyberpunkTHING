@@ -187,6 +187,12 @@ it's a drone that blows up
 ```
 again, very cool. maybe change the name to IED drone or something so it's clear that like... this Will go poorly. would slider damage (general one for "blow up") maybe
 
+scanner drone ability
+```
+none provided
+```
+saw it spawned in game but wasn't sure what it does, on old version
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
