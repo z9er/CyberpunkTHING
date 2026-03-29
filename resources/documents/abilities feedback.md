@@ -138,6 +138,18 @@ Cannot get any info on enemy when scanning. This stops when player has high enou
 ```
 this is interesting, i like it. makes some areas riskier early in the game in a less you're not high enough level way and more of a i can't see what's going on way, for some enemies. has counterplay. cool. maybe have it say blocked or something, as is it's just empty and i guess theoretically a player could take it as a bug.
 
+**smoke tank original description**
+```
+kind of a ninja vanish stun thing, knocks player down
+```
+can't tell exactly, it worked and knocked me down with a stun but the smoke didn't seem to last very long (this was on the older version). also the game crashed repeatably but that may be fixed in the new version, ill try it there
+
+**santa muerte original description**
+```
+seems to be second heart. Kind of like second heart(player), but, slowly heals 10% hp per second, while having very high damage resistance. Hp bar turns white to indicate their damage resistance
+```
+seems to work. crashed the game on the old version, but im still unsure how i feel about the health ones. maybe there's a wrinkle to be added to it? still thinking
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
