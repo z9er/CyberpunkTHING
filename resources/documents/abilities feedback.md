@@ -61,6 +61,15 @@ Allows to teleport behind player, every X seconds.
 ```
 this is fuckin cool. would put a slider for how many x seconds so it's configurable. would make for a very scary shotgun guy. maybe vary it so there's like one who can flash step behind you or whatever once every once in a while, or another who would do like three jumps in a row attacking each time rapidly (particularly with a shotgun that's pretty evil) not necessarily behind but also maybe to the side of you. just thinkin ;) maybe teleporting make a noise or... something to show that something happened. an effect? dunno, would be more intuitive
 
+gorgon original description
+```
+When player looks them into enemies eyes, they cannot look away
+(camera is locked) till enemy is killed, or player manages 
+to forcefully break contact away. Add some creppy SFX and some debufs? - 
+range depended / drains ram
+```
+
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
