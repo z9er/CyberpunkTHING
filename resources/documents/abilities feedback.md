@@ -1,8 +1,9 @@
 gas tank original description
 ```
 When hit within melee distance of player, releases toxic cloud, that poisons / hurt player. 
-When killed 5% chance of releasing it too. When not killed, getting closed to their body will release cloud too. 
-Setting them on fire, shortly after they have activated their ability, makes them explode, and pernamently turns off their ability
+When killed 5% chance of releasing it too. When not killed, getting closed to their body 
+will release cloud too. Setting them on fire, shortly after they have activated their ability, 
+makes them explode, and pernamently turns off their ability
 ```
 
 gas tank - no notes, i like how it works and implementation. i particularly appreciate the nuance of it being exploitable when enemies use it and you can just set it on fire and disable the ability permanently... should abilities that have been permanently disabled show as red in scanner? just a random thought i had cuz cyberware malfunction obviously can do that too (and maybe should with these abiltiies as well, too)
