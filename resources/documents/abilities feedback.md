@@ -47,6 +47,14 @@ Electric Plating (no explosion), but player gets shocked when hiting him, or rec
 ```
 i mean, does what it says on the tin. good effect. seems fine. im not sure how much damage it does since im just kinda running through but maybe some sort of slider for damage of it, unless it Just stuns. 
 
+flame armor original description
+```
+Enemy has burn when in combat (visible flames). 
+When effect is active, they are immune to fire attacks, deal fire damage
+and burn player on touch (offensive and defensive)
+```
+looks cool, relatively intuitive. because it confers an immunity i would be wary of making this very widespread, i think you had like one particular miniboss type dude in mind
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
