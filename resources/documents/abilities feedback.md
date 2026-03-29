@@ -27,6 +27,13 @@ Sound temporary stuns player (some visual effect), and slows them / their melee 
 
 I tried this on the older version and mostly just got knocked down, though to be fair i didn't have audioware, so i couldn't really tell on this one. melee didn't seem to be slower and didn't get a drunk effect. ill try on the new version later as a postscript
 
+blood pump original description
+```
+Heals 75% hp over 10 seconds. Activates when under 50% hp. Long Cooldown
+```
+
+didn't seem to work when tried on old version
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
