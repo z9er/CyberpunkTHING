@@ -68,7 +68,7 @@ When player looks them into enemies eyes, they cannot look away
 to forcefully break contact away. Add some creppy SFX and some debufs? - 
 range depended / drains ram
 ```
-
+im not sure i really have any notes on this. i love the red eye effect, it drains ram. i mean... pretty cool shit. i wouldn't put it on a metric ton of people but this is fun to sprinkle in. the "camera lock" is less annoying than i thought it'd be, but it's definitely like oh shit im being fucked with and make you prioritize those fuckers
 
 ```
 Cyber Enemies:
