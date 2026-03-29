@@ -2,6 +2,7 @@ gas tank - no notes, i like how it works and implementation. i particularly appr
 
 aegis - great effect, i think the idea is fun but there's a couple things that'll probably be a good change. rather than a longer cd that goes on, id rather have enemies use this more often for a shorter amount of time, because it's like a buffed up kerenzikov with a downside of smart weapons going through it. so in a menu for it, sort of like how viper used to do, would have a slider about the cd for ability and how long it lasts right, so you could do like lasts for 5 seconds then would be on a 5 second cd. this also brings to mind the thing about how do we tell players about these abilities, i know you had thought about tooltips but let's think about that later :)
 
+```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
 CEBansheeAbilityGroup
@@ -46,3 +47,4 @@ AU_HasChemTechAbilityGroup
 CENanoMatrixAbilityGroup
 CE_HasScaleSubdermalArmorAbilityGroup
 CESelfRepairAbilityGroup
+```
