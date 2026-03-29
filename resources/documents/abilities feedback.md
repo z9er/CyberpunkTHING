@@ -181,6 +181,12 @@ Explodes on death, or when Close to player. Used on Bombus drones, and husk enem
 ```
 hilarious effect, love it. the only thing i wonder about is, should it be instant or should it have a "beep beep beep beep" blow up thing? dunno, maybe both depending? would have a slider for damage. obviously kind of opens up the way of the whole suicide super mutant thing w/ sound cue, but i don't know how hard that is to do and i don't know if that would conflict with other ai stuff like viper's. obviously melee enemies would be charging at player anyhow so maybe a closing range beep beep beep beep thing then blowup? with the beeps being based on distance rather than time?
 
+**bomb drone ability original description**
+```
+it's a drone that blows up
+```
+again, very cool. maybe change the name to IED drone or something so it's clear that like... this Will go poorly. would slider damage (general one for "blow up") maybe
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
