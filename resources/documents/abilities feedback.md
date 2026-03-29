@@ -81,7 +81,7 @@ juice tank original description
 ```
 constant health regen countered by poison or bleeding
 ```
-i can't tell much about it ingame, i do see it gives some regen. I'd suggest a slider for the regen effect. I like that it has counters though :) i have one thought, pumpin up regen to about the highest it could be, and then making it where you could also counter it, or maybe permanently turn it off, by a hit to the back of the enemy. incentivizing smart counterplay even if you don't have poison or bleeding (melee stun, move around, wack em, w/e)
+i can't tell much about it ingame, i do see it gives some regen. I'd suggest a slider for the regen effect. I like that it has counters though :) i have one thought, pumpin up regen to about the highest it could be (just conceptually, obviously this would be a configurable slider anyways), and then making it where you could also counter it, or maybe permanently turn it off, by a hit to the back of the enemy. incentivizing smart counterplay even if you don't have poison or bleeding (melee stun, move around, wack em, w/e)
 
 machine learning original description
 ```
