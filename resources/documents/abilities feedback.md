@@ -132,6 +132,12 @@ Enemies in range - increased accuracy (with my shooting ai mod)"
 ```
 alright so, i like this, i find it interesting, my only thought is that i would make this outside only. wouldn't apply to interiors (or be an ability on enemies who are in interiors). these guys are priority target fuck immmediately or die folks
 
+**scan shield original description**
+```
+Cannot get any info on enemy when scanning. This stops when player has high enough level of kiroshi implant (mamybe verry bad version for scavs)
+```
+this is interesting, i like it. makes some areas riskier early in the game in a less you're not high enough level way and more of a i can't see what's going on way, for some enemies. has counterplay. cool
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
