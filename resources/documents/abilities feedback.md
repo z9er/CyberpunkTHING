@@ -55,6 +55,12 @@ and burn player on touch (offensive and defensive)
 ```
 looks cool, relatively intuitive. because it confers an immunity i would be wary of making this very widespread, i think you had like one particular miniboss type dude in mind. id still add a slider for damage tho :)
 
+flash step original description
+```
+Allows to teleport behind player, every X seconds.
+```
+this is fuckin cool. would put a slider for how many x seconds so it's configurable. would make for a very scary shotgun guy. maybe vary it so there's like one who can flash step behind you or whatever once every once in a while, or another who would do like three jumps in a row attacking each time rapidly (particularly with a shotgun that's pretty evil) not necessarily behind but also maybe to the side of you. just thinkin ;)
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
