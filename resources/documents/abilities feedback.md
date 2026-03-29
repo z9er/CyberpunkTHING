@@ -36,7 +36,8 @@ didn't seem to work when tried on old version
 
 cryo bullets original description
 ```
-Each bullet hit, slows player down, by 2%. Stacks to 100%, and lasts some time. Gets cleared when player is on fire,
+Each bullet hit, slows player down, by 2%. Stacks to 100%, and lasts some time.
+Gets cleared when player is on fire,
 ```
 works well, and is interesting, i will say that i would be careful about giving it to too many enemies. one thing im thinking of about your fire thing is this could have a fun interaction with fire (and stuff like overclock overheat) where you take significantly less damage from fire put on during and directly after having the ice effect, so you could purposefully give yourself overclock overheat and maybe it wouldn't make you die? dunno just thinking, might be a fun collab
 
