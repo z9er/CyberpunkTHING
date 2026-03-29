@@ -83,6 +83,12 @@ constant health regen countered by poison or bleeding
 ```
 i can't tell much about it ingame, i do see it gives some regen. I'd suggest a slider for the regen effect. I like that it has counters though :)
 
+machine learning original description
+```
+When android dies with this ability, all other droids from same faction with this ability, within certain range, gets buffed /kerenzikov / sandevista /Smart weapon resistance, accuracy buff. Budf gained is random and can be stacking. Ability used only for droids.
+```
+haven't officially tried this yet cuz it's all scavs in this stupid haunt, but, i like the general idea, i would suggest one thing though. I would change pretty much anything smart gun related anywhere from resistance to resistance via longer lockon time (with a slider), because bullets magically missing is lame, but longer lock on (which Cannot be mitigated by ping or overclock instalock perk) is gonna actually be a better feel for player. my two cents
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
