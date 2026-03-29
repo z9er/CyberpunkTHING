@@ -1,0 +1,2 @@
+gas tank - no notes, i like how it works and implementation. i particularly appreciate the nuance of it being exploitable when enemies use it and you can just set it on fire and disable the ability permanently... should abilities that have been permanently disabled show as red in scanner? just a random thought i had cuz cyberware malfunction obviously can do that too. 
+
