@@ -85,9 +85,18 @@ i can't tell much about it ingame, i do see it gives some regen. I'd suggest a s
 
 machine learning original description
 ```
-When android dies with this ability, all other droids from same faction with this ability, within certain range, gets buffed /kerenzikov / sandevista /Smart weapon resistance, accuracy buff. Budf gained is random and can be stacking. Ability used only for droids.
+When android dies with this ability, all other droids from same faction 
+with this ability, within certain range, gets buffed /kerenzikov 
+/ sandevista /Smart weapon resistance, accuracy buff. 
+Budf gained is random and can be stacking. Ability used only for droids.
 ```
 haven't officially tried this yet cuz it's all scavs in this stupid haunt, but, i like the general idea, i would suggest one thing though. I would change pretty much anything smart gun related anywhere from resistance to resistance via longer lockon time (with a slider), because bullets magically missing is lame, but longer lock on (which Cannot be mitigated by ping or overclock instalock perk) is gonna actually be a better feel for player. my two cents
+
+pain injector original description
+```
+Immunity for few seconds. Long cD\
+```
+unsure how i feel about it. wasn't workin on the old version, i just mean conceptually im not sure how interesting this is. ill want to think about it some more to see if any bright ideas occur, but im stupid today
 
 ```
 Cyber Enemies:
