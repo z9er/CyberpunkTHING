@@ -53,7 +53,7 @@ Enemy has burn when in combat (visible flames).
 When effect is active, they are immune to fire attacks, deal fire damage
 and burn player on touch (offensive and defensive)
 ```
-looks cool, relatively intuitive. because it confers an immunity i would be wary of making this very widespread, i think you had like one particular miniboss type dude in mind
+looks cool, relatively intuitive. because it confers an immunity i would be wary of making this very widespread, i think you had like one particular miniboss type dude in mind. id still add a slider for damage tho :)
 
 ```
 Cyber Enemies:
