@@ -146,7 +146,9 @@ can't tell exactly, it worked and knocked me down with a stun but the smoke didn
 
 **santa muerte original description**
 ```
-seems to be second heart. Kind of like second heart(player), but, slowly heals 10% hp per second, while having very high damage resistance. Hp bar turns white to indicate their damage resistance
+seems to be second heart. Kind of like second heart(player), but, slowly 
+heals 10% hp per second, while having very high damage resistance. Hp bar 
+turns white to indicate their damage resistance
 ```
 seems to work. crashed the game on the old version, but im still unsure how i feel about the health ones. maybe there's a wrinkle to be added to it? still thinking
 
