@@ -100,9 +100,11 @@ unsure how i feel about it. wasn't workin on the old version, i just mean concep
 
 **phoenix protocol original description**
 ```
-Infinite second heart, that also repairs up to 50% of armor over 10 seconds. armor. To kill enemy with this, player has to deal enough damage to kill them in that 10 second window
+Infinite second heart, that also repairs up to 50% of armor over 10 seconds. 
+armor. To kill enemy with this, player has to deal enough damage to kill them
+in that 10 second window
 ```
-definitely works. im assuming this is very rare. much like the other more health ones, i don't know how i feel about it. trying to think about what's fun to play against or interesting and how to kind of have that niche. more thought required by me, or a sharper mind, or something
+definitely works. im assuming this is very rare. much like the other more health ones, i don't know how i feel about it. trying to think about what's fun to play against or interesting and how to kind of have that niche. more thought required by me, or a sharper mind, or something. would slider the amount of time for the window at least
 
 **radar original description**
 ```
