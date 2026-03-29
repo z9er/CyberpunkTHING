@@ -298,3 +298,64 @@ quests/minor_quest/mq025_psycho_brawl
 [MinorQuest] quests/minor_quest/mq025_07_fight_club = Beat on the Brat: Rancho Coronado
 [MinorQuest] quests/minor_quest/mq025_psycho_brawl = Beat on the Brat
 
+quests/street_stories/badlands/inland_avenue/sts_bls_ina_03
+quests/street_stories/badlands/inland_avenue/sts_bls_ina_02
+quests/street_stories/badlands/inland_avenue/sts_bls_ina_06
+quests/street_stories/badlands/inland_avenue/sts_bls_ina_08
+quests/street_stories/badlands/inland_avenue/sts_bls_ina_05
+quests/street_stories/badlands/inland_avenue/sts_bls_ina_04
+quests/street_stories/city_center/downtown/sts_cct_dtn_05
+quests/street_stories/santo_domingo/arroyo/sts_std_arr_05
+quests/street_stories/santo_domingo/rancho_coronado/sts_std_rcr_03
+quests/street_stories/watson/kabuki/sts_wat_kab_02
+quests/street_stories/watson/northside_industrial_district/sts_wat_nid_02
+quests/street_stories/watson/little_china/sts_wat_lch_05
+quests/street_stories/watson/northside_industrial_district/sts_wat_nid_05
+quests/street_stories/watson/northside_industrial_district/sts_wat_nid_04
+quests/street_stories/watson/kabuki/sts_wat_kab_102
+quests/street_stories/watson/kabuki/sts_wat_kab_08
+quests/street_stories/watson/northside_industrial_district/sts_wat_nid_03
+quests/street_stories/watson/northside_industrial_district/sts_wat_nid_07
+quests/street_stories/watson/northside_industrial_district/sts_wat_nid_06
+quests/street_stories/watson/kabuki/sts_wat_kab_01
+quests/street_stories/heywood/glen/sts_hey_gle_06
+quests/street_stories/heywood/wellsprings/sts_hey_spr_01
+quests/street_stories/heywood/wellsprings/sts_hey_spr_03
+quests/street_stories/wesbrook/japan_town/sts_wbr_jpn_03
+quests/side_quest/sq006_dream_on
+quests/minor_quest/mq044_jakes_vehicle
+quests/minor_quest/mws_se5_07
+quests/minor_quest/mq018_writer
+quests/minor_quest/mq003_orbitals
+quests/minor_quest/mq008_party
+
+[StreetStory] quests/street_stories/badlands/inland_avenue/sts_bls_ina_03 = Gig: Flying Drugs
+[StreetStory] quests/street_stories/badlands/inland_avenue/sts_bls_ina_02 = Gig: Big Pete's Got Big Problems
+[StreetStory] quests/street_stories/badlands/inland_avenue/sts_bls_ina_06 = Gig: No Fixers
+[StreetStory] quests/street_stories/badlands/inland_avenue/sts_bls_ina_08 = Gig: Trevor's Last Ride
+[StreetStory] quests/street_stories/badlands/inland_avenue/sts_bls_ina_05 = Gig: Goodbye, Night City
+[StreetStory] quests/street_stories/badlands/inland_avenue/sts_bls_ina_04 = Gig: Radar Love
+[StreetStory] quests/street_stories/city_center/downtown/sts_cct_dtn_05 = Gig: The Frolics of Councilwoman Cole
+[StreetStory] quests/street_stories/santo_domingo/arroyo/sts_std_arr_05 = Gig: Breaking News
+[StreetStory] quests/street_stories/santo_domingo/rancho_coronado/sts_std_rcr_03 = Gig: Going-away Party
+[StreetStory] quests/street_stories/watson/kabuki/sts_wat_kab_02 = Gig: Hippocratic Oath
+[StreetStory] quests/street_stories/watson/northside_industrial_district/sts_wat_nid_02 = Gig: Many Ways to Skin a Cat
+[StreetStory] quests/street_stories/watson/little_china/sts_wat_lch_05 = Gig: Playing for Keeps
+[StreetStory] quests/street_stories/watson/northside_industrial_district/sts_wat_nid_05 = Gig: Rite of Passage
+[StreetStory] quests/street_stories/watson/northside_industrial_district/sts_wat_nid_04 = Gig: Dirty Biz
+[StreetStory] quests/street_stories/watson/kabuki/sts_wat_kab_102 = Gig: Welcome to America, Comrade
+[StreetStory] quests/street_stories/watson/kabuki/sts_wat_kab_08 = Gig: Woman of La Mancha
+[StreetStory] quests/street_stories/watson/northside_industrial_district/sts_wat_nid_03 = Gig: Flight of the Cheetah
+[StreetStory] quests/street_stories/watson/northside_industrial_district/sts_wat_nid_07 = Gig: Scrolls before Swine
+[StreetStory] quests/street_stories/watson/northside_industrial_district/sts_wat_nid_06 = Gig: Lousy Kleppers
+[StreetStory] quests/street_stories/watson/kabuki/sts_wat_kab_01 = Gig: Concrete Cage Trap
+[StreetStory] quests/street_stories/heywood/glen/sts_hey_gle_06 = Gig: Life's Work
+[StreetStory] quests/street_stories/heywood/wellsprings/sts_hey_spr_01 = Gig: On a Tight Leash
+[StreetStory] quests/street_stories/heywood/wellsprings/sts_hey_spr_03 = Gig: The Lord Giveth and Taketh Away
+[StreetStory] quests/street_stories/wesbrook/japan_town/sts_wbr_jpn_03 = Gig: A Shrine Defiled
+[SideQuest] quests/side_quest/sq006_dream_on = Dream On
+[MinorQuest] quests/minor_quest/mq044_jakes_vehicle = Sex On Wheels
+[MinorQuest] quests/minor_quest/mws_se5_07 = Shape of a Pony
+[MinorQuest] quests/minor_quest/mq018_writer = Killing In The Name
+[MinorQuest] quests/minor_quest/mq003_orbitals = Space Oddity
+[MinorQuest] quests/minor_quest/mq008_party = Stadium Love
