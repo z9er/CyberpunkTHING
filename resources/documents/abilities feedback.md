@@ -6,7 +6,7 @@ will release cloud too. Setting them on fire, shortly after they have activated 
 makes them explode, and pernamently turns off their ability
 ```
 
-gas tank - no notes, i like how it works and implementation. i particularly appreciate the nuance of it being exploitable when enemies use it and you can just set it on fire and disable the ability permanently... should abilities that have been permanently disabled show as red in scanner? just a random thought i had cuz cyberware malfunction obviously can do that too (and maybe should with these abiltiies as well, too)
+gas tank - no real notes, i like how it works and implementation. might be nice to have a slider for how much damage it does. i particularly appreciate the nuance of it being exploitable when enemies use it and you can just set it on fire and disable the ability permanently... should abilities that have been permanently disabled show as red in scanner? just a random thought i had cuz cyberware malfunction obviously can do that too (and maybe should with these abiltiies as well, too)
 
 aegis original description
 ```
@@ -40,6 +40,12 @@ Each bullet hit, slows player down, by 2%. Stacks to 100%, and lasts some time.
 Gets cleared when player is on fire,
 ```
 works well, and is interesting, i will say that i would be careful about giving it to too many enemies. one thing im thinking of about your fire thing is this could have a fun interaction with fire (and stuff like overclock overheat) where you take significantly less damage from fire put on during and directly after having the ice effect, so you could purposefully give yourself overclock overheat and maybe it wouldn't make you die? dunno just thinking, might be a fun collab
+
+electric plating original description
+```
+Electric Plating (no explosion), but player gets shocked when hiting him, or reciving hits.
+```
+i mean, does what it says on the tin. good effect. seems fine. im not sure how much damage it does since im just kinda running through but maybe some sort of slider for damage of it, unless it Just stuns. 
 
 ```
 Cyber Enemies:
