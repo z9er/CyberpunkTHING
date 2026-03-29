@@ -77,6 +77,12 @@ And when player enters combat with boss, t hey come after player.
 ```
 i should probably test this in the area with the actual dude. didn't seem to work in scav haunt which isn't surprising. will try on new version
 
+juice tank original description
+```
+constant health regen countered by poison or bleeding
+```
+i can't tell much about it ingame, i do see it gives some regen. I'd suggest a slider for the regen effect. I like that it has counters though :)
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
