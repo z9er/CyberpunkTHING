@@ -175,6 +175,12 @@ Their health gets regenrated once when effect is activated. Is supposed to simua
 seems to work, ill be curious how this works in actual combat since im just in the scav haunt, seems interesting tho. it
 is difficult hudless probably to tell what's happening with the enemy. i didn't really see the red eyes on the old version
 
+bomb ability original description
+```
+Explodes on death, or when Close to player. Used on Bombus drones, and husk enemies
+```
+hilarious effect, love it. the only thing i wonder about is, should it be instant or should it have a "beep beep beep beep" blow up thing? dunno, maybe both depending? would have a slider for damage. obviously kind of opens up the way of the whole suicide super mutant thing w/ sound cue, but i don't know how hard that is to do and i don't know if that would conflict with other ai stuff like viper's. obviously melee enemies would be charging at player anyhow so maybe a closing range beep beep beep beep thing then blowup? with the beeps being based on distance rather than time?
+
 ```
 Cyber Enemies:
 CE_HasAegisAbilityGroup
