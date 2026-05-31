@@ -3,7 +3,7 @@
 about: Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as rewind, mark and execute, and teleportation!
 
 **CORE MECHANICS**
-Time Dilation Overhaul touches every aspect of combat pacing. 
+
 *   **Scanning Changes:** Scanning now applies an intelligence-scaled time slow governed by a draining stamina bar.
 *   **Biological Strain:** Prolonged use of any Sandevistan inflicts a damage-over-time effect that scales with your attunement mitigation.
 *   **Vehicle Integration:** The Herbie system actively enhances vehicle handling and grip while a Sandevistan is active.
