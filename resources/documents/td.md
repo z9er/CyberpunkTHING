@@ -1,4 +1,4 @@
-about: Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as rewind, mark and execute, and teleportation!
+Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as rewind, mark and execute, and teleportation!
 
 ### TDO
 
