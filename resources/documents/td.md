@@ -1,4 +1,6 @@
-### [TDO Logo - Electric Blue/High-Tech Aesthetic]
+### TDO
+
+about: Overhauls Time Dilation in Cyberpunk to provide a more challenging and rewarding experience. Featuring all new abilities such as rewind, mark and execute, and teleportation!
 
 **CORE MECHANICS**
 Time Dilation Overhaul touches every aspect of combat pacing. 
