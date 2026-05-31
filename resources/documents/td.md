@@ -4,9 +4,14 @@ about: Overhauls Time Dilation in Cyberpunk to provide a more challenging and re
 
 **CORE MECHANICS**
 
-*   **Scanning Changes:** Scanning now applies an intelligence-scaled time slow governed by a draining stamina bar.
-*   **Biological Strain:** Prolonged use of any Sandevistan inflicts a damage-over-time effect that scales with your attunement mitigation.
-*   **Vehicle Integration:** The Herbie system actively enhances vehicle handling and grip while a Sandevistan is active.
+This mod was created to address what felt like some fundamentally broken aspects of the way time dilation is handled within Cyberpunk 2077 and touches nearly every aspect of it
+
+This mod primarily
+*   Provides some minor bug fixes and quality of life options
+*   Changes the way NPCs behave in time dilation
+*   Changes how Scanning/Quickhack time dilation works
+*   Completely reworks the Sandevistan Operating System with different systems appealing to different and very distinct playstyles
+*   Adds some non-Sandevistan Operating Systems just for fun
 
 *[Insert AVIF: Scanner drain bar depleting while queuing a quickhack]*
 
