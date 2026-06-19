@@ -1,379 +1,268 @@
-[img]https://i.imgur.com/sHUdmH0.png[/img]
-[size=3]Vanilla time dilation felt fundamentally broken. Phantom Liberty and 2.0 were a step in the right direction, but [b][color=#ff0033]Time Dilation Overhaul[/color][/b] changes nearly every aspect of the system.[/size]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/01.png[/img]
+[size=3][color=#ffffff]Vanilla time dilation felt fundamentally broken. Phantom Liberty and 2.0 were a step in the right direction, but[/color] [b][color=#ff0033]Time Dilation Overhaul[/color][/b] [color=#ffffff]fixes nearly every aspect of the system.[/color][/size]
 
-[color=#ff0033][size=5][b]What's Changed[/b][/size][/color]
+[color=#ff0033][size=5][b]Key Features[/b][/size][/color]
 [list]
-[*][size=3]Completely reworks the Sandevistan OS into distinct systems for specific playstyles [/size][/*]
-[*][size=3]Adds new non-Sandevistan Operating Systems just for fun [/size][/*]
-[*][size=3]Overhauls NPC behavior during time dilation [/size][/*]
-[*][size=3]Rebalances Scanning and Quickhack time dilation[/size][/*]
-[*][size=3]Adjusts vehicle handling in time dilation [/size][/*]
-[*][size=3]Includes minor bug fixes and QoL adjustments[/size][/*]
+[*][color=#ffffff][size=3]Reworks the Sandevistan Operating System to support varied playstyles from aggressive ranged to defensive melee, featuring new abilities like rewind, teleportation, and 360-degree ricochet[/size][/color][/*]
+[*][color=#ffffff][size=3]Enemies can now use their own time dilation implants aggressively or defensively, letting them keep up with you[/size][/color][/*]
+[*][color=#ffffff][size=3]Scanner time dilation is no longer unlimited, and the amount of it scales with your Intelligence[/size][/color][/*]
+[*][color=#ffffff][size=3]Adds completely new, non-Sandevistan Operating Systems to experiment with[/size][/color][/*]
+[*][color=#ffffff][size=3]Improves vehicle handling during time dilation and allows the abilities of some Operating Systems to be used while driving[/size][/color][/*]
+[*][color=#ffffff][size=3]Fixes minor bugs and includes quality-of-life adjustments[/size][/color][/*]
 [/list]
-[img width=484,height=272]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/TDO%20scanner%20avif%20work-fastflix-6e4a.avif[/img]
-[size=1]Scanner time dilation is no longer unlimited, and the amount you have scales with intelligence[/size]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/TDO%20scanner%20avif.avif[/img]
+
 
 [b][color=#ff0033][size=5]Enemy Time Dilation Rework[/size][/color][/b]
-[size=3]In vanilla, every enemy Sandevistan functions exactly the same. Now, different tiers are distributed across all hostiles. Existing dodge mechanics are untouched, but enemies use their implants strategically, with a few custom surprises mixed into faction and boss kits. [/size]
+[color=#ffffff][size=3]In vanilla, every enemy Sandevistan functions exactly the same. Now, different tiers are distributed across all hostiles. Existing dodge mechanics are untouched, but enemies use their implants strategically, with custom surprises mixed into factions and bosses. [/size][/color]
 
 [list]
-[*][size=3][b][color=#ff0033]Matching:[/color] [/b]Enemies activate their Sandevistan to counter yours. Kerenzikov enemies will also counter, but for a shorter duration [/size][/*]
-[*][size=3][b][color=#ff0033]Aggression:[/color][/b] Melee, shotgun, and pistol users pop time dilation to aggressively push your position. Kerenzikov enemies fire at massive speeds [/size][/*]
-[*][size=3][b][color=#ff0033]Survival: [/color][/b]Hostiles automatically trigger their OS as a last resort when dropping to low HP [/size][/*]
+[*][b][color=#ff0033][size=3]Matching:[/size][/color][size=3] [/size][/b][color=#ffffff][size=3]Enemies activate their Sandevistan to counter yours. Kerenzikov enemies counter for a shorter duration [/size][/color][/*]
+[*][size=3][b][color=#ff0033]Aggression:[/color][/b] [color=#ffffff]Foes use time dilation to push your position. Kerenzikov enemies fire at massive speeds [/color][/size][/*]
+[*][size=3][color=#ff0033][b]Survival: [/b][/color][color=#ffffff]Hostiles struggle to survive and use their operating systems when at low HP[/color][/size]
+[/*]
 [/list]
+[img width=480,height=270]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo%20slowmo%20gunfight-fastflix-6c0d.avif[/img]
 
-[size=3][avif of some enemy shooting back at you in time dilation or something cool][/size]
 
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img]
 
-[img]https://i.imgur.com/gaKxwa6.png[/img]
-
-[left][img]https://i.imgur.com/665iKmg.png[/img][/left]
-[size=5][color=#ffffff][b]ZETATECH | SHRIKE[/b][/color][/size]
-[color=#ffffff][i]Precision & Execution
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/02.png[/img][/left]
+[color=#ffffff][size=5][b]ZETATECH | SHRIKE[/b][/size][/color]
+[color=#ffffff][i][size=3]Precision & Execution[/size]
 [/i][/color]
-[b][color=#ffffff][size=4]Ranged Focused[/size][/color][/b]
+[color=#ffffff][b][size=4]Ranged Focused[/size][/b][/color]
 [list]
-[*][b][color=#ffffff]Mark:[/color][/b] Aim at enemies while the Operating System is charged but inactive to tag them[/*]
-[*][b][color=#ffffff]Execute:[/color][/b] Activate the Operating System and fire your weapon to instantly snap your aim from one marked target to the next[/*]
+[*][size=3][color=#ffffff][b]Mark:[/b] Aim at enemies while the Operating System is charged but inactive to tag them[/color][/size][/*]
+[*][size=3][color=#ffffff][b]Execute:[/b] Activate the Operating System and fire your weapon to instantly snap your aim from one marked target to the next[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Shrike ADS marking phase followed by rapid execution during slow]
-[/i]
-[b][color=#ffffff][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#ffffff]Time Dilation:[/color][/b] 30% → 60%[/*]
-[*][b][color=#ffffff]Duration:[/color][/b] 5s → 10s[/*]
-[*][b][color=#ffffff]Cooldown:[/color][/b] 30s → 15s[/*]
-[*][b][color=#ffffff]Mark Capacity:[/color][/b] 2 → 5[/*]
-[*][b][color=#ffffff]Reflexes Attunement:[/color][/b] +0.1s duration per point[/*]
-[/list]
-[/spoiler]
-[b][color=#ffffff][size=4][i]Built to be exact[/i][/size][/color][/b]
-[spoiler]
-[quote][b]Cold lethality[/b] over reckless speed. While rivals burned out their clients' nervous systems chasing milliseconds, Zetatech decided to remove human hesitation entirely. [b]The Shrike[/b] is the inevitable endpoint of that design ethos. 
+[color=#ffffff][size=3][i][Insert AVIF: Player marking several enemies on entering a room, then decimating them in a few shots snapping to each][/i][/size][/color]
 
-Designate your targets and they will cease to exist. You become a ballistic computer as Shrike seizes absolute control of the motor cortex and puppeteers your body through the precalculated kill sequence. You won't even know what happened, but your enemies will be a bloody memory. In a world where nothing is guaranteed, Shrike is [b]built to be exact.[/b][/quote]
-[/spoiler]
+[b][color=#ffffff][size=4][i]Built to be exact[/i][/size][/color][/b]
+[quote][b]Cold lethality[/b] over reckless speed. While rivals burned out their clients' nervous systems chasing milliseconds, Zetatech decided to remove human hesitation entirely. The "Shrike" is the inevitable endpoint of that design ethos. 
+
+Designate your targets and they will cease to exist. You become a ballistic computer as Shrike seizes absolute control of the motor cortex and puppeteers your body through the [b]precalculated kill sequence.[/b] You won't even know what happened, but your enemies will be a bloody memory. In a world where nothing is guaranteed, Shrike is [b]built to be exact.[/b][/quote]
 [left]
 
-[img]https://i.imgur.com/gaKxwa6.png[/img]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img]
 
-[img]https://i.imgur.com/qKAO5Qs.png[/img][/left]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/03.png[/img][/left]
 [size=5][color=#cc4125][b]FUYUTSUKI | KUROSAWA[/b][/color][/size]
 [color=#cc4125][i]Localized Isolation
 [/i][/color]
 [b][color=#cc4125][size=4]Melee Focused[/size][/color][/b]
 [list]
-[*][b][color=#cc4125]Targeted Time Dilation:[/color][/b] The operating system does not slow down the world around you. Instead it allows you to slow enemies with your strikes[/*]
-[*][b][color=#cc4125]Kill Sustaining:[/color][/b] Eliminating a slowed target heals the user and refunds part of the active charge of your Operating System to keep the chain going[/*]
+[*][size=3][b][color=#cc4125]Targeted Time Dilation:[/color][/b] [color=#ffffff]The Operating System doesn't slow down the world around you, it slows enemies with your strikes[/color][/size][/*]
+[*][size=3][b][color=#cc4125]Kill Sustaining:[/color][/b] [color=#ffffff]Eliminating a slowed target heals the user and recharges the Operating System to keep the chain going[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Kurosawa melee transfer freezing a single enemy while the world moves normally]
-[/i]
-[b][color=#cc4125][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#cc4125]Global Time Dilation:[/color][/b] None[/*]
-[*][b][color=#cc4125]Per-Strike Slow:[/color][/b] 90%[/*]
-[*][b][color=#cc4125]Duration:[/color][/b] 8s → Ys[/*]
-[*][b][color=#cc4125]Cooldown:[/color][/b] 35s → Ys[/*]
-[*][b][color=#cc4125]Kill Heal:[/color][/b] 5% of max HP per kill[/*]
-[*][b][color=#cc4125]Kill Refund:[/color][/b] +X% of remaining duration per kill[/*]
-[*][b][color=#cc4125]Reflexes Attunement:[/color][/b] +0.05 per point[/*]
-[/list]
-[/spoiler]
-[b][color=#cc4125][size=4][i]Skip the standoff [/i][/size][/color][/b]
-[spoiler]
-[quote] Fuyutsuki Electronics insists the "Kurosawa" is a Sandevistan, but it won't speed you up. It brings your enemy to [b]a grinding halt.[/b]
+[i][color=#ffffff][size=3][Insert AVIF: Kurosawa melee transfer freezing a single enemy while the world moves normally][/size][/color][/i]
 
-Any melee strike transmits a precision neural pulse that hijacks the target's perception. Their nervous system seizes completely, forcing them to watch as they're [b]butchered in slow motion.[/b]  That stolen momentum is fed back into the system the second they flatline. Bio-electric pulses refund your active charge and trigger rapid cellular repair. The longer the Kurosawa runs, the more havoc you can wreak.
+[b][color=#cc4125][size=4][i]Skip the standoff[/i][/size][/color][/b]
+[quote]Fuyutsuki Electronics insists the "Kurosawa" is a Sandevistan, but it won't speed you up. It brings your enemy to [b]a grinding halt.[/b]
 
-Fuyutsuki’s marketing evokes the tension of classic cinema: the disciplined, agonizing stillness of a duel shattered by a single strike. On the street, no one has time for poetry. They just use the Kurosawa to [b]skip the standoff [/b]entirely.[/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img][/left]
-[left][img]https://i.imgur.com/gaKxwa6.png[/img][/left]
+Any melee strike transmits a precision neural pulse that hijacks the target's perception. Their nervous system seizes completely, forcing them to watch as they're [b]butchered in slow motion. [/b]That stolen momentum is fed back into the system the second they flatline. Bio-electric pulses refund your active charge and trigger rapid cellular repair. The longer the Kurosawa runs, the more havoc you can wreak.
+
+Fuyutsuki's marketing evokes the tension of classic cinema: the disciplined, agonizing stillness of a duel shattered by a single strike. On the street, no one has time for poetry. They just use the Kurosawa to [b]skip the standoff [/b]entirely.[/quote]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img][/left]
 [left]
 
-[img]https://i.imgur.com/CGqYrKv.png[/img][/left]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/05.png[/img][/left]
 [size=5][color=#76a5af][b]QIANT | WARP DANCER[/b][/color][/size]
 [color=#76a5af][i]Temporal Reversion
 [/i][/color]
 [b][color=#76a5af][size=4]Time Focused[/size][/color][/b]
 [list]
-[*][b][color=#76a5af]Freeze:[/color][/b] Time is completely stopped. Anything you do now will later occur the moment the operating system deactivates[/*]
-[*][b][color=#76a5af]Rewind:[/color][/b] When the system deactivates, you are forcibly pulled back to the exact physical coordinates where you activated the cyberware and everything you did during the freeze occurs at once[/*]
+[*][size=3][b][color=#76a5af]Freeze:[/color][/b] [color=#ffffff]Time is completely stopped. Anything you do now will later occur the moment the Operating System deactivates[/color][/size][/*]
+[*][size=3][b][color=#76a5af]Rewind:[/color][/b] [color=#ffffff]When the system deactivates, you are forcibly pulled back to the exact physical coordinates where you activated the cyberware and everything you did during the freeze occurs at once[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Warp Dancer freezing time, striking multiple enemies, then the 3-second rewind and stagger]
-[/i]
-[b][color=#76a5af][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#76a5af]Time Dilation:[/color][/b] Complete freeze[/*]
-[*][b][color=#76a5af]Duration:[/color][/b] 5s → 9s[/*]
-[*][b][color=#76a5af]Cooldown:[/color][/b] 80s → 45s[/*]
-[*][b][color=#76a5af]Post-Activation Stagger:[/color][/b] 2s → 0.03s [/*]
-[*][b][color=#76a5af]Reflexes Attunement:[/color][/b] +0.05/-1.65 per point[/*]
-[/list]
-[/spoiler]
+[i][color=#ffffff][size=3][Insert AVIF: Warp Dancer freezing time, striking multiple enemies, then the 3-second rewind and stagger][/size][/color][/i]
+
 [b][color=#76a5af][size=4][i]In the same heartbeat[/i][/size][/color][/b]
-[spoiler]
-[quote]On activation, QianT's [b]"Warp Dancer"[/b] brings everything to a standstill. Bullets don't crack. Blades don't cleave skulls. Limbs aren't pulverized. Everything is queued.
+[quote]On activation, QianT's [b]"Warp Dancer" [/b]brings everything to a standstill. Bullets don't crack. Limbs aren't pulverized. [b]Everything is queued.[/b]
 
 When the system deactivates, the world screams to life all at once. Every wound, shot, or dropped body registers in the same pulse. Dubbed predictive choreography by veteran users, the massacre appears as a singular, [b]impossible blur of violence.[/b]
 
 QianT's proprietary safety architecture won't let you stay where you ended the freeze. The spatial dislocation would shred your synapses. The operator is violently yanked to where they were at activation. You'll stagger as you realize that everything you just experienced happened [b]in the same heartbeat.[/b][/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img][/left]
-[left][img]https://i.imgur.com/gaKxwa6.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img][/left]
 [left]
 
-[img]https://i.imgur.com/wwAA5Pi.png[/img][/left]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/07.png[/img][/left]
 [size=5][color=#e06666][b]MOORE | QUANTUM[/b][/color][/size]
 [color=#e06666][i]Spatial Plot & Arrival
 [/i][/color]
 [b][color=#e06666][size=4]Space Focused[/size][/color][/b]
 [list]
-[*][b][color=#e06666]Plot:[/color][/b] Upon activation, the world stops as you plan your destination[/*]
-[*][b][color=#e06666]Arrive:[/color][/b] Instantly teleport to your target location. Upon landing, a burst of malware freezes nearby enemies[/*]
+[*][size=3][b][color=#e06666]Plot:[/color][/b] [color=#ffffff]Upon activation, the world stops as you plan your destination[/color][/size][/*]
+[*][size=3][b][color=#e06666]Arrive:[/color][/b][color=#ffffff] Instantly teleport to your target location. Upon landing, a burst of malware freezes nearby enemies[/color][/size][/*]
 [/list]
-[center][left][img]https://media.giphy.com/media/dvHHEqY3maMPMo5sRi/giphy.gif[/img][/left]
+[center][left][i][color=#ffffff][size=3][Insert AVIF: Teleporting and slowing down two enemies then blowing them away with a double barreled shotgun][/size][/color][/i] [/left]
 [/center]
-[b][color=#e06666][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#e06666]Plot Window:[/color][/b] Xs (real-time frozen)[/*]
-[*][b][color=#e06666]Max Teleport Range:[/color][/b] Xm[/*]
-[*][b][color=#e06666]Arrival Freeze Radius:[/color][/b] Xm[/*]
-[*][b][color=#e06666]Arrival Freeze Duration:[/color][/b] Xs[/*]
-[*][b][color=#e06666]Cooldown:[/color][/b] 13s → 7s[/*]
-[*][b][color=#e06666]Reflexes Attunement:[/color][/b] +0.075/1.75m per point[/*]
-[/list]
-[/spoiler]
-[b][color=#e06666][size=4][i]Unscheduled contact with entities from beyond the wall.[/i][/size][/color][/b]
-[spoiler]
-[quote]MoorE's Sandevistan division had been losing ground to more innovative departments across the market before they pulled all product from commercial vendors and went silent. What climbed out of that R&D blackout was something no other competitor dared to attempt: The [b]"Quantum"[/b].
+
+[b][color=#e06666][size=4][i]Unscheduled contact with entities from beyond the wall[/i][/size][/color][/b]
+[quote]MoorE's Sandevistan division had been losing ground to more innovative departments across the market before they pulled all product from commercial vendors and went silent. What climbed out of that R&D blackout was something [b]no other competitor dared to attempt:[/b] The "Quantum".
 
 On activation, the user drops into a state of pure observation: time forcibly halts and the local space resolves into a navigable plot. The operator picks a destination, and Quantum's kinetic module takes the wheel of the body, moving it through the world at speeds no 'ganic nervous system would ever authorize. From the user's perspective, [b]they simply arrive.
 [/b]
-Internal Netwatch analysis says this is where things start to get dangerous. Upon arrival, Quantum unleashes a broadcast of malicious code into every cyberware implant in range, dragging hostiles into a frozen sensory loop. Rumor has it MoorE's "code" is actually an [b]unauthorized AI signature[/b] embedded in the payload, scratching at the Blackwall, corrupting any implants it touches.
+Internal NetWatch analysis says this is where things start to get dangerous. Upon arrival, Quantum unleashes a broadcast of malicious code into every cyberware implant in range, dragging hostiles into a frozen sensory loop. Rumor has it MoorE's "code" is actually an [b]unauthorized AI signature[/b] embedded in the payload, scratching at the Blackwall, corrupting any implants it touches.
 
 The MoorE Quantum warranty does not cover incidents of [b]unscheduled contact with entities from beyond the wall.[/b][/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img][/left]
-[left][img]https://i.imgur.com/gaKxwa6.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img][/left]
 [left][/left]
 [left]
 
-[img]https://i.imgur.com/8QwDLP6.png[/img][/left]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/09.png[/img][/left]
 [size=5][color=#ffff00][b]MILITECH | FALCON[/b][/color][/size]
 [color=#ffff00][i]Tactical Ordnance Overclock
 [/i][/color]
 [b][color=#ffff00][size=4]Ranged Focused[/size][/color][/b]
 [list]
-[*][b][color=#ffff00]Power:[/color][/b] Bullets ricochet on every hit at any angle, with no reload mid-burst. Stray ricochets can hit you[/*]
-[*][b][color=#ffff00]Tech:[/color][/b] Overcharges the Bolt Shot perk into an obstacle-piercing round that detonates as an EMP blast at the impact point. Tech weapons also charge at real-world speed under time dilation[/*]
-[*][b][color=#ffff00]Smart:[/color][/b] ADS to mark every visible hostile, then fire to volley them all at once[/*]
+[*][size=3][b][color=#ffff00]Power:[/color][/b] [color=#ffffff]Bullets ricochet on every hit at any angle, with no reload mid-burst. Stray ricochets can hit you[/color][/size][/*]
+[*][size=3][b][color=#ffff00]Tech:[/color][/b] [color=#ffffff]Overcharges the Bolt Shot upgrade into an obstacle-piercing round that detonates as an EMP blast at the impact point. Tech weapons also charge at real-world speed under time dilation[/color][/size][/*]
+[*][size=3][b][color=#ffff00]Smart:[/color][/b] [color=#ffffff]ADS to mark every visible hostile, then fire to volley them all at once[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Falcon demonstrating the Tech Phase Round or the Smart Saturation Volley]
-[/i]
-[b][color=#ffff00][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#ffff00]Time Dilation:[/color][/b] X% → Y%[/*]
-[*][b][color=#ffff00]Duration:[/color][/b] Xs → Ys[/*]
-[*][b][color=#ffff00]Cooldown:[/color][/b] Xs → Ys[/*]
-[*][b][color=#ffff00]Power - Self Damage on Stray Ricochet:[/color][/b] X% per hit[/*]
-[*][b][color=#ffff00]Tech - HP Drain per Shot:[/color][/b] 10%[/*]
-[*][b][color=#ffff00]Smart - Cyberware Lockout on Volley:[/color][/b] Xs[/*]
-[*][b][color=#ffff00]Reflexes Attunement:[/color][/b] +X per point[/*]
-[/list]
-[/spoiler]
-[b][color=#ffff00][size=4][i]Three years. Nobody has filed a lawsuit.[/i][/size][/color][/b]
-[spoiler]
-[quote]Every weapon ships with safety limiters. There are firmware locks on receiver heat thresholds, magnetic capacitor draw rates, projectile bounce coefficients. They keep the operator breathing and the manufacturer free from liability. This was the status quo until Militech's Neural Acceleration division released the "Falcon" and practically dared consumers to file a lawsuit. [/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img][/left]
-[left][img]https://i.imgur.com/gaKxwa6.png[/img][/left]
+[i][color=#ffffff][size=3][Insert AVIF: Falcon demonstrating the Tech Phase Round or the Smart Saturation Volley][/size][/color][/i]
+
+[b][color=#ffff00][size=4][i]Three years. Nobody has filed a lawsuit[/i][/size][/color][/b]
+[quote]Every weapon ships with safety limiters. There are firmware locks on receiver heat thresholds, magnetic capacitor draw rates, projectile bounce coefficients. They keep the operator breathing and the manufacturer free from liability. This was the status quo until Militech's Neural Acceleration division released the "Falcon" and practically dared clients to sue.
+
+On paper, the Falcon provides a respectable reflex attunement like any other Sandevistan. Under the hood, it strips all those firmware limiters.
+
+Plug a Power weapon into Falcon's interface and the bounce-coefficient lock comes off. [b]Every round ricochets at any angle,[/b] off any surface. Except for one small bug: those stray rounds are just as likely to put a hole through you.
+
+Plug a Tech weapon in and the Bolt Shot upgrade gets overclocked into something that was never authorized, even by Militech: an obstacle-piercing round that [b]detonates a localized EMP[/b] on impact. Tech capacitors aren't rated for this discharge curve, pulling the trigger grounds the excess voltage straight into your nervous system.
+
+Plug a Smart weapon in and the targeting system stops filtering. Every visible hostile gets a hardpoint lock the moment you scope, letting you [b]volley at everything in sight.[/b] Downside is flooding your smartlink with that much targeting telemetry causes a massive buffer overflow and bricks your chrome until it can reboot
+
+Three years after the Falcon hit the market, nobody has filed a lawsuit. Militech's legal team doesn't read this as proof the system is safe. They read it as [b]proof the system works.[/b][/quote]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img][/left]
 [left][/left]
 [left][/left]
 [left][/left]
 [left]
-[img]https://i.imgur.com/2s6AK2j.png[/img][/left]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/11.png[/img][/left]
 [size=5][color=#980000][b]RAVEN | FUSILLADE[/b][/color][/size]
-[color=#980000][i]Saturation Cycle
+[color=#980000][i]Unrestricted Cyclic Override
 [/i][/color]
 [b][color=#980000][size=4]Ranged Focused[/size][/color][/b]
 [list]
-[*][b][color=#980000]Unload:[/color][/b] Fire faster than ever before possible, with higher recoil than ever. Accuracy by volume[/*]
+[*][size=3][b][color=#980000]Unload:[/color][/b] [color=#ffffff]Fire faster than ever before possible, with higher recoil than ever. Accuracy by volume[/color][/size][/*]
 [/list]
-[center][left][img]https://media.giphy.com/media/MjO76iqvgo9yTpbPuX/giphy.gif[/img][/left]
+[center][left][i][color=#ffffff][size=3][Insert AVIF: Shooting a huge amount of shots very quickly with a SOR-22][/size][/color][/i] [/left]
 [/center]
-[b][color=#980000][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#980000]Time Dilation:[/color][/b] X% → Y%[/*]
-[*][b][color=#980000]Duration:[/color][/b] Xs → Ys (brutally short by Sandy standards)[/*]
-[*][b][color=#980000]Cooldown:[/color][/b] Xs → Ys[/*]
-[*][b][color=#980000]Rate of Fire Multiplier:[/color][/b] +X%[/*]
-[*][b][color=#980000]Recoil Multiplier:[/color][/b] +X%[/*]
-[*][b][color=#980000]Reflexes Attunement:[/color][/b] +X per point[/*]
-[/list]
-[/spoiler]
-[b][color=#980000][size=4][i]Point it at the threat. Saturate the target.[/i][/size][/color][/b]
-[spoiler]
-[quote]When the Fourth Corporate War ended, the surviving MegaCorps spent the next decade picking through the wreckage of every smaller company that hadn't lived through it. Patents got bought up, R&D archives changed hands, projects were quietly absorbed by whoever had the resources to fund them.
 
-Some got shelved entirely. A small fraction got reverse-engineered. The [b]"Fusillade"[/b] is what Raven made out of one of those forgotten files.
-
-It originated from a European Arms Contractor called Euro Business Machines. They left behind patents on a system they called [i]Metalstorm[/i]. It was designed as a vehicle-mounted anti-tank platform that could coordinate a projectile barrage against armored targets. When Raven acquired it, they didn't bother trying to rebuild the vehicle platform. Instead, they asked a simple question: [b]What happens if you collapse that design into a Sandevistan?
-[/b]
-Their answer was Fusillade. On activation, the system uncages the connected ranged weapon's firing mechanic and drives the receiver to its absolute mechanical ceiling. However, the dilation is brutally short by Sandevistan standards, and Raven is clear about why; an operator's body simply couldn't tolerate the recoil load of a continuous Metalstorm cycle for longer than a heartbeat.
-
-But you don't need to. There's no precision to a Fusillade engagement. [b]You point it at the threat. Then you saturate the target.[/b][/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img][/left]
-[left][img]https://i.imgur.com/gaKxwa6.png[/img][/left]
+[b][color=#980000][size=4][i]Point and shoot[/i][/size][/color][/b]
+[quote]Not to be outdone by Militech and Zetatech, Raven has entered the Sandevistan arena recently with the "Fusillade." This Sandevistan is based on old Euro Business Machines (EBM) patents Raven recently acquired the rights to. While the EBM patents pertained to a system dubbed "Metalstorm," which focused on increasing anti-tank AI perception speeds during the Fourth Corporate War to [b]unleash a barrage of projectiles,[/b] this technology has been further refined by Raven to operate within the confines of a Sandevistan.
+ 
+This new Sandevistan removes all manufacturer safety restrictions from ranged weapons, allowing the user to fire at the [b]maximum mechanical rate the weapon can fire.[/b] Due to liability concerns, and the extreme amount of time dilation, the Fusillade is limited in duration. Raven discourages any aftermarket tampering of this Sandevistan.[/quote]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img][/left]
 [left]
 
 
-[img]https://i.imgur.com/oVjflk0.png[/img][/left]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/13.png[/img][/left]
 [size=5][color=#efefef][b]DYNALAR | TANTO[/b][/color][/size]
-[color=#efefef][i]Aggressive Defense
-[/i][/color]
+[i][color=#ffffff]Aggressive Defense[/color]
+[/i]
 [b][color=#efefef][size=4]Melee Focused[/size][/color][/b]
 [list]
-[*][b][color=#efefef]Bank:[/color][/b] Successfully executing a parry, finisher, or critical hit stores a kinetic charge in the Operating System[/*]
-[*][b][color=#efefef]Warp Behind:[/color][/b] While the operating system is active, consume a charge to instantly move behind your target for a devastating, guaranteed critical strike[/*]
+[*][size=3][b][color=#efefef]Bank:[/color][/b] [color=#ffffff]Successfully executing a parry, finisher, or critical hit stores a kinetic charge in the Operating System[/color][/size][/*]
+[*][size=3][b][color=#efefef]Warp Behind:[/color][/b] [color=#ffffff]While the system is active, consume a charge to instantly move behind your target for a devastating, guaranteed critical strike[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Tanto parry banking a charge, followed by the teleport and critical strike]
-[/i]
-[b][color=#efefef][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#efefef]Time Dilation:[/color][/b] X% → Y%[/*]
-[*][b][color=#efefef]Duration:[/color][/b] Xs → Ys[/*]
-[*][b][color=#efefef]Cooldown:[/color][/b] Xs → Ys[/*]
-[*][b][color=#efefef]Charge Capacity:[/color][/b] X → Y[/*]
-[*][b][color=#efefef]Reflexes Attunement:[/color][/b] +X per point[/*]
-[/list]
-[/spoiler]
+[i][color=#ffffff][size=3][Insert AVIF: Tanto parry banking a charge, followed by the teleport and critical strike][/size][/color][/i]
+
 [b][color=#efefef][size=4][i]A closed-casket guarantee[/i][/size][/color][/b]
-[spoiler]
-[quote]Dynalar has always sold to discerning clientele: the kind of solos who'd rather bring a knife to a smart gun fight. Their new Sandevistan line, the [b]"Tanto,"[/b] was made for operators who understand a parry isn't just for defense.
+[quote]Dynalar has always sold to discerning clientele: the kind of solos who'd rather bring a knife to a smart gun fight. Their new Sandevistan line, the "Tanto," was made for operators who understand [b]a parry isn't just for defense.[/b]
 
 Every time the operator parries, lands a critical strike, or finishes an opponent, the system siphons a portion of the kinetic energy into a specialized capacitive matrix. The charge stays there, waiting for the next poor bastard to settle the tab.
 
 Cashing in is the hard part. Dumping that much energy would shred the body of even the most chromed-up psycho. The Tanto forces you into a [b]braced defensive stance[/b] before it lets you unleash.
 
 The result is an instantaneous "blink" to the target's blind spot, making your next strike [b]a closed-casket guarantee.[/b][/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img][/left]
-[left][img]https://i.imgur.com/gaKxwa6.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img][/left]
 [left][/left]
 [left][/left]
 [left]
-[img]https://i.imgur.com/vyQQL38.png[/img][/left]
-[size=5][color=#ff0000][b]ARASAKA | "WATCHDOG" SOGIMSU[/b][/color][/size]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/15.png[/img][/left]
+[size=5][color=#ff0000][b]ARASAKA | WATCHDOG[/b][/color][/size]
 [color=#ff0000][i]Reactive Counter-Intelligence
 [/i][/color]
 [b][color=#ff0000][size=4]Stealth Focused[/size][/color][/b]
 [list]
-[*][b][color=#ff0000]Threat Model:[/color][/b] While charged and idle, the Watchdog passively parses the optic feeds of every hostile in line of sight against an internal threat model[/*]
-[*][b][color=#ff0000]Countermeasure:[/color][/b] The instant a hostile locks onto V, a defensive quickhack uploads into their optics and the Operator's Optical Camo engages on the same trigger[/*]
+[*][size=3][b][color=#ff0000]Threat Model:[/color][/b] [color=#ffffff]While charged and idle, the Watchdog monitors the perception of enemies in line of sight[/color][/size][/*]
+[*][size=3][b][color=#ff0000]Countermeasures:[/color][/b] [color=#ffffff]The instant a hostile notices the user, a defensive quickhack uploads into their optics and the Operator's Optical Camo engages on the same trigger[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Player being spotted, the enemy suddenly getting hacked, and the player turning invisible]
-[/i]
-[b][color=#ff0000][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#ff0000]Time Dilation:[/color][/b] Brief reactive window on detection[/*]
-[*][b][color=#ff0000]Optical Camo Duration:[/color][/b] Xs → Ys[/*]
-[*][b][color=#ff0000]Defensive Quickhack:[/color][/b] Reaver / Reboot Optics / X[/*]
-[*][b][color=#ff0000]Cooldown:[/color][/b] Xs → Ys[/*]
-[*][b][color=#ff0000]Detection Window:[/color][/b] Triggers on hostile lock-on[/*]
-[*][b][color=#ff0000]Reflexes Attunement:[/color][/b] +X per point[/*]
-[/list]
-[/spoiler]
-[b][color=#ff0000][size=4][i]The hostile never knows the difference.[/i][/size][/color][/b]
-[spoiler]
-[quote]Sungan never intended [b]"Sogimsu"[/b] for combat. Korea's largest chaebol designed the line in the late 2050s for executive protection: neural processors that ran sensor misdirection, virtual cloning, and trickery for board-level corpos who couldn't afford a lapse in their personal security. The word itself even translates roughly to [i]"deception."
-[/i]
-Arasaka acquired the production license sometime after the Fourth Corporate War and immediately forked the architecture into something the original engineers wouldn't recognize. Under their umbrella, Sungan's Sogimsu built for deception became Arasaka's [b]Watchdog[/b], built for threat-response.
+[i][color=#ffffff][size=3][Insert AVIF: Player being spotted, the enemy suddenly getting hacked, and the player turning invisible][/size][/color][/i]
 
-The Watchdog runs passive. While providing oversight, it parses the optic feeds of every hostile within range against an internal threat model, excelling in the gap between [i]"noticed"[/i] and [i]"engaged."[/i] The instant a hostile locks onto the Operator, a defensive quickhack uploads into their optics and the Operator's Optical Camo engages on the same trigger. By the time the hostile recovers, the threat they thought they identified is a ghost.
+[b][color=#ff0000][size=4][i]Never there[/i][/size][/color][/b]
+[quote]Sungan Industries intended the original Sogimsu architecture for sensory displacement, but Arasaka leveraged their production license to pivot the technology toward [b]automated threat-response.[/b] Under their umbrella, Sungan's evasion tech became Arasaka's "Watchdog".
 
-Sungan called it Sogimsu. Arasaka calls it Watchdog. [b]The hostile who sees the Operator never knows the difference.[/b][/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img]
-[img]https://i.imgur.com/gaKxwa6.png[/img]
-[img]https://i.imgur.com/rZBVKKD.png[/img][/left]
+By parsing the optic feeds of hostiles within range, it straddles the gap between being glimpsed and being seen. The instant an enemy locks onto the Operator, a defensive quickhack [b]scrambles their optics[/b] and the Operator's Optical Camo engages on the same trigger. By the time they recover, you were [b]never there. [/b][/quote]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/17.png[/img][/left]
 [size=5][color=#8e7cc3][b]ANVIL DEFENSE | JUGGERNAUT[/b][/color][/size]
 [color=#8e7cc3][i]Kinetic Absorption & Redirection
 [/i][/color]
 [b][color=#8e7cc3][size=4]Defense Focused[/size][/color][/b]
 [list]
-[*][b][color=#8e7cc3]Armor Lock:[/color][/b] On activation, the Operator is locked in place and rendered immune to all incoming damage. Every joule absorbed is stored in the system's internal flywheel array[/*]
-[*][b][color=#8e7cc3]Kinetic Burst:[/color][/b] When the lock disengages, the stored energy releases outward in a destructive kinetic shockwave scaled to the damage absorbed[/*]
+[*][size=3][b][color=#8e7cc3]Armor Lock:[/color][/b] [color=#ffffff]On activation, you are locked in place and rendered immune to all incoming damage. Every joule absorbed is stored in the system's internal flywheel array[/color][/size][/*]
+[*][size=3][b][color=#8e7cc3]Kinetic Burst:[/color][/b] [color=#ffffff]When the lock disengages, the stored energy releases a destructive shockwave scaled to damage absorbed[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Player entering Armor Lock, taking heavy fire, and then releasing the kinetic burst to clear the room]
-[/i]
-[b][color=#8e7cc3][size=4]Specs[/size][/color][/b]
-[spoiler]
-[list]
-[*][b][color=#8e7cc3]Time Dilation:[/color][/b] X% → Y%[/*]
-[*][b][color=#8e7cc3]Lock Duration:[/color][/b] Xs → Ys (Operator cannot move)[/*]
-[*][b][color=#8e7cc3]Damage Mitigation During Lock:[/color][/b] 100%[/*]
-[*][b][color=#8e7cc3]Burst Radius:[/color][/b] Xm[/*]
-[*][b][color=#8e7cc3]Burst Damage Scaling:[/color][/b] X% of damage absorbed[/*]
-[*][b][color=#8e7cc3]Cooldown:[/color][/b] Xs → Ys[/*]
-[*][b][color=#8e7cc3]Reflexes Attunement:[/color][/b] +X per point[/*]
-[/list]
-[/spoiler]
-[b][color=#8e7cc3][size=4][i]The Operator becomes a bomb.[/i][/size][/color][/b]
-[spoiler]
-[quote]The Armor Lock is the entire product. The time-dilation, the reflexes attunement, the cyberware form factor: all of it is a wrapper. The actual product is one engineering trick that Anvil Defense Systems has been perfecting for thirty years.
+[i][color=#ffffff][size=3][Insert AVIF: Player entering Armor Lock, taking heavy fire, and then releasing the kinetic burst to clear the room][/size][/color][/i]
 
-Anvil makes plating for AVs, riot mechs, and corporate convoy vehicles. Their reactive armor systems are standard on most NCPD response transports. Their shock dampeners are what keeps a Maglev from coming apart when it eats a sabot round. Until last year, Anvil had never produced cyberware in any form. The [b]"Juggernaut"[/b] is their first attempt. And Operators describe it as [i]"a piece of AV armor compressed to human scale."
-[/i]
-On activation, the Juggernaut forces the Operator's musculature into a full lockdown. For the duration, the Operator cannot move. They also cannot be hurt. Incoming ballistic, thermal, kinetic, and even [i]biological[/i] trauma is absorbed by the Juggernaut's internal flywheel array and stored as raw energy. When the lock disengages, every joule that the Operator absorbed is released outward in a kinetic burst that threatens to tear even molecules apart.
+[b][color=#8e7cc3][size=4][i]Become a bomb[/i][/size][/color][/b]
+[quote]Anvil Defense Systems doesn't make cyberware. For thirty years, they've built reactive plating for AVs, riot mechs, and NCPD transports. The Juggernaut is their first foray into the cyberware market. It is less of an Operating System than it is a piece of heavy vehicle armor compressed to human scale.
 
-Anvil's sales pitch is that the Juggernaut turns the Operator into [b]living terrain.[/b] Their competitors call this a polite way of saying [b]the Operator becomes a bomb.[/b] Field testing has confirmed both interpretations.[/quote]
-[/spoiler]
-[left][img]https://i.imgur.com/BJvhDqd.png[/img][/left]
-[left][img]https://i.imgur.com/gaKxwa6.png[/img][/left]
+On activation, the Juggernaut forces the Operator's musculature into [b]total lockdown.[/b] For the duration, the Operator cannot move, but they also cannot be damaged. Incoming ballistic, thermal, and kinetic trauma is absorbed by the system's internal flywheel array and banked as raw energy. When the lock disengages, every joule absorbed detonates outward in a [b]devastating kinetic shockwave.[/b]
+
+Anvil's marketing claims the Juggernaut turns the Operator into an indestructible bulwark. Competitors argue it [b]turns them into a bomb.[/b] Field testing confirms both are true.[/quote]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/04.png[/img][/left]
+[left][img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/grey%20line.png[/img][/left]
 [left]
 
 
-[img]https://i.imgur.com/CK24IAd.png[/img][/left]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/19.png[/img][/left]
 [size=5][color=#00ffff][b]WRAITH | PYROLITH[/b][/color][/size]
-[color=#00ffff][i]Jury-Rigged Ordnance Overdrive
+[color=#00ffff][i]Unstable Ordnance Overdrive
 [/i][/color]
 [b][color=#00ffff][size=4]Tech Focused[/size][/color][/b]
 [list]
-[*][b][color=#00ffff]Detonating Rounds:[/color][/b] Ballistic rounds superheat in the chamber and detonate on impact like miniature mortar shells, dealing area damage[/*]
-[*][b][color=#00ffff]Cluster Grenades:[/color][/b] Thrown grenades fracture mid-air into cluster munitions[/*]
-[*][b][color=#00ffff]Rapid Synthesis:[/color][/b] Chemical synthesis nodes run at 400% of rated discharge — grenade cooldown is reduced by 80%, replacing stock as fast as the Operator can throw it[/*]
+[*][size=3][b][color=#00ffff]Detonating Rounds:[/color][/b] [color=#ffffff]Ballistic rounds detonate on impact like miniature mortar shells, dealing area damage[/color][/size][/*]
+[*][size=3][b][color=#00ffff]Cluster Grenades:[/color][/b] [color=#ffffff]Thrown grenades fracture mid-air into cluster munitions[/color][/size][/*]
+[*][size=3][b][color=#00ffff]Rapid Synthesis:[/color][/b] [color=#ffffff]Grenade cooldown is reduced by 80%, replacing stock as fast as you can throw it[/color][/size][/*]
 [/list]
-[i][Insert AVIF: Player firing detonating rounds and throwing a grenade that splits into a cluster explosion]
-[/i]
-[b][color=#00ffff][size=4]Specs[/size][/color][/b]
-[spoiler]
+[i][color=#ffffff][size=3][Insert AVIF: Player firing detonating rounds and throwing a grenade that splits into a cluster explosion][/size][/color][/i]
+
+[b][color=#00ffff][size=4][i]Technically unique, not technically legal[/i][/size][/color][/b]
+[quote]Wraiths don't really do R&D. They drag whatever corpo trash they can find back to camp and see what they can cobble together. The Pyrolith is one of these scrap-metal abortions.
+
+A targeting subsystem pulled from a Militech recon drone. A synthesis bus from a Zhirafa industrial fabricator. An energy regulator yanked from whatever Arasaka model was on the workbench that week. The chassis: whatever coprocessor they gouged out of a dead merc's spine. Every Pyrolith is technically unique. None are technically legal.  
+
+Despite their jury-rigged creation, every Pyrolith does about the same thing. On activation, the system strips every safety governor off the Operator's weapons and synthesis modules. [b]Ballistic rounds superheat[/b] in the chamber and detonate on impact like miniature mortar shells. Thrown grenades fracture mid-air into [b]cluster munitions[/b]. Chemical synthesis nodes run at 400% of rated discharge, replacing grenade stock as fast [b]as you can throw it.[/b]
+
+You won't be pulling this out of a Vendit. Seeing one for sale usually means a Wraith managed to blow themselves up spectacularly, not an uncommon fate with these.[/quote]
+
+[color=#ffffff][size=5][b]Additional Information[/b][/size][/color]
+
+[size=4][b]Install[/b][/size]
+[color=#ffffff][size=3]Unpack the zip file into your Cyberpunk 2077 folder, or install with Vortex or MO2[/size][/color]
+
+[color=#ff0033][size=5][b]Credits and Thanks [/b][/size][/color]
+
+[size=3][color=#ffffff][b]This new update could not exist without[/b][/color][b] [/b][url=https://www.nexusmods.com/profile/0nlyQ][color=#ff0033][b]0nlyQ[/b][/color][/url][/size]
+[color=#ffffff][size=3]He completely revamped the mechanics, added new Operating Systems and fixed countless bugs caused by the latest patches [/size][/color]
+
+[size=3][color=#ffffff]Special thanks to[/color] [url=https://www.nexusmods.com/profile/Phoenicia4][color=#ff0033][b]Phoenicia[/b][/color][/url] [color=#ffffff]for the Enemy Time Dilation Rework, all of our testers from the[/color] [color=#ff0033][b][url=https://www.nexusmods.com/games/cyberpunk2077/collections/iszwwe][color=#ff0033]WTNC[/color][/url] [url=https://discord.gg/eJdMQKnQVt][color=#ff0033]THING Test[/color][/url][/b][/color] [color=#ffffff](our coveted Abstracted Atoll members), the[/color] [url=https://discord.com/invite/U65Nhdcns8][color=#ff0033][b]Chrome and Blood[/b][/color][/url] [color=#ffffff]modlist testers, and of course,[/color] [url=https://www.nexusmods.com/cyberpunk2077/users/3534466][color=#ff0033][b]TeslaCoiled[/b][/color][/url][color=#ffffff], who will forever be in our hearts[/color][/size]
+[img]https://raw.githubusercontent.com/z9er/CyberpunkTHING/refs/heads/main/resources/images/tdo/20.png[/img]
 [list]
-[*][b][color=#00ffff]Time Dilation:[/color][/b] X% → Y%[/*]
-[*][b][color=#00ffff]Duration:[/color][/b] Xs → Ys[/*]
-[*][b][color=#00ffff]Cooldown:[/color][/b] Xs → Ys[/*]
-[*][b][color=#00ffff]Detonation Radius (Rounds):[/color][/b] Xm[/*]
-[*][b][color=#00ffff]Cluster Submunition Count:[/color][/b] X per grenade[/*]
-[*][b][color=#00ffff]Synthesis Cooldown Reduction:[/color][/b] -80%[/*]
-[*][b][color=#00ffff]Reflexes Attunement:[/color][/b] +X per point[/*]
+[*][size=3][url=https://www.nexusmods.com/cyberpunk2077/users/4076520][color=#ff0033][b]walrus420[/b][/color][/url] [color=#ffffff]for the the QianT logo, and high-res versions of all the other corporation logos[/color][/size][/*]
+[*][size=3][color=#ffffff]For the Teleportation mappin markers:[/color] [color=#ff0033][b][url=https://www.nexusmods.com/cyberpunk2077/users/93676073][color=#ff0033]PerfNormBeast[/color][/url]'s[/b][/color] [url=https://www.nexusmods.com/cyberpunk2077/mods/2917][color=#ff0033][b]Grappling Hook Mod[/b][/color][/url][/size][/*]
+[*][size=3][color=#ffffff]Thanks for specific help and utilities:[/color] [url=https://www.nexusmods.com/cyberpunk2077/users/108159138][color=#ff0033][b]psiberx[/b][/color][/url][color=#ffffff],[/color] [url=https://www.nexusmods.com/cyberpunk2077/users/77476393][color=#ff0033][b]keanuWheeze/NexusGuy999[/b][/color][/url][color=#ffffff],[/color] [url=https://www.nexusmods.com/cyberpunk2077/users/78269633][color=#ff0033][b]scissors[/b][/color][/url][color=#ffffff], and the[/color] [url=https://discord.com/invite/Epkq79kd96][color=#ff0033][b]modding Discord[/b][/color][/url][/size][/*]
+[*][size=3][color=#ffffff]Can't forget the[/color] [url=https://www.nexusmods.com/cyberpunk2077/mods/2201][color=#ff0033][b]WolvenKit[/b][/color][/url] [color=#ffffff]team, the[/color] [url=https://www.nexusmods.com/cyberpunk2077/mods/107][color=#ff0033][b]Cyber Engine Tweaks[/b][/color][/url] [color=#ffffff]team, and the[/color] [url=https://www.nexusmods.com/cyberpunk2077/mods/1511][color=#ff0033][b]Redscript[/b][/color][/url] [color=#ffffff]team for making the tools we all use[/color][/size][/*]
 [/list]
-[/spoiler]
-[b][color=#00ffff][size=4][i]Acquiring one means killing the Wraith currently wearing it.[/i][/size][/color][/b]
-[spoiler]
-[quote]The Wraiths do not have an R&D division. They have a salvage circuit that runs from the Badlands to the corporate trash dumps outside Night City, and a chop shop they do not talk about where the salvage gets rebuilt into things its original engineers never imagined. The [b]"Pyrolith"[/b] is the most ambitious build they run.
-
-Every Pyrolith is a half-dozen pieces of stolen corporate hardware grafted onto a scavenged time-dilation chassis. The targeting subsystem was pulled from a Militech recon drone. The synthesis bus came out of a Zetatech industrial fabricator. The energy regulator is whatever Arasaka model was on the bench that week. The chassis itself is whatever Sandevistan the original owner died wearing. [b]Every unit is technically unique. None are technically legal.
-[/b]
-Despite the patchwork, every Pyrolith does the same thing. On activation, the system strips every safety governor off the Operator's weapons and synthesis modules. Ballistic rounds superheat in the chamber and detonate on impact like miniature mortar shells. Thrown grenades fracture mid-air into cluster munitions. Chemical synthesis nodes run at four hundred percent of rated discharge, replacing grenade stock as fast as the Operator can throw it.
-
-The Wraiths do not sell Pyroliths. [b]Acquiring one means killing the Wraith currently wearing it.[/b] The math has not been in anyone's favor.[/quote]
-[/spoiler]
+[size=3][color=#ffffff]We hope you have as much fun as we had[/color][/size]
