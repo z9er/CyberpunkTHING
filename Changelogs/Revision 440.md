@@ -15,8 +15,7 @@ Thanks to **Pigeon** and **Hex** for testing and conflict-patching this round.
 ## Added
 
 ### Gameplay Mechanics
-- [Hold to Overclock while scanning 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21656)
-  lets you overclock mid-scan instead of breaking out first
+- [Hold to Overclock while scanning 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21656)<br>lets you overclock mid-scan instead of breaking out first
 
 ### Vehicles and Driving
 - [Courier Jobs - Feature Settings 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21707)<br>
