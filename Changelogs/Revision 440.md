@@ -15,16 +15,19 @@ Thanks to **Pigeon** and **Hex** for testing and conflict-patching this round.
 ## Added
 
 ### Gameplay Mechanics
-- [Hold to Overclock while scanning 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21656) — lets you overclock mid-scan instead of breaking out first
+- [Hold to Overclock while scanning 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21656)
+  lets you overclock mid-scan instead of breaking out first
 
 ### Vehicles and Driving
-- [Courier Jobs - Feature Settings 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21707) — adds a gig-style courier job loop; configurable in Native Settings
+- [Courier Jobs - Feature Settings 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21707)
+  adds a gig-style courier job loop; configurable in Native Settings
 - [Maelstrom Crystal Coat 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21351)
 - [Matrix Crystal Coat 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/21319)
 - [Mizutani Shion horn fix 1.01](https://www.nexusmods.com/cyberpunk2077/mods/21518)
 
 ### Bug Fixes
-- [Psycho Killer Reward - Restored 1.0](https://www.nexusmods.com/cyberpunk2077/mods/15497) — restores the reward the base game silently drops after the last Psycho
+- [Psycho Killer Reward - Restored 1.0](https://www.nexusmods.com/cyberpunk2077/mods/15497)
+  restores the reward the base game silently drops after the last Psycho
 
 ---
 
@@ -33,7 +36,8 @@ Thanks to **Pigeon** and **Hex** for testing and conflict-patching this round.
 ### Gameplay Mechanics
 - [Movement And Camera Tweaks 1.4](https://www.nexusmods.com/cyberpunk2077/mods/4039)
 - [Neuralware - Chipware Expansion 1.1.9](https://www.nexusmods.com/cyberpunk2077/mods/19798)
-- [Stealthrunner 1.8.2](https://www.nexusmods.com/cyberpunk2077/mods/7616) — reworked detection meter; stealth builds feel noticeably different
+- [Stealthrunner 1.8.2](https://www.nexusmods.com/cyberpunk2077/mods/7616)
+  reworked detection meter; stealth builds feel noticeably different
   - **Pack change:** left the default sensitivity as-is to match the rest of the balance
 
 ### NPC Interactions
@@ -41,7 +45,8 @@ Thanks to **Pigeon** and **Hex** for testing and conflict-patching this round.
 - [River Romanced Enhanced 2.3.1](https://www.nexusmods.com/cyberpunk2077/mods/4870)
 
 ### World Interactions
-- [Night City Interactions - Core 3.5.0](https://www.nexusmods.com/cyberpunk2077/mods/5519) — new interaction points citywide
+- [Night City Interactions - Core 3.5.0](https://www.nexusmods.com/cyberpunk2077/mods/5519)
+  new interaction points citywide
 - [NCI Addon - Badlands and Pacifica 1.4.0](https://www.nexusmods.com/cyberpunk2077/mods/15138)
 - [NCI Addon - Heywood 1.3.0](https://www.nexusmods.com/cyberpunk2077/mods/14806)
 - [Immersive Rippers 2.4.0](https://www.nexusmods.com/cyberpunk2077/mods/7064)
