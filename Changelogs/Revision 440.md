@@ -19,7 +19,7 @@ Thanks to **Pigeon** and **Hex** for testing and conflict-patching this round.
   lets you overclock mid-scan instead of breaking out first
 
 ### Vehicles and Driving
-- [Courier Jobs - Feature Settings 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21707)
+- [Courier Jobs - Feature Settings 1.0.0](https://www.nexusmods.com/cyberpunk2077/mods/21707)<br>
   adds a gig-style courier job loop; configurable in Native Settings
 - [Maelstrom Crystal Coat 1.0.1](https://www.nexusmods.com/cyberpunk2077/mods/21351)
 - [Matrix Crystal Coat 1.0.2](https://www.nexusmods.com/cyberpunk2077/mods/21319)
