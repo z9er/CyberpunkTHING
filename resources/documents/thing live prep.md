@@ -52,3 +52,17 @@ bullets?
 - should stealthrunner objectives show by default?
 - noise of some cyber enemy abilities far too loud
 - is balls to the wall netrunner an issue? test
+- all foods network inconsistency locked area but no access point
+- we have your wife gig reported no access point, but then, fixed on reload, network consistency
+- unbreachable npcs open world touki found
+- vehicle driving combat too much damage taken in
+- second heart might have an issue with enemies just shooting the instant you get up
+- enemy floats into air when power attacked melee on seated enemy
+- kurosawa working on cyberpsychos when bosses were supposed to be exempt
+- cops stuck in searching mode after you escape
+- dual take down in the rescue triggers combat
+- does smart sniper trivialize the game?
+- does silenced pistol early trivialize the game stealth?
+- bullet reflection too strong damage wise
+- delamain weird audio thing
+- achilles/omaha crosshair issue
