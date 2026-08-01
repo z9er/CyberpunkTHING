@@ -46,3 +46,4 @@ firestarter
 - anvil os issue
 - damage scaling, what's needed, status effects, bosses stuff, maxtac stuff, reflecting
 bullets?
+- save issue during disasterpiece vanilla game bug?
