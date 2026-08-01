@@ -1,6 +1,6 @@
 issues, thoughts, potential issues preparing for live thing:
 
-- weapons showing incorrectly at vendors
+- ~~weapons showing incorrectly at vendors~~ **FIXED** (Buff)
 - do any modded weapons need to be tuned or are they in line with vanilla
 - damage from cyber enemy abilities, how do i tune that (poison grenades, etc)
 - damage to higher rank and normal rank than normal enemies (flatten it out or mostly)
