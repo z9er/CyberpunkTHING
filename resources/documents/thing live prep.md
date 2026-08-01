@@ -1,4 +1,4 @@
-issues, thoughts, potential issues preparing for live thing:
+### issues, thoughts, potential issues preparing for live thing:
 
 - do any modded weapons need to be tuned or are they in line with vanilla
 - does tougher security turrets also apply to npc dropped turrets?
@@ -21,11 +21,9 @@ issues, thoughts, potential issues preparing for live thing:
 - cops stuck in searching mode after you escape
 - does smart sniper trivialize the game?
 - does silenced pistol early trivialize the game stealth?
-
 - delamain weird audio thing
 
-
-fixed or fix in progress issues: 
+### fixed or fix in progress issues: 
 
 - ~~weapons showing incorrectly at vendors~~ **FIXED** (Buff)
 - ~~achilles/omaha crosshair issue~~ **FIXED** by seijax
@@ -74,7 +72,7 @@ bullets?~~ on q's list
 - ~~damage to higher rank and normal rank than normal enemies (flatten it out or mostly)~~ **FIXED** dmg scaling adjustment
 - ~~poison drones do damage to non poison tank enemies if player blew them up on others? (might open too big a rabbithole, cuz then, could poison tank enemies also hurt other enemies)~~ not needed 
 
-for phoenicia active
+#### for phoenicia active
 
 **must have:**
 
@@ -92,25 +90,25 @@ for phoenicia active
 - enemies keeping shooting at player if they "die" and have second heart, sometimes leading to them getting killed
 - resized trauma team vehicle so they could jump out of it like in that mod for the trauma team ability in reinforcements
 
-for seijax active
+#### for seijax active
 
 - nethound interaction with MBN, potential fix, get his thoughts
 - nethound level adjustment on our side
 
-for dnbhlp active
+#### for dnbhlp active
 
 - respect your weapon settings interactions with crowds/bystanders/hostages want to be able to turn off
 
-for misoru 
+#### for misoru 
 
 - can bloom do self damage potentially to player without affecting the chance to affect enemies?
 - can the same be done for self damage from shuriken grenade?
 
-for darkfortuneteller
+#### for darkfortuneteller
 
 - consumable animations that would work with dark future so we could include it with list
 
-for q active
+#### for q active
 
 - new damage scaling options needed: DOT enemy things, incoming damage from bosses, incoming damage from maxtac, outgoing damage from bullet reflect, enemy grenades?
 - dont fear the reaper network issue fully locked down no access point available (does exist tho behind locked door)
