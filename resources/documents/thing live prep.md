@@ -1,3 +1,5 @@
+issues, thoughts, potential issues preparing for live thing:
+
 - weapons showing incorrectly at vendors
 - do any modded weapons need to be tuned or are they in line with vanilla
 - damage from cyber enemy abilities, how do i tune that (poison grenades, etc)
@@ -29,7 +31,7 @@
 - enemy grenade slider?
 - corner of the room after oda fight left of exit door top corner kills you... why
 - how to lower boss damage?
-- are the guys at the gigs/minibosses a different slider?
+- are the guys at the gigs/minibosses a different slider? (medicine watson gig shotgun guy in particular)
 - do the mods that misoru added as shards work with readable shards?
 - should i add quickmelee sandevistan thing?
 - respect your weapon crowd shit
@@ -47,3 +49,6 @@ firestarter
 - damage scaling, what's needed, status effects, bosses stuff, maxtac stuff, reflecting
 bullets?
 - save issue during disasterpiece vanilla game bug?
+- should stealthrunner objectives show by default?
+- noise of some cyber enemy abilities far too loud
+- is balls to the wall netrunner an issue? test
