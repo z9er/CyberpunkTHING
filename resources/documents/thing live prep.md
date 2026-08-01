@@ -2,47 +2,47 @@ issues, thoughts, potential issues preparing for live thing:
 
 - ~~weapons showing incorrectly at vendors~~ **FIXED** (Buff)
 - do any modded weapons need to be tuned or are they in line with vanilla
-- damage from cyber enemy abilities, how do i tune that (poison grenades, etc)
-- damage to higher rank and normal rank than normal enemies (flatten it out or mostly)
-- poison drones do damage to non poison tank enemies if player blew them up on others? (might open too big a rabbithole, cuz then, could poison tank enemies also hurt other enemies) 
+- ~~damage from cyber enemy abilities, how do i tune that (poison grenades, etc)~~ for Q dmg scaling
+- ~~damage to higher rank and normal rank than normal enemies (flatten it out or mostly)~~ **FIXED** dmg scaling adjustment
+- ~~poison drones do damage to non poison tank enemies if player blew them up on others? (might open too big a rabbithole, cuz then, could poison tank enemies also hurt other enemies)~~ not needed 
 - does tougher security turrets also apply to npc dropped turrets?
-- can poison tank be triggered by enemies who arent dead but are lying in pain on the ground?
-- test scripted missions to see if they break (flashbacks, dont fear the reaper, etc, that stupid PL one where netrunner runs way)
-- electric enemy and then get cc'd then die if melee (maybe a tell, like first hit doesn't but second hit ccs?) or visual indicator like lightning or some shit (too blatant prob)
-- turn off biomon health monitor bomb (no option currently)
-- turn off trauma team
-- differentiated call in icon for airstrike?
-- red line stuck on me after being hacked by codefreak in all foods
-- red line happens other places
-- frost bullets, too much?
-- bullets slowed during focus/deep breath
-- bullets slowed during seijax's berserk
-- crosshair fade minimal icon for achilles is not the dot
+- ~~can poison tank be triggered by enemies who arent dead but are lying in pain on the ground?~~ on phoenicia's list, known
+- ~~test scripted missions to see if they break (flashbacks, dont fear the reaper, etc, that stupid PL one where netrunner runs way)~~ some issues with network consistency, but don't break, Q
+- ~~electric enemy and then get cc'd then die if melee (maybe a tell, like first hit doesn't but second hit ccs?) or visual indicator like lightning or some shit (too blatant prob)~~ mentioned to phoenicia, not blocker
+- ~~turn off biomon health monitor bomb (no option currently)~~ phoenicia's working on
+- ~~turn off trauma team~~ adjusted setting
+- ~~differentiated call in icon for airstrike?~~ phoenicia's working on
+- ~~red line stuck on me after being hacked by codefreak in all foods~~ **FIXED** by Q in MBAI update
+- ~~red line happens other places~~ **FIXED** by Q in MBAI update
+- ~~frost bullets, too much?~~ turned off in cyber enemies
+- ~~bullets slowed during focus/deep breath~~ **FIXED** by Q in TDO update
+- ~~bullets slowed during seijax's berserk~~ **FIXED** by Q in TDO update
+- ~~crosshair fade minimal icon for achilles is not the dot~~ **FIXED** by seijax in crosshair fade update
 - sasquatch auto combat, can you sneak around? 
-- panam rescue guy riders in the storm radar area blocks sneak in, cyberware around or
-- couldnt see boss abilities
-- oda attacks Way fast, prob overtuned
-- oda clones say boris, make not scannable right pane show up for em?
-- valentino reinforcement or there was one during the knock the door apt mission
+- ~~panam rescue guy riders in the storm radar area blocks sneak in, cyberware around~~ tested and doable with ECM and the like
+- ~~couldnt see boss abilities~~ phoenicia's working on
+- ~~oda attacks Way fast, prob overtuned~~ **FIXED** by TDO settings adjustment
+- ~~oda clones say boris, make not scannable right pane show up for em?~~ phoenicia's working on
+- ~~valentino reinforcement or there was one during the knock the door apt mission~~ probably a one off, not concerned 
 - reed sneaks after the sniper thing mission pre party, bug due to activating enemy?
-- you know my name sniper section, unlock the devices in that section auto?
-- damage out to bosses tune
-- double check throwing knives
-- enemy grenade slider?
-- corner of the room after oda fight left of exit door top corner kills you... why
-- how to lower boss damage?
+- ~~you know my name sniper section, unlock the devices in that section auto?~~ works completely fine
+- ~~damage out to bosses tune~~ initial adjustments done, will do final tuning once q updates damage scaling
+- ~~double check throwing knives~~ seem fine
+- ~~enemy grenade slider?~~ for q, will mention later
+- ~~corner of the room after oda fight left of exit door top corner kills you... why~~ consistent but, literally no one is ever going to run into this, i did by complete accident
+- ~~how to lower boss damage?~~ for q, will mention later
 - are the guys at the gigs/minibosses a different slider? (medicine watson gig shotgun guy in particular)
 - do the mods that misoru added as shards work with readable shards?
 - should i add quickmelee sandevistan thing?
-- respect your weapon crowd shit
+- ~~respect your weapon crowd shit~~ sent to dnbhlp, see if adjusted if not may need to remove
 - should we include synthdose? 
 - make slaughtomatic platinum more expensive 
 - mantis blade lightning hack relic perk issue touki mentioned
-- misoru bloom self damage
-- misoru shuriken grenade self damage?
+- ~~misoru bloom self damage~~ mentioned to misoru
+- ~~misoru shuriken grenade self damage?~~ will mention to misoru
 - scannable stash issue with equipment ex
-- net hound/ram interaction with MBN
-- change net hound level available
+- ~~net hound/ram interaction with MBN~~ will mention to seijax
+- ~~change net hound level available~~ on list to discuss with seijax
 - much better netrunning dtfr is totally locked down and all combat, slight issue with 
 firestarter
 - anvil os issue
@@ -66,3 +66,50 @@ bullets?
 - bullet reflection too strong damage wise
 - delamain weird audio thing
 - achilles/omaha crosshair issue
+- ~~consumable animations doesn't work with dark future~~ darkfortuneteller working on it
+
+for phoenicia active
+
+**must have:**
+
+- a way to turn off biomon health monitor self-destruct in menu
+- way to turn immersive enemy ai off completely for wtnc for the pussies there
+- sonic shock part of ecm seems to cause issues with crowds police etc
+
+**would like:**
+
+- couldn't tell if the people doing the call in for air strike were using the usual call reinforcements symbol, it seemed they were using the normal one
+- slider for flashbangs in immersive shooting ai as to how it affects enemy accuracy
+- the virtual clones in oda fight show boris when scanned, maybe make them not scannable at all
+- can't currently see boss abilities when scanning like other enemies
+- gas tank enemies if on the ground "unconscious" the ability still triggers
+- enemies keeping shooting at player if they "die" and have second heart, sometimes leading to them getting killed
+- resized trauma team vehicle so they could jump out of it like in that mod for the trauma team ability in reinforcements
+
+for seijax active
+
+- nethound interaction with MBN, potential fix, get his thoughts
+- nethound level adjustment on our side
+
+for dnbhlp active
+
+- respect your weapon settings interactions with crowds/bystanders/hostages want to be able to turn off
+
+for misoru 
+
+- can bloom do self damage potentially to player without affecting the chance to affect enemies?
+- can the same be done for self damage from shuriken grenade?
+
+for darkfortuneteller
+
+- consumable animations that would work with dark future so we could include it with list
+
+for q active
+
+- new damage scaling options needed: DOT enemy things, incoming damage from bosses, incoming damage from maxtac, outgoing damage from bullet reflect, enemy grenades?
+- dont fear the reaper network issue fully locked down no access point available (does exist tho behind locked door)
+- firestarter partially locked down no access point
+- all foods partially locked down no access point
+- 
+
+
