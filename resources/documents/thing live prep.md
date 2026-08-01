@@ -99,6 +99,15 @@ bullets?~~ on q's list
 
 - respect your weapon settings interactions with crowds/bystanders/hostages want to be able to turn off
 
+#### for q active
+
+- new damage scaling options needed: DOT enemy things, incoming damage from bosses, incoming damage from maxtac, outgoing damage from bullet reflect, enemy grenades?
+- dont fear the reaper network issue fully locked down no access point available (does exist tho behind locked door)
+- firestarter partially locked down no access point
+- all foods partially locked down no access point
+- anvil os issue enemies dont shoot at it at all
+- we have your wife gig reported no access point, but then a save reload showed it, network inconsistency
+
 #### for misoru 
 
 - can bloom do self damage potentially to player without affecting the chance to affect enemies?
@@ -108,13 +117,6 @@ bullets?~~ on q's list
 
 - consumable animations that would work with dark future so we could include it with list
 
-#### for q active
 
-- new damage scaling options needed: DOT enemy things, incoming damage from bosses, incoming damage from maxtac, outgoing damage from bullet reflect, enemy grenades?
-- dont fear the reaper network issue fully locked down no access point available (does exist tho behind locked door)
-- firestarter partially locked down no access point
-- all foods partially locked down no access point
-- anvil os issue enemies dont shoot at it at all
-- we have your wife gig reported no access point, but then a save reload showed it, network inconsistency
 
 
