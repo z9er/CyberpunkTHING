@@ -3,7 +3,7 @@ shot list
 **combat and enemies**
 
 - example of an actual fight with the actual UI, where you quickly dispatch some enemies then die (under bridge ncpd watson?) 
-- footage of shooting a wall with recoil recovery turned on (vanilla way it is) then footage of the same with recoil recovery off 
+- SHOWCASE - COMBAT RECOIL RECOVERY - footage of shooting a wall with recoil recovery turned on (vanilla way it is) then footage of the same with recoil recovery off 
 - footage of an enemy calling in reinforcements, then reinforcements arriving and you shooting at them (demonstrates the reinforcements part of the reinforcements mod)
 - footage of an enemy calling in an air strike and you getting hit by it. (demonstrates the fire support part of the reinforcement mod) 
 - footage of the player using a smoke for cover to close with melee (immersive shooting ai smoke change)
@@ -28,7 +28,7 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 
 **hud**
 
-- SHOWCASE - HUDE OVERVIEW - footage of the player walking around, using zoom without a weapon out to show map, then pressing f6 to show the map then f6 again to untoggle it, crouching to show the hud, uncrouching, taking a weapon out to show the hud, then putting weapon away
+- SHOWCASE - HUD OVERVIEW - footage of the player walking around, using zoom without a weapon out to show map, then pressing f6 to show the map then f6 again to untoggle it, crouching to show the hud, uncrouching, taking a weapon out to show the hud, then putting weapon away
 - SHOWCASE - HUD CAR - footage of player getting into a car in first person showing that the minimap shows up while youre doing so
 - SHOWCASE - HUD ENEMY - footage of player looking at enemies out of combat showing that there's no markers, then marking one of the enemies and moving behind cover to show that they still show up as a red outline behind cover to show marking still works
 - SHOWCASE - HUD WEAPON - footage demonstrating that the crosshair isn't there for power weapons, showing the player adsing with the weapon, then pulling out a smart weapon to put over an enemy to show the crosshair and locking, then taking out a knife showing that there's no crosshair until the player moves to throw it, at which time there is
