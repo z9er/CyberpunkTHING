@@ -35,8 +35,8 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 
 **stealth**
 
-- footage of the player trying to cross that guy in the tutorial and getting caught
-- footage of player crossing in front of the tutorial guy but this time he crouch slides across and isn't seen
+- SHOWCASE - STEALTH TUTORIAL - footage of the player trying to cross that guy in the tutorial and getting caught
+- SHOWCASE - STEALTH TUTORIAL - footage of player crossing in front of the tutorial guy but this time he crouch slides across and isn't seen
 - footage of player triggering the radar trace
 - SHOWCASE - STEALTH EQUIPPING ECM - footage of player buying the anti radar cyberware at a vendor
 - footage of player not being traced by radar
