@@ -28,7 +28,7 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 
 **hud**
 
-- footage of the player walking around, using zoom without a weapon out to show map, then pressing f6 to show the map then f6 again to untoggle it, crouching to show the hud, uncrouching, taking a weapon out to show the hud, then putting weapon away
+- SHOWCASE - HUDE OVERVIEW - footage of the player walking around, using zoom without a weapon out to show map, then pressing f6 to show the map then f6 again to untoggle it, crouching to show the hud, uncrouching, taking a weapon out to show the hud, then putting weapon away
 - footage of player getting into a car in first person showing that the minimap shows up while youre doing so
 - footage of player looking at enemies out of combat showing that there's no markers, then marking one of the enemies and moving behind cover to show that they still show up as a red outline behind cover to show marking still works
 - footage demonstrating that the crosshair isn't there for power weapons, showing the player adsing with the weapon, then pulling out a smart weapon to put over an enemy to show the crosshair and locking, then taking out a knife showing that there's no crosshair until the player moves to throw it, at which time there is
