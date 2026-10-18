@@ -61,7 +61,7 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 **weapons**
 
 - footage of ghost blade being drawn
-- footage of ranger boomerang being drawn
+- SHOWCASE - WEAPONS RANGER BOOMERANG - footage of ranger boomerang being drawn
 - footage of kill-cam being drawn
 - footage of the new quasar being drawn
 - footage of sloppy seconds being drawn then adsing
