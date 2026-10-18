@@ -19,7 +19,7 @@ shot list
 - SHOWCASE - CYBERWARE JARNGREIPR - footage of player using jarngreipr to float while shooting a projectile launcher?
 - SHOWCASE - CYBERWARE SPONSORED COVERING - footage of installing cyberware at vik's to show the sponsored covering cyberware if you want to pretend you're in nascar 
 - SHOWCASE - CYBERWARE NEURALWARE STORE - footage of the player browsing the chipware store, buying the hound chipware, and installing chipware in their implant taking the uncracked hound chip and paying for the license
-- footage of player using hound in combat with an ashura with the long lock on for a trickshot 
+- SHOWCASE - CYBERWARE ASHURA - footage of player using hound in combat with an ashura with the long lock on for a trickshot 
 - SHWOCASE - CYBERWARE ZETATECH - footage of the player using zetatech to snap some people aimbot style
 - SHOWCASE - CYBERWARE RAVEN - footage of the player using raven to fuck someone up with an lmg defender shooting them a billion times 
 - SHOWCASE - CYBERWARE PORTIONED BERSERK - footage of portioned berserk in action
