@@ -44,7 +44,7 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
 - SHOWCASE - STEALTH CAR TAKE CONTROL - footage of hacking a car and using it to run over enemies, for it to not instantly alert enemies and instead just make them aware rather than instant combat 
 - footage of the stealthrunner menu and some of the perks, as well as explaining that regular perks are used for it
-- footage of being behind someone and using a stealth finisher with a weapon
+- SHOWCASE - STEALTH KILL - footage of being behind someone and using a stealth finisher with a weapon
 
 **netrunning**
 
