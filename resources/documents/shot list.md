@@ -14,7 +14,7 @@ shot list
 
 **cyberware**
 
-- footage of player using berserk and actually taking damage while we explain how alternate berserk works and that it no longer makes you immortal
+- SHOWCASE - ALTERNATE BERSERK - footage of player using berserk and actually taking damage while we explain how alternate berserk works and that it no longer makes you immortal
 - random combat b roll while we show a picture of a couple of berserks that have ranged bonuses, and explain that berserks can be used with range 
 - footage of player using jarngreipr to float while shooting a projectile launcher?
 - footage of installing cyberware at vik's to show the sponsored covering cyberware if you want to pretend you're in nascar 
