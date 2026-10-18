@@ -37,9 +37,9 @@ shot list
 
 - SHOWCASE - STEALTH TUTORIAL - footage of the player trying to cross that guy in the tutorial and getting caught
 - SHOWCASE - STEALTH TUTORIAL - footage of player crossing in front of the tutorial guy but this time he crouch slides across and isn't seen
-- footage of player triggering the radar trace
+- SHOWCASE - STEALTH RADAR ON - footage of player triggering the radar trace
 - SHOWCASE - STEALTH EQUIPPING ECM - footage of player buying the anti radar cyberware at a vendor
-- footage of player not being traced by radar
+- SHOWCASE - STEALTH RADAR OFF footage of player not being traced by radar
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
 - SHOWCASE - STEALTH CAR TAKE CONTROL - footage of hacking a car and using it to run over enemies, for it to not instantly alert enemies and instead just make them aware rather than instant combat 
 - footage of the stealthrunner menu and some of the perks, as well as explaining that regular perks are used for it
