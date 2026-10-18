@@ -50,7 +50,7 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 - footage of trying to hack a person and camera and it not working, then going to an access point and doing it, then trying again and showing it unlocked after breaching surveillance and personnel 
 - footage of brute forcing it with overload breach and hacking several people on personnel then being locked out
 - footage of looking at someone locked, throwing an emp, then showing you could hack them and doing so 
-- footage of buttslinger quickmelee with a shotgun then going around someone to grab them and then breach from there to allow hacking personnel
+- SHOWCASE - NETRUNNING BUTTSLINGER QUICKMELEE - footage of buttslinger quickmelee with a shotgun then going around someone to grab them and then breach from there to allow hacking personnel
 - footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
 - footage of failing a breach on an access point and the cold war thing showing up with a bit of a tail for us to explain what the cold war defenses from the netrunner mean
 - SHOWCASE - NETRUNNING ACCESS POINT REWARDS - footage of hacking an access point for 3 rewards then getting the buffs from better access point hacking netrunner rewards, and using the radial menu bringing up so you can see the buffs
