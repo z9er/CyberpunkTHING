@@ -39,7 +39,7 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 - footage of the player trying to cross that guy in the tutorial and getting caught
 - footage of player crossing in front of the tutorial guy but this time he crouch slides across and isn't seen
 - footage of player triggering the radar trace
-- footage of player buying the anti radar cyberware at a vendor
+- SHOWCASE - STEALTH EQUIPPING ECM - footage of player buying the anti radar cyberware at a vendor
 - footage of player not being traced by radar
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
 - footage of hacking a car and using it to run over enemies, for it to not instantly alert enemies and instead just make them aware rather than instant combat 
