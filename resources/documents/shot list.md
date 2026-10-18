@@ -15,7 +15,7 @@ shot list
 **cyberware**
 
 - SHOWCASE - ALTERNATE BERSERK - footage of player using berserk and actually taking damage while we explain how alternate berserk works and that it no longer makes you immortal
-- random combat b roll while we show a picture of a couple of berserks that have ranged bonuses, and explain that berserks can be used with range 
+- SHOWCASE - BERSERK RANDOM COMBAT B ROLL - random combat b roll while we show a picture of a couple of berserks that have ranged bonuses, and explain that berserks can be used with range 
 - footage of player using jarngreipr to float while shooting a projectile launcher?
 - footage of installing cyberware at vik's to show the sponsored covering cyberware if you want to pretend you're in nascar 
 - SHOWCASE - CYBERWARE NEURALWARE STORE - footage of the player browsing the chipware store, buying the hound chipware, and installing chipware in their implant taking the uncracked hound chip and paying for the license
