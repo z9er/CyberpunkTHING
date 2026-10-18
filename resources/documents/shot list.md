@@ -2,7 +2,7 @@ shot list
 
 **combat and enemies**
 
-- example of an actual fight with the actual UI, where you quickly dispatch some enemies then die (under bridge ncpd watson?) 
+- SHOWCASE - COMBAT FIGHT - example of an actual fight with the actual UI, where you quickly dispatch some enemies then die (under bridge ncpd watson?) 
 - SHOWCASE - COMBAT RECOIL RECOVERY - footage of shooting a wall with recoil recovery turned on (vanilla way it is) then footage of the same with recoil recovery off 
 - footage of an enemy calling in reinforcements, then reinforcements arriving and you shooting at them (demonstrates the reinforcements part of the reinforcements mod)
 - footage of an enemy calling in an air strike and you getting hit by it. (demonstrates the fire support part of the reinforcement mod) 
