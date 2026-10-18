@@ -2,7 +2,7 @@ shot list
 
 **combat and enemies**
 
-- example of an actual fight with the actual UI, where you quickly dispatch some enemies then die (under bridge ncpd watson?)
+- example of an actual fight with the actual UI, where you quickly dispatch some enemies then die (under bridge ncpd watson?) 
 - footage of shooting a wall with recoil recovery turned on (vanilla way it is) then footage of the same with recoil recovery off 
 - footage of an enemy calling in reinforcements, then reinforcements arriving and you shooting at them (demonstrates the reinforcements part of the reinforcements mod)
 - footage of an enemy calling in an air strike and you getting hit by it. (demonstrates the fire support part of the reinforcement mod) 
@@ -72,4 +72,4 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 **ending**
 
 - footage of much better contracts on the computer 
-- different scenes of V gambling, doing blackjack and roulette 
+- SHOWCASE - ENDING BLACKJACK - footage of v playing blackjack 
