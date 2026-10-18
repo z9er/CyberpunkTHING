@@ -18,8 +18,8 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 - random combat b roll while we show a picture of a couple of berserks that have ranged bonuses, and explain that berserks can be used with range 
 - footage of player using jarngreipr to float while shooting a projectile launcher?
 - footage of installing cyberware at vik's to show the sponsored covering cyberware if you want to pretend you're in nascar 
-- footage of the player browsing the chipware store in PL, installing chipware in their implant
-- footage of player using flash step in combat 
+- SHOWCASE - CYBERWARE NEURALWARE STORE - footage of the player browsing the chipware store in PL, buying the hound chipware, and installing chipware in their implant
+- footage of player using hound in combat with an ashura with the long lock on for a trickshot 
 - footage of the player using zetatech to snap some people aimbot style
 - footage of the player using raven to fuck someone up with an lmg defender shooting them a billion times 
 - footage of portioned berserk in action
@@ -37,6 +37,9 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 
 - footage of the player trying to cross that guy in the tutorial and getting caught
 - footage of player crossing in front of the tutorial guy but this time he crouch slides across and isn't seen
+- footage of player triggering the radar trace
+- footage of player buying the anti radar cyberware at a vendor
+- footage of player not being traced by radar
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
 - footage of hacking a car and using it to run over enemies, for it to not instantly alert enemies and instead just make them aware rather than instant combat 
 - footage of the stealthrunner menu and some of the perks, as well as explaining that regular perks are used for it
