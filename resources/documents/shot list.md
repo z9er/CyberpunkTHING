@@ -71,6 +71,6 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 
 **ending**
 
-- footage of much better contracts on the computer 
+- SHOWCASE - ENDING MUCH BETTER CONTRACT BROWSE - footage of much better contracts on the computer 
 - SHOWCASE - ENDING BLACKJACK - footage of v playing blackjack
 - SHOWCASE - ENDING Roulette - footage of v playing roulette
