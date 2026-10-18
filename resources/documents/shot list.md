@@ -6,7 +6,7 @@ shot list
 - SHOWCASE - COMBAT RECOIL RECOVERY - footage of shooting a wall with recoil recovery turned on (vanilla way it is) then footage of the same with recoil recovery off 
 - footage of an enemy calling in reinforcements, then reinforcements arriving and you shooting at them (demonstrates the reinforcements part of the reinforcements mod)
 - footage of an enemy calling in an air strike and you getting hit by it. (demonstrates the fire support part of the reinforcement mod) 
-- footage of the player using a smoke for cover to close with melee (immersive shooting ai smoke change)
+- SHOWCASE - COMBAT SMOKE - footage of the player using a smoke for cover to close with melee (immersive shooting ai smoke change)
 - footage of a player throwing a flashbang, enemies not being able to shoot as well, and the player shooting them with something (immersive shooting ai flashbang change)
 - footage of looking at an enemy with new abilities in scanner, showing how to skip through the different descriptions
 - footage of an enemy deploying gas tank in the scav haunt, footage of a bomb drone in scav haunt, and footage of flash step from that place near the kabuki circle specifically calling out the sounds of drones being deployed or flash step as things to watch out for
