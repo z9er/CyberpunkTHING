@@ -24,7 +24,7 @@ shot list
 - footage of the player using raven to fuck someone up with an lmg defender shooting them a billion times 
 - SHOWCASE - CYBERWARE PORTIONED BERSERK - footage of portioned berserk in action
 - SHOWCASE - CYBERWARE PORTIONED OPTICAL CAMO - footage of portioned optical camo in action
-- footage of overclock overheat in action then the burn highly damaging/killing the player
+- SHOWCASE - CYBERWARE PORTIONED OVERCLOCK AND OVERHEAT - footage of overclock overheat in action then the burn highly damaging/killing the player
 
 **hud**
 
