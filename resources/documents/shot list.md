@@ -68,4 +68,5 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 
 **ending**
 
-different scenes of V gambling, doing blackjack and roulette 
+- footage of much better contracts on the computer 
+- different scenes of V gambling, doing blackjack and roulette 
