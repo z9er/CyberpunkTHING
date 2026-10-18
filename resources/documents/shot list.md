@@ -66,7 +66,7 @@ random combat footage for MBAI combat part, mentioning strafing and footwork bei
 **small stuff**
 
 - footage of putting on the spillover perk so people can see the text, then doing a hack from stealth where it doesn't spread
-- footage using overclock on an enemy while scanning 
+- SHOWCASE - SMALL STUFF OVERCLOCK - footage using overclock on an enemy while scanning 
 - SHOWCASE - SMALL STUFF NINJUTSU - footage of getting the ninjutsu perk and upgrading it fully in perks, then doing a slide during a sprint with the mod and without 
 
 **ending**
