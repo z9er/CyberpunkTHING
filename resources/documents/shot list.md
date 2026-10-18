@@ -22,7 +22,7 @@ shot list
 - footage of player using hound in combat with an ashura with the long lock on for a trickshot 
 - footage of the player using zetatech to snap some people aimbot style
 - footage of the player using raven to fuck someone up with an lmg defender shooting them a billion times 
-- footage of portioned berserk in action
+- SHOWCASE - CYBERWARE PORTIONED BERSERK - footage of portioned berserk in action
 - footage of portioned optical camo in action
 - footage of overclock overheat in action then the burn highly damaging/killing the player
 
