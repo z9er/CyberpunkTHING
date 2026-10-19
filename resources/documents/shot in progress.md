@@ -12,7 +12,6 @@ shot list
 
 - SHOWCASE - ALTERNATE BERSERK - footage of player using berserk and actually taking damage while we explain how alternate berserk works and that it no longer makes you immortal
 - SHOWCASE - BERSERK RANDOM COMBAT B ROLL - random combat b roll while we show a picture of a couple of berserks that have ranged bonuses, and explain that berserks can be used with range 
-- SHOWCASE - CYBERWARE SPONSORED COVERING - footage of installing cyberware at vik's to show the sponsored covering cyberware if you want to pretend you're in nascar 
 - SHOWCASE - CYBERWARE NEURALWARE STORE - footage of the player browsing the chipware store, buying the hound chipware, and installing chipware in their implant taking the uncracked hound chip and paying for the license
 - SHOWCASE - CYBERWARE ASHURA - footage of player using hound in combat with an ashura with the long lock on for a trickshot 
 - SHWOCASE - CYBERWARE ZETATECH - footage of the player using zetatech to snap some people aimbot style
