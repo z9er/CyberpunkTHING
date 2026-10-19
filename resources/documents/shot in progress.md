@@ -12,9 +12,6 @@ shot list
 
 - SHOWCASE - ALTERNATE BERSERK - footage of player using berserk and actually taking damage while we explain how alternate berserk works and that it no longer makes you immortal
 - SHOWCASE - BERSERK RANDOM COMBAT B ROLL - random combat b roll while we show a picture of a couple of berserks that have ranged bonuses, and explain that berserks can be used with range 
-- SHWOCASE - CYBERWARE ZETATECH - footage of the player using zetatech to snap some people aimbot style
-- SHOWCASE - CYBERWARE RAVEN - footage of the player using raven to fuck someone up with an lmg defender shooting them a billion times 
-- SHOWCASE - CYBERWARE PORTIONED BERSERK - footage of portioned berserk in action
 - SHOWCASE - CYBERWARE PORTIONED OPTICAL CAMO - footage of portioned optical camo in action
 - SHOWCASE - CYBERWARE PORTIONED OVERCLOCK AND OVERHEAT - footage of overclock overheat in action then the burn highly damaging/killing the player
 
