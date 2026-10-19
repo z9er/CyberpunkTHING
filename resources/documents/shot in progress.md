@@ -20,7 +20,6 @@ shot list
 
 **netrunning**
 
-- SHOWCASE - NETRUNNING BUTTSLINGER QUICKMELEE - footage of buttslinger quickmelee with a shotgun then going around someone to grab them and then breach from there to allow hacking personnel
 - footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
 - SHOWCASE - NETRUNNING COLD WAR - footage of failing a breach on an access point and the cold war thing showing up with a bit of a tail for us to explain what the cold war defenses from the netrunner mean
 - SHOWCASE - NETRUNNING ACCESS POINT REWARDS - footage of hacking an access point for 3 rewards then getting the buffs from better access point hacking netrunner rewards, and using the radial menu bringing up so you can see the buffs
