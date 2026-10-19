@@ -16,7 +16,3 @@ shot list
 **stealth**
 
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
-
-**netrunning**
-
-- footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
