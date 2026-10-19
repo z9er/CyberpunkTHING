@@ -58,6 +58,12 @@ shot list
 - footage of trace position overhaul menu scrolling down slowly 
 - SHOWCASE - NETRUNNING QUICKHACK HOTKEYS - footage of opening the hack menu on an enemy so that people can clearly see the hotkeys shown and quickly queueing stuff with it
 
+**small stuff**
+
+- SHOWCASE - SMALL STUFF SPILLOVER - footage of putting on the spillover perk so people can see the text, then doing a hack from stealth where it doesn't spread
+- SHOWCASE - SMALL STUFF OVERCLOCK - footage using overclock on an enemy while scanning 
+- SHOWCASE - SMALL STUFF NINJUTSU - footage of getting the ninjutsu perk and upgrading it fully in perks, then doing a slide during a sprint with the mod and without 
+
 **weapons**
 
 - SHOWCASE - WEAPONS GHOST BLADE - footage of ghost blade being drawn
@@ -65,12 +71,6 @@ shot list
 - SHOWCASE - WEAPONS KILL CAM - footage of kill-cam being drawn
 - SHOWCASE - WEAPONS FOGOSA - footage of the new quasar being drawn
 - SHOWCASE - WEAPONS SLOPPY SECONDS - footage of sloppy seconds being drawn then adsing
-
-**small stuff**
-
-- SHOWCASE - SMALL STUFF SPILLOVER - footage of putting on the spillover perk so people can see the text, then doing a hack from stealth where it doesn't spread
-- SHOWCASE - SMALL STUFF OVERCLOCK - footage using overclock on an enemy while scanning 
-- SHOWCASE - SMALL STUFF NINJUTSU - footage of getting the ninjutsu perk and upgrading it fully in perks, then doing a slide during a sprint with the mod and without 
 
 **ending**
 
