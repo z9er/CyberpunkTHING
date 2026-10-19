@@ -1,3 +1,5 @@
+showcase video plan
+
 **combat and enemies**
 
 - we show a small fight where a few enemies are killed quickly then die ourselves while we talk about the general low ttkness of the list and how we're trying to be like ghost of tsushima lethal, shadow of war brutal, deus ex realistic
