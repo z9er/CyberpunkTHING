@@ -23,9 +23,3 @@ shot list
 - footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
 - footage of the random netrunners menu scrolling down slowly
 - footage of trace position overhaul menu scrolling down slowly 
-
-**ending**
-
-- SHOWCASE - ENDING MUCH BETTER CONTRACT BROWSE - footage of much better contracts on the computer 
-- SHOWCASE - ENDING BLACKJACK - footage of v playing blackjack
-- SHOWCASE - ENDING Roulette - footage of v playing roulette
