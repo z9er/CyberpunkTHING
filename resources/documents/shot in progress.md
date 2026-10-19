@@ -23,15 +23,6 @@ shot list
 - footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
 - footage of the random netrunners menu scrolling down slowly
 - footage of trace position overhaul menu scrolling down slowly 
-- SHOWCASE - NETRUNNING QUICKHACK HOTKEYS - footage of opening the hack menu on an enemy so that people can clearly see the hotkeys shown and quickly queueing stuff with it
-
-**weapons**
-
-- SHOWCASE - WEAPONS GHOST BLADE - footage of ghost blade being drawn
-- SHOWCASE - WEAPONS RANGER BOOMERANG - footage of ranger boomerang being drawn
-- SHOWCASE - WEAPONS KILL CAM - footage of kill-cam being drawn
-- SHOWCASE - WEAPONS FOGOSA - footage of the new quasar being drawn
-- SHOWCASE - WEAPONS SLOPPY SECONDS - footage of sloppy seconds being drawn then adsing
 
 **small stuff**
 
