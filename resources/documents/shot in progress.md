@@ -16,10 +16,7 @@ shot list
 **stealth**
 
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
-- footage of the stealthrunner menu and some of the perks, as well as explaining that regular perks are used for it
 
 **netrunning**
 
 - footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
-- footage of the random netrunners menu scrolling down slowly
-- footage of trace position overhaul menu scrolling down slowly 
