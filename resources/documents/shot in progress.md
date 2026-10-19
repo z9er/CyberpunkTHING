@@ -17,7 +17,6 @@ shot list
 
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
 - footage of the stealthrunner menu and some of the perks, as well as explaining that regular perks are used for it
-- SHOWCASE - STEALTH KILL - footage of being behind someone and using a stealth finisher with a weapon
 
 **netrunning**
 
