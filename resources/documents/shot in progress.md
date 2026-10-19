@@ -21,7 +21,6 @@ shot list
 **netrunning**
 
 - footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
-- SHOWCASE - NETRUNNING ACCESS POINT REWARDS - footage of hacking an access point for 3 rewards then getting the buffs from better access point hacking netrunner rewards, and using the radial menu bringing up so you can see the buffs
 - footage of the random netrunners menu scrolling down slowly
 - footage of trace position overhaul menu scrolling down slowly 
 - SHOWCASE - NETRUNNING QUICKHACK HOTKEYS - footage of opening the hack menu on an enemy so that people can clearly see the hotkeys shown and quickly queueing stuff with it
