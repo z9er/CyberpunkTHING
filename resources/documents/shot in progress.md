@@ -12,21 +12,9 @@ shot list
 
 - SHOWCASE - ALTERNATE BERSERK - footage of player using berserk and actually taking damage while we explain how alternate berserk works and that it no longer makes you immortal
 - SHOWCASE - BERSERK RANDOM COMBAT B ROLL - random combat b roll while we show a picture of a couple of berserks that have ranged bonuses, and explain that berserks can be used with range 
-- SHOWCASE - CYBERWARE PORTIONED OPTICAL CAMO - footage of portioned optical camo in action
-- SHOWCASE - CYBERWARE PORTIONED OVERCLOCK AND OVERHEAT - footage of overclock overheat in action then the burn highly damaging/killing the player
-
-**hud**
-
-- SHOWCASE - HUD OVERVIEW - footage of the player walking around, using zoom without a weapon out to show map, then pressing f6 to show the map then f6 again to untoggle it, crouching to show the hud, uncrouching, taking a weapon out to show the hud, then putting weapon away
-- SHOWCASE - HUD CAR - footage of player getting into a car in first person showing that the minimap shows up while youre doing so
-- SHOWCASE - HUD ENEMY - footage of player looking at enemies out of combat showing that there's no markers, then marking one of the enemies and moving behind cover to show that they still show up as a red outline behind cover to show marking still works
-- SHOWCASE - HUD WEAPON - footage demonstrating that the crosshair isn't there for power weapons, showing the player adsing with the weapon, then pulling out a smart weapon to put over an enemy to show the crosshair and locking, then taking out a knife showing that there's no crosshair until the player moves to throw it, at which time there is
 
 **stealth**
 
-- SHOWCASE - STEALTH TUTORIAL - footage of the player trying to cross that guy in the tutorial and getting caught
-- SHOWCASE - STEALTH TUTORIAL - footage of player crossing in front of the tutorial guy but this time he crouch slides across and isn't seen
-- SHOWCASE - STEALTH RADAR ON - footage of player triggering the radar trace
 - SHOWCASE - STEALTH EQUIPPING ECM - footage of player buying the anti radar cyberware at a vendor
 - SHOWCASE - STEALTH RADAR OFF footage of player not being traced by radar
 - footage of player doing a mission in stealth sneaking around for a while and shit knocking someone out
