@@ -20,7 +20,6 @@ shot list
 
 **netrunning**
 
-- SHOWCASE - NETRUNNING BREACH OVERLOAD - footage of brute forcing it with overload breach and hacking several people on personnel then being locked out
 - SHOWCASE - NETRUNNING EMP - footage of looking at someone locked, throwing an emp, then showing you could hack them and doing so 
 - SHOWCASE - NETRUNNING BUTTSLINGER QUICKMELEE - footage of buttslinger quickmelee with a shotgun then going around someone to grab them and then breach from there to allow hacking personnel
 - footage of oda in all three phases of boss ice colors, red, yellow, and green looking at him in scanner
