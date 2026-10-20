@@ -26,11 +26,11 @@ showcase video plan
 **stealth**
 
 - you discuss the killer combination of making stealth harder by no longer having stealth indicators above enemies heads and enemies being more perceptive, so things aren't as simple as crossing in front of an enemy while showing the player crossing slowly and getting caught. you say something like you need to be more svelte and creative or something as we show footage of the player crouch sliding across the gap and getting away with it rather than getting caught as he did before
-- you talk generally about some of the much better ai stealth changes while we play random stealthy b roll footage discussing any of: enemies search more and better, silent wounds trigger a search, bodies require line of sight, takedowns can be witnessed or heard
 - you talk about new enemy abilities like radar hamper the player from doing what they want in the shadows, with a demonstration of the player trying then being detected by radar. but new cyberware can help the more clandestine oriented player, showing the player installing radar scrambler cyberware, then doing the same place they got caught by radar but getting through this time
 - you say that instead of instantly starting combat, the stealthy player has more options for evil fun as the player controls a vehicle and uses it to run over some bad guys as they trace but don't know where he is
 - new abilities for stealth are available through stealthrunner, which offers progression by completing missions subtly, with rewards in the way of more perks, new weapons and options as the player shows the stealthrunner menu and abilities on screen
 - and of course just because you're being stealthy doesn't have to mean you're a pacifist as the player on screen stealth kills the enemy with a dagger brutally opening his throat
+- you talk generally about some of the much better ai stealth changes while we play random stealthy b roll footage discussing any of: enemies search more and better, silent wounds trigger a search, bodies require line of sight, takedowns can be witnessed or heard
 
 **netrunning**
 
